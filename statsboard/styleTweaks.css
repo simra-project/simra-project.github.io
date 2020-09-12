@@ -1,0 +1,34 @@
+canvas {
+  background-color: "white"
+    width: 100%;
+  height: auto;
+}
+
+  {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+.header {
+  width: 100%;
+  height: 100px;
+  display: block;
+  background-color: #FFFFFF;
+}
+
+.logo_container {
+  width: 1000px;
+  height: 100%;
+  padding: 5px;
+  display: table;
+  float: left;
+}
+
+.logo_container h1 {
+  height: 100%;
+  font-family: 'Poiret One';
+  display: table-cell;
+  vertical-align: middle;
+}
