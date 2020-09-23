@@ -5,6 +5,7 @@ Im Projekt SimRa sammeln wir mithilfe einer datensparsamen Smartphone-App Daten 
 Mit diesen Daten können wir dann gezielte Handlungsempfehlungen geben, um Städte fahrradfreundlicher und sicherer zu gestalten.
 Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Augsburg
+- Berlin
 - Bern
 - Bielefeld
 - Düsseldorf
