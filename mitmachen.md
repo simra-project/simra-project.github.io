@@ -1,9 +1,23 @@
 # Mitmachen
 
 Aufgrund eines (berechtigten) Gefühls mangelnder Sicherheit, scheuen es viele Menschen vom Auto auf das Fahrrad umzusteigen.
-Im Projekt SimRa sammeln wir mithilfe einer datenschutzkompatiblen Smartphone-App Daten darüber, wo es in der Stadt für Radfahrende besonders gefährlich ist.
+Im Projekt SimRa sammeln wir mithilfe einer datensparsamen Smartphone-App Daten darüber, wo es in der Stadt für Radfahrende besonders gefährlich ist.
 Mit diesen Daten können wir dann gezielte Handlungsempfehlungen geben, um Städte fahrradfreundlicher und sicherer zu gestalten.
-Erste Ergebnisse sind bereits [einsehbar](./index.md)!
+Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
+- Augsburg
+- Bern
+- Bielefeld
+- Düsseldorf
+- Eichwalde/Zeuthen/Schulzendorf
+- Hannover
+- Leipzig
+- München
+- Pforzheim/Enzkreis
+- Ruhrgebiet
+- Stuttgart
+- Wuppertal/Remscheid/Solingen
+
+Weitere Informationen und Kontaktdaten sind auf der [Projektseite](https://www.digital-future.berlin/forschung/projekte/simra/) abrufbar, erste [Ergebnisse](./index.md) sind bereits verfügbar!!
 
 Der Beitrag jedes Einzelnen zählt! Um mit zu machen, muss nur unsere Smartphone-App installiert werden:
 - Für Android (6+) und LineageOS im [Google PlayStore](https://play.google.com/store/apps/details?id=de.tuberlin.mcc.simra.app) und direkt als [APK-Datei](http://www.redaktion.tu-berlin.de/fileadmin/fg344/simra/SimRa.apk)
