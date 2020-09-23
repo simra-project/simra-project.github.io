@@ -9,4 +9,4 @@ Detaillierte Informationen zum SimRa-Projekt können auf der Projektseite des [E
 - [Gefahrenstellenreport (besonders gefährliche Abschnitte)](./2020-08_most_dangerous.pdf)
 
 
-## [Mitmachen](./mitmachen.html)
+## [=> Jetzt hier mitmachen!](./mitmachen.html)
