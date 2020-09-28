@@ -1,0 +1,30 @@
+
+# DRAFT
+
+- create new array
+- loop over the json arrays contained in the rideData file
+- add each entry in each json array to the new array => we get an array of json objects
+- then use groupby/reduce to aggregate
+
+
+// iterate over the rideData file and unpack the individual objects 
+// (i.e. data of the form {"Date": "27-03-2020", "Files": 37})
+
+let newArr = []
+
+Object.values(rideData).forEach((val) => { newArr = newArr.concat(val) })
+
+
+// Below some code i have stolen from the internet for aggregating the uploads per 
+// day for all regions
+// https://stackoverflow.com/questions/11199653/javascript-sum-and-group-by-of-json-data
+
+let result = newArr.reduce(function(res, obj) {
+    if (!(obj.Date in res))
+        res.__array.push(res[obj.Date] = obj);
+    else {
+        res[obj.Date].Files += obj.Files;
+    }
+    return res;
+}, {__array:[]}).__array
+                .sort(function(a,b) { return b.Date - a.Date; });

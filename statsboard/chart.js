@@ -1,7 +1,7 @@
 window.addEventListener("DOMContentLoaded", draw);
 
 function draw() {
-  fetch('./data.json')
+  fetch('./rideData.json')
     .then(function(response) {
       return response.json();
     }).then(function(json) {
@@ -24,11 +24,27 @@ function drawChart(jsonData) {
     }
   });
 
-  jsonData.jsonarray.shift();
+  // jsonData.Bern.shift();
+
+  let newArr = []
+
+  Object.values(jsonData).forEach((val) => { newArr = newArr.concat(val) })
+
+  let result = newArr.reduce(function(res, obj) {
+    if (!(obj.Date in res))
+        res.__array.push(res[obj.Date] = obj);
+    else {
+        res[obj.Date].Files += obj.Files;
+    }
+    return res;
+  }, {__array:[]}).__array
+                .sort(function(a,b) { return b.Date - a.Date; });
 
   //get graphData and graphLabels
-  var graphData = jsonData.jsonarray.map(e => e.Files);
-  var graphLabelsRaw = jsonData.jsonarray.map(e => e.Date);
+  // var graphData = jsonData.Bern.map(e => e.Files);
+  var graphData = newArr.map(e => e.Files);
+  // var graphLabelsRaw = jsonData.Bern.map(e => e.Date);
+  var graphLabelsRaw = newArr.map(e => e.Date);
 
   let graphLabelsDate = graphLabelsRaw.map(e => moment(e, 'YYYY-MM-DD'))
 
