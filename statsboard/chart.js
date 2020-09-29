@@ -1,34 +1,57 @@
 window.addEventListener("DOMContentLoaded", draw);
 
+// Define data file as  a global variable
+
+let dataFile;
+
+// Define array which will contain data aggregated over all regions as  a global variable
+
+let aggregatedData;
+
+let selectMenu = document.getElementById("select-region");
+
 function draw() {
-  fetch('./rideData.json')
+
+  // Load the data file, compute the aggregation over all regions
+  // and draw charts using the aggregated data
+
+  let myPromise = fetch('./rideData.json')
     .then(function(response) {
       return response.json();
     }).then(function(json) {
-      // drawChart fn to be created...see below
-      drawChart(json);
+        return json;
     }).catch(function(error) {
-      console.error(error);
+        console.error(error);
     });
+
+  myPromise.then((json) => {
+    dataFile = json;
+    aggregatedData = computeAggregation(json);
+
+    // Populate the options menu with available regions
+    Object.keys(dataFile).forEach((key) => {
+    var opt = document.createElement("option");
+    opt.value = key;
+    opt.innerHTML = key;
+    selectMenu.appendChild(opt);
+    })
+
+    // Add an event listener to enable redrawing the charts
+    // with data for a specific region upon selection
+
+    selectMenu.addEventListener("change", selectOpt);
+
+    drawChart(aggregatedData.map(e => e.Files), aggregatedData.map(e => e.Date));
+
+  })
+
 }
 
-function drawChart(jsonData) {
-
-  // Some global options
-  Chart.defaults.global.defaultFontFamily = 'Raleway';
-  Chart.defaults.global.defaultFontSize = 16;
-  Chart.defaults.global.defaultFontColor = '#777';
-  Chart.scaleService.updateScaleDefaults('linear', {
-    ticks: {
-      min: 0
-    }
-  });
-
-  // jsonData.Bern.shift();
+function computeAggregation(json) {
 
   let newArr = []
 
-  Object.values(jsonData).forEach((val) => { newArr = newArr.concat(val) })
+  Object.values(json).forEach((val) => { newArr = newArr.concat(val) })
 
   let result = newArr.reduce(function(res, obj) {
     if (!(obj.Date in res))
@@ -40,11 +63,43 @@ function drawChart(jsonData) {
   }, {__array:[]}).__array
                 .sort(function(a,b) { return b.Date - a.Date; });
 
-  //get graphData and graphLabels
-  // var graphData = jsonData.Bern.map(e => e.Files);
-  var graphData = newArr.map(e => e.Files);
-  // var graphLabelsRaw = jsonData.Bern.map(e => e.Date);
-  var graphLabelsRaw = newArr.map(e => e.Date);
+  return result;
+
+}
+
+function selectOpt() {
+
+  let selection = selectMenu.value;
+
+  if (selection == "Region auswählen") {
+
+    drawChart(aggregatedData.map(e => e.Files), aggregatedData.map(e => e.Date));
+
+  }
+
+  else {
+
+    let regionData = dataFile[selection];
+
+    regionData.shift();
+
+    drawChart(regionData.map(e => e.Files), regionData.map(e => e.Date));
+
+  }
+
+}
+
+function drawChart(graphData, graphLabelsRaw) {
+
+  // Some global options
+  Chart.defaults.global.defaultFontFamily = 'Raleway';
+  Chart.defaults.global.defaultFontSize = 16;
+  Chart.defaults.global.defaultFontColor = '#777';
+  Chart.scaleService.updateScaleDefaults('linear', {
+    ticks: {
+      min: 0
+    }
+  });
 
   let graphLabelsDate = graphLabelsRaw.map(e => moment(e, 'YYYY-MM-DD'))
 
@@ -611,6 +666,7 @@ function drawChart(jsonData) {
 
   /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
+  /**
   function updateData(chart, labels, mydata) {
     //if(labels) chart.data.labels = labels;
     //chart.data.datasets.forEach((dataset) => {
@@ -622,5 +678,5 @@ function drawChart(jsonData) {
   setInterval(function() {
     myData[0]++;
     updateData(myChart, null, myData);
-  }, 1000);
+  }, 1000);*/
 }
