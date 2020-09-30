@@ -90,6 +90,15 @@ function selectOpt() {
 
   let selection = selectMenu.value;
 
+  let cols = document.getElementsByClassName('col-md');
+  
+  for (let col of cols) {
+    let oldCanv = col.removeChild(col.getElementsByTagName("canvas")[0]);
+    let newCanv = document.createElement('canvas');
+    newCanv.id = oldCanv.id;
+    col.appendChild(newCanv);
+  }
+  
   if (selection == "Region auswählen") {
 
     drawChart(aggregatedRides.map(e => e.Files), aggregatedRides.map(e => e.Date), 'Rides');
@@ -192,7 +201,8 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
       },
       tooltips: {
         enabled: true
-      }
+      },
+      maintainAspectRatio: false,
     }
   });
 
@@ -334,7 +344,8 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
       },
       tooltips: {
         enabled: true
-      }
+      },
+      maintainAspectRatio: false,
       /**,
       scales: {
         xAxes: [{

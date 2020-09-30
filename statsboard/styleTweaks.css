@@ -1,7 +1,12 @@
 canvas {
   background-color: "white";
   width: 100%;
-  height: auto;
+  height: 100%;
+}
+
+.col-md {
+  width: 400px;
+  height: 500px;
 }
 
 .header {
