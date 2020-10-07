@@ -1,7 +1,9 @@
+
 canvas {
   background-color: "white";
   width: 100%;
   height: 100%;
+  /* font-family: Georgia,Times,Times New Roman,serif; */
 }
 
 .col-md {
@@ -10,6 +12,7 @@ canvas {
 }
 
 .header {
+  font-family: Georgia,Times,Times New Roman,serif;
   width: 100%;
   height: 100px;
   display: flex;
@@ -27,7 +30,8 @@ canvas {
 
 .logo_container h1 {
   height: 100%;
-  font-family: 'Poiret One';
+  /**font-family: 'Poiret One';*/
+  font-family: Georgia, 'Times New Roman', Times, serif;
   display: table-cell;
   vertical-align: middle;
 }
@@ -35,8 +39,9 @@ canvas {
 #select-region {
   display: block;
   font-size: 16px;
-  font-family: 'Poiret One';
-  font-weight: 700;
+  /**font-family: 'Poiret One';*/
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 500;
   color: #444;
   line-height: 1.3;
   padding: .6em 1.4em .5em .8em;

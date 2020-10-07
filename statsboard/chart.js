@@ -41,8 +41,6 @@ function draw() {
     aggregatedRides= computeAggregation(rideData);
     aggregatedProfiles= computeAggregation(profileData);
 
-  // (b) PROFILES
-
     // Populate the options menu with available regions
     Object.keys(rideData).forEach((key) => {
     var opt = document.createElement("option");
@@ -65,6 +63,8 @@ function draw() {
 
 
 }
+
+// Aggregate data for all regions
 
 function computeAggregation(json) {
 
@@ -179,16 +179,17 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
     options: {
       title: {
         display: true,
-        fontFamily: 'Poiret One',
+        fontFamily: 'Palatino',
         text: `${dataCat}/Tag der letzten sieben Tage`,
-        fontSize: 25,
-        fontColor: 'grey'
+        fontSize: 18,
+        fontColor: 'dimgray'
       },
       legend: {
         display: false,
         position: 'right',
         labels: {
-          fontColor: 'black'
+          fontColor: 'dimgray',
+          fontFamily: 'Palatino'
         }
       },
       layout: {
@@ -204,6 +205,16 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
       },
       maintainAspectRatio: false,
     }
+    /**,
+    scales: {
+      xAxes: [{
+          ticks: {
+              autoSkip: false,
+              maxRotation: 30,
+              minRotation: 30
+          }
+      }]
+    }*/
   });
 
   /* 2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
@@ -241,7 +252,7 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
   
         case (graphData.length - 1):
   
-          monthlyLabels.push(graphLabels[i].format('MMMM').concat(' ',
+          monthlyLabels.push(graphLabels[i].format('MM').concat(' ',
             graphLabels[i].format('YYYY')));
   
           monthlyData.push(accumulator);
@@ -258,7 +269,7 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
   
           } else {
   
-            monthlyLabels.push(graphLabels[i - 1].format('MMMM').concat(' ',
+            monthlyLabels.push(graphLabels[i - 1].format('MM').concat(' ',
               graphLabels[i - 1].format('YYYY')));
   
             monthlyData.push(accumulator);
@@ -323,15 +334,16 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
       title: {
         display: true,
         text: `${dataCat}/Monat seit Projektbeginn, kumuliert`,
-        fontSize: 25,
-        fontFamily: 'Poiret One',
-        fontColor: 'grey'
+        fontSize: 18,
+        fontFamily: 'Palatino',
+        fontColor: 'dimgrey'
       },
       legend: {
         display: false,
         position: 'right',
         labels: {
-          fontColor: 'black'
+          fontFamily: 'Palatino',
+        fontColor: 'dimgrey'
         }
       },
       layout: {
@@ -346,20 +358,22 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
         enabled: true
       },
       maintainAspectRatio: false,
-      /**,
       scales: {
         xAxes: [{
+          display: true,
           ticks: {
-            fontSize: 14,
+            //fontSize: 14,
             userCallback: function(item, index) {
-              if (index % 2) return "";
+              if (index % 3) return "";
               return item;
             },
+            maxRotation: 0,
+            minRotation: 0,
             autoSkip: false
-          },
-          display: true
+            // stepSize: 6
+          }
         }]
-      }*/
+      }
     }
   });
 
