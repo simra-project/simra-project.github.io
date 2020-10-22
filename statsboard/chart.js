@@ -38,8 +38,8 @@ function draw() {
 
     rideData = dataArr[0];
     profileData = dataArr[1];
-    aggregatedRides= computeAggregation(rideData);
-    aggregatedProfiles= computeAggregation(profileData);
+    aggregatedRides = computeAggregation(rideData);
+    aggregatedProfiles = computeAggregation(profileData);
 
     // Populate the options menu with available regions
     Object.keys(rideData).forEach((key) => {
@@ -70,7 +70,7 @@ function computeAggregation(json) {
 
   let newArr = []
 
-  Object.values(json).forEach((val) => { newArr = newArr.concat(val) })
+  Object.values(json).forEach((val) => { newArr = newArr.concat(JSON.parse(JSON.stringify(val))) })
 
   let result = newArr.reduce(function(res, obj) {
     if (!(obj.Date in res))
@@ -102,7 +102,7 @@ function selectOpt() {
   if (selection == "Region auswählen") {
 
     drawChart(aggregatedRides.map(e => e.Files), aggregatedRides.map(e => e.Date), 'Rides');
-    drawChart(aggregatedRides.map(e => e.Files), aggregatedRides.map(e => e.Date), 'Profiles');
+    drawChart(aggregatedProfiles.map(e => e.Files), aggregatedProfiles.map(e => e.Date), 'Profiles');
 
   }
 
@@ -111,11 +111,11 @@ function selectOpt() {
     let regionRides = rideData[selection];
     let regionProfiles = profileData[selection];
 
-    regionRides.shift();
-    regionProfiles.shift();
+    // regionRides.shift();
+    // regionProfiles.shift();
 
     drawChart(regionRides.map(e => e.Files), regionRides.map(e => e.Date), 'Rides');
-    drawChart(regionRides.map(e => e.Files), regionRides.map(e => e.Date), 'Profiles');
+    drawChart(regionProfiles.map(e => e.Files), regionProfiles.map(e => e.Date), 'Profiles');
 
   }
 
