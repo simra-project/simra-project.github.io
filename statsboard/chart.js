@@ -38,8 +38,8 @@ function draw() {
 
     rideData = dataArr[0];
     profileData = dataArr[1];
-    aggregatedRides= computeAggregation(Array.from(rideData));
-    aggregatedProfiles= computeAggregation(Array.from(profileData));
+    aggregatedRides = computeAggregation(rideData);
+    aggregatedProfiles = computeAggregation(profileData);
 
     // Populate the options menu with available regions
     Object.keys(rideData).forEach((key) => {
