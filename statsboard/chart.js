@@ -123,6 +123,9 @@ function selectOpt() {
 
 function drawChart(graphData, graphLabelsRaw, dataCat) {
 
+  let labels = (dataCat == 'Rides') ? ["Fahrten/Tag der letzten 7 Tage", "Fahrten/Monat seit Projektbeginn, kumuliert"] 
+                                    : ["Profilaktivität/Tag der letzten 7 Tage", "Profilaktivität/Monat seit Projektbeginn"] 
+
   // Some global options
   Chart.defaults.global.defaultFontFamily = 'Raleway';
   Chart.defaults.global.defaultFontSize = 16;
@@ -161,14 +164,11 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
   var dailyUploadsChart = new Chart(dailyHist, {
     type: 'bar', // bar, horizontal, pie, line, doughnut, radar, polarArea
     data: {
-      //labels:graphLabels.slice(-7),
       labels: dailyLabels,
       datasets: [{
         label: 'Uploads',
         data: dailyData,
-        //data:graphData.slice(-7),
         backgroundColor: 'lightsalmon',
-        //backgroundColor: []
         borderWidth: 1,
         borderColor: 'salmon',
         hoverBorderWidth: 2,
@@ -180,7 +180,8 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
       title: {
         display: true,
         fontFamily: 'Palatino',
-        text: `${dataCat}/Tag der letzten sieben Tage`,
+        //text: `${dataCat}/Tag der letzten sieben Tage`,
+        text: labels[0],
         fontSize: 18,
         fontColor: 'dimgray'
       },
@@ -204,17 +205,15 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
         enabled: true
       },
       maintainAspectRatio: false,
-    }
-    /**,
-    scales: {
-      xAxes: [{
+      scales: {
+        yAxes: [{
           ticks: {
-              autoSkip: false,
-              maxRotation: 30,
-              minRotation: 30
+            beginAtZero: true,
+            callback: function(value) {if (value % 1 === 0) {return value;}}
           }
-      }]
-    }*/
+        }]
+      }
+    }
   });
 
   /* 2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
@@ -304,13 +303,16 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
   
     }
   
+  if (dataCat == 'Rides') {
 
-  var cumulativeMonthlyData = monthlyData.reduce(function(r, a) {
-    if (r.length > 0)
-      a += r[r.length - 1];
-    r.push(a);
-    return r;
-  }, []);
+    monthlyData = monthlyData.reduce(function(r, a) {
+      if (r.length > 0)
+        a += r[r.length - 1];
+      r.push(a);
+      return r;
+    }, []);
+
+  }
 
   var monthlyCumulativeChart = document.getElementById(`monthlyCumulative_${dataCat}`).getContext('2d');
 
@@ -320,9 +322,8 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
       labels: monthlyLabels,
       datasets: [{
         label: 'Uploads',
-        data: cumulativeMonthlyData,
+        data: monthlyData,
         backgroundColor: 'lightsalmon',
-        //backgroundColor: []
         borderWidth: 1,
         borderColor: 'salmon',
         hoverBorderWidth: 2,
@@ -333,7 +334,8 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
     options: {
       title: {
         display: true,
-        text: `${dataCat}/Monat seit Projektbeginn, kumuliert`,
+        //text: `${dataCat}/Monat seit Projektbeginn, kumuliert`,
+        text: labels[1],
         fontSize: 18,
         fontFamily: 'Palatino',
         fontColor: 'dimgrey'
@@ -372,24 +374,14 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
             autoSkip: false
             // stepSize: 6
           }
+        }],
+        yAxes: [{
+          ticks: {
+            beginAtZero: true,
+            callback: function(value) {if (value % 1 === 0) {return value;}}
+          }
         }]
       }
     }
   });
-
-  /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-
-  /**
-  function updateData(chart, labels, mydata) {
-    //if(labels) chart.data.labels = labels;
-    //chart.data.datasets.forEach((dataset) => {
-    //    dataset.data[0]++; // Or you can cheng data like this
-    //});
-    chart.update();
-  }
-
-  setInterval(function() {
-    myData[0]++;
-    updateData(myChart, null, myData);
-  }, 1000);*/
 }
