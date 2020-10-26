@@ -39,7 +39,12 @@ function draw() {
     rideData = dataArr[0];
     profileData = dataArr[1];
     aggregatedRides = computeAggregation(rideData);
+
+    console.log(aggregatedRides);
+
     aggregatedProfiles = computeAggregation(profileData);
+
+    console.log(aggregatedProfiles);
 
     // Populate the options menu with available regions
     Object.keys(rideData).forEach((key) => {
@@ -72,6 +77,8 @@ function computeAggregation(json) {
 
   Object.values(json).forEach((val) => { newArr = newArr.concat(JSON.parse(JSON.stringify(val))) })
 
+  console.log(newArr);
+
   let result = newArr.reduce(function(res, obj) {
     if (!(obj.Date in res))
         res.__array.push(res[obj.Date] = obj);
@@ -80,7 +87,9 @@ function computeAggregation(json) {
     }
     return res;
   }, {__array:[]}).__array
-                .sort(function(a,b) { return b.Date - a.Date; });
+                .sort(function(a,b) { return (new Date(a.Date) - new Date(b.Date)); });
+
+  console.log(result);
 
   return result;
 
@@ -123,7 +132,7 @@ function selectOpt() {
 
 function drawChart(graphData, graphLabelsRaw, dataCat) {
 
-  let labels = (dataCat == 'Rides') ? ["Fahrten/Tag der letzten 7 Tage", "Fahrten/Monat seit Projektbeginn, kumuliert"] 
+  let labels = (dataCat == 'Rides') ? ["Fahrten/Tag der letzten 7 Tage", "Fahrten/Monat seit Projektbeginn"] 
                                     : ["Profilaktivität/Tag der letzten 7 Tage", "Profilaktivität/Monat seit Projektbeginn"] 
 
   // Some global options
@@ -302,6 +311,8 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
       });
   
     }
+
+  /**
   
   if (dataCat == 'Rides') {
 
@@ -313,6 +324,7 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
     }, []);
 
   }
+   */
 
   var monthlyCumulativeChart = document.getElementById(`monthlyCumulative_${dataCat}`).getContext('2d');
 
