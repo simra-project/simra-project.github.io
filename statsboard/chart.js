@@ -231,14 +231,14 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
   /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
     // Array in which # of uploads per month will be stored
-    var monthlyData = [];
+    let monthlyData = [];
 
     // Array in which labels for months will be stored, e.g.
     // 'April 2019'
-    var monthlyLabels = [];
+    let monthlyLabels = [];
   
     // Helper variable for accumulating monthly upload data
-    var accumulator = 0;
+    let accumulator = 0;
   
     // Here comes the loop, looping over our daily data and condensing it into
     // monthly data
@@ -262,9 +262,10 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
   
           monthlyLabels.push(graphLabels[i].format('MM').concat(' ',
             graphLabels[i].format('YYYY')));
+
+          accumulator += graphData[i];
   
           monthlyData.push(accumulator);
-          accumulator = 0;
   
           break;
   
@@ -279,9 +280,9 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
   
             monthlyLabels.push(graphLabels[i - 1].format('MM').concat(' ',
               graphLabels[i - 1].format('YYYY')));
-  
+
             monthlyData.push(accumulator);
-            accumulator = 0;
+            accumulator = graphData[i];
   
           }
   
@@ -297,7 +298,7 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
       jsonarray: []
     };
   
-    // Combine the data and label arrays into on JSON file
+    // Combine the data and label arrays into one JSON file
   
     for (i = 0; i < monthlyData.length; i++) {
   
