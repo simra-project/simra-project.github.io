@@ -81,14 +81,6 @@ function computeAggregation(json) {
 
 }
 
-// Get uploaded rides over the last thirty days over all regions as well as for each individual region
-
-function getLastMonth() {
-
-
-
-}
-
 function transparentize(color, opacity) {
   var alpha = opacity === undefined ? 0.5 : 1 - opacity;
   return Color(color).alpha(alpha).rgbString();
@@ -111,29 +103,20 @@ function selectOpt() {
   if (selection == "Region auswählen") {
 
     drawChart(aggregatedRides.map(e => e.Files), aggregatedRides.map(e => e.Date));
-    drawChart(aggregatedProfiles.map(e => e.Files), aggregatedProfiles.map(e => e.Date));
 
   }
 
   else {
 
     let regionRides = rideData[selection];
-    let regionProfiles = profileData[selection];
-
-    // regionRides.shift();
-    // regionProfiles.shift();
 
     drawChart(regionRides.map(e => e.Files), regionRides.map(e => e.Date));
-    drawChart(regionProfiles.map(e => e.Files), regionProfiles.map(e => e.Date));
 
   }
 
 }
 
 function drawChart(graphData, graphLabelsRaw) {
-
-  /**let labels = (dataCat == 'Rides') ? ["Fahrten/Tag der letzten 7 Tage", "Fahrten/Monat seit Projektbeginn"] 
-                                    : ["Profilaktivität/Tag der letzten 7 Tage", "Profilaktivität/Monat seit Projektbeginn"] */
 
   // Some global options
   Chart.defaults.global.defaultFontFamily = 'Raleway';
@@ -169,8 +152,6 @@ function drawChart(graphData, graphLabelsRaw) {
   }
 
   let dailyHist = document.getElementById(`dailyHist_Rides`).getContext('2d');
-
-  let dailyUploadsChart =
 
   new Chart(dailyHist, {
     type: 'bar', // bar, horizontal, pie, line, doughnut, radar, polarArea
@@ -232,107 +213,105 @@ function drawChart(graphData, graphLabelsRaw) {
   /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
   let lastMonth_allRegions = document.getElementById(`lastMonth_Rides_AllRegions`).getContext('2d');
-
-  //let lastMonthUploadsRegionsChart
   
   new Chart(lastMonth_allRegions, {
     type: 'line', // bar, horizontal, pie, line, doughnut, radar, polarArea
     data: {
-      labels: dailyLabels.slice(-30),
+      labels: dailyLabels,
       datasets: [{
         label: 'Gesamt',
-        data: aggregatedRides.map(e => e.Files).slice(-30),
+        data: aggregatedRides.map(e => e.Files).slice(-7),
         backgroundColor: transparentize('red'),
         borderColor: 'red',
         hidden: false,
         fill: 0,
       }, {
         label: 'Augsburg',
-        data: rideData['Augsburg'].map(e => e.Files).slice(-30),
+        data: rideData['Augsburg'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('gold'),
         borderColor: 'gold',
         hidden: false,
         fill: 1,
       }, {
         label: 'Berlin',
-        data: rideData['Berlin'].map(e => e.Files).slice(-30),
+        data: rideData['Berlin'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('green'),
         borderColor: 'green',
         hidden: false,
         fill: 2,
       }, {
         label: 'Bern',
-        data: rideData['Bern'].map(e => e.Files).slice(-30),
+        data: rideData['Bern'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('blue'),
         borderColor: 'blue',
         hidden: false,
         fill: 3,
       }, {
         label: 'Bielefeld',
-        data: rideData['Bielefeld'].map(e => e.Files).slice(-30),
+        data: rideData['Bielefeld'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('darkviolet'),
         borderColor: 'darkviolet',
         hidden: false,
         fill: 4,
       }, {
         label: 'Düsseldorf',
-        data: rideData['Düsseldorf'].map(e => e.Files).slice(-30),
+        data: rideData['Düsseldorf'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('deeppink'),
         borderColor: 'deeppink',
         hidden: false,
         fill: 5,
       }, {
         label: 'Eichwalde',
-        data: rideData['Eichwalde'].map(e => e.Files).slice(-30),
+        data: rideData['Eichwalde'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('lightskyblue'),
         borderColor: 'lightskyblue',
         hidden: false,
         fill: 6,
       }, {
         label: 'Hannover',
-        data: rideData['Hannover'].map(e => e.Files).slice(-30),
+        data: rideData['Hannover'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('darkcyan'),
         borderColor: 'darkcyan',
         hidden: false,
         fill: 7,
       }, {
         label: 'Leipzig',
-        data: rideData['Leipzig'].map(e => e.Files).slice(-30),
+        data: rideData['Leipzig'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('darkgreen'),
         borderColor: 'darkgreen',
         hidden: false,
         fill: 8,
       }, {
         label: 'München',
-        data: rideData['München'].map(e => e.Files).slice(-30),
+        data: rideData['München'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('orange'),
         borderColor: 'orange',
         hidden: false,
         fill: 9,
       }, {
         label: 'Pforzheim',
-        data: rideData['Pforzheim'].map(e => e.Files).slice(-30),
+        data: rideData['Pforzheim'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('dodgerblue'),
         borderColor: 'dodgerblue',
         hidden: false,
         fill: 10,
       }, {
         label: 'Ruhrgebiet',
-        data: rideData['Ruhrgebiet'].map(e => e.Files).slice(-30),
+        data: rideData['Ruhrgebiet'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('mediumvioletred'),
         borderColor: 'mediumvioletred',
         hidden: false,
         fill: 11,
       }, {
         label: 'Stuttgart',
-        data: rideData['Stuttgart'].map(e => e.Files).slice(-30),
+        data: rideData['Stuttgart'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('mediumseagreen'),
         borderColor: 'mediumseagreen',
         hidden: false,
         fill: 12,
       }, {
         label: 'Wuppertal',
-        data: rideData['Wuppertal'].map(e => e.Files).slice(-30),
+        data: rideData['Wuppertal'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('midnightblue'),
         borderColor: 'midnightblue',
         hidden: false,
@@ -343,7 +322,7 @@ function drawChart(graphData, graphLabelsRaw) {
       title: {
         display: true,
         fontFamily: 'Palatino',
-        text: "Fahrten/Tag der letzten 30 Tage",
+        text: "Fahrten/Tag der letzten 7 Tage",
         fontSize: 18,
         fontColor: 'dimgray'
       },
@@ -377,7 +356,6 @@ function drawChart(graphData, graphLabelsRaw) {
       }
     }
   });
-
 
   /* 3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
   /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -487,7 +465,7 @@ function drawChart(graphData, graphLabelsRaw) {
     options: {
       title: {
         display: true,
-        text: `Rides/Monat seit Projektbeginn, kumuliert`,
+        text: `Rides/Monat seit Projektbeginn`,
         fontSize: 18,
         fontFamily: 'Palatino',
         fontColor: 'dimgrey'
