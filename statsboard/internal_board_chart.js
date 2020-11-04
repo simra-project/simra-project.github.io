@@ -37,6 +37,7 @@ function draw() {
   loadData().then((dataArr) => {
 
     rideData = dataArr[0];
+
     profileData = dataArr[1];
     aggregatedRides = computeAggregation(rideData);
 
@@ -48,7 +49,7 @@ function draw() {
 
     // Populate the options menu with available regions
     Object.keys(rideData).forEach((key) => {
-    var opt = document.createElement("option");
+    let opt = document.createElement("option");
     opt.value = key;
     opt.innerHTML = key;
     selectMenu.appendChild(opt);
@@ -170,7 +171,7 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
 
   var dailyHist = document.getElementById(`dailyHist_${dataCat}`).getContext('2d');
 
-  var dailyUploadsChart = new Chart(dailyHist, {
+  new Chart(dailyHist, {
     type: 'bar', // bar, horizontal, pie, line, doughnut, radar, polarArea
     data: {
       labels: dailyLabels,
@@ -312,8 +313,6 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
       });
   
     }
-
-  /**
   
   if (dataCat == 'Rides') {
 
@@ -325,11 +324,10 @@ function drawChart(graphData, graphLabelsRaw, dataCat) {
     }, []);
 
   }
-   */
 
   var monthlyCumulativeChart = document.getElementById(`monthlyCumulative_${dataCat}`).getContext('2d');
 
-  var monthlyCumulativeUploadsChart = new Chart(monthlyCumulativeChart, {
+  new Chart(monthlyCumulativeChart, {
     type: 'line', // bar, horizontal, pie, line, doughnut, radar, polarArea
     data: {
       labels: monthlyLabels,
