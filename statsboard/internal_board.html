@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"> </script>
+  <script src="moment.js"></script>
+  <script>
+    moment().format();
+  </script>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="styleTweaks.css" />
+  <!-- <link href="https://fonts.googleapis.com/css?family=Montserrat|Quicksand|Poiret+One|Mandali|Raleway|Open+Sans&display=swap" rel="stylesheet"> -->
+  <title>SimRa Statsboard</title>
+</head>
+
+<body>
+  <div class="header">
+    <div class="logo_container">
+      <img src="Logo_MCC.png" alt="MCC Logo should appear here." style="float:left;width:180px;height:80px;">
+      <h1> SimRa: Uploads pro Tag, Woche, Monat </h1>
+    </div>
+  </div>
+  <select id="select-region">
+    <option selected="selected"> Region auswählen</option>
+</select>
+  <div class="chart_container">
+    <div class="row">
+      <div class="col-md">
+        <canvas id="dailyHist_Rides">
+        </canvas>
+      </div>
+      <div class="col-md">
+        <canvas id="monthlyCumulative_Rides">
+        </canvas>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md">
+        <canvas id="dailyHist_Profiles">
+        </canvas>
+      </div>
+      <div class="col-md">
+        <canvas id="monthlyCumulative_Profiles">
+        </canvas>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="chart.js"></script>
+</body>
+
+</html>
