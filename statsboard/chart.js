@@ -4,9 +4,13 @@ window.addEventListener("DOMContentLoaded", draw);
 
 let rideData;
 
-// Define arrays which will contain data aggregated over all regions as  global variables
+// Define array which will contain data aggregated over all regions as  global variable
 
 let aggregatedRides;
+
+// Define names of the three regions with the most uploads on the past day as global variable
+
+let topThree;
 
 // Grab the select-region menu from the DOM
 
@@ -31,13 +35,21 @@ function draw() {
 
     rideData = data;
 
+    // Uploads over all regions
+
     aggregatedRides = computeAggregation(data);
 
     console.log(aggregatedRides);
 
+    // Find top three regions in terms of uploads yesterday
+
+    topThree = getTopThree(rideData);
+    
+    console.log(topThree);
+
     // Populate the options menu with available regions
     Object.keys(rideData).forEach((key) => {
-    var opt = document.createElement("option");
+    let opt = document.createElement("option");
     opt.value = key;
     opt.innerHTML = key;
     selectMenu.appendChild(opt);
@@ -48,10 +60,9 @@ function draw() {
 
     selectMenu.addEventListener("change", selectOpt);
 
-    drawChart(aggregatedRides.map(e => e.Files), aggregatedRides.map(e => e.Date));
+    drawChart(aggregatedRides.map(e => e.Files), aggregatedRides.map(e => e.Date), topThree);
 
   })
-
 
 }
 
@@ -81,11 +92,31 @@ function computeAggregation(json) {
 
 }
 
+// Determine the three regions with the most uploads yesterday
+
+function getTopThree(rideData) {
+
+  let prevDayUploads = [];
+
+  for (let key in rideData) {
+    let elem  =  {"Region": key, "Uploads": rideData[key].map(e => e.Files)[rideData[key].length -1]};
+    prevDayUploads.push(elem);
+  }
+
+  prevDayUploads.sort((a, b) => parseInt(b['Uploads']) - parseInt(a['Uploads']));
+
+  return prevDayUploads.slice(0, 3).map(e => e.Region);
+
+}
+
+// Util for getting transparent colors to use in charts
+
 function transparentize(color, opacity) {
   var alpha = opacity === undefined ? 0.5 : 1 - opacity;
   return Color(color).alpha(alpha).rgbString();
 }
 
+// Data to show depending on selected region
 
 function selectOpt() {
 
@@ -102,7 +133,7 @@ function selectOpt() {
   
   if (selection == "Region auswählen") {
 
-    drawChart(aggregatedRides.map(e => e.Files), aggregatedRides.map(e => e.Date));
+    drawChart(aggregatedRides.map(e => e.Files), aggregatedRides.map(e => e.Date), topThree);
 
   }
 
@@ -110,13 +141,13 @@ function selectOpt() {
 
     let regionRides = rideData[selection];
 
-    drawChart(regionRides.map(e => e.Files), regionRides.map(e => e.Date));
+    drawChart(regionRides.map(e => e.Files), regionRides.map(e => e.Date), [selection]);
 
   }
 
 }
 
-function drawChart(graphData, graphLabelsRaw) {
+function drawChart(graphData, graphLabelsRaw, selection) {
 
   // Some global options
   Chart.defaults.global.defaultFontFamily = 'Raleway';
@@ -230,91 +261,91 @@ function drawChart(graphData, graphLabelsRaw) {
         data: rideData['Augsburg'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('gold'),
         borderColor: 'gold',
-        hidden: false,
+        hidden: ! (selection.includes("Augsburg")),
         fill: 1,
       }, {
         label: 'Berlin',
         data: rideData['Berlin'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('green'),
         borderColor: 'green',
-        hidden: false,
+        hidden: ! (selection.includes("Berlin")),
         fill: 2,
       }, {
         label: 'Bern',
         data: rideData['Bern'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('blue'),
         borderColor: 'blue',
-        hidden: false,
+        hidden: ! (selection.includes("Bern")),
         fill: 3,
       }, {
         label: 'Bielefeld',
         data: rideData['Bielefeld'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('darkviolet'),
         borderColor: 'darkviolet',
-        hidden: false,
+        hidden: ! (selection.includes("Bielefeld")),
         fill: 4,
       }, {
         label: 'Düsseldorf',
         data: rideData['Düsseldorf'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('deeppink'),
         borderColor: 'deeppink',
-        hidden: false,
+        hidden: ! (selection.includes("Düsseldorf")),
         fill: 5,
       }, {
         label: 'Eichwalde',
         data: rideData['Eichwalde'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('lightskyblue'),
         borderColor: 'lightskyblue',
-        hidden: false,
+        hidden: ! (selection.includes("Eichwalde")),
         fill: 6,
       }, {
         label: 'Hannover',
         data: rideData['Hannover'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('darkcyan'),
         borderColor: 'darkcyan',
-        hidden: false,
+        hidden: ! (selection.includes("Hannover")),
         fill: 7,
       }, {
         label: 'Leipzig',
         data: rideData['Leipzig'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('darkgreen'),
         borderColor: 'darkgreen',
-        hidden: false,
+        hidden: ! (selection.includes("Leipzig")),
         fill: 8,
       }, {
         label: 'München',
         data: rideData['München'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('orange'),
         borderColor: 'orange',
-        hidden: false,
+        hidden: ! (selection.includes("München")),
         fill: 9,
       }, {
         label: 'Pforzheim',
         data: rideData['Pforzheim'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('dodgerblue'),
         borderColor: 'dodgerblue',
-        hidden: false,
+        hidden: ! (selection.includes("Pforzheim")),
         fill: 10,
       }, {
         label: 'Ruhrgebiet',
         data: rideData['Ruhrgebiet'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('mediumvioletred'),
         borderColor: 'mediumvioletred',
-        hidden: false,
+        hidden: ! (selection.includes("Ruhrgebiet")),
         fill: 11,
       }, {
         label: 'Stuttgart',
         data: rideData['Stuttgart'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('mediumseagreen'),
         borderColor: 'mediumseagreen',
-        hidden: false,
+        hidden: ! (selection.includes("Stuttgart")),
         fill: 12,
       }, {
         label: 'Wuppertal',
         data: rideData['Wuppertal'].map(e => e.Files).slice(-7),
         backgroundColor: transparentize('midnightblue'),
         borderColor: 'midnightblue',
-        hidden: false,
+        hidden: ! (selection.includes("Wuppertal")),
         fill: 13,
       }]
     },
@@ -528,8 +559,6 @@ function drawChart(graphData, graphLabelsRaw) {
   }, []);
 
   let monthlyCumulativeChart = document.getElementById(`monthlyCumulative_Rides`).getContext('2d');
-
-  //let monthlyCumulativeUploadsChart = 
 
   new Chart(monthlyCumulativeChart, {
     type: 'line', // bar, horizontal, pie, line, doughnut, radar, polarArea
