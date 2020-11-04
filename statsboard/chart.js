@@ -496,7 +496,7 @@ function drawChart(graphData, graphLabelsRaw, selection) {
     options: {
       title: {
         display: true,
-        text: `Rides/Monat seit Projektbeginn`,
+        text: `Fahrten/Monat seit Projektbeginn`,
         fontSize: 18,
         fontFamily: 'Palatino',
         fontColor: 'dimgrey'
@@ -578,7 +578,7 @@ function drawChart(graphData, graphLabelsRaw, selection) {
     options: {
       title: {
         display: true,
-        text: `Rides/Monat seit Projektbeginn, kumuliert`,
+        text: `Fahrten/Monat seit Projektbeginn, kumuliert`,
         fontSize: 18,
         fontFamily: 'Palatino',
         fontColor: 'dimgrey'
