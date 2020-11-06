@@ -10,3 +10,4 @@ Detaillierte Informationen zum SimRa-Projekt können auf der Projektseite des [E
 
 
 ## [=> Jetzt hier mitmachen!](./mitmachen.html)
+## Regelmäßige News gibt es bei [Twitter](https://twitter.com/SimRa_App)
