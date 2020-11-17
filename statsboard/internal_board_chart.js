@@ -100,7 +100,7 @@ function selectOpt() {
 
   let selection = selectMenu.value;
 
-  let cols = document.getElementsByClassName('col-md');
+  let cols = document.getElementsByClassName('column');
   
   for (let col of cols) {
     let oldCanv = col.removeChild(col.getElementsByTagName("canvas")[0]);

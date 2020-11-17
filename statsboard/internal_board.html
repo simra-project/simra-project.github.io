@@ -17,35 +17,31 @@
 </head>
 
 <body>
-  <div class="header">
-    <div class="logo_container">
-      <img src="Logo_MCC.png" alt="MCC Logo should appear here." style="float:left;width:180px;height:80px;">
-      <h1> SimRa: Uploads pro Tag, Woche, Monat </h1>
-    </div>
+  <div class="flex-header">
+    <img src="Logo_MCC.png" alt="MCC Logo should appear here." style="float:left;width:270px;height:120px;">
+    <h1> SimRa: Uploads pro Tag, Woche, Monat </h1>
   </div>
   <select id="select-region">
     <option selected="selected"> Region auswählen</option>
-</select>
-  <div class="chart_container">
-    <div class="row">
-      <div class="col-md">
-        <canvas id="dailyHist_Rides">
-        </canvas>
-      </div>
-      <div class="col-md">
-        <canvas id="monthlyCumulative_Rides">
-        </canvas>
-      </div>
+  </select>
+  <div class="row">
+    <div class="column">
+      <canvas id="dailyHist_Rides">
+      </canvas>
     </div>
-    <div class="row">
-      <div class="col-md">
-        <canvas id="dailyHist_Profiles">
-        </canvas>
-      </div>
-      <div class="col-md">
-        <canvas id="monthlyCumulative_Profiles">
-        </canvas>
-      </div>
+    <div class="column">
+      <canvas id="monthlyCumulative_Rides">
+      </canvas>
+    </div>
+  </div>
+  <div class="row">
+    <div class="column">
+      <canvas id="dailyHist_Profiles">
+      </canvas>
+    </div>
+    <div class="column">
+      <canvas id="monthlyCumulative_Profiles">
+      </canvas>
     </div>
   </div>
   <script type="text/javascript" src="internal_board_chart.js"></script>

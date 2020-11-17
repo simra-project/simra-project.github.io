@@ -1,45 +1,20 @@
-
-canvas {
-  background-color: "white";
-  width: 100%;
-  height: 100%;
-  /* font-family: Georgia,Times,Times New Roman,serif; */
-}
-
-.col-md {
-  width: 400px;
-  height: 500px;
-}
-
-.header {
+body {
+  margin: 0;
   font-family: Georgia,Times,Times New Roman,serif;
+}
+
+.flex-header {
   width: 100%;
-  height: 100px;
   display: flex;
-  text-align: center;
   background-color: #FFFFFF;
-}
-
-.logo_container {
-  width: 1000px;
-  height: 100%;
-  padding: 5px;
-  display: table;
-  float: left;
-}
-
-.logo_container h1 {
-  height: 100%;
-  /**font-family: 'Poiret One';*/
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  display: table-cell;
-  vertical-align: middle;
+  padding: 32px;
+  align-items: center;
+  text-align: center;
 }
 
 #select-region {
   display: block;
   font-size: 16px;
-  /**font-family: 'Poiret One';*/
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 500;
   color: #444;
@@ -56,4 +31,40 @@ canvas {
   -webkit-appearance: none;
   appearance: none;
   background-color: #fff;
+}
+
+.row {
+  display: flex;
+  width: 100vw;
+  height: auto;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  overflow: hidden;
+}
+
+/* Create two equal columns that sit next to each other */
+.column {
+  flex: 50%;
+  max-width: 50%;
+  min-width: 50%;
+  padding: 0 4px;
+  overflow: hidden;
+}
+
+.column canvas {
+  margin-top: 8px;
+  vertical-align: middle;
+  overflow: hidden;
+  width: 100%;
+}
+
+/* Responsive layout - makes a one column-layout instead of four columns */
+@media (max-width: 800px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+  .flex-header {
+    flex-direction: column;
+  }
 }
