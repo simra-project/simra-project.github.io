@@ -18,30 +18,24 @@
 
 <body>
   <div class="flex-header">
-    <img src="Logo_MCC.png" alt="MCC Logo should appear here." style="float:left;width:270px;height:120px;">
+    <img id="mcc-logo" src="Logo_MCC.png" alt="MCC Logo should appear here." style="float:left;width:270px;height:120px;">
     <h1> SimRa: Uploads pro Tag, Woche, Monat </h1>
   </div>
   <select id="select-region">
     <option selected="selected"> Region auswählen</option>
   </select>
-  <div class="row">
-    <div class="column">
-      <canvas id="dailyHist_Rides">
-      </canvas>
+  <div class="flex-chart-container">
+    <div class="flex-chart-child">
+      <canvas id="dailyHist_Rides"></canvas>
     </div>
-    <div class="column">
-      <canvas id="lastMonth_Rides_AllRegions">
-      </canvas>
+    <div class="flex-chart-child">
+      <canvas id="lastMonth_Rides_AllRegions"></canvas>
     </div>
-  </div>
-  <div class="row">
-    <div class="column">
-      <canvas id="monthly_Rides">
-      </canvas>
+    <div class="flex-chart-child">
+      <canvas id="monthly_Rides"></canvas>
     </div>
-    <div class="column">
-      <canvas id="monthlyCumulative_Rides">
-      </canvas>
+    <div class="flex-chart-child">
+      <canvas id="monthlyCumulative_Rides"></canvas>
     </div>
   </div>
   <script type="text/javascript" src="chart.js"></script>

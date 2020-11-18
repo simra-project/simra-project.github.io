@@ -12,6 +12,10 @@ body {
   text-align: center;
 }
 
+#mcc-logo {
+  margin: 20px;
+}
+
 #select-region {
   display: block;
   font-size: 16px;
@@ -33,36 +37,36 @@ body {
   background-color: #fff;
 }
 
-.row {
+.flex-chart-container {
   display: flex;
-  width: 100vw;
-  height: auto;
+  flex-direction: row;
   flex-wrap: wrap;
-  padding: 0 4px;
-  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
 }
 
-/* Create two equal columns that sit next to each other */
-.column {
-  flex: 50%;
+.flex-chart-child {
+  flex-basis: 50%;
   max-width: 50%;
-  min-width: 50%;
+  max-height: 50%;
   padding: 0 4px;
-  overflow: hidden;
-}
-
-.column canvas {
   margin-top: 8px;
-  vertical-align: middle;
+  /*vertical-align: middle;*/
   overflow: hidden;
-  width: 100%;
 }
 
 /* Responsive layout - makes a one column-layout instead of four columns */
 @media (max-width: 800px) {
-  .column {
-    flex: 100%;
+  .flex-chart-container {
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+  .flex-chart-child {
+    flex-basis: 100%;
+    min-width: 100%;
+    min-height: 70%;
     max-width: 100%;
+    max-height: 70%;
   }
   .flex-header {
     flex-direction: column;

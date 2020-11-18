@@ -122,7 +122,7 @@ function selectOpt() {
 
   let selection = selectMenu.value;
 
-  let cols = document.getElementsByClassName('column');
+  let cols = document.getElementsByClassName('flex-chart-child');
   
   for (let col of cols) {
     let oldCanv = col.removeChild(col.getElementsByTagName("canvas")[0]);
@@ -359,7 +359,7 @@ function drawChart(graphData, graphLabelsRaw, selection) {
       },
       legend: {
         display: true,
-        position: 'right',
+        position: 'bottom',
         labels: {
           fontColor: 'dimgray',
           fontFamily: 'Palatino'
@@ -377,6 +377,7 @@ function drawChart(graphData, graphLabelsRaw, selection) {
         enabled: true
       },
       maintainAspectRatio: false,
+      responsive: true,
       scales: {
         yAxes: [{
           ticks: {
