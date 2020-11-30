@@ -1,5 +1,8 @@
 window.addEventListener("DOMContentLoaded", draw);
 
+// *****************************************************************************************
+// DEFINE SOME GLOBAL VARIABLES - I know it's not cool, might refactor
+
 // Define data files as  a global variable
 
 let rideData;
@@ -11,6 +14,16 @@ let aggregatedRides;
 // Define names of the three regions with the most uploads on the past day as global variable
 
 let topThree;
+
+// Define charts as global variables
+
+let dailyHistChart;
+
+let weeklyOverallChart;
+
+let monthlyChart;
+
+let monthlyCumulativeChart;
 
 // Grab the select-region menu from the DOM
 
@@ -122,6 +135,8 @@ function selectOpt() {
 
   let selection = selectMenu.value;
 
+  /*
+
   let cols = document.getElementsByClassName('flex-chart-child');
   
   for (let col of cols) {
@@ -129,6 +144,24 @@ function selectOpt() {
     let newCanv = document.createElement('canvas');
     newCanv.id = oldCanv.id;
     col.appendChild(newCanv);
+  } */
+
+  let charts = [dailyHistChart, weeklyOverallChart, monthlyChart, monthlyCumulativeChart];
+
+  for (let chart of charts) {
+
+    chart.destroy();
+
+    /*
+    if (
+      chart !== undefined
+      &&
+      chart !== null
+    ) {
+      chart.destroy();
+    }
+  }
+  */
   }
   
   if (selection == "Region auswählen") {
@@ -184,7 +217,7 @@ function drawChart(graphData, graphLabelsRaw, selection) {
 
   let dailyHist = document.getElementById(`dailyHist_Rides`).getContext('2d');
 
-  new Chart(dailyHist, {
+  dailyHistChart = new Chart(dailyHist, {
     type: 'bar', // bar, horizontal, pie, line, doughnut, radar, polarArea
     data: {
       labels: dailyLabels,
@@ -243,9 +276,9 @@ function drawChart(graphData, graphLabelsRaw, selection) {
   // LINE CHART DISPLAYING DAILY UPLOADS PER REGION */
   /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
-  let lastMonth_allRegions = document.getElementById(`lastMonth_Rides_AllRegions`).getContext('2d');
-  
-  new Chart(lastMonth_allRegions, {
+  let lastWeek_allRegions = document.getElementById(`lastMonth_Rides_AllRegions`).getContext('2d');
+
+  weeklyOverallChart = new Chart(lastWeek_allRegions, {
     type: 'line', // bar, horizontal, pie, line, doughnut, radar, polarArea
     data: {
       labels: dailyLabels,
@@ -359,7 +392,7 @@ function drawChart(graphData, graphLabelsRaw, selection) {
       },
       legend: {
         display: true,
-        position: 'bottom',
+        position: 'right',
         labels: {
           fontColor: 'dimgray',
           fontFamily: 'Palatino'
@@ -477,9 +510,9 @@ function drawChart(graphData, graphLabelsRaw, selection) {
 
   }
 
-  let monthlyRidesChart = document.getElementById(`monthly_Rides`).getContext('2d');
+  let monthlyRides = document.getElementById(`monthly_Rides`).getContext('2d');
 
-  new Chart(monthlyRidesChart, {
+  monthlyChart = new Chart(monthlyRides, {
     type: 'line', // bar, horizontal, pie, line, doughnut, radar, polarArea
     data: {
       labels: monthlyLabels,
@@ -559,9 +592,9 @@ function drawChart(graphData, graphLabelsRaw, selection) {
     return r;
   }, []);
 
-  let monthlyCumulativeChart = document.getElementById(`monthlyCumulative_Rides`).getContext('2d');
+  let monthlyCumulative = document.getElementById(`monthlyCumulative_Rides`).getContext('2d');
 
-  new Chart(monthlyCumulativeChart, {
+  monthlyCumulativeChart = new Chart(monthlyCumulative, {
     type: 'line', // bar, horizontal, pie, line, doughnut, radar, polarArea
     data: {
       labels: monthlyLabels,
