@@ -1,3 +1,7 @@
+# Statistiken
+
+Die Anzahl der hochgeladenen Fahrten (allgemein und regionspezifisch) kann interaktiv [hier](https://simra-project.github.io/statsboard/) nachgeguckt werden.
+
 # Ergebnisübersicht
 
 Detaillierte Informationen zum SimRa-Projekt können auf der Projektseite des [ECDF](https://www.digital-future.berlin/forschung/projekte/simra/) abgerufen werden.
