@@ -11,6 +11,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Düsseldorf
 - Eichwalde/Zeuthen/Schulzendorf
 - Hannover
+- Konstanz
 - Leipzig
 - München
 - Pforzheim/Enzkreis
