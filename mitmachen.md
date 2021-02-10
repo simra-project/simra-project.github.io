@@ -17,6 +17,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Pforzheim/Enzkreis
 - Ruhrgebiet
 - Stuttgart
+- Weimar
 - Wuppertal/Remscheid/Solingen
 
 Weitere Informationen und Kontaktdaten sind auf der [Projektseite](https://www.digital-future.berlin/forschung/projekte/simra/) abrufbar, erste [Ergebnisse](./index.md) sind bereits verfügbar!!
