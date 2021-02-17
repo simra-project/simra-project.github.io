@@ -380,6 +380,13 @@ function drawChart(graphData, graphLabelsRaw, selection) {
         borderColor: 'midnightblue',
         hidden: ! (selection.includes("Wuppertal")),
         fill: 13,
+      }, {
+        label: 'Weimar',
+        data: rideData['Weimar'].map(e => e.Files).slice(-7),
+        backgroundColor: transparentize('purple'),
+        borderColor: 'purple',
+        hidden: ! (selection.includes("Weimar")),
+        fill: 14,
       }]
     },
     options: {
