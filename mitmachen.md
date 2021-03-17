@@ -11,14 +11,12 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Düsseldorf
 - Eichwalde/Zeuthen/Schulzendorf
 - Hannover
-- Konstanz
 - Leipzig
 - München
-- Pforzheim/Enzkreis
 - Ruhrgebiet
-- Stuttgart
 - Weimar
 - Wuppertal/Remscheid/Solingen
+- Viele weitere Städte/Regionen im Südwesten Deutschlands (siehe [Karte](./resources/region_map.png))
 
 Weitere Informationen und Kontaktdaten sind auf der [Projektseite](https://www.digital-future.berlin/forschung/projekte/simra/) abrufbar, erste [Ergebnisse](./index.md) sind bereits verfügbar!!
 
