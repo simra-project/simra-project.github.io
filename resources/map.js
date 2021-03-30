@@ -2,10 +2,12 @@ var map = L.map('map').setView([52.51616, 13.31339], 11);
 var markerGroup = L.featureGroup().addTo(map);
 var polygonGroup = L.featureGroup().addTo(map);
 
-// modal background to trigger dismiss
-var modalBackground = document.getElementsByClassName("modal-background")[0];
+// trigger modal dismisses
 var modal = document.getElementsByClassName("modal")[0];
-modalBackground.addEventListener('click', function (event) {
+document.getElementsByClassName("modal-background")[0].addEventListener('click', function (event) {
+    modal.classList.remove('is-active');
+});
+document.getElementsByClassName("modal-close")[0].addEventListener('click', function (event) {
     modal.classList.remove('is-active');
 });
 
@@ -81,19 +83,19 @@ info.update = function(id, props) {
     if (typeof props !== 'undefined') {
         var htmlContent = '';
         if (props.type === 'Street' || props.type === 'Junction') {
-            htmlContent += ('<b>Gefahrenscore: ' + (Math.round((props.score + Number.EPSILON) * 100) / 100) + '</b><br />' +
-                props.type +
-                '<br /> <b>Beinaheunfälle: </b>' + props.incidents +
-                '<br /> <b>Fahrten: </b>' + props.rides +
-                '<br /> <b>Zu dichtes Überholen: </b>' + props.clopa +
-                '<br /> <b>Ein- oder ausparkendes Fahrzeug: </b>' + props.spiot +
-                '<br /> <b>Beinahe-Abbiegeunfall: </b>' + props.nlorh +
-                '<br /> <b>Entgegenkommender Verkehrsteilnehmer: </b>' + props.saho +
-                '<br /> <b>Zu dichtes Auffahren: </b>' + props.tailgating +
-                '<br /> <b>Beinahe-Dooring: </b>' + props.nd +
-                '<br /> <b>Einem Hindernis ausweichen: </b>' + props.dao +
-                '<br /> <b>Sonstiges: </b>' + props.other +
-                '<br /> id: ' + id);
+            htmlContent += ('<b>Gefahrenscore: ' + (Math.round((props.score + Number.EPSILON) * 100) / 100) + '</b>' +
+                '<br /> <b>Gesamtzahl Fahrten: </b>' + props.rides +
+                // '<br />' + props.type +
+                // '<br /> id: ' + id) +
+                '<br /> <b>Gesamtzahl Beinaheunfälle: </b>' + props.incidents +
+                '<br /> <i>Zu dichtes Überholen: </i>' + props.clopa +
+                '<br /> <i>Ein- oder ausparkendes Fahrzeug: </i>' + props.spiot +
+                '<br /> <i>Beinahe-Abbiegeunfall: </i>' + props.nlorh +
+                '<br /> <i>Entgegenkommender Verkehrsteilnehmer: </i>' + props.saho +
+                '<br /> <i>Zu dichtes Auffahren: </i>' + props.tailgating +
+                '<br /> <i>Beinahe-Dooring: </i>' + props.nd +
+                '<br /> <i>Einem Hindernis ausweichen: </i>' + props.dao +
+                '<br /> <i>Sonstiges: </i>' + props.other);
         } else {
             '<b>Mauszeiger über einem Segment halten</b>';
         }
