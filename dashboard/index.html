@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SimRa Dashboard</title>
+    <link rel="stylesheet" href="css/dashboard.css">
+
+    <script src="js/dashboard.js"></script>
+</head>
+
+<body>
+    <div class="section container block pb-3 is-hidden-mobile">
+        <h1 class="title is-3">SimRa Dashboard</h1>
+        <h2 class="subtitle is-5">
+            Ein Projekt der Technischen Universität Berlin und des Einstein Center Digital Future
+        </h2>
+        <h3 class="subtitle is-6">Stand: </span><span id="sourceDate">01.01.1970</h3>
+        <article class="message is-info">
+            <div class="message-header">
+                <p>Über das Projekt</p>
+                <button id="deleteInfo" class="delete" aria-label="delete"></button>
+            </div>
+            <div class="message-body">
+                Aufgrund eines (berechtigten) Gefühls mangelnder Sicherheit, scheuen es viele Menschen vom Auto auf das Fahrrad umzusteigen.
+                Im Projekt SimRa sammeln wir mithilfe einer datensparsamen Smartphone-App Daten darüber, wo es in der Stadt für Radfahrende besonders gefährlich ist.
+                Mit diesen Daten können wir dann gezielte Handlungsempfehlungen geben, um Städte fahrradfreundlicher und sicherer zu gestalten.
+                Dieses Dashboard bietet einen Überblick über die gesamten gesammelten Daten sowie der Veränderung zur Vorwoche.
+
+                Zusätzlich können von hier bequem die detaillierten Analysekarten einzelner Regionen aufgerufen werden.
+            </div>
+        </article>
+        <nav class="level is-mobile mt-6">
+            <div class="level-item has-text-centered">
+                <div>
+                    <p class="heading">Analysierte Fahrten</p>
+                    <p id="totalRides" class="title"></p>
+                </div>
+            </div>
+            <div class="level-item has-text-centered">
+                <div>
+                    <p class="heading">Aufgezeichnete Beinaheunfälle</p>
+                    <p id="totalIncidents" class="title"></p>
+                </div>
+            </div>
+            <div class="level-item has-text-centered">
+                <div>
+                    <p class="heading">Gefahrene Kilometer</p>
+                    <p id="totalKm" class="title"></p>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="container mt-6">
+        <div class="b-table">
+            <div class="table-wrapper has-mobile-cards">
+                <table id="regionTable" class="table is-fullwidth">
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

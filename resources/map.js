@@ -84,9 +84,9 @@ info.update = function(id, props) {
         var htmlContent = '';
         if (props.type === 'Street' || props.type === 'Junction') {
             htmlContent += ('<b>Gefahrenscore: ' + (Math.round((props.score + Number.EPSILON) * 100) / 100) + '</b>' +
+                // '<br /> ID: ' + id +
                 '<br /> <b>Gesamtzahl Fahrten: </b>' + props.rides +
                 // '<br />' + props.type +
-                // '<br /> id: ' + id) +
                 '<br /> <b>Gesamtzahl Beinaheunfälle: </b>' + props.incidents +
                 '<br /> <i>Zu dichtes Überholen: </i>' + props.clopa +
                 '<br /> <i>Ein- oder ausparkendes Fahrzeug: </i>' + props.spiot +

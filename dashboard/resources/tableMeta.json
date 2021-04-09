@@ -1,0 +1,26 @@
+{
+    "name": {
+        "text": "Region",
+        "abbr": "Region"
+    },
+    "rides": {
+        "text": "#Fahrten",
+        "abbr": "Gesamtzahl analysierter Fahrten",
+        "tag": "is-success"
+    },
+    "incidents": {
+        "text": "#Beinaheunfälle (gesamt)",
+        "abbr": "Gesamtzahl aufgezeichneter Beinaheunfälle, inkl. beängstitender Beinaheunfälle",
+        "tag": "is-warning"
+    },
+    "scaryIncidents": {
+        "text": "#Beinaheunfälle (beängstitend)",
+        "abbr": "Anzahl aufgezeichneter beängstigender Beinaheunfälle",
+        "tag": "is-danger"
+    },
+    "km": {
+        "text": "Gefahrene Kilometer",
+        "abbr": "Gefahrene Kilometer",
+        "tag": "is-success"
+    }
+}
