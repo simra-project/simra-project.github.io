@@ -13,6 +13,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Hannover
 - Leipzig
 - München
+- Nürnberg
 - Ruhrgebiet
 - Weimar
 - Wuppertal/Remscheid/Solingen
