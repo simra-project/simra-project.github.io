@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Returns current date
 getDate() {
   date +%F
@@ -37,5 +39,3 @@ git pull ssh master --rebase
 
 # Push commit to master
 git push ssh master
-
-
