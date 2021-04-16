@@ -8,6 +8,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Berlin
 - Bern
 - Bielefeld
+- Dresden
 - Düsseldorf
 - Eichwalde/Zeuthen/Schulzendorf
 - Hannover
