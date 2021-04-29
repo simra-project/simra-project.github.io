@@ -1,6 +1,6 @@
 # Statistiken
 
-Die Anzahl der hochgeladenen Fahrten (allgemein und regionspezifisch) kann interaktiv [hier](https://simra-project.github.io/statsboard/) eingesehen werden.
+Die Anzahl der hochgeladenen Fahrten (allgemein und regionspezifisch) kann interaktiv [hier](https://simra-project.github.io/dashboard/) eingesehen werden.
 
 # Ergebnisübersicht
 
