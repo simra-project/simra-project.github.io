@@ -1,13 +1,13 @@
-var map = L.map('map').setView([52.51616, 13.31339], 11);
+var map = L.map('map')
 var markerGroup = L.featureGroup().addTo(map);
 var polygonGroup = L.featureGroup().addTo(map);
 
 // trigger modal dismisses
 var modal = document.getElementsByClassName("modal")[0];
-document.getElementsByClassName("modal-background")[0].addEventListener('click', function (event) {
+document.getElementsByClassName("modal-background")[0].addEventListener('click', function(event) {
     modal.classList.remove('is-active');
 });
-document.getElementsByClassName("modal-close")[0].addEventListener('click', function (event) {
+document.getElementsByClassName("modal-close")[0].addEventListener('click', function(event) {
     modal.classList.remove('is-active');
 });
 

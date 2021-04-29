@@ -8,6 +8,10 @@ switch (params.get("region")) {
         region = "region/berlin10.json";
         regionMeta = "region/berlin10-meta.json";
         break;
+    case "leipzig":
+        region = "region/leipzig.json";
+        regionMeta = "region/leipzig-meta.json"
+        // break; UNCOMMENT TO ACTIVATE
     default:
         region = "region/berlin.json";
         regionMeta = "region/berlin-meta.json";
@@ -20,6 +24,7 @@ fetch(regionMeta)
     .then(data => {
         document.getElementById("regionTitle").innerHTML = data.regionTitle
         document.getElementById("regionDescription").innerHTML = data.regionDescription
+        map.setView(data.mapView, data.mapZoom);
     })
 
 fetch(region)
