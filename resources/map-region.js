@@ -7,7 +7,7 @@ switch (params.get("region")) {
     case "berlin10":
         region = "region/berlin10.json";
         regionMeta = "region/berlin10-meta.json";
-        break;
+        // break;
     case "leipzig":
         region = "region/leipzig.json";
         regionMeta = "region/leipzig-meta.json"
