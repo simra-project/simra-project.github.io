@@ -12,6 +12,10 @@ switch (params.get("region")) {
         region = "region/leipzig.json";
         regionMeta = "region/leipzig-meta.json"
         // break; UNCOMMENT TO ACTIVATE
+    case "konstanz":
+        region = "region/konstanz.json";
+        regionMeta = "region/konstanz-meta.json"
+        break; // COMMENT break; TO DEACTIVATE
     default:
         region = "region/berlin.json";
         regionMeta = "region/berlin-meta.json";
