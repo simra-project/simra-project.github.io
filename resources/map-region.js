@@ -9,13 +9,9 @@ switch (params.get("region")) {
         regionMeta = "region/berlin10-meta.json";
         // break;
     case "leipzig":
-        region = "region/leipzig.json";
-        regionMeta = "region/leipzig-meta.json"
-        // break; UNCOMMENT TO ACTIVATE
-    case "konstanz":
-        region = "region/konstanz.json";
-        regionMeta = "region/konstanz-meta.json"
-        break; // COMMENT break; TO DEACTIVATE
+        region = "region/Leipzig.json";
+        regionMeta = "region/Leipzig-meta.json"
+        break;
     default:
         region = "region/berlin.json";
         regionMeta = "region/berlin-meta.json";
@@ -28,6 +24,9 @@ fetch(regionMeta)
     .then(data => {
         document.getElementById("regionTitle").innerHTML = data.regionTitle
         document.getElementById("regionDescription").innerHTML = data.regionDescription
+        if (data.regionDate != undefined) {
+            document.getElementById("regionDate").innerHTML = data.regionDate
+        }
         map.setView(data.mapView, data.mapZoom);
     })
 
