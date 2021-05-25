@@ -8,9 +8,21 @@ switch (params.get("region")) {
         region = "region/berlin10.json";
         regionMeta = "region/berlin10-meta.json";
         // break;
-    case "leipzig":
-        region = "region/Leipzig.json";
-        regionMeta = "region/Leipzig-meta.json"
+    case "konstanz":
+        region = "region/Konstanz.json";
+        regionMeta = "region/Konstanz-meta.json"
+        break;
+    case "konstanz_all":
+        region = "region/Konstanz_all.json";
+        regionMeta = "region/Konstanz_all-meta.json"
+        break;
+    case "nuernberg":
+        region = "region/Nuernberg.json";
+        regionMeta = "region/Nuernberg-meta.json"
+        break;
+    case "nuernberg_all":
+        region = "region/Nuernberg_all.json";
+        regionMeta = "region/Nuernberg_all-meta.json"
         break;
     default:
         region = "region/berlin.json";
