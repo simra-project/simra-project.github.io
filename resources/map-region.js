@@ -4,10 +4,26 @@ var region;
 var regionMeta;
 
 switch (params.get("region")) {
+    case "alzey_all":
+        region = "region/Alzey_all.json";
+        regionMeta = "region/Alzey_all-meta.json"
+        break;
+    case "berlin":
+        region = "region/berlin.json";
+        regionMeta = "region/berlin-meta.json";
+        break;
     case "berlin10":
         region = "region/berlin10.json";
         regionMeta = "region/berlin10-meta.json";
-        // break;
+        break;
+    case "koblenz":
+        region = "region/Koblenz.json";
+        regionMeta = "region/Koblenz-meta.json"
+        break;
+    case "koblenz_all":
+        region = "region/Koblenz_all.json";
+        regionMeta = "region/Koblenz_all-meta.json"
+        break;
     case "konstanz":
         region = "region/Konstanz.json";
         regionMeta = "region/Konstanz-meta.json"
@@ -23,6 +39,38 @@ switch (params.get("region")) {
     case "nuernberg_all":
         region = "region/Nuernberg_all.json";
         regionMeta = "region/Nuernberg_all-meta.json"
+        break;
+    case "ortenau":
+        region = "region/Ortenau.json";
+        regionMeta = "region/Ortenau-meta.json"
+        break;
+    case "ortenau_all":
+        region = "region/Ortenau_all.json";
+        regionMeta = "region/Ortenau_all-meta.json"
+        break;
+    case "trier":
+        region = "region/Trier.json";
+        regionMeta = "region/Trier-meta.json"
+        break;
+    case "trier_all":
+        region = "region/Trier_all.json";
+        regionMeta = "region/Trier_all-meta.json"
+        break;
+    case "tuttlingen":
+        region = "region/Tuttlingen.json";
+        regionMeta = "region/Tuttlingen-meta.json"
+        break;
+    case "tuttlingen_all":
+        region = "region/Tuttlingen_all.json";
+        regionMeta = "region/Tuttlingen_all-meta.json"
+        break;
+    case "wetterau":
+        region = "region/Wetterau.json";
+        regionMeta = "region/Wetterau-meta.json"
+        break;
+    case "wetterau_all":
+        region = "region/Wetterau_all.json";
+        regionMeta = "region/Wetterau_all-meta.json"
         break;
     default:
         region = "region/berlin.json";
