@@ -16,6 +16,30 @@ switch (params.get("region")) {
         region = "region/berlin10.json";
         regionMeta = "region/berlin10-meta.json";
         break;
+    case "breisgau-hochschwarzwald":
+        region = "region/Breisgau-Hochschwarzwald.json";
+        regionMeta = "region/Breisgau-Hochschwarzwald-meta.json";
+        break;
+    case "breisgau-hochschwarzwald_all":
+        region = "region/Breisgau-Hochschwarzwald_all.json";
+        regionMeta = "region/Breisgau-Hochschwarzwald_all-meta.json";
+        break;
+    case "bruchsal":
+        region = "region/Bruchsal.json";
+        regionMeta = "region/Bruchsal-meta.json";
+        break;
+    case "bruchsal_all":
+        region = "region/Bruchsal_all.json";
+        regionMeta = "region/Bruchsal_all-meta.json";
+        break;
+    case "freiburg":
+        region = "region/Freiburg.json";
+        regionMeta = "region/Freiburg-meta.json";
+        break;
+    case "Freiburg_all":
+        region = "region/Freiburg_all.json";
+        regionMeta = "region/Freiburg_all-meta.json";
+        break;
     case "koblenz":
         region = "region/Koblenz.json";
         regionMeta = "region/Koblenz-meta.json"
@@ -31,6 +55,30 @@ switch (params.get("region")) {
     case "konstanz_all":
         region = "region/Konstanz_all.json";
         regionMeta = "region/Konstanz_all-meta.json"
+        break;
+    case "landau":
+        region = "region/Landau.json";
+        regionMeta = "region/Landau-meta.json"
+        break;
+    case "landau_all":
+        region = "region/Landau_all.json";
+        regionMeta = "region/Landau_all-meta.json"
+        break;
+    case "mainz":
+        region = "region/Mainz.json";
+        regionMeta = "region/Mainz-meta.json"
+        break;
+    case "mainz_all":
+        region = "region/Mainz_all.json";
+        regionMeta = "region/Mainz_all-meta.json"
+        break;
+    case "mannheim":
+        region = "region/Mannheim.json";
+        regionMeta = "region/Mannheim-meta.json"
+        break;
+    case "mannheim_all":
+        region = "region/Mannheim_all.json";
+        regionMeta = "region/Mannheim_all-meta.json"
         break;
     case "nuernberg":
         region = "region/Nuernberg.json";
@@ -48,6 +96,22 @@ switch (params.get("region")) {
         region = "region/Ortenau_all.json";
         regionMeta = "region/Ortenau_all-meta.json"
         break;
+    case "rastatt":
+        region = "region/Rastatt.json";
+        regionMeta = "region/Rastatt-meta.json"
+        break;
+    case "rastatt_all":
+        region = "region/Rastatt_all.json";
+        regionMeta = "region/Rastatt_all-meta.json"
+        break;
+    case "saarlouis":
+        region = "region/Saarlouis.json";
+        regionMeta = "region/Saarlouis-meta.json"
+        break;
+    case "saarlouis_all":
+        region = "region/Saarlouis_all.json";
+        regionMeta = "region/Saarlouis_all-meta.json"
+        break;
     case "trier":
         region = "region/Trier.json";
         regionMeta = "region/Trier-meta.json"
@@ -56,6 +120,14 @@ switch (params.get("region")) {
         region = "region/Trier_all.json";
         regionMeta = "region/Trier_all-meta.json"
         break;
+    case "tübingen":
+        region = "region/Tübingen.json";
+        regionMeta = "region/Tübingen-meta.json"
+        break;
+    case "tübingen_all":
+        region = "region/Tübingen_all.json";
+        regionMeta = "region/Tübingen_all-meta.json"
+        break;
     case "tuttlingen":
         region = "region/Tuttlingen.json";
         regionMeta = "region/Tuttlingen-meta.json"
@@ -63,6 +135,14 @@ switch (params.get("region")) {
     case "tuttlingen_all":
         region = "region/Tuttlingen_all.json";
         regionMeta = "region/Tuttlingen_all-meta.json"
+        break;
+    case "vulkaneifel":
+        region = "region/Vulkaneifel.json";
+        regionMeta = "region/Vulkaneifel-meta.json"
+        break;
+    case "vulkaneifel_all":
+        region = "region/Vulkaneifel_all.json";
+        regionMeta = "region/Vulkaneifel_all-meta.json"
         break;
     case "wetterau":
         region = "region/Wetterau.json";
