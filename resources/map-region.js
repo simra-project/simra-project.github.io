@@ -9,12 +9,12 @@ switch (params.get("region")) {
         regionMeta = "region/Alzey_all-meta.json"
         break;
     case "berlin":
-        region = "region/berlin.json";
-        regionMeta = "region/berlin-meta.json";
+        region = "region/Berlin.json";
+        regionMeta = "region/Berlin-meta.json";
         break;
     case "berlin10":
-        region = "region/berlin10.json";
-        regionMeta = "region/berlin10-meta.json";
+        region = "region/Berlin10.json";
+        regionMeta = "region/Berlin10-meta.json";
         break;
     case "breisgau-hochschwarzwald":
         region = "region/Breisgau-Hochschwarzwald.json";
@@ -39,6 +39,22 @@ switch (params.get("region")) {
     case "Freiburg_all":
         region = "region/Freiburg_all.json";
         regionMeta = "region/Freiburg_all-meta.json";
+        break;
+    case "hannover":
+        region = "region/Hannover.json";
+        regionMeta = "region/Hannover-meta.json";
+        break;
+    case "hannover_all":
+        region = "region/Hannover_all.json";
+        regionMeta = "region/Hannover_all-meta.json";
+        break;
+    case "hamburg":
+        region = "region/Freiburg.json";
+        regionMeta = "region/Freiburg-meta.json";
+        break;
+    case "hamburg_all":
+        region = "region/Hamburg_all.json";
+        regionMeta = "region/Hamburg_all-meta.json";
         break;
     case "koblenz":
         region = "region/Koblenz.json";
@@ -159,6 +175,14 @@ switch (params.get("region")) {
     case "wetterau_all":
         region = "region/Wetterau_all.json";
         regionMeta = "region/Wetterau_all-meta.json"
+        break;
+    case "wuppertal":
+        region = "region/Wuppertal.json";
+        regionMeta = "region/Wuppertal-meta.json"
+        break;
+    case "wuppertal_all":
+        region = "region/Wuppertal_all.json";
+        regionMeta = "region/Wuppertal_all-meta.json"
         break;
     default:
         region = "region/berlin.json";
