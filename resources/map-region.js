@@ -8,6 +8,10 @@ switch (params.get("region")) {
         region = "region/Alzey_all.json";
         regionMeta = "region/Alzey_all-meta.json"
         break;
+	case "augsburg":
+        region = "region/Augsburg.json";
+        regionMeta = "region/Augsburg-meta.json"
+        break;
     case "berlin":
         region = "region/Berlin.json";
         regionMeta = "region/Berlin-meta.json";
@@ -15,6 +19,10 @@ switch (params.get("region")) {
     case "berlin10":
         region = "region/Berlin10.json";
         regionMeta = "region/Berlin10-meta.json";
+        break;
+    case "bern":
+        region = "region/Bern.json";
+        regionMeta = "region/Bern-meta.json";
         break;
     case "breisgau-hochschwarzwald":
         region = "region/Breisgau-Hochschwarzwald.json";
@@ -96,7 +104,11 @@ switch (params.get("region")) {
         region = "region/Mannheim_all.json";
         regionMeta = "region/Mannheim_all-meta.json"
         break;
-    case "nuernberg":
+    case "münchen":
+        region = "region/München.json";
+        regionMeta = "region/München-meta.json"
+        break;
+	case "nuernberg":
         region = "region/Nuernberg.json";
         regionMeta = "region/Nuernberg-meta.json"
         break;
