@@ -12,6 +12,10 @@ switch (params.get("region")) {
         region = "region/Augsburg.json";
         regionMeta = "region/Augsburg-meta.json"
         break;
+	case "augsburg_all":
+        region = "region/Augsburg_all.json";
+        regionMeta = "region/Augsburg_all-meta.json"
+        break;
     case "berlin":
         region = "region/Berlin.json";
         regionMeta = "region/Berlin-meta.json";
@@ -23,6 +27,18 @@ switch (params.get("region")) {
     case "bern":
         region = "region/Bern.json";
         regionMeta = "region/Bern-meta.json";
+        break;
+    case "bern_all":
+        region = "region/Bern_all.json";
+        regionMeta = "region/Bern_all-meta.json";
+        break;
+	case "bielefeld":
+        region = "region/Bielefeld.json";
+        regionMeta = "region/Bielefeld-meta.json";
+        break;
+    case "bielefeld_all":
+        region = "region/Bielefeld_all.json";
+        regionMeta = "region/Bielefeld_all-meta.json";
         break;
     case "breisgau-hochschwarzwald":
         region = "region/Breisgau-Hochschwarzwald.json";
@@ -39,6 +55,14 @@ switch (params.get("region")) {
     case "bruchsal_all":
         region = "region/Bruchsal_all.json";
         regionMeta = "region/Bruchsal_all-meta.json";
+        break;
+    case "eichwalde":
+        region = "region/Eichwalde.json";
+        regionMeta = "region/Eichwalde-meta.json";
+        break;
+    case "eichwalde_all":
+        region = "region/Eichwalde_all.json";
+        regionMeta = "region/Eichwalde_all-meta.json";
         break;
     case "freiburg":
         region = "region/Freiburg.json";
@@ -108,6 +132,10 @@ switch (params.get("region")) {
         region = "region/München.json";
         regionMeta = "region/München-meta.json"
         break;
+	case "münchen_all":
+        region = "region/München_all.json";
+        regionMeta = "region/München_all-meta.json"
+        break;
 	case "nuernberg":
         region = "region/Nuernberg.json";
         regionMeta = "region/Nuernberg-meta.json"
@@ -147,6 +175,10 @@ switch (params.get("region")) {
     case "ruhrgebiet":
         region = "region/Ruhrgebiet.json";
         regionMeta = "region/Ruhrgebiet-meta.json"
+        break;
+	case "ruhrgebiet_all":
+        region = "region/Ruhrgebiet_all.json";
+        regionMeta = "region/Ruhrgebiet_all-meta.json"
         break;
     case "ruhrgebiet_all_i":
         region = "region/Ruhrgebiet_all_i.json";
