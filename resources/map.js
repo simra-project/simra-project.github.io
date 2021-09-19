@@ -113,7 +113,8 @@ function getColor(score) {
     return score >= 0.5 ? '#d7191c' :
         score >= 0.25 ? '#ff6600' :
         score >= 0.1 ? '#ffff00' :
-        '#1a9641';
+		score >= 0 ? '#1a9641' :
+        '#808080';
 }
 
 // get opacity depending on score value
