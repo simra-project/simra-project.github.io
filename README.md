@@ -19,6 +19,8 @@ All other files in the resources directory are created manually:
 - `regionNames.json`: links the region names from the dashboard.json to the region name text that should be shown to the end-user (created manually from Ahmet's *simRa_regions_coords_ID.config*)
 - `tableMeta.json`: meta information for the table such as header names, tag-styles, etc.
 
+It is possible to put a region at the top of the table on page load by supplying it as query parameter. E.g., `https://simra-project.github.io/dashboard?region=Nuernberg` or `https://simra-project.github.io/dashboard?region=Stuttgart`
+
 ## SimRa VM setup
 
 To commit without having to enter a password, we need to [add a deploy-key](https://docs.github.com/en/developers/overview/managing-deploy-keys) for simra.project.github.io.
