@@ -15,6 +15,6 @@ Detaillierte Informationen zum SimRa-Projekt können auf der Projektseite des [E
 # Mitmachen
 ## [=> Jetzt hier mitmachen!](./mitmachen.html)
 
-# Social Media
-## [=> Twitter](https://twitter.com/SimRa_App)
-## [=> Instagram](https://www.instagram.com/sicherheitimradverkehr/)
+# SimRa in Social Media
+- [Twitter](https://twitter.com/SimRa_App)
+- [Instagram](https://www.instagram.com/sicherheitimradverkehr/)
