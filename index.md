@@ -2,7 +2,7 @@
 
 Die Anzahl der hochgeladenen Fahrten (allgemein und regionspezifisch) kann interaktiv [hier im Dashboard](https://simra-project.github.io/dashboard/) eingesehen werden. Über den Regionsnamen (sofern anklickbar) kann man dort auch auf die jeweils neueste Ergebniskarte zugreifen.
 
-# Projektseite
+# Projektwebsite
 
 Detaillierte Informationen zum SimRa-Projekt können auf der Projektseite des [ECDF](https://www.digital-future.berlin/forschung/projekte/simra/) abgerufen werden.
 
