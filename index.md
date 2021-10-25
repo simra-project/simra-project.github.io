@@ -12,6 +12,9 @@ Detaillierte Informationen zum SimRa-Projekt können auf der Projektseite des [E
 - [Gefahrenstellenreport (komplett)](./2020-08_complete.pdf)
 - [Gefahrenstellenreport (besonders gefährliche Abschnitte)](./2020-08_most_dangerous.pdf)
 
-
+# Mitmachen
 ## [=> Jetzt hier mitmachen!](./mitmachen.html)
-## [=> Folgt uns bei Twitter](https://twitter.com/SimRa_App)
+
+# Social Media
+## [=> Twitter](https://twitter.com/SimRa_App)
+## [=> Instagram](https://www.instagram.com/sicherheitimradverkehr/)
