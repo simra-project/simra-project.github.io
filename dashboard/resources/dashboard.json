@@ -1,26 +1,26 @@
 {
-  "totalRides": 60073,
-  "totalIncidents": 24573,
-  "totalKm": 477682,
-  "diffDate": "29.10.2021, 23:00:05",
+  "totalRides": 60102,
+  "totalIncidents": 24590,
+  "totalKm": 477823,
+  "diffDate": "30.10.2021, 23:00:05",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        25256,
-        179
+        25274,
+        183
       ],
       "incidents": [
-        12115,
-        127
+        12126,
+        113
       ],
       "scaryIncidents": [
-        3272,
-        52
+        3275,
+        41
       ],
       "km": [
-        201816,
-        1358
+        201892,
+        1284
       ]
     },
     {
@@ -65,38 +65,38 @@
       "name": "Hannover",
       "rides": [
         3194,
-        16
+        14
       ],
       "incidents": [
         1465,
-        14
+        7
       ],
       "scaryIncidents": [
         228,
-        2
+        1
       ],
       "km": [
         27026,
-        177
+        109
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        2762,
-        47
+        2767,
+        49
       ],
       "incidents": [
-        2384,
-        37
+        2390,
+        43
       ],
       "scaryIncidents": [
-        504,
-        8
+        508,
+        12
       ],
       "km": [
-        19903,
-        250
+        19944,
+        280
       ]
     },
     {
@@ -121,20 +121,20 @@
     {
       "name": "Ruhrgebiet",
       "rides": [
-        2497,
-        23
+        2499,
+        14
       ],
       "incidents": [
         1141,
-        79
+        29
       ],
       "scaryIncidents": [
         394,
-        6
+        5
       ],
       "km": [
-        19726,
-        106
+        19746,
+        82
       ]
     },
     {
@@ -159,8 +159,8 @@
     {
       "name": "München",
       "rides": [
-        1504,
-        25
+        1505,
+        26
       ],
       "incidents": [
         543,
@@ -179,7 +179,7 @@
       "name": "Eichwalde",
       "rides": [
         1159,
-        3
+        0
       ],
       "incidents": [
         63,
@@ -191,7 +191,7 @@
       ],
       "km": [
         11635,
-        32
+        0
       ]
     },
     {
@@ -214,6 +214,25 @@
       ]
     },
     {
+      "name": "Bielefeld",
+      "rides": [
+        1002,
+        15
+      ],
+      "incidents": [
+        52,
+        0
+      ],
+      "scaryIncidents": [
+        5,
+        0
+      ],
+      "km": [
+        3482,
+        16
+      ]
+    },
+    {
       "name": "Augsburg",
       "rides": [
         1001,
@@ -233,29 +252,10 @@
       ]
     },
     {
-      "name": "Bielefeld",
-      "rides": [
-        1000,
-        13
-      ],
-      "incidents": [
-        52,
-        0
-      ],
-      "scaryIncidents": [
-        5,
-        0
-      ],
-      "km": [
-        3478,
-        12
-      ]
-    },
-    {
       "name": "Mannheim",
       "rides": [
         766,
-        10
+        8
       ],
       "incidents": [
         215,
@@ -267,7 +267,7 @@
       ],
       "km": [
         4812,
-        57
+        53
       ]
     },
     {
@@ -369,19 +369,19 @@
       "name": "Wetterau",
       "rides": [
         377,
-        5
+        3
       ],
       "incidents": [
         200,
-        7
+        4
       ],
       "scaryIncidents": [
         10,
-        1
+        0
       ],
       "km": [
         4019,
-        18
+        15
       ]
     },
     {
@@ -444,8 +444,8 @@
     {
       "name": "Saarlouis",
       "rides": [
-        209,
-        3
+        210,
+        4
       ],
       "incidents": [
         39,
@@ -1392,5 +1392,5 @@
       ]
     }
   ],
-  "sourceDate": "05.11.2021, 23:00:04"
+  "sourceDate": "06.11.2021, 23:00:04"
 }
