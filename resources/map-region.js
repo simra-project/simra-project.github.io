@@ -8,11 +8,11 @@ switch (params.get("region")) {
         region = "region/Alzey_all.json";
         regionMeta = "region/Alzey_all-meta.json"
         break;
-	case "augsburg":
+    case "augsburg":
         region = "region/Augsburg.json";
         regionMeta = "region/Augsburg-meta.json"
         break;
-	case "augsburg_all":
+    case "augsburg_all":
         region = "region/Augsburg_all.json";
         regionMeta = "region/Augsburg_all-meta.json"
         break;
@@ -32,7 +32,7 @@ switch (params.get("region")) {
         region = "region/Bern_all.json";
         regionMeta = "region/Bern_all-meta.json";
         break;
-	case "bielefeld":
+    case "bielefeld":
         region = "region/Bielefeld.json";
         regionMeta = "region/Bielefeld-meta.json";
         break;
@@ -64,11 +64,11 @@ switch (params.get("region")) {
         region = "region/Eichwalde_all.json";
         regionMeta = "region/Eichwalde_all-meta.json";
         break;
-    case "frankfurt":
+    case "frankfurt_all":
         region = "region/Fankfurt_all.json";
         regionMeta = "region/Fankfurt_all-meta.json";
         break;
-	case "freiburg":
+    case "freiburg":
         region = "region/Freiburg.json";
         regionMeta = "region/Freiburg-meta.json";
         break;
@@ -136,15 +136,15 @@ switch (params.get("region")) {
         region = "region/München.json";
         regionMeta = "region/München-meta.json"
         break;
-	case "münchen_all":
+    case "münchen_all":
         region = "region/München_all.json";
         regionMeta = "region/München_all-meta.json"
         break;
-	case "nuernberg":
+    case "nuernberg":
         region = "region/Nuernberg.json";
         regionMeta = "region/Nuernberg-meta.json"
         break;
-	case "nuernberg_path":
+    case "nuernberg_path":
         region = "region/Nuernberg_Path.json";
         regionMeta = "region/Nuernberg_Path-meta.json"
         break;
@@ -152,11 +152,11 @@ switch (params.get("region")) {
         region = "region/Nuernberg_all.json";
         regionMeta = "region/Nuernberg_all-meta.json"
         break;
-	case "nuernberg_all_i":
+    case "nuernberg_all_i":
         region = "region/Nuernberg_all_i.json";
         regionMeta = "region/Nuernberg_all_i-meta.json"
         break;
-	case "nuernberg_all_path":
+    case "nuernberg_all_path":
         region = "region/Nuernberg_all_path.json";
         regionMeta = "region/Nuernberg_all_path-meta.json"
         break;		
@@ -180,7 +180,7 @@ switch (params.get("region")) {
         region = "region/Ruhrgebiet.json";
         regionMeta = "region/Ruhrgebiet-meta.json"
         break;
-	case "ruhrgebiet_all":
+    case "ruhrgebiet_all":
         region = "region/Ruhrgebiet_all.json";
         regionMeta = "region/Ruhrgebiet_all-meta.json"
         break;
@@ -188,7 +188,7 @@ switch (params.get("region")) {
         region = "region/Ruhrgebiet_all_i.json";
         regionMeta = "region/Ruhrgebiet_all_i-meta.json"
         break;
-	case "saarlouis":
+    case "saarlouis":
         region = "region/Saarlouis.json";
         regionMeta = "region/Saarlouis-meta.json"
         break;
