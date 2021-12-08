@@ -65,8 +65,8 @@ switch (params.get("region")) {
         regionMeta = "region/Eichwalde_all-meta.json";
         break;
     case "frankfurt_all":
-        region = "region/Fankfurt_all.json";
-        regionMeta = "region/Fankfurt_all-meta.json";
+        region = "region/Frankfurt_all.json";
+        regionMeta = "region/Frankfurt_all-meta.json";
         break;
     case "freiburg":
         region = "region/Freiburg.json";
