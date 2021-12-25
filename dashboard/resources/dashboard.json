@@ -1,8 +1,8 @@
 {
-  "totalRides": 62423,
-  "totalIncidents": 25879,
-  "totalKm": 493239,
-  "diffDate": "17.12.2021, 23:00:06",
+  "totalRides": 62430,
+  "totalIncidents": 25900,
+  "totalKm": 493263,
+  "diffDate": "18.12.2021, 23:00:08",
   "regions": [
     {
       "name": "Berlin",
@@ -83,20 +83,20 @@
     {
       "name": "Nuernberg",
       "rides": [
-        3047,
+        3054,
         20
       ],
       "incidents": [
-        2568,
-        6
+        2589,
+        27
       ],
       "scaryIncidents": [
-        556,
-        4
+        558,
+        6
       ],
       "km": [
-        21300,
-        98
+        21324,
+        85
       ]
     },
     {
@@ -255,7 +255,7 @@
       "name": "Mannheim",
       "rides": [
         893,
-        18
+        16
       ],
       "incidents": [
         264,
@@ -267,7 +267,7 @@
       ],
       "km": [
         5516,
-        101
+        97
       ]
     },
     {
@@ -426,19 +426,19 @@
       "name": "Saarlouis",
       "rides": [
         259,
-        4
+        2
       ],
       "incidents": [
         57,
-        4
+        0
       ],
       "scaryIncidents": [
         28,
-        4
+        0
       ],
       "km": [
         1877,
-        34
+        1
       ]
     },
     {
@@ -1392,5 +1392,5 @@
       ]
     }
   ],
-  "sourceDate": "24.12.2021, 23:00:06"
+  "sourceDate": "25.12.2021, 23:00:03"
 }
