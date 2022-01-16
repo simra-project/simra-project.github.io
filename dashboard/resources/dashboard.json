@@ -1,26 +1,26 @@
 {
-  "totalRides": 63071,
-  "totalIncidents": 26212,
-  "totalKm": 497429,
-  "diffDate": "08.01.2022, 23:00:03",
+  "totalRides": 63084,
+  "totalIncidents": 26218,
+  "totalKm": 497495,
+  "diffDate": "09.01.2022, 23:00:03",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        26425,
-        107
+        26427,
+        102
       ],
       "incidents": [
-        12793,
-        91
+        12798,
+        84
       ],
       "scaryIncidents": [
-        3497,
-        29
+        3498,
+        24
       ],
       "km": [
-        210116,
-        793
+        210127,
+        764
       ]
     },
     {
@@ -64,8 +64,8 @@
     {
       "name": "Hannover",
       "rides": [
-        3300,
-        5
+        3302,
+        7
       ],
       "incidents": [
         1525,
@@ -76,15 +76,15 @@
         0
       ],
       "km": [
-        27815,
-        7
+        27817,
+        9
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        3129,
-        23
+        3135,
+        27
       ],
       "incidents": [
         2596,
@@ -95,8 +95,8 @@
         2
       ],
       "km": [
-        21698,
-        95
+        21737,
+        128
       ]
     },
     {
@@ -330,20 +330,20 @@
     {
       "name": "Dresden",
       "rides": [
-        534,
-        9
+        536,
+        11
       ],
       "incidents": [
-        169,
-        7
+        170,
+        8
       ],
       "scaryIncidents": [
         34,
         0
       ],
       "km": [
-        4616,
-        39
+        4629,
+        52
       ]
     },
     {
@@ -369,30 +369,30 @@
       "name": "Leipzig",
       "rides": [
         468,
-        5
+        0
       ],
       "incidents": [
         466,
-        26
+        0
       ],
       "scaryIncidents": [
         23,
-        4
+        0
       ],
       "km": [
         2386,
-        44
+        0
       ]
     },
     {
       "name": "Düsseldorf",
       "rides": [
         439,
-        6
+        5
       ],
       "incidents": [
         99,
-        5
+        4
       ],
       "scaryIncidents": [
         13,
@@ -400,7 +400,7 @@
       ],
       "km": [
         4565,
-        92
+        73
       ]
     },
     {
@@ -936,6 +936,25 @@
       ]
     },
     {
+      "name": "Ahrweiler",
+      "rides": [
+        9,
+        4
+      ],
+      "incidents": [
+        4,
+        3
+      ],
+      "scaryIncidents": [
+        3,
+        3
+      ],
+      "km": [
+        75,
+        7
+      ]
+    },
+    {
       "name": "Fulda",
       "rides": [
         8,
@@ -952,25 +971,6 @@
       "km": [
         60,
         0
-      ]
-    },
-    {
-      "name": "Ahrweiler",
-      "rides": [
-        8,
-        3
-      ],
-      "incidents": [
-        4,
-        3
-      ],
-      "scaryIncidents": [
-        3,
-        3
-      ],
-      "km": [
-        74,
-        6
       ]
     },
     {
@@ -1392,5 +1392,5 @@
       ]
     }
   ],
-  "sourceDate": "15.01.2022, 23:00:04"
+  "sourceDate": "16.01.2022, 23:00:03"
 }
