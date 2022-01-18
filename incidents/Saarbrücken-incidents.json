@@ -1,0 +1,256 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/05/2021 17:00:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.03574, 49.196578 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/06/2021 00:20:11",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "PKWs parken im absoluten Haltverbot, sodass man mit dem Rad zwischen den beiden Schienen der Straßenbahn fahren muss. ",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.944154063239694, 49.30270909331739 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/06/2021 00:22:24",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "PKWs parken im absoluten Haltverbot, sodass man mit dem Rad zwischen den beiden Schienen der Straßenbahn fahren muss. ",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.944973645731807, 49.30498834233731 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/06/2021 23:52:43",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Benutzungspflichtiger Radweg endet unvermittelt an einer Baustelle. Keine sichere Möglichkeit zur Einfädelung in Straßenverkehr",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.9822080712765455, 49.243070343509316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/06/2021 00:04:21",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Dicker Baumast hängt in den Radweg und versperrt ihn komplett",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.959335869178176, 49.25761747173965 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/06/2021 04:59:29",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.97106902487576, 49.24394235480577 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/07/2021 15:43:10",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.912152292206883, 49.3600483937189 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/07/2021 15:44:28",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.916974568739533, 49.36542781535536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/07/2021 22:47:58",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Fahrer lässt Motor extra laut aufheulen",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.894399588927627, 49.41292973700911 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/07/2021 14:08:01",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Sturz bei Querung der Straßenbahnschienen nach Regenschauer.",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.946546509861946, 49.30067996028811 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/07/2021 08:04:06",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad, Fußgänger, PKW",
+      "scary" : "Ja",
+      "descr" : "Die Radverkehrsführung ist hier eine Katastrophe",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.896435469388962, 49.301551007665694 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/08/2021 16:00:01",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Ja",
+      "descr" : "Touristischer Radweg, an dem man sein Rad steile und enge Treppen herunter oder hinauf wuchten muss, nachdem man auf einem ca. 50cm (nicht übertrieben!) breiten Pfad unmittelbar neben der Leitplanke der Autobahn vorbei musste, der für Fahrräder im Gegenverkehr UND Fußgänger vorgesehen ist. Großer Spaß mit Lastenrad oder Fahrradanhänger mit Kind. ",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.952810641378164, 49.233294781297445 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/09/2021 15:24:56",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Fahrzeuge parken auf benutzungspflichtigem Radweg",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.010507471859455, 49.28525692317635 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/09/2021 15:24:56",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Fahrzeuge parken auf benutzungspflichtigem Radweg",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.010507471859455, 49.28525692317635 ]
+    }
+  } ]
+}

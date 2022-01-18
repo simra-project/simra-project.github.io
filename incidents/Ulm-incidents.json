@@ -1,0 +1,76 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2021 11:15:38",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Radweg ist eng und in schlechtem Zustand. Wenn Autos auf der Straße vorbeifahren und ein Fahrrad entgegenkommt, ist das sehr gefährlich.",
+      "region" : "Ulm"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.96292806, 48.35936684 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2021 11:19:30",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Radweg ist sehr eng. ",
+      "region" : "Ulm"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.94922845, 48.3488725 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2021 16:30:10",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "schnell fahrende Pkw, als Linksabbieger gefährlich",
+      "region" : "Ulm"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.95242066, 48.33848686 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2021 16:29:58",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "kein direkter Übergang zur anderen Straßenseite, man muss auf der Landstraße fahren",
+      "region" : "Ulm"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.95344783, 48.33827736 ]
+    }
+  } ]
+}

@@ -1,0 +1,40 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2021 15:59:13",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "erst hinter mir während Gegenverkehr gedrängelt, dann sehr eng überholt, etwa 20-30cm Abstand und zu hohe Geschwindigkeit.",
+      "region" : "Sigmaringen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.06430225, 48.48995434 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/06/2021 14:37:26",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger lief plötzlich um anderen Fußgängern auszuweichen auf den Fahrradweg",
+      "region" : "Sigmaringen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.05878419, 48.51636764 ]
+    }
+  } ]
+}

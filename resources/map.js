@@ -1,7 +1,7 @@
 var map = L.map('map')
 var markerGroup = L.featureGroup().addTo(map);
 var polygonGroup = L.featureGroup().addTo(map);
-
+fetchRegion()
 // trigger modal dismisses
 var modal = document.getElementsByClassName("modal")[0];
 document.getElementsByClassName("modal-background")[0].addEventListener('click', function(event) {

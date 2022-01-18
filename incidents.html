@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>SimRa Beinaheunfälle</title>
+
+	<meta charset="utf-8" />
+
+	<link rel="apple-touch-icon" sizes="180x180" href="resources/favicon_io/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="resources/favicon_io/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="resources/favicon_io/favicon-16x16.png">
+	<link rel="manifest" href="resources/favicon_io/site.webmanifest">
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css">
+	<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+	<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+	<link rel="stylesheet" href="resources/map.css">
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+
+	<div id='map' style="z-index:39">
+		<button type="submit" id="download" onclick="download()" class="download"><i class="fa fa-download"></i></button>
+	</div>
+
+	<div class="modal is-active">
+		<div class="modal-background" style="background-color:rgba(150,150,150,.86)"></div>
+		<div class="modal-content">
+			<article class="message">
+				<div class="message-header">
+					<p id="regionTitle"> </p>
+				</div>
+				<div class="message-body">
+					<p id="regionDate"></p>
+					<p id="regionDescription"></p>
+					<p>Auf dieser Karte sind alle mit SimRa hochgeladenen Beinaheunfälle für die ausgewählte Region. Durch Heranzoomen werden die Markierungen, die für Beinaheunfälle stehen einzeln sichtbar. Durch Herauszoomen werden sie wieder zusammengefasst.</p>
+					<p>Die Markierungen sind auswählbar, wodurch weitere Informationen eingeblendet werden.</p>
+					<p>An der rechten oberen Ecke kann durch das klicken des Downloadbuttons der Datensatz für diese Region heruntergeladen werden.</p>
+
+					<p>Die Beinaheunfall-Karten für andere Regionen finden Sie auf der <a href="dashboard/index.html">Übersichtsseite</a>, wenn Sie auf die Anzahl der Beinaheunfälle einer Region klicken.</p>
+				</div>
+			</article>
+		</div>
+		<button class="modal-close is-large" aria-label="close"></button>
+	</div>
+</body>
+
+<script src="resources/map-region.js"></script>
+<script src="resources/incidents.js"></script>
+
+</html>

@@ -1,0 +1,58 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/04/2021 13:00:57",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tuttlingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.04998121, 48.54845973 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/08/2021 07:34:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Parken 2er PKW im absoluten Halteverbot führt auf der als Schulweg ausgewiesenen Fahrradstrecke zur Fahrbahnverengung bei Gegenverkehr",
+      "region" : "Tuttlingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.820456, 47.994134 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/04/2021 13:00:57",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tuttlingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.04998121, 48.54845973 ]
+    }
+  } ]
+}

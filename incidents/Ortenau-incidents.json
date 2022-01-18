@@ -1,0 +1,202 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2021 11:23:46",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ortenau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.07670554, 48.52938678 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2021 17:21:31",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Radweg zugeparkt ",
+      "region" : "Ortenau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.07409699, 48.53586954 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2021 12:09:41",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Radweg zugeparkt ",
+      "region" : "Ortenau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.07414949, 48.53573709 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2021 11:22:21",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ortenau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.07754075, 48.5293119 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2021 09:07:03",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Radweg zugeparkt ",
+      "region" : "Ortenau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.07400182, 48.53622445 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2021 11:23:46",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ortenau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.07670554, 48.52938678 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/08/2021 17:45:53",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ortenau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.1172793408259, 48.51887048976382 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/09/2021 09:23:50",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ortenau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.074570455373337, 48.54000838719861 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/08/2021 14:17:35",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ortenau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.074608322014296, 48.53999698428745 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2021 08:17:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ortenau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.074441641434184, 48.5399525801759 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/10/2021 17:38:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Fahrzeug parkt auf radschutzstreifen\\n",
+      "region" : "Ortenau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.76574217, 51.21117196 ]
+    }
+  } ]
+}

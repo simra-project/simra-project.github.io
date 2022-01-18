@@ -1,0 +1,2200 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/08/2019 09:23:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.463514, 46.959265 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/08/2019 20:47:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "strasse zu schmal, autos können nicht überholen und überholen zu knapp",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.436388, 46.936896 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/08/2019 08:07:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.463572, 46.959357 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/08/2019 17:53:33",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto aus Hauseinfahrt",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.389413, 46.936038 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/08/2019 17:55:08",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Kind aus Einfahrt ohne zu schauen ",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.396704, 46.938449 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/08/2019 08:48:11",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Ich fahre extra in der Mitte der Fahrbahn und signalisiere links abbiegen. Auto überholt recht zügig und sehr knapp.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.437844, 46.956534 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/08/2019 12:18:16",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.4478, 46.949292 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/08/2019 15:05:35",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Lichtampel ist für Velos, die vom Dälholzli Wald kommen, bei gewissen Lichtverhältnissen nicht gut einsehbar, da sie primär für die Autofahrer im Kreisel ausgerichtet ist. Vorschlag: 2. Ampelleuchte Richtung Wald.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.45875, 46.940548 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/08/2019 17:48:00",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.438337, 46.947309 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/08/2019 16:58:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Schmale Fahrbahn & Kolonnen-Verkehr : Velofahrer werden aufs Troittoir abgedrängt.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.43324, 46.932181 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/08/2019 08:44:17",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.44935, 46.94018 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/08/2019 08:58:03",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.463688, 46.941326 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/08/2019 08:34:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Im Kreisel von älterem PKW-Fahrer Vortritt genommen (er fuhr in den Kreisel direkt vir mir, wzrde fast angefahren)!!!!",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.414326, 46.923083 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/08/2019 08:42:54",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Vortritt genommen von Velofahrer, der vom Troittoir auf die Strasse fährt ohne zu schauen",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.448756, 46.929184 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/08/2019 17:27:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Meine Hüfte hat den Seitenspiegel berührt. Ich glaube das gilt als zu nah überholt.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.445045, 46.953965 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/08/2019 09:33:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Scheiss Kreuzung. Linksabbieger vom Bühlplatz nehmen da den Velofahrern sehr oft die Vorfahrt.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.432636, 46.953283 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/08/2019 17:42:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.465924, 46.941528 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/08/2019 17:17:54",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.391349, 46.935399 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/08/2019 17:55:44",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.448259, 46.946639 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/08/2019 15:38:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.455714, 46.95704 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/08/2019 15:34:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.437324, 46.945751 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/08/2019 14:05:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.458846, 46.949383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/09/2019 17:43:48",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Kante Randstein",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.461225, 46.960441 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/09/2019 10:31:02",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.480745, 46.943822 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/09/2019 16:47:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.46962, 46.943083 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/09/2019 16:48:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.478427, 46.943464 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/09/2019 07:14:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.48077419, 46.95551254 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/10/2019 16:53:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Alter Mensch bremst ohne guten Grund um dann direkt in den Weg zu Fahren. Verbietet alten Menschen ebikes mit Zuviel Leistung. Die können nicht fahren und gucken nicht wo sie hinfahren ",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.445589, 46.954137 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/11/2019 17:23:45",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto sperrt Radweg vor Ampel",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.47081717, 46.95846128 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/11/2019 17:25:53",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "lkw blockiert radspur",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.47164691, 46.95888516 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/11/2019 08:18:38",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.47516124, 46.95745309 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/11/2019 08:14:35",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Frau lässt 2 Hunde frei auf der Fahrbahn rumtollen.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.46296064, 46.95468209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/11/2019 08:12:22",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "ich überholte korrekt ein anderes Velo. Auto überholt mich mit 10 cm Abstand",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.46665387, 46.9573659 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/11/2019 08:19:59",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "parkierte Autos auf beiden Strassenseiten. Bus lässt mich nicht bis zur nächsten Bucht fahren, sondern donnert voll auf mich zu. ich fiel auf ein parkiertes Auto. hatte Angst um mein leben.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.47841397, 46.95944351 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/12/2019 16:43:54",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Velofahrerin kommt mir auf falscher Strassenseite entgegen. so eine blöde Kuh.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.46181264, 46.95417973 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/12/2019 17:31:20",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.49017229, 46.95832717 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/12/2019 17:51:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Autofahrerin biegt aus dem Stand rechts über Radstreifen ab ohne zu blinken. ",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.49333899, 46.95796042 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/12/2019 16:51:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto nimmt mir den vortritt",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.47483986, 46.9575424 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/12/2019 08:40:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto drängt mich nach rechts ab den Randstein.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.44635866, 46.9545198 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/12/2019 08:07:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Frau geht mit Kind über Strasse ohne zu schauen. nicht auf Zebrastreifen.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.48726293, 46.9583693 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/12/2019 07:52:18",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "transporter blockiert Radstreifen",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.47254441, 46.9593547 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/12/2019 17:11:24",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto nimmt mir den vortritt.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.46372776, 46.95580721 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/12/2019 08:22:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "ich will geradeaus, Polizei kommt mir entgegen und biegt links ab und nimmt mir den vortritt !!!!",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.46056983, 46.95476062 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/12/2019 08:16:54",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto geht plötzlich stark auf die Bremse und biegt rechts über Radstreifen ab ohne vorher zu blinken.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.49242925, 46.95835268 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/01/2020 07:31:05",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "vier ohne blinken rechts ab, als ich gerade rechts vorbeifahren wollte",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3910322107969, 52.50378945206841 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/01/2020 17:57:34",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.39447231696497, 52.502260063780824 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/01/2020 17:57:43",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.394268335133875, 52.5015095936713 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/01/2020 17:58:20",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.39433806638469, 52.500980606049986 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/01/2020 17:58:32",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Taxi",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.39453548896769, 52.50016860003653 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/01/2020 16:40:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "auto kommt rechts auf velostreifen um links abbiegendes Auto zu umfahren als ich gerade vorbei wollte. Vollbremsung.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.49246781, 46.95831808 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/01/2020 15:51:55",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.403865282048978, 52.50561709372237 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/01/2020 15:53:38",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.431225453211761, 52.48758264011975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2020 08:18:34",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw blinkt nicht",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.427791225831472, 52.488192397316624 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/01/2020 17:41:16",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw blockieren geradeaus-Radstreifen, weil ihnen an der roten Ampel einfiel, doch rechts abbiegen zu wollen ",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.395615884639417, 52.49850502867122 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/01/2020 08:41:26",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.425426975944589, 52.499699031202056 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/01/2020 08:45:51",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.403496647722866, 52.50571558277076 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/01/2020 08:47:42",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.397349220061228, 52.50726721320918 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/01/2020 08:48:19",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.394551094012531, 52.50711671381982 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/01/2020 08:27:11",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.417626711657674, 52.50195438827398 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/01/2020 07:50:31",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "und Versuch eines BMW X6 bei der Mittelinsel Checkpoint Charlie zu überholen",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.39039143771491, 52.50733899699398 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/01/2020 07:45:39",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "mit >50km/h in 30-Zone",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.39635729643156, 52.49677120148633 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/01/2020 07:45:12",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "fährt ohne zu gucken auf Straße",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.398758671141456, 52.49635596079501 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/01/2020 08:16:57",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "Bus kommt mir auf falscher Strassenseite entgegen.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.48817679, 46.95822978 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/01/2020 15:28:32",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Taxi",
+      "scary" : "Nein",
+      "descr" : "und Belehrung, den Radweg zu benutzen (nicht benutzungspflichtig)",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.403555967662635, 52.50578207478605 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/01/2020 15:29:15",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "und Belehrung, den Radweg zu benutzen (nicht benutzungspflichtig) und Beleidigung",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.407046489294803, 52.50478355032973 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/01/2020 08:30:39",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "läuft auf Radweg und ignoriert Klingel",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.425118366724751, 52.48831006567069 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/01/2020 15:07:08",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "anschließend ausbremsen, bedrängen, später Wiederholung, dabei permanent beleidigt",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.401545350369826, 52.506223826452164 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/01/2020 15:40:23",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "und bei beleidigt werden",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.40924577851908, 52.504131634022436 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/01/2020 08:53:23",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "mit hoher Geschwindigkeit auf meiner Fahrspur (überholte einen Radfahrer), müsste stark abbremsen und dicht an die parkenden Autos ranfahren",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.425513446950637, 52.49325116622374 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/01/2020 08:36:06",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "mit hoher Geschwindigkeit kommt mir ein Lkw trotz Fahrradstraße entgegen",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.426234425295432, 52.48823782641293 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/01/2020 16:10:43",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Sperrmüll auf Radweg",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.422424060187078, 52.489148050876366 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/01/2020 16:11:24",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "parkt auf Radweg ",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.4204131522264, 52.48985988894373 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/01/2020 16:07:57",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "vier oder fünf elterntaxis versperren komplett die Fahrradstraße",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.430433814315462, 52.48780739616122 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/01/2020 07:49:16",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Taxi",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.390180751742534, 52.50816952229923 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/01/2020 07:45:22",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.395273649067207, 52.5001452402073 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/02/2020 07:53:44",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.389492983415263, 52.50861431067839 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/02/2020 17:02:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "auto weicht vor mir auf Radstreifen aus um linksabbieger zu umfahren.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.49212453, 46.95828584 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2020 17:23:24",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.40136497310216, 52.494033030163585 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2020 17:22:44",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Pkw missachtet Vorfahrt",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.397527752131058, 52.495033311073506 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2020 07:50:32",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.390533182282955, 52.507560538279385 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2020 07:47:45",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "elterntaxis blockieren großflächig die Straße",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.391443840634032, 52.50124373172744 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/03/2020 17:43:52",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "bus macht kein Platz obschon auf seiner Seite keine Autos stehen. Busfahrer sind die grössten arschlöcher",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.47736338, 46.95878472 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/03/2020 10:57:23",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Fahrrad fährt einfach auf Straße",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.39134600936167, 52.501918365390374 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/03/2020 17:40:54",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "parkt auf Radweg",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.394193679003696, 52.500983557009754 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/03/2020 16:28:10",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.392653076544354, 52.492171545151066 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/03/2020 16:50:16",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.386369439804252, 52.471596696663504 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/03/2020 16:52:50",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.373712339170877, 52.47278433970344 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2020 17:11:48",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Fahrer missachtet rechts vor links",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.391653130485865, 52.501444606450264 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2020 08:47:37",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "ich ~30km/h, konnte während des überholt Werdens mühelos an Beifahrerscheibe klopfen",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.402030266668236, 52.50604835676858 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/03/2020 08:19:11",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "Lieferwagen von rechts einbiegend nimmt mir einfach den vortritt. er hatte mich gut gesehen und fuhr trotzdem einfach weiter. ",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.4455808, 46.9544093 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/03/2020 07:29:01",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.399746680815111, 52.49608605768655 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/04/2020 17:33:46",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Nein",
+      "descr" : "Vortrittsberechtigter PW kommt von rechts. Ich halte ganz rechts am Rand an und werde dort fast überfahren. Parkplätze mitten auf der Kreuzung zwingen PW die Kurve ganz eng zu schneiden, er sieht mich gerade noch",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.425605384632945, 46.95526801049709 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/06/2020 15:48:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Ja",
+      "descr" : "Angst um das Kind",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.450138, 46.953925 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/06/2020 15:54:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.42963, 46.945852 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/04/2020 11:43:26",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "telefoniere",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.68404152, 47.76980322 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/07/2020 10:06:33",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW wartet im Äufstllbereich für Radfahrer",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.43792349, 46.94740372 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/08/2020 21:51:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.467964093591299, 47.01136531151722 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/08/2020 19:25:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Kurzzeitparkierer auf Trottoir/Velospur.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.4204758565835505, 46.94328859002445 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/08/2020 15:23:00",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Autofahrer im Gegenverkehr hat anderes Auto überholt und meine Spur komplett gebraucht. Rechts Mauer, keine Ausweichmöglichkeit. Hat mit Bremsen knapp gepasst.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.810827291878053, 46.66173241951778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/08/2020 19:48:45",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Kurzzeitparkierer auf Trottoir/Velospur.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.431669891400513, 46.944510283987725 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/08/2020 20:23:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Motorrad",
+      "scary" : "Nein",
+      "descr" : "Schneidet Kurve in Kreisel",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.462307, 47.005007 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/08/2020 21:12:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Schlagloch",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.60313, 47.070717 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/08/2020 21:21:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Rassistisches Beschimpfen von Kindern",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.628768, 47.057922 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/09/2020 21:32:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Ich war im Kreisverkehr, eine Autolenkerin hat von aussen rein- und mich abgedrängt",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.4626258093649325, 47.00512804485265 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/09/2020 16:22:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Bei Gegenverkehr und durchgezogener Mittellinie.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.599532439910824, 47.03837769648706 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/09/2020 18:18:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "1 PKW hat laut überholt und schien ein Rennen mit einem zweiten zu fahren. Überholabstand war dabei gut (kompletter Spurwechsel).",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.821937658510327, 46.82461407025556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/09/2020 19:59:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Ampel ist auf gelb gesprungen. ich habe gebremst, die Autofahrerin dahinter beschleunigt.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.442264373838484, 46.95199983618453 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/11/2020 17:59:41",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Von Raser überholt worden. ",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.45134923, 46.97340204 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/11/2020 18:23:29",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Rechtsvortritt genommen",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.48374927, 46.97977746 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/11/2020 18:21:08",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen, PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.47859745, 46.97765497 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/01/2021 16:49:53",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "3 PKW nacheinander, die bei durchgezogener Mittellinie in der Spur überholt haben.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.324221832945108, 47.08834071600981 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/01/2021 14:44:07",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Luftzug war durch Doppeljacke und Pullover spürbar.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.524477122533902, 47.10174161094862 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/02/2021 18:32:00",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Schlechte Ampel",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.445331, 46.954088 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/02/2021 17:03:20",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.421613600857577, 47.00170857733223 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/03/2021 16:31:36",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.408892251959301, 47.07575162797423 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/04/2021 18:36:05",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Überholen in der Spur.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.605636212503824, 47.03843692044154 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2021 18:10:17",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Motorrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.58803407816794, 47.03651794865479 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/04/2021 13:43:39",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Überholen in der Spur.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.207092539283729, 46.94005985858951 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/04/2021 13:43:39",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Überholen in der Spur.",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.207092539283729, 46.94005985858951 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/05/2021 17:05:15",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.399655297586094, 47.09395924334126 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/05/2021 17:05:27",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.399517941013044, 47.094332021808775 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/05/2021 20:56:37",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.439328957350761, 47.029039958650095 ]
+    }
+  } ]
+}

@@ -1,0 +1,2974 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/09/2019 18:10:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88935247, 48.37610345 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/10/2019 17:02:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "von Bus fast eingeklemmt vor der Haltestelle, aber er hat gewartet",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90107139, 48.37046456 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2019 17:25:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89510319, 48.37665778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2019 17:25:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89568428, 48.37543436 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2019 17:25:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89432392, 48.37708726 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/10/2019 08:13:35",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.91577877, 48.35552989 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/10/2019 08:22:50",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.93679804, 48.34282372 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/10/2019 08:27:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90762432, 48.36302982 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/11/2019 12:09:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "Lieferwagen auf Radweg\\n ausweichen auf Strasse, massiv bedrängt durch PKW",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89582161, 48.37001602 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/11/2019 12:11:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89172951, 48.37180521 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/11/2019 18:38:13",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90780414, 48.36267861 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/11/2019 17:16:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89174187, 48.37187749 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/11/2019 15:35:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89747735, 48.37294858 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/11/2019 11:17:05",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle auf Radweg",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.82696457, 48.42048309 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/09/2019 18:58:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Strassenbahnschienen. Wechsel uberdiese",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89384204, 48.3773519 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/12/2019 19:35:14",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Hund springt mich an. ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88441639, 48.35883598 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/12/2019 07:43:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Biegt auf Fuß-/Radweg ein",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.8987207, 48.3329137 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/12/2019 15:17:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Ohne zu schauen rückwärts ausgeparkt",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89460952, 48.36996592 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/12/2019 19:09:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw, steht teilweise auf Radweg um die Einfahrt in möglichen Parkplatz zu sichern",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89609251, 48.37012286 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/12/2019 19:06:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "entgegen kommender Pkw, lässt nur 1m Platz",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89318422, 48.37291075 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/12/2019 07:23:48",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Hund ausweichen ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88435818, 48.35929135 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/12/2019 07:38:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89858711, 48.3360305 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/12/2019 17:35:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw hielt auf Fuß-/Fahrradüberweg",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89921465, 48.33044439 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/12/2019 17:55:45",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88944831, 48.35394527 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/12/2019 17:40:45",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw fährt aus Einfahrt ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88599212, 48.34717947 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/12/2019 17:33:04",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89926981, 48.33659982 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/12/2019 13:34:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Lkw auf Radweg ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89551741, 48.35308857 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/12/2019 19:40:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90769446, 48.37044982 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/12/2019 22:52:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88677867, 48.36839907 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/12/2019 22:43:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw auf Radweg ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90772025, 48.37038142 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/12/2019 17:15:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "es war am Fahrverhalten nicht nachvollziehbar, das sie mich nicht gesehen hätte. überholte mich 5m davor. Möglicherweise Parkverkehr",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90016107, 48.37075914 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/12/2019 14:26:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "4 entgegen kommende Fahrradfahrer",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89996459, 48.34400694 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/12/2019 07:46:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89878749, 48.33758341 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/01/2020 16:22:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.898901666666665, 48.358198333333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/01/2020 07:35:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88580393, 48.34803169 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/01/2020 07:33:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88698611, 48.34384017 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/01/2020 07:55:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.8992278, 48.32797174 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/01/2020 11:44:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.823794, 48.39897 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/01/2020 17:45:03",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw biegt ab ohne zu schauen ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88600366, 48.3479096 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/01/2020 11:35:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Signal Grün anfordern und warten",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.889861, 48.360174 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/01/2020 11:52:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.837743, 48.390461 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/01/2020 07:38:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89855432, 48.33613122 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/01/2020 15:23:48",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger, Taxi",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.904362, 48.365339 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/01/2020 15:24:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90535, 48.365582 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/01/2020 15:25:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.905573, 48.365365 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/01/2020 07:39:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.865191666666666, 48.34226166666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/01/2020 07:31:42",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Radfahrerin hat einen PKW auf dem Gehweg rechts überholt (PKW ist hinter zwei anderen Radfahrern gefahren). ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.875886666666668, 48.36076333333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/01/2020 17:34:37",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88606894, 48.35100769 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/01/2020 07:33:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Fahrer quert Vorfahrtstraße, achtet nicht auf Radfahrer, sieht mich erst im letzten Moment. ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88345539, 48.35683046 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/01/2020 16:08:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Einkauf",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.896592, 48.352908 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/01/2020 16:35:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "PKW hat mich mit geringer Geschwindigkeit in der Schlange vor der Ampel überholt und dabei beinahe seitlich angefahren, Unfall konnte nur durch Ausweichen verhindert werden.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868611666666668, 48.34183500000001 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/01/2020 07:24:54",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Ein von Nord-Osten kommender SUV ist aus der Bgm-Ulrich-Straße links abgebogen. Dabei hätte mich beinahe angefahren. Er wollte noch schnell vor einem aus westen kommendem Fahrzeug die Kreuzung passieren. Durch meine umsichtige Fahrweise habe ich dies bereits gesehen und bin vor der grünen Ampel stehen geblieben. Der SUV-Fahrer hat als er mich bemerkte eine Gefahrenbremsung eingeleitet und wäre wohl kurz vor mir zum stehen gekommen.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.896774999999998, 48.324884999999995 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/01/2020 08:14:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw blockiert Radweg",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88567526, 48.3448813 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/01/2020 18:38:10",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868148333333332, 48.33838833333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/01/2020 18:39:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868595000000001, 48.34171333333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/01/2020 07:42:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89865011, 48.33425307 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2020 17:00:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "2x abbremsen wegen Pkw, der aus einer Ausfahrt auf Straße fährt und bei nächster Einfahrt wieder einbiegt und mich so zweimal schneidet",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88642332, 48.34822601 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2020 16:46:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89954838, 48.33924953 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/01/2020 17:02:35",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Radfahrer kam in der Kurve auf der falschen Seite entgegen.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.908811666666669, 48.35333333333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/01/2020 17:06:25",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90598, 48.359966666666665 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2020 08:16:52",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.867476666666668, 48.33658833333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2020 08:24:26",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Beinahe Vorfahrtnahme durch rechts abbiegenden PKW an Ampel. PKW aus unterem Talweg hat rot, mit grünem Blechpfeil. Querung für Fußgänger und Radfahrer ist grün. ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.897068333333333, 48.32502833333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/01/2020 08:49:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.898881666666666, 48.35830666666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/01/2020 17:50:46",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89922971, 48.33751222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/01/2020 07:48:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89940716, 48.33984508 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2020 07:54:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.8985919, 48.33519922 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/01/2020 17:45:56",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.869378333333335, 48.33307 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/01/2020 17:47:55",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868161666666667, 48.33806166666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/01/2020 07:26:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "3,5 Tonnen Sprinter mit Kofferaufbau eines Paketdienstes überholt mit hoch drehemdem Motor an einer Stelle ohne viel Platz und ohne gute Sicht auf entgegenkommende Fahrzeuge",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.871081666666665, 48.33238166666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/01/2020 09:49:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Lieferwagen UPS versperrt die Roggenburger Straße komplett",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.861064, 48.378403 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/01/2020 09:51:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW, Sonstiges",
+      "scary" : "Ja",
+      "descr" : "PKW fährt aus Rockensteinstr. zu weit links beim Linksabbiegen und über eine Sperrfläche und nötigt mich weit rechts auszuholen und zu warten",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.856506, 48.379993 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/01/2020 09:51:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW fährt beim Linksabbiegen aus der Rockensteinstr. in die Ulmer Str. über Sperrfläche und nötig mich auszuweichen und zu bremsen. Ein PKW der aus der Ulmer Str. nach links in die Rockensteinstr. möchte muss auf diesen PKW warten",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.856506, 48.379996 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/01/2020 17:25:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89921348, 48.33644738 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/01/2020 17:26:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89959093, 48.33934074 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/01/2020 17:40:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger biegt auf Straße ab ohne sich umzuschauen",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88348997, 48.36085512 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/01/2020 17:51:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89907411, 48.33485508 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/01/2020 17:49:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89914561, 48.33217514 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/01/2020 17:53:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89920827, 48.33749981 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/01/2020 17:43:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89954307, 48.33928893 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/01/2020 17:42:03",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.8991605, 48.33584793 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/01/2020 18:05:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88582019, 48.35390514 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/01/2020 07:58:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89852337, 48.33555389 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/01/2020 07:23:21",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.87091, 48.33244333333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/01/2020 07:23:24",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.871118333333333, 48.33235 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/01/2020 07:24:05",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.873318333333335, 48.330676666666676 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/02/2020 07:20:26",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "unbeleuchteter Geisterradler",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.873308333333334, 48.35194 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/11/2019 07:35:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89325509, 48.34260707 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/02/2020 18:02:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89931331, 48.3349703 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/02/2020 07:47:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89899673, 48.33838781 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/02/2020 07:47:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89883641, 48.33730209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/02/2020 07:38:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88592614, 48.353278 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/02/2020 15:38:38",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.899816666666668, 48.33275666666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/02/2020 18:17:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88598698, 48.34845384 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/02/2020 07:39:00",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89903817, 48.33865116 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/02/2020 07:47:22",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.871908333333332, 48.33176666666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/02/2020 07:44:57",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.867003333333333, 48.33463666666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/02/2020 07:40:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "Lkw sieht mich erst im letzten Moment ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89928879, 48.33936472 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/11/2019 16:32:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.85568699, 48.34143929 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/02/2020 18:48:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89932727, 48.33802999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/02/2020 08:39:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.91569989, 48.35560309 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/03/2020 07:24:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "PKW ist während ich links zum abbiegen gewartet habe, bis die entgegenkommenden Fahrzeuge vorbei sind, rechts mit hoher Geschwindigkeit dicht an mir vorbei gefahren.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.867133333333333, 48.33409166666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/03/2020 13:26:18",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868056666666666, 48.33777 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/03/2020 11:35:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Verwirrende Ampel",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.900987, 48.370539 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/03/2020 14:08:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.906019, 48.359276 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/03/2020 15:38:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW hat mich mit überhöhter Geschwindigkeit (bin die erlaubten 30 gefahren) und trotz entgegenkomendem Fahrzeug überholt und dabei so dicht überholt, dass er mich richtig bedrängt hat.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.867789999999998, 48.33376 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/03/2020 15:40:35",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868133333333333, 48.338719999999995 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2020 07:24:44",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW hat sich an der Ampel neben mich gedrängt und noch ca. 15-20 cm Platz gelassen. ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.867766666666666, 48.33854666666666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/03/2020 07:20:48",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.867921666666666, 48.33813166666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/03/2020 16:44:54",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW hat mich vor der roten Ampel dicht überholt und abgedrängt.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868131666666667, 48.33800833333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/03/2020 15:19:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.896744, 48.356519 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/03/2020 14:54:42",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Dichtes Auffahren nach Rückfädelung hinter der Tram Haltestelle",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868223333333333, 48.34077333333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/03/2020 14:06:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.905699, 48.361037 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2020 10:52:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.852209, 48.379801 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/04/2020 16:29:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Pkw auf Parkplatzsuche kam mir auf 2/3 meiner Spur  entgegen. 20cm Platz zwischen uns",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90866017, 48.36179137 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/04/2020 07:37:45",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auf menschenleerer Straße, kein Gegenverkehr, nichtmal die Mittelmarkierung berührt.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.875363333333333, 48.329494999999994 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/04/2020 15:27:43",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Von PKW von der Straße gedrängt worden. PKW hat sich seitlich neben mich gesetzt und dann in Richtung Bordstein gedrängt.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868013333333332, 48.33794833333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2020 13:06:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.892605, 48.369482 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2020 13:06:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.892663, 48.369356 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/04/2020 17:38:10",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.891689, 48.369075 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/04/2020 07:18:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "ohne Gegenverkehr",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.874841666666669, 48.32988 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2020 12:21:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.831242, 48.394267 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2020 12:28:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Taxi",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.846597, 48.38237 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2020 12:29:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.850402, 48.379071 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2020 17:14:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.855295, 48.372342 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2020 15:28:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.838278, 48.389374 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2020 16:48:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.91676, 48.29265 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2020 17:06:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.889904, 48.266224 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/04/2020 13:24:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Blöde Ampelschaltung, wird rot bei Annäherung",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.887459, 48.357849 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/04/2020 15:27:06",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Polizeistreife direkt hinter mir, hat nichts unternommen",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.892726, 48.363387 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2020 15:27:38",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Mülltonnen versperren die durchfahrt",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.901036666666668, 48.33491666666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2020 15:27:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW überholt, wo parkende Fahrzeuge vom Seitenstreifen auf die Straße wechseln.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.899873333333336, 48.334799999999994 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/04/2020 17:23:38",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.898236, 48.367441 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/04/2020 15:25:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.894375, 48.353798 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/05/2020 07:19:35",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.867833333333332, 48.33765833333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/05/2020 07:42:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Vorfahrtnahme durch rechzs anbiegenden LKW in den unteren Talweg.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.896851666666665, 48.32492333333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/05/2020 07:42:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Durch PKW blockierte Querung.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89701, 48.32500833333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/05/2020 15:25:37",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868140000000002, 48.33848 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/05/2020 15:26:57",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Dichtes Überholen und Bedrängen",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868653333333334, 48.34177666666666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/05/2020 15:26:54",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868559999999999, 48.341603333333325 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/05/2020 15:26:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.868484999999998, 48.341436666666674 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/05/2020 15:04:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW, Sonstiges",
+      "scary" : "Ja",
+      "descr" : "Entgegenkommendes KFZ biegt verbotswidrig links ab, aus der Nebenstraße kommendes, nach rechts abbiegen wollendes KFZ sieht mich nicht und fährt mich fast um.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.902307, 48.357853 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/05/2020 16:22:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW, Sonstiges",
+      "scary" : "Ja",
+      "descr" : "Zu schnelles Überholen",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.888074, 48.353406 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/05/2020 07:47:56",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Transporter einer Baufirma mit Anhänger hat an der Verengung mit geringfugig höherer Geschwindigkeit überholt.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.871061666666666, 48.337815 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/05/2020 07:49:37",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW steht an der Einfahrt zur Parkbucht vor der Schule auf Radschutzstreifen.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.875903333333333, 48.33767833333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/05/2020 14:07:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "Haltendes Liegerfahrzeug auf dem Schutzstreifen, Ausweichen bei starkem Verkehr",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90128, 48.352348 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/05/2020 14:09:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "Haltendes DHL-Fahrzeug auf dem Fahrradweg ca. 3 m vor einer Kreuzung, Ausweichen bei starkem Verkehr unmittelbar vor einer Ampel, die dadurch nur sehr schlecht zu sehen war.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.9022, 48.355261 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/05/2020 14:11:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.905838, 48.359814 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/05/2020 07:44:25",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Radfahrerin ist knapp vor mir auf die Straße gebogen. Och war geradeaus unterwegs, sie ist von links aus dem Radweg gekommen. Sie hat dabei m.E. unkoordinierte Einfädel- und Ausweichbewegungen gemacht. Vermutlich, damit ich rechts überholen kann. Dabei war ich bereits nach links ausgewichen.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.867490000000002, 48.348769999999995 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/05/2020 16:54:35",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.869033333333334, 48.34365 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/05/2020 07:27:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW hat spurtreu aber zu dicht neben dem sehr schmalen Fahrradstreifen 5-10 Meter vor dessen offenem Ende überholt.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.870891666666667, 48.33244500000001 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/05/2020 12:41:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auf dem Fahrradweg haltendes Fahrzeug",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.887465, 48.357602 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/05/2020 17:13:31",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "dichtes Überholen bei Gegenverkehr",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89112, 48.343273333333336 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/05/2020 07:43:49",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW hat mir bei für ihn roter Ampel und Grünpfeil Blechschild die Vorfahrt genommen. Fußgänger und Radfahrer Ampel war für mich grün.",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89697, 48.324963333333336 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/05/2020 15:06:21",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Seit dem Vortrag parkender PKW auf dem nagelneuen Fahrrad-Angebotsstreifen",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.867041666666667, 48.335261666666675 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/05/2020 11:56:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "„Geister-Radler“ auf dem geteilten Fuß-/Radweg",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.888246, 48.358476 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/07/2020 08:34:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Kreuzungskonflikt mit Jogger. Es war nicht klar, wer bremst und wo der potentielle Kreuzungspunkt ist ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.92755641, 48.35069268 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/09/2020 08:11:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Blockierte Fahrbahn durch parkende Liefer-LKW auf der Straße ",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.897438, 48.358105 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/09/2020 17:30:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.852683, 48.381124 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/04/2020 06:56:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.8740212, 48.35932225 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/04/2020 07:01:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88418661, 48.36711434 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/04/2020 07:01:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.88282664, 48.36620739 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/04/2020 07:54:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89204185, 48.34293843 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/10/2020 15:34:31",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90407534, 48.36560537 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/10/2020 17:18:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.90959689, 48.36087559 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/09/2021 17:47:21",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Radfahrer aus Nebenstraße hat mir die Vorfahrt genommen.\\nZusammenstoß, aber keine Schäden",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.89535848, 48.35006866 ]
+    }
+  } ]
+}

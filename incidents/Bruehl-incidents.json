@@ -1,0 +1,202 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2021 19:02:27",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.72805118, 51.07123996 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2021 08:30:57",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Engstelle Löbtauer Straße Ecke Schäferstraße. Marker kann dort nicht platziert werden. ",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.71971282, 51.05452962 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/05/2021 09:09:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Für abbiegende Fahrradfahrer gibt es keinen vernünftigen Weg. Sie müssen auf die Linksabbiegerspur, dann ein Stück weiter geradeaus und dann links auf die Verkehrsinsel, dann über eine weitere Abbiegespur zum gemeinsamen Geh- und Radweg.",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.894915, 50.831241 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/06/2021 20:57:59",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.06511699, 50.70003513 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/07/2021 18:03:08",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Bus, PKW",
+      "scary" : "Nein",
+      "descr" : "Straße zu schmal.",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.07238636, 50.72686038 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2021 17:22:35",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Straßenbahngleise auf diesem Abschnitt.",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.10218881, 50.72927766 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2021 17:33:48",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Einbahnstraße zu eng bei Gegenverkehr.",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.07239994, 50.72690431 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/07/2021 17:30:31",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.07200416, 50.72655616 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/07/2021 17:17:33",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Straßenbahngleise",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.10228828, 50.72895298 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/07/2021 17:28:17",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.07543711, 50.72568294 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/07/2021 17:29:50",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.07163373, 50.72651911 ]
+    }
+  } ]
+}

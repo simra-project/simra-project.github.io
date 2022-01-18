@@ -4,7 +4,24 @@ body,
     height: 100%;
     width: 100%;
 }
-
+#download {
+    border: 2px solid rgba(0,0,0,0.2);
+    background-clip: padding-box;
+    background-color: DodgerBlue;
+    color: white;
+    height: 44px;
+    width: 44px;
+    cursor: pointer;
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    top: 80px;
+    right: 12px;
+    z-index: 500;
+}
+#download:hover {
+    background-color: RoyalBlue;
+}
 p {
     padding: 5pt;
 }

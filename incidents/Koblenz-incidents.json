@@ -1,0 +1,544 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/03/2021 06:45:46",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus, LKW",
+      "scary" : "Ja",
+      "descr" : "Auf der kompletten Strecke bis Koblenz. Kein Radweg vorhanden!! ",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.48118241, 50.31997379 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/04/2021 07:44:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Fahrzeug biegt links aus der Seitenstraße ab und übersieht mich.",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.557328, 50.34992 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2021 07:59:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.563835, 50.355975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/04/2021 11:13:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Ja",
+      "descr" : "stark Abbremsen ",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.561882, 50.353234 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2021 13:19:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger überquert laufend die Bundesstraße und läuft mir rein",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.556086, 50.3513 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2021 12:39:45",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "irre dich ich hab die Person verfolgt und angeschrien, sie hat sich entschuldigt ",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.584903, 50.361268 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/04/2021 12:04:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger, PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.563392, 50.355708 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2021 12:32:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.571398, 50.356443 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2021 12:49:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.580843, 50.354234 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/06/2021 07:48:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Vorfahrt genommen ",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.561031, 50.35276 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/06/2021 08:12:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.563313, 50.355714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/06/2021 08:12:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.563778, 50.355996 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/06/2021 11:02:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Vorfahrt genommen ",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.561394, 50.352908 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/06/2021 11:06:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.56513, 50.356504 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/07/2021 07:46:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.562705, 50.355109 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/08/2021 07:36:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.557906, 50.350294 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/08/2021 07:36:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.558301, 50.350438 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/08/2021 08:07:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.563204, 50.355571 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/08/2021 07:56:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.564814, 50.356098 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/08/2021 07:37:54",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.561193, 50.352842 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/08/2021 07:38:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.561268, 50.352967 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/08/2021 08:14:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.563898, 50.355972 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/08/2021 15:12:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.563032, 50.355454 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/08/2021 08:05:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.563222, 50.355744 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2021 07:58:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "LKW, PKW",
+      "scary" : "Ja",
+      "descr" : "sehr viel Verkehr ",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.561186, 50.352852 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/09/2021 09:34:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "schlechte Straße ",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.537794, 50.394238 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/09/2021 19:20:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.566705, 50.361119 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/09/2021 17:21:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.561274, 50.35304 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/09/2021 07:46:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.561283, 50.352923 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/09/2021 07:43:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker ",
+      "region" : "Koblenz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.562754, 50.355117 ]
+    }
+  } ]
+}

@@ -1,0 +1,148 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/04/2021 18:36:04",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Kurze Pause",
+      "region" : "Vulkaneifel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.073804373788925, 50.772386989512384 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/04/2021 19:06:15",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Abgesenkter Bordstein",
+      "region" : "Vulkaneifel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.055638583778599, 50.768373378107995 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/05/2021 15:21:12",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "In falscher Richtung aus Einbahnstraße ",
+      "region" : "Vulkaneifel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.0885824149975525, 50.77839933861511 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/05/2021 08:26:23",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Fast wäre es zu einem Auffahrunfall gekommen. Ich wollte rechts abbiegen und ein schnellfahrendes Auto (von hinten kommend) ist erst sehr spät auf die zweite Spur gewechselt. Das Auto hat dabei nicht gebremst. ",
+      "region" : "Vulkaneifel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.102654070024886, 50.7811103423887 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/05/2021 10:26:35",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Fahrradweg endet im Nichts",
+      "region" : "Vulkaneifel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.090109043444439, 50.76584930737507 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/05/2021 10:24:35",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Fahrradwege unzumutbar und gefährlich!. ",
+      "region" : "Vulkaneifel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.092720533439048, 50.76754197787891 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/06/2021 07:59:03",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Autofahrer stand wegen Rückstau kurz vor dem Fahrradweg auf der Straße (Ampel inzwischen rot) und hat der nach mir fahrenden Fahrradfahrerin die Vorfahrt genommen. Mich hatte er gesehen und gewartet. ",
+      "region" : "Vulkaneifel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.100498738480625, 50.78003489917205 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/05/2021 10:40:17",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Unklare Markierungen für Fahrradfahrer ",
+      "region" : "Vulkaneifel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.092244652931795, 50.76732464100301 ]
+    }
+  } ]
+}

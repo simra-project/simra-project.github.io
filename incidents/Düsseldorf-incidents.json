@@ -1,0 +1,1048 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/02/2020 10:24:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Unterführung sehr dunkel, Gegenverkehr ist nicht sichtbar",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.789804397668844, 51.213200193652085 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/02/2020 10:22:04",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Taxi",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.790023489361091, 51.217930249907134 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2020 06:35:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Baustelle auf Radweg (Schild \"Radweg Ende\") ohne alternative Wegführung. Parallel laufender Fußweg durch halbhohen Randstein abgetrennt. Keine Möglichkeit gefahrlos auf die Fahrbahn auszuweichen.",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.85687628, 51.1927027 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/03/2020 08:05:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "Vorfahrt missachtet",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.8264716, 51.19739185 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/03/2020 16:56:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Überholen bei Gegenverkehr mit deutlich unter 50 cm Abstand. Ausbremsen beim Wiedereinscheren.",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.83602776, 51.19687264 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/03/2020 16:56:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.83435671, 51.19540018 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2020 16:35:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Überholen in Unterführung bei Gegenverkehr und je einer Spur pro Fahrtrichtung. Lenker touchiert.",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.83711733, 51.19743313 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/03/2020 08:05:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "Vorfahrt missachtet",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.8264716, 51.19739185 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/03/2020 15:39:14",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "Gegenverkehr wartet nicht trotz Hinderniss auf eigener Seite.",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.82617102, 51.19317986 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2020 08:20:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen, PKW",
+      "scary" : "Nein",
+      "descr" : "Geparkte Fahrzeuge ragen in Radweg.",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.84296219, 51.16860342 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/03/2020 15:15:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.81772157, 51.19643522 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2020 08:41:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "LKW schneidet Kurve und zwingt zum Anhalten. Abstand ca. 50 cm.",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.82508695, 51.19203102 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/06/2020 07:40:46",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.232966666666666, 51.55998666666666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/08/2020 07:47:43",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.243323333333333, 51.579295 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/08/2020 07:46:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.246790000000001, 51.58154833333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2020 10:28:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Diesmal beim Einsteigen ohne sich umzusehen",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.721752, 51.24189 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/03/2021 07:37:18",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.810382968627578, 51.20835663717919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/03/2021 07:37:33",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.811447769354987, 51.20816765896878 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/03/2021 13:07:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.951784, 51.226267 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/03/2021 13:36:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.898322, 51.226533 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/03/2021 12:30:27",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Zugeparkter Radweg",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.825547, 51.20659 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/03/2021 12:30:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "anderes Fahrrad entgegen der Fahrtrichtung unterwegs",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.823522, 51.206905 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2021 23:03:44",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Plötzliches Ende Radfahrstreifen",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.7770888190716505, 51.2188928341493 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2021 07:39:38",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Vor der Bäckerei parken oft Autos, die Hindernisse sind",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.293271705508232, 51.569512663409114 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/04/2021 11:44:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.864902, 51.243363 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2021 16:23:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Fahrrad-/Fußgänger Ampel",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.787695, 51.242902 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/04/2021 17:48:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Abbiegendes Auto hat mich fast übersehen",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.800324, 51.195671 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/04/2021 17:55:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto parkt auf dem Fahrradweg",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.776893, 51.209993 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/04/2021 17:58:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto parkt auf dem Fahrradweg",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.777011, 51.219509 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/04/2021 18:08:32",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf dem Fahrradweg. Fahrradweg kaum als solcher zu erkennen.",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.778855, 51.22641 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/04/2021 18:09:32",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto parkt auf dem Fahrradweg",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.775588, 51.224631 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/04/2021 18:12:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto parkt auf dem Fahrradweg",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.775386, 51.21736 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/04/2021 18:15:45",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto parkt auf dem Fahrradweg",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.776123, 51.209374 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/04/2021 18:16:30",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.776959, 51.20644 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/04/2021 18:21:45",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf dem Radweg, Radweg kaum als solche zu erkennen",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.788869, 51.200252 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2021 09:15:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.835082, 51.228564 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2021 12:17:52",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.814007, 51.242791 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2021 18:53:25",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Parken auf Schutzstreifen und Blockieren der rechten Fahrbahnseite",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.081536966349219, 50.737185566308355 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2021 19:04:36",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Parken auf Schutzstreifen und Blockieren der rechten Fahrbahnseite",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.081725115801878, 50.737344237427656 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2021 19:02:39",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Parken auf Schutzstreifen und Blockieren der rechten Fahrbahnseite",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.081676408701404, 50.737392064395074 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2021 19:03:12",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Parken auf Schutzstreifen und Blockieren der rechten Fahrbahnseite",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.081383302537464, 50.736996187186776 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2021 14:32:28",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "LKW, Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Stadtwerke Fahrzeug",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.834543, 51.229582 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2021 14:52:48",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Autofahrer fährt noch bei Rot. Fahrradampel war schon grün.",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.848729, 51.220307 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2021 15:03:18",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.875884, 51.193707 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/05/2021 12:38:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.777465, 51.208081 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/05/2021 07:38:35",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen, PKW",
+      "scary" : "Nein",
+      "descr" : "Baustellenfahrzeug parkte auf dem Weg\\n",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.2590621411800385, 51.57415904570371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/08/2021 18:56:11",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.77955931, 51.21903069 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/08/2021 11:14:33",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.692475, 51.200098 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2021 18:50:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "pkw parkt auf Radweg",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.80776069, 51.21102918 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2021 18:51:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "pkw parkt auf Radweg",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.80793463, 51.21115399 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/10/2021 16:43:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "kfz parkt auf Radweg",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.80508028, 51.20939765 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/10/2021 16:32:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "kfz parkt auf Schutzstreifen",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.76868057, 51.21087449 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/10/2021 18:52:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto parkt auf Radweg\\n",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.7918166, 51.21199755 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/11/2021 18:54:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "pkw parkt auf RadStreifen",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.77019489, 51.21082915 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2021 17:02:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "pkw nimmt Vorfahrt",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.78819139, 51.2214155 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2021 17:40:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "pkw parkt in zweiter Reihe",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.77910592, 51.21878847 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/11/2021 19:34:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "gehen über die Straße ohne zu schauen",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.78036762, 51.21248235 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/11/2021 18:30:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "pkw parkt direkt vor Ampel auf RadSchutzstreifen",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.77645357, 51.21083446 ]
+    }
+  } ]
+}
