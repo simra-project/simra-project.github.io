@@ -82,8 +82,14 @@ switch (params.get("region")) {
     case "bruchsal_all":
         region = "region/Bruchsal_all.json";
         regionMeta = "region/Bruchsal_all-meta.json";
-	    incidents = "incidents/Bruchsal_all-incidents.json";
-        incidentsMeta = "incidents/Bruchsal_all-incidents-meta.json";
+	    incidents = "incidents/Bruchsal-incidents.json";
+        incidentsMeta = "incidents/Bruchsal-incidents-meta.json";
+        break;
+    case "bruehl_all":
+        region = "region/Bruehl_all.json";
+        regionMeta = "region/Bruehl_all-meta.json";
+	    incidents = "incidents/Bruehl-incidents.json";
+        incidentsMeta = "incidents/Bruehl-incidents-meta.json";
         break;
 	case "darmstadt_all":
         region = "region/Darmstadt_all.json";
@@ -302,8 +308,8 @@ switch (params.get("region")) {
         incidentsMeta = "incidents/Ortenau-incidents-meta.json";
         break;
     case "pforzheim_all":
-        region = "region/Pforzheim.json";
-        regionMeta = "region/Pforzheim-meta.json";
+        region = "region/Pforzheim_all.json";
+        regionMeta = "region/Pforzheim_all-meta.json";
 	    incidents = "incidents/Pforzheim-incidents.json";
         incidentsMeta = "incidents/Pforzheim-incidents-meta.json";
         break;
