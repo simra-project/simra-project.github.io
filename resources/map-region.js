@@ -13,6 +13,12 @@ switch (params.get("region")) {
 	    incidents = "incidents/Alzey-incidents.json";
         incidentsMeta = "incidents/Alzey-incidents-meta.json";
         break;
+	case "ahrweiler_all":
+        region = "region/Ahrweiler_all.json";
+        regionMeta = "region/Ahrweiler_all-meta.json";
+	    incidents = "incidents/Ahrweiler-incidents.json";
+        incidentsMeta = "incidents/Ahrweiler-incidents-meta.json";
+        break;
     case "augsburg":
         region = "region/Augsburg.json";
         regionMeta = "region/Augsburg-meta.json";
