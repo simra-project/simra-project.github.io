@@ -3,12 +3,12 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
-      "date" : "20/04/2021 15:02:05",
+      "date" : "10/05/2021 11:01:51",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
-      "incident" : "Beinahe-Dooring",
+      "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "",
       "scary" : "Nein",
       "descr" : "",
@@ -16,17 +16,53 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 11.3413512, 50.98905856 ]
+      "coordinates" : [ 11.32348799, 50.97817889 ]
     }
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "15/04/2021 10:55:04",
+      "date" : "24/05/2021 14:11:02",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
-      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Motorrad",
+      "scary" : "Nein",
+      "descr" : "krad steht auf gem. Rad/Fußweg\\n",
+      "region" : "Weimar"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.33455954, 50.98291107 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/05/2021 14:07:09",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Weimar"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.34358872, 50.97529282 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/04/2021 17:53:48",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
       "descr" : "",
@@ -34,25 +70,61 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 11.32973227, 50.98040312 ]
+      "coordinates" : [ 11.32873495, 50.9760864 ]
     }
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "21/05/2021 20:06:11",
+      "date" : "07/05/2021 09:15:36",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
-      "incident" : "Sonstiges",
-      "participant" : "",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "rote ampel, starkes Gegenlicht durch tief stehende Sonne",
+      "descr" : "multicar des Kommunalservice blockiert Straße",
       "region" : "Weimar"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 11.31937041, 50.9765528 ]
+      "coordinates" : [ 11.31700916, 50.97713118 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/05/2021 09:13:29",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Weimar"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.31556807, 50.98321866 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/05/2021 19:09:23",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "schlagloch",
+      "region" : "Weimar"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.3306012, 50.9695692 ]
     }
   }, {
     "type" : "Feature",
@@ -93,20 +165,20 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "28/05/2021 19:09:23",
+      "date" : "07/05/2021 17:06:57",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
-      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "incident" : "Zu dichtes Auffahren",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "schlagloch",
+      "descr" : "",
       "region" : "Weimar"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 11.3306012, 50.9695692 ]
+      "coordinates" : [ 11.33160341, 50.97931192 ]
     }
   }, {
     "type" : "Feature",
@@ -183,114 +255,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "10/05/2021 11:01:51",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Beinahe-Abbiegeunfall",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Weimar"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.32348799, 50.97817889 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/05/2021 17:06:57",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Auffahren",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Weimar"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.33160341, 50.97931192 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "24/05/2021 14:11:02",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Hindernis ausweichen (z.B. Hund)",
-      "participant" : "Motorrad",
-      "scary" : "Nein",
-      "descr" : "krad steht auf gem. Rad/Fußweg\\n",
-      "region" : "Weimar"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.33455954, 50.98291107 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "24/05/2021 14:07:09",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "Fahrrad",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Weimar"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.34358872, 50.97529282 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/05/2021 09:15:36",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Hindernis ausweichen (z.B. Hund)",
-      "participant" : "LKW",
-      "scary" : "Nein",
-      "descr" : "multicar des Kommunalservice blockiert Straße",
-      "region" : "Weimar"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.31700916, 50.97713118 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/05/2021 09:13:29",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "LKW",
-      "scary" : "Ja",
-      "descr" : "",
-      "region" : "Weimar"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.31556807, 50.98321866 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "date" : "23/04/2021 13:42:59",
       "bikeType" : "-",
       "child" : "Nein",
@@ -309,20 +273,20 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "30/04/2021 17:53:48",
+      "date" : "21/05/2021 20:06:11",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
+      "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "rote ampel, starkes Gegenlicht durch tief stehende Sonne",
       "region" : "Weimar"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 11.32873495, 50.9760864 ]
+      "coordinates" : [ 11.31937041, 50.9765528 ]
     }
   }, {
     "type" : "Feature",
@@ -359,6 +323,42 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 11.35139105, 51.00023311 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2021 10:55:04",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Weimar"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.32973227, 50.98040312 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2021 15:02:05",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Weimar"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.3413512, 50.98905856 ]
     }
   } ]
 }

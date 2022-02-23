@@ -111,6 +111,60 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "10/07/2021 22:47:58",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Fahrer lässt Motor extra laut aufheulen",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.894399588927627, 49.41292973700911 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/07/2021 08:04:06",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad, Fußgänger, PKW",
+      "scary" : "Ja",
+      "descr" : "Die Radverkehrsführung ist hier eine Katastrophe",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.896435469388962, 49.301551007665694 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/07/2021 14:08:01",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Sturz bei Querung der Straßenbahnschienen nach Regenschauer.",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.946546509861946, 49.30067996028811 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "09/07/2021 15:43:10",
       "bikeType" : "-",
       "child" : "Nein",
@@ -143,60 +197,6 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 6.916974568739533, 49.36542781535536 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "10/07/2021 22:47:58",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Sonstiges",
-      "participant" : "PKW",
-      "scary" : "Ja",
-      "descr" : "Fahrer lässt Motor extra laut aufheulen",
-      "region" : "Saarbrücken"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 6.894399588927627, 49.41292973700911 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "05/07/2021 14:08:01",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Sonstiges",
-      "participant" : "",
-      "scary" : "Ja",
-      "descr" : "Sturz bei Querung der Straßenbahnschienen nach Regenschauer.",
-      "region" : "Saarbrücken"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 6.946546509861946, 49.30067996028811 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "12/07/2021 08:04:06",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Sonstiges",
-      "participant" : "Fahrrad, Fußgänger, PKW",
-      "scary" : "Ja",
-      "descr" : "Die Radverkehrsführung ist hier eine Katastrophe",
-      "region" : "Saarbrücken"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 6.896435469388962, 49.301551007665694 ]
     }
   }, {
     "type" : "Feature",

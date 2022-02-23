@@ -3,6 +3,24 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "18/11/2019 15:04:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.73910012431826, 48.821911823895036 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "22/11/2019 13:29:08",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -57,38 +75,218 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "18/11/2019 15:04:35",
-      "bikeType" : "City-/Trekking Bike",
+      "date" : "04/11/2020 15:12:57",
+      "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
-      "pLoc" : "Lenker",
+      "pLoc" : "Hosentasche",
       "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
+      "participant" : "",
       "scary" : "Nein",
       "descr" : "",
       "region" : "Pforzheim"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.73910012431826, 48.821911823895036 ]
+      "coordinates" : [ 8.71407469, 48.89004397 ]
     }
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "24/01/2020 13:23:32",
-      "bikeType" : "E-Bike",
+      "date" : "04/11/2020 15:13:10",
+      "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
-      "pLoc" : "Jackentasche",
+      "pLoc" : "Hosentasche",
       "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
+      "participant" : "",
       "scary" : "Nein",
       "descr" : "",
       "region" : "Pforzheim"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.70199956, 48.88026537 ]
+      "coordinates" : [ 8.71529633, 48.8906304 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/11/2020 15:13:28",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen, PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71674966, 48.89070707 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/11/2020 08:12:20",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71585235, 48.88480175 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/12/2020 08:23:54",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.70437194, 48.89174297 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/12/2020 08:15:07",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71580544, 48.88495708 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/12/2020 15:20:41",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71610746, 48.89055463 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/12/2020 08:26:21",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Polizeifahrzeug parkte auf Radschutzstreifen.",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.7048129, 48.89155152 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/12/2020 08:15:07",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71580544, 48.88495708 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/12/2020 15:09:13",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71577966, 48.8903087 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/12/2020 15:07:01",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71233823, 48.89064799 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/12/2020 15:08:36",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71529899, 48.89062035 ]
     }
   }, {
     "type" : "Feature",
@@ -165,6 +363,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "24/01/2020 13:23:32",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.70199956, 48.88026537 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "20/01/2020 15:17:28",
       "bikeType" : "E-Bike",
       "child" : "Nein",
@@ -201,11 +417,11 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "29/01/2020 15:11:17",
+      "date" : "09/10/2020 08:47:48",
       "bikeType" : "E-Bike",
       "child" : "Nein",
       "trailer" : "Nein",
-      "pLoc" : "Jackentasche",
+      "pLoc" : "Sonstiges",
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
@@ -214,16 +430,16 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.71555964, 48.88500796 ]
+      "coordinates" : [ 8.70453262, 48.89160023 ]
     }
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "29/01/2020 15:11:17",
+      "date" : "01/10/2020 15:21:10",
       "bikeType" : "E-Bike",
       "child" : "Nein",
       "trailer" : "Nein",
-      "pLoc" : "Jackentasche",
+      "pLoc" : "Sonstiges",
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
@@ -232,16 +448,88 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.71555964, 48.88500796 ]
+      "coordinates" : [ 8.71583383, 48.89020322 ]
     }
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "14/02/2020 07:57:36",
+      "date" : "09/10/2020 13:55:28",
       "bikeType" : "E-Bike",
       "child" : "Nein",
       "trailer" : "Nein",
-      "pLoc" : "Jackentasche",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71588569, 48.89032543 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/10/2020 15:23:22",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71334848, 48.88705978 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/10/2020 15:23:25",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71342237, 48.88692998 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/10/2020 15:15:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71349509, 48.88672167 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/10/2020 07:54:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
@@ -250,7 +538,133 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.71839341, 48.88449346 ]
+      "coordinates" : [ 8.69350222, 48.88586422 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/10/2020 08:18:02",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.70347225, 48.89186178 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/10/2020 08:23:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.7120167, 48.89076009 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/10/2020 07:48:34",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.69150834, 48.88470119 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2020 07:52:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Sonstiges",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "falsch geparktes Fahrzeug behindert Fußweg",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71266284, 48.88520722 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2020 08:01:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.69303419, 48.88557461 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2020 13:05:03",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Fahrradweg quert einen Parkplatz. einfahrender PKW fuhr auf den Parkplatz/Fahrradweg.",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.676108333333334, 48.898514999999996 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/02/2020 09:00:55",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.70259799, 48.89218533 ]
     }
   }, {
     "type" : "Feature",
@@ -291,38 +705,56 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "24/02/2020 09:00:55",
+      "date" : "26/06/2020 14:51:30",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw nahm Vorfahrt an Tiefgaragenausfahrt.",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.70157024, 48.89017119 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/06/2020 15:05:45",
       "bikeType" : "E-Bike",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Jackentasche",
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
-      "scary" : "Nein",
+      "scary" : "Ja",
       "descr" : "",
       "region" : "Pforzheim"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.70259799, 48.89218533 ]
+      "coordinates" : [ 8.71484995, 48.88531497 ]
     }
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "11/03/2020 13:05:03",
-      "bikeType" : "City-/Trekking Bike",
+      "date" : "15/06/2020 11:46:21",
+      "bikeType" : "E-Bike",
       "child" : "Nein",
       "trailer" : "Nein",
-      "pLoc" : "Fahrradkorb",
-      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Fahrradweg quert einen Parkplatz. einfahrender PKW fuhr auf den Parkplatz/Fahrradweg.",
+      "descr" : "",
       "region" : "Pforzheim"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.676108333333334, 48.898514999999996 ]
+      "coordinates" : [ 8.69430342, 48.88637084 ]
     }
   }, {
     "type" : "Feature",
@@ -363,47 +795,29 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "29/06/2020 15:05:45",
+      "date" : "21/07/2020 07:51:30",
       "bikeType" : "E-Bike",
       "child" : "Nein",
       "trailer" : "Nein",
-      "pLoc" : "Jackentasche",
+      "pLoc" : "Sonstiges",
       "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Ja",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71484995, 48.88531497 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "26/06/2020 14:51:30",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Jackentasche",
-      "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw nahm Vorfahrt an Tiefgaragenausfahrt.",
+      "descr" : "",
       "region" : "Pforzheim"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.70157024, 48.89017119 ]
+      "coordinates" : [ 8.69814121, 48.88963476 ]
     }
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "15/06/2020 11:46:21",
+      "date" : "10/07/2020 17:25:24",
       "bikeType" : "E-Bike",
       "child" : "Nein",
       "trailer" : "Nein",
-      "pLoc" : "Jackentasche",
+      "pLoc" : "Sonstiges",
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
@@ -412,7 +826,7 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.69430342, 48.88637084 ]
+      "coordinates" : [ 8.7120562, 48.88550117 ]
     }
   }, {
     "type" : "Feature",
@@ -431,6 +845,24 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 8.72479397, 48.88371866 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/07/2020 07:40:20",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "plötzliches Bremsen des voraus fahrenden Kfz (verkehrsbedingt)",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.69395257, 48.88620169 ]
     }
   }, {
     "type" : "Feature",
@@ -489,96 +921,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "17/07/2020 08:06:19",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Auffahren",
-      "participant" : "PKW",
-      "scary" : "Ja",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.6925497, 48.88516522 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "17/07/2020 08:06:19",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Auffahren",
-      "participant" : "PKW",
-      "scary" : "Ja",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.6925497, 48.88516522 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "13/07/2020 15:26:22",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Auffahren",
-      "participant" : "Bus",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71775714, 48.8823831 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "21/07/2020 07:51:30",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.69814121, 48.88963476 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "06/07/2020 07:40:20",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Sonstiges",
-      "participant" : "PKW",
-      "scary" : "Ja",
-      "descr" : "plötzliches Bremsen des voraus fahrenden Kfz (verkehrsbedingt)",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.69395257, 48.88620169 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "date" : "06/07/2020 15:13:07",
       "bikeType" : "E-Bike",
       "child" : "Nein",
@@ -597,12 +939,12 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "10/07/2020 17:25:24",
+      "date" : "17/07/2020 08:06:19",
       "bikeType" : "E-Bike",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
+      "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Ja",
       "descr" : "",
@@ -610,7 +952,25 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.7120562, 48.88550117 ]
+      "coordinates" : [ 8.6925497, 48.88516522 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/07/2020 08:06:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6925497, 48.88516522 ]
     }
   }, {
     "type" : "Feature",
@@ -633,6 +993,96 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "13/07/2020 15:26:22",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71775714, 48.8823831 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/02/2020 07:57:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71839341, 48.88449346 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/01/2020 15:11:17",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71555964, 48.88500796 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/01/2020 15:11:17",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71555964, 48.88500796 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/09/2020 08:33:37",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Fahrzeug fuhr über Sperrstreifen, schnitt dann den Weg ab beim Einscheren, um dem Gegenverkehr auszuweichen.",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.7157035, 48.88497962 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "28/09/2020 07:55:14",
       "bikeType" : "E-Bike",
       "child" : "Nein",
@@ -647,6 +1097,42 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 8.69475111, 48.88665554 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/09/2020 15:13:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Fzg Führer überholte trotz links ausgestrecktem Arm, der den Spurwechsel vor der Kreuzung auf die Linksabbiegerspur anzeigte",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71563926, 48.88501563 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/09/2020 16:24:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.70161424, 48.89457406 ]
     }
   }, {
     "type" : "Feature",
@@ -687,20 +1173,20 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "09/09/2020 16:24:41",
+      "date" : "22/09/2020 18:58:36",
       "bikeType" : "E-Bike",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Sonstiges",
       "incident" : "Zu dichtes Überholen",
-      "participant" : "Lieferwagen",
+      "participant" : "PKW",
       "scary" : "Nein",
       "descr" : "",
       "region" : "Pforzheim"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.70161424, 48.89457406 ]
+      "coordinates" : [ 8.71466583, 48.8891994 ]
     }
   }, {
     "type" : "Feature",
@@ -723,582 +1209,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "14/09/2020 15:13:19",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Ja",
-      "descr" : "Fzg Führer überholte trotz links ausgestrecktem Arm, der den Spurwechsel vor der Kreuzung auf die Linksabbiegerspur anzeigte",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71563926, 48.88501563 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "22/09/2020 18:58:36",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71466583, 48.8891994 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "09/09/2020 08:33:37",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "Lieferwagen",
-      "scary" : "Nein",
-      "descr" : "Fahrzeug fuhr über Sperrstreifen, schnitt dann den Weg ab beim Einscheren, um dem Gegenverkehr auszuweichen.",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.7157035, 48.88497962 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "19/10/2020 15:23:22",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71334848, 48.88705978 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "19/10/2020 15:23:25",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71342237, 48.88692998 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/10/2020 07:48:34",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Ja",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.69150834, 48.88470119 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "08/10/2020 08:23:41",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Ja",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.7120167, 48.89076009 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "05/10/2020 08:01:36",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Auffahren",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.69303419, 48.88557461 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "09/10/2020 13:55:28",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71588569, 48.89032543 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "08/10/2020 15:15:12",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71349509, 48.88672167 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "08/10/2020 07:54:00",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Auffahren",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.69350222, 48.88586422 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "09/10/2020 08:47:48",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.70453262, 48.89160023 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "01/10/2020 08:18:02",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.70347225, 48.89186178 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "13/10/2020 07:52:39",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Sonstiges",
-      "participant" : "Lieferwagen",
-      "scary" : "Nein",
-      "descr" : "falsch geparktes Fahrzeug behindert Fußweg",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71266284, 48.88520722 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "01/10/2020 15:21:10",
-      "bikeType" : "E-Bike",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Sonstiges",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71583383, 48.89020322 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "04/11/2020 08:12:20",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71585235, 48.88480175 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "04/11/2020 15:12:57",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71407469, 48.89004397 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "04/11/2020 15:13:10",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71529633, 48.8906304 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "04/11/2020 15:13:28",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "Lieferwagen, PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71674966, 48.89070707 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/12/2020 15:20:41",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "Bus",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71610746, 48.89055463 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "11/12/2020 08:23:54",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.70437194, 48.89174297 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "09/12/2020 08:15:07",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71580544, 48.88495708 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "09/12/2020 08:15:07",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71580544, 48.88495708 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "10/12/2020 08:26:21",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Sonstiges",
-      "participant" : "Sonstiges",
-      "scary" : "Nein",
-      "descr" : "Polizeifahrzeug parkte auf Radschutzstreifen.",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.7048129, 48.89155152 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "14/12/2020 15:09:13",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71577966, 48.8903087 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "14/12/2020 15:07:01",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Auffahren",
-      "participant" : "LKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71233823, 48.89064799 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "14/12/2020 15:08:36",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Entgegenkommender Verkehrsteilnehmer",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71529899, 48.89062035 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "29/03/2021 10:04:01",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.70681423, 48.89038763 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "12/04/2021 09:22:43",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71474997, 48.89035881 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "19/04/2021 07:59:19",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.7140849, 48.89012434 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "14/04/2021 08:41:08",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Entgegenkommender Verkehrsteilnehmer",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.7216519, 48.88324013 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "04/05/2021 08:53:33",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.70307367, 48.89298761 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "date" : "10/05/2021 09:10:49",
       "bikeType" : "-",
       "child" : "Nein",
@@ -1317,74 +1227,20 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "03/09/2021 09:10:14",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Sonstiges",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "Pkw über holte mit ausreichendem Abstand (>1,50m), überführt jedoch durchgezogene Mittellinie",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.71039445, 48.88621315 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/09/2021 09:03:01",
+      "date" : "04/05/2021 08:53:33",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
       "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
+      "participant" : "",
       "scary" : "Nein",
       "descr" : "",
       "region" : "Pforzheim"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.70252499, 48.89004536 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "08/09/2021 09:16:28",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "LKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.70245084, 48.89008336 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "08/09/2021 09:15:39",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Pforzheim"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.70359585, 48.88857649 ]
+      "coordinates" : [ 8.70307367, 48.89298761 ]
     }
   }, {
     "type" : "Feature",
@@ -1425,20 +1281,20 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "31/08/2021 15:08:24",
+      "date" : "03/09/2021 09:10:14",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
+      "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "Pkw über holte mit ausreichendem Abstand (>1,50m), überführt jedoch durchgezogene Mittellinie",
       "region" : "Pforzheim"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.71569058, 48.89020072 ]
+      "coordinates" : [ 8.71039445, 48.88621315 ]
     }
   }, {
     "type" : "Feature",
@@ -1461,6 +1317,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "31/08/2021 15:08:24",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71569058, 48.89020072 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "04/10/2021 21:15:33",
       "bikeType" : "E-Bike",
       "child" : "Nein",
@@ -1475,6 +1349,132 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 8.70175582, 48.88582864 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2021 09:16:28",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.70245084, 48.89008336 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2021 09:15:39",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.70359585, 48.88857649 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/09/2021 09:03:01",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.70252499, 48.89004536 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/03/2021 10:04:01",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.70681423, 48.89038763 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2021 08:41:08",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.7216519, 48.88324013 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/04/2021 09:22:43",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71474997, 48.89035881 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2021 07:59:19",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Pforzheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.7140849, 48.89012434 ]
     }
   } ]
 }

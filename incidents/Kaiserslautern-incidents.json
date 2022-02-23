@@ -3,42 +3,6 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
-      "date" : "04/04/2021 17:51:34",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Ja",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.77244119, 49.43613067 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "19/05/2021 21:06:05",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Ein- oder ausparkendes Fahrzeug",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.691932, 49.380375 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "date" : "19/05/2021 11:08:57",
       "bikeType" : "-",
       "child" : "Nein",
@@ -53,24 +17,6 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 8.689653, 49.396751 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "10/05/2021 07:18:49",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Beinahe-Abbiegeunfall",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.690252, 49.389687 ]
     }
   }, {
     "type" : "Feature",
@@ -93,30 +39,12 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "14/06/2021 07:23:51",
+      "date" : "19/05/2021 21:06:05",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
-      "incident" : "Hindernis ausweichen (z.B. Hund)",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.690229, 49.389977 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "28/06/2021 08:39:05",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
       "descr" : "",
@@ -124,12 +52,30 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.692813, 49.411281 ]
+      "coordinates" : [ 8.691932, 49.380375 ]
     }
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "30/05/2021 01:10:52",
+      "date" : "10/05/2021 07:18:49",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.690252, 49.389687 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/06/2021 07:35:44",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
@@ -142,79 +88,25 @@
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.676985, 49.407855 ]
+      "coordinates" : [ 8.689649, 49.396627 ]
     }
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "17/06/2021 17:32:44",
+      "date" : "22/06/2021 07:38:32",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "LKW",
       "scary" : "Nein",
       "descr" : "",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.675163, 49.407977 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "05/06/2021 13:15:46",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.728685, 49.415744 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "09/06/2021 07:26:57",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Entgegenkommender Verkehrsteilnehmer",
-      "participant" : "Fahrrad",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.689204, 49.398716 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "09/06/2021 07:27:05",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Beinahe-Abbiegeunfall",
-      "participant" : "Fahrrad",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.689271, 49.398361 ]
+      "coordinates" : [ 8.690365, 49.385934 ]
     }
   }, {
     "type" : "Feature",
@@ -291,38 +183,38 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "22/06/2021 07:35:44",
+      "date" : "09/06/2021 07:26:57",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
-      "incident" : "Beinahe-Abbiegeunfall",
-      "participant" : "PKW",
-      "scary" : "Ja",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.689649, 49.396627 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "22/06/2021 07:38:32",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Ein- oder ausparkendes Fahrzeug",
-      "participant" : "LKW",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
       "scary" : "Nein",
       "descr" : "",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.690365, 49.385934 ]
+      "coordinates" : [ 8.689204, 49.398716 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/06/2021 07:27:05",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.689271, 49.398361 ]
     }
   }, {
     "type" : "Feature",
@@ -345,20 +237,92 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "14/07/2021 20:31:23",
+      "date" : "17/06/2021 17:32:44",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.675163, 49.407977 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/05/2021 01:10:52",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
       "incident" : "Beinahe-Abbiegeunfall",
-      "participant" : "Fahrrad",
+      "participant" : "PKW",
       "scary" : "Ja",
       "descr" : "",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.704116, 49.409694 ]
+      "coordinates" : [ 8.676985, 49.407855 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/06/2021 07:23:51",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.690229, 49.389977 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/06/2021 13:15:46",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.728685, 49.415744 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/06/2021 08:39:05",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.692813, 49.411281 ]
     }
   }, {
     "type" : "Feature",
@@ -399,6 +363,204 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "07/07/2021 17:28:23",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.692099, 49.411239 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2021 17:28:32",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.692088, 49.410803 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2021 17:28:38",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.692214, 49.410617 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2021 17:31:34",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.692058, 49.406316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/07/2021 20:31:23",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.704116, 49.409694 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/07/2021 16:29:27",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.69242, 49.410248 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2021 17:28:23",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.692099, 49.411239 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2021 17:28:32",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.692088, 49.410803 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2021 17:28:38",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.692214, 49.410617 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2021 17:31:34",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.692058, 49.406316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/07/2021 10:13:56",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.689107, 49.405773 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/07/2021 15:31:19",
       "bikeType" : "-",
       "child" : "Nein",
@@ -435,24 +597,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "15/07/2021 21:00:21",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Beinahe-Abbiegeunfall",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.681086, 49.408849 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "date" : "08/07/2021 15:18:53",
       "bikeType" : "-",
       "child" : "Nein",
@@ -471,182 +615,38 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "07/07/2021 17:28:23",
+      "date" : "15/07/2021 21:00:21",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.681086, 49.408849 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/04/2021 17:51:34",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
       "scary" : "Ja",
       "descr" : "",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.692099, 49.411239 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/07/2021 17:28:32",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Ein- oder ausparkendes Fahrzeug",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.692088, 49.410803 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/07/2021 17:28:38",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Ein- oder ausparkendes Fahrzeug",
-      "participant" : "Lieferwagen",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.692214, 49.410617 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/07/2021 17:31:34",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Sonstiges",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.692058, 49.406316 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/07/2021 17:28:23",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Beinahe-Abbiegeunfall",
-      "participant" : "PKW",
-      "scary" : "Ja",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.692099, 49.411239 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/07/2021 17:28:32",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Ein- oder ausparkendes Fahrzeug",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.692088, 49.410803 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/07/2021 17:28:38",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Ein- oder ausparkendes Fahrzeug",
-      "participant" : "Lieferwagen",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.692214, 49.410617 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "07/07/2021 17:31:34",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Sonstiges",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.692058, 49.406316 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "05/07/2021 16:29:27",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Beinahe-Abbiegeunfall",
-      "participant" : "PKW",
-      "scary" : "Ja",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.69242, 49.410248 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "14/07/2021 10:13:56",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Entgegenkommender Verkehrsteilnehmer",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Kaiserslautern"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.689107, 49.405773 ]
+      "coordinates" : [ 7.77244119, 49.43613067 ]
     }
   } ]
 }

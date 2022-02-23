@@ -3,6 +3,24 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "19/03/2021 13:40:08",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Pkw hat Vorfahrt des Rades im Kreisel nicht beachtet\\n\\n\\n",
+      "region" : "Landau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.11553522, 49.19480954 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "23/03/2021 15:45:50",
       "bikeType" : "-",
       "child" : "Nein",
@@ -39,7 +57,7 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "31/03/2021 11:20:49",
+      "date" : "30/03/2021 15:57:32",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
@@ -47,12 +65,48 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Weil der freigegebene Gehweg so holprig ist, hat sich mein Gepäck gelockert.",
+      "descr" : "Erholungshalt wegen starker Steigung im Ortsbereich Weyher",
       "region" : "Landau"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 7.990125583946717, 49.215709100755085 ]
+      "coordinates" : [ 8.08402577, 49.2672187 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/03/2021 15:39:48",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Landau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.2531338, 49.23201508 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/03/2021 15:10:52",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Der leere Anhänger ist beim um-die-Kurve-Fahren auf die Seite gekippt.",
+      "region" : "Landau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.079937838865275, 49.20914838020718 ]
     }
   }, {
     "type" : "Feature",
@@ -71,6 +125,42 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 7.999950810340296, 49.23027866350063 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/03/2021 11:20:49",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Weil der freigegebene Gehweg so holprig ist, hat sich mein Gepäck gelockert.",
+      "region" : "Landau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.990125583946717, 49.215709100755085 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/03/2021 16:01:52",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Warten auf entgegenkommende Pkw wegen geringer Fahrbahnbreite",
+      "region" : "Landau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.12755327, 49.27829189 ]
     }
   }, {
     "type" : "Feature",
@@ -129,20 +219,20 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "23/03/2021 16:01:52",
+      "date" : "19/03/2021 15:26:46",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
-      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Warten auf entgegenkommende Pkw wegen geringer Fahrbahnbreite",
+      "descr" : "",
       "region" : "Landau"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.12755327, 49.27829189 ]
+      "coordinates" : [ 8.11505149, 49.20118692 ]
     }
   }, {
     "type" : "Feature",
@@ -165,114 +255,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "29/03/2021 15:10:52",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Sonstiges",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "Der leere Anhänger ist beim um-die-Kurve-Fahren auf die Seite gekippt.",
-      "region" : "Landau"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.079937838865275, 49.20914838020718 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "19/03/2021 13:40:08",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Sonstiges",
-      "participant" : "",
-      "scary" : "Ja",
-      "descr" : "Pkw hat Vorfahrt des Rades im Kreisel nicht beachtet\\n\\n\\n",
-      "region" : "Landau"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.11553522, 49.19480954 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "19/03/2021 15:26:46",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Landau"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.11505149, 49.20118692 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "17/03/2021 15:39:48",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Hindernis ausweichen (z.B. Hund)",
-      "participant" : "Sonstiges",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Landau"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.2531338, 49.23201508 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "30/03/2021 15:57:32",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Sonstiges",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "Erholungshalt wegen starker Steigung im Ortsbereich Weyher",
-      "region" : "Landau"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.08402577, 49.2672187 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "01/04/2021 16:38:40",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "Fußgänger",
-      "scary" : "Nein",
-      "descr" : "Pkw weicht entgegenkommender Fußgängerin aus und kommt sehr weit auf meine Spur.",
-      "region" : "Landau"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.0904702, 49.26886813 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "date" : "08/04/2021 15:38:53",
       "bikeType" : "-",
       "child" : "Nein",
@@ -291,20 +273,38 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "03/04/2021 16:24:16",
+      "date" : "03/04/2021 14:23:26",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "PKW ohne blinker abgebogen, Fahrer mit Handy in der hand und hat anschließend noch gedroht. ",
+      "region" : "Landau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.372615771368146, 49.22945226542652 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/04/2021 13:57:13",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
-      "participant" : "",
+      "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Warten auf entgegenkommende Pkw hinter abgestellten Fahrzeugen",
+      "descr" : "inline-Fahrer haben beim überholen von Fußgängern auf ihrer Seite den weg blockiert. starke Bremsweg war notwendig. ",
       "region" : "Landau"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.12624876, 49.25914408 ]
+      "coordinates" : [ 8.381625898182392, 49.21861794311553 ]
     }
   }, {
     "type" : "Feature",
@@ -345,38 +345,38 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "03/04/2021 14:23:26",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Beinahe-Abbiegeunfall",
-      "participant" : "",
-      "scary" : "Ja",
-      "descr" : "PKW ohne blinker abgebogen, Fahrer mit Handy in der hand und hat anschließend noch gedroht. ",
-      "region" : "Landau"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.372615771368146, 49.22945226542652 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "03/04/2021 13:57:13",
+      "date" : "03/04/2021 16:24:16",
       "bikeType" : "-",
       "child" : "Nein",
       "trailer" : "Nein",
       "pLoc" : "Hosentasche",
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
-      "participant" : "Sonstiges",
+      "participant" : "",
       "scary" : "Nein",
-      "descr" : "inline-Fahrer haben beim überholen von Fußgängern auf ihrer Seite den weg blockiert. starke Bremsweg war notwendig. ",
+      "descr" : "Warten auf entgegenkommende Pkw hinter abgestellten Fahrzeugen",
       "region" : "Landau"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 8.381625898182392, 49.21861794311553 ]
+      "coordinates" : [ 8.12624876, 49.25914408 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/04/2021 16:38:40",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Pkw weicht entgegenkommender Fußgängerin aus und kommt sehr weit auf meine Spur.",
+      "region" : "Landau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.0904702, 49.26886813 ]
     }
   } ]
 }

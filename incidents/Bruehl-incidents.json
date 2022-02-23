@@ -3,42 +3,6 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
-      "date" : "22/04/2021 19:02:27",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Bruehl"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.72805118, 51.07123996 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "date" : "23/04/2021 08:30:57",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Zu dichtes Überholen",
-      "participant" : "LKW",
-      "scary" : "Nein",
-      "descr" : "Engstelle Löbtauer Straße Ecke Schäferstraße. Marker kann dort nicht platziert werden. ",
-      "region" : "Bruehl"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.71971282, 51.05452962 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "date" : "11/05/2021 09:09:30",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -129,24 +93,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "date" : "08/07/2021 17:30:31",
-      "bikeType" : "-",
-      "child" : "Nein",
-      "trailer" : "Nein",
-      "pLoc" : "Hosentasche",
-      "incident" : "Ein- oder ausparkendes Fahrzeug",
-      "participant" : "PKW",
-      "scary" : "Nein",
-      "descr" : "",
-      "region" : "Bruehl"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.07200416, 50.72655616 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "date" : "20/07/2021 17:17:33",
       "bikeType" : "-",
       "child" : "Nein",
@@ -197,6 +143,60 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 7.07163373, 50.72651911 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/07/2021 17:30:31",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.07200416, 50.72655616 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2021 08:30:57",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Engstelle Löbtauer Straße Ecke Schäferstraße. Marker kann dort nicht platziert werden. ",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.71971282, 51.05452962 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2021 19:02:27",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bruehl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.72805118, 51.07123996 ]
     }
   } ]
 }
