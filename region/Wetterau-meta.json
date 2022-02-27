@@ -1,7 +1,11 @@
 {
-    "regionTitle": "SimRa Analysekarte für den Wetteraukreis",
-    "regionDescription": "Für den Wetteraukreis werden Segmente (Straßenabschnitte und Kreuzungen) angezeigt, für die entweder a) <b>mindestens 10 Fahrten</b> oder b) <b>mindestens 3 Fahrten und ein Gefahrenscore von 0,25</b> oder mehr vorliegen.",
-    "regionDate": "Karte generiert am 26. Mai 2021",
-    "mapView": [50.339471, 8.754113],
-    "mapZoom": 12
+  "timeStamp": "2022-02-27T14:47:18.431890",
+  "regionDate": "Karte generiert am February 27, 2022",
+  "mapView": [
+    50.339471,
+    8.754113
+  ],
+  "regionTitle": "SimRa Analysekarte für Wetteraukreis",
+  "regionDescription": "Für Wetteraukreis werden Segmente (Straßenabschnitte und Kreuzungen) angezeigt, für die entweder a) <b>mindestens 15 Fahrten<\/b> oder b) <b>mindestens 5 Fahrten und ein Gefahrenscore von 0.25<\/b> oder mehr vorliegen.",
+  "mapZoom": 12
 }
