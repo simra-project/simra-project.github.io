@@ -1,26 +1,26 @@
 {
-  "totalRides": 64869,
-  "totalIncidents": 27228,
-  "totalKm": 512734,
-  "diffDate": "20.02.2022, 23:00:10",
+  "totalRides": 64900,
+  "totalIncidents": 27301,
+  "totalKm": 513055,
+  "diffDate": "21.02.2022, 23:00:10",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        27165,
-        123
+        27184,
+        117
       ],
       "incidents": [
         13191,
-        83
+        67
       ],
       "scaryIncidents": [
         3648,
-        30
+        26
       ],
       "km": [
-        216264,
-        979
+        216402,
+        1000
       ]
     },
     {
@@ -84,7 +84,7 @@
       "name": "Nuernberg",
       "rides": [
         3370,
-        59
+        57
       ],
       "incidents": [
         2740,
@@ -96,33 +96,33 @@
       ],
       "km": [
         23219,
-        450
+        431
       ]
     },
     {
       "name": "Ruhrgebiet",
       "rides": [
-        2683,
-        2
+        2688,
+        6
       ],
       "incidents": [
-        1325,
-        0
+        1380,
+        55
       ],
       "scaryIncidents": [
         418,
         0
       ],
       "km": [
-        21249,
-        22
+        21360,
+        117
       ]
     },
     {
       "name": "Wuppertal",
       "rides": [
-        2633,
-        7
+        2635,
+        9
       ],
       "incidents": [
         260,
@@ -133,8 +133,8 @@
         0
       ],
       "km": [
-        21692,
-        77
+        21721,
+        106
       ]
     },
     {
@@ -160,19 +160,19 @@
       "name": "München",
       "rides": [
         1790,
-        17
+        14
       ],
       "incidents": [
         690,
-        5
+        4
       ],
       "scaryIncidents": [
         71,
-        2
+        1
       ],
       "km": [
         13634,
-        59
+        56
       ]
     },
     {
@@ -198,7 +198,7 @@
       "name": "Eichwalde",
       "rides": [
         1192,
-        3
+        2
       ],
       "incidents": [
         63,
@@ -210,26 +210,26 @@
       ],
       "km": [
         12019,
-        38
+        23
       ]
     },
     {
       "name": "Stuttgart",
       "rides": [
-        1096,
-        17
+        1097,
+        18
       ],
       "incidents": [
-        647,
-        11
+        665,
+        29
       ],
       "scaryIncidents": [
         63,
         3
       ],
       "km": [
-        13750,
-        223
+        13776,
+        249
       ]
     },
     {
@@ -331,11 +331,11 @@
       "name": "Dresden",
       "rides": [
         572,
-        17
+        14
       ],
       "incidents": [
         195,
-        9
+        7
       ],
       "scaryIncidents": [
         35,
@@ -343,14 +343,14 @@
       ],
       "km": [
         4880,
-        112
+        92
       ]
     },
     {
       "name": "Wetterau",
       "rides": [
-        553,
-        0
+        554,
+        1
       ],
       "incidents": [
         275,
@@ -361,8 +361,8 @@
         0
       ],
       "km": [
-        5242,
-        0
+        5255,
+        13
       ]
     },
     {
@@ -387,8 +387,8 @@
     {
       "name": "Düsseldorf",
       "rides": [
-        492,
-        8
+        494,
+        7
       ],
       "incidents": [
         114,
@@ -399,34 +399,34 @@
         0
       ],
       "km": [
-        5242,
-        91
+        5244,
+        40
       ]
     },
     {
       "name": "Frankfurt",
       "rides": [
-        321,
-        13
+        322,
+        12
       ],
       "incidents": [
         262,
-        3
+        2
       ],
       "scaryIncidents": [
         60,
-        2
+        1
       ],
       "km": [
-        1424,
-        72
+        1426,
+        69
       ]
     },
     {
       "name": "Saarlouis",
       "rides": [
         316,
-        5
+        0
       ],
       "incidents": [
         90,
@@ -438,7 +438,7 @@
       ],
       "km": [
         2139,
-        7
+        0
       ]
     },
     {
@@ -958,19 +958,19 @@
       "name": "Ostalbkreis",
       "rides": [
         9,
-        4
+        3
       ],
       "incidents": [
         15,
-        14
+        8
       ],
       "scaryIncidents": [
         10,
-        10
+        5
       ],
       "km": [
         66,
-        12
+        7
       ]
     },
     {
@@ -1411,5 +1411,5 @@
       ]
     }
   ],
-  "sourceDate": "27.02.2022, 23:00:09"
+  "sourceDate": "28.02.2022, 23:00:05"
 }
