@@ -2034,5 +2034,23 @@
       "type" : "Point",
       "coordinates" : [ 6.77241429, 51.21919271 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/02/2022 18:01:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "pkw auf radstreifen",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.76767361, 51.21095194 ]
+    }
   } ]
 }

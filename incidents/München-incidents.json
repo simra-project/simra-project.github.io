@@ -12189,6 +12189,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "27/02/2022 14:44:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.53448611, 48.19271326 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "15/11/2021 15:15:50",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -12225,6 +12243,42 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "26/02/2022 17:08:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.53438683, 48.19287726 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/02/2022 17:09:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.54178758, 48.19211444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "03/02/2022 14:58:52",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -12239,6 +12293,24 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 11.52959435, 48.19500411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/02/2022 16:37:46",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.53703256, 48.1925671 ]
     }
   }, {
     "type" : "Feature",
