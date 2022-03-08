@@ -199,6 +199,12 @@ switch (params.get("region")) {
 	    incidents = "incidents/Koblenz-incidents.json";
         incidentsMeta = "incidents/Koblenz-incidents-meta.json";
         break;
+    case "köln_all":
+        region = "region/Köln_all.json";
+        regionMeta = "region/Köln_all-meta.json";
+	    incidents = "incidents/Köln-incidents.json";
+        incidentsMeta = "incidents/Köln-incidents-meta.json";
+        break;
     case "konstanz":
         region = "region/Konstanz.json";
         regionMeta = "region/Konstanz-meta.json";
