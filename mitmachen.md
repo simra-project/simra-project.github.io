@@ -41,7 +41,7 @@ Die anonymisierten Daten können an unseren Server gesandt werden und sind dann 
 ![Nutzung](./resources/usage.png)
 
 ## Mitmachen als Regionsverantwortliche/r
-Wenn es in bei euch in der Gegend noch keine Region gibt, können ihr einfach eine starten und dabei der/die Regionsverantwortliche/r werden (ggf. auch gemeinsam mit anderen). Regionsverantwortliche sind dafür zuständig, neue Nutzende in ihrer Region zu gewinnen und mit den Daten "etwas anzufangen". Auf Basis von uns vorausgewerteter Daten (siehe z.B. die Karten im [Dashboard](https://simra-project.github.io/dashboard/), tretet ihr hierfür an die lokal zuständigen Behörden heran. Bei Bedarf liefern wir auch individuell noch angepasste automatische Auswertungen (je nach Kapazität bei uns) und Regionsverantwortliche bekommen auch Zugriff auf Rohdaten. Bei Interesse einfach eine Email an [Ahmet Karakaya](mailto:ask@mcc.tu-berlin.de) schreiben.
+Wenn es bei euch in der Gegend noch keine Region gibt, könnt ihr einfach eine starten und dabei der/die Regionsverantwortliche/r werden (ggf. auch gemeinsam mit anderen). Regionsverantwortliche sind dafür zuständig, neue Nutzende in ihrer Region zu gewinnen und mit den Daten "etwas anzufangen". Auf Basis von uns vorausgewerteter Daten (siehe z.B. die Karten im [Dashboard](https://simra-project.github.io/dashboard/), tretet ihr hierfür an die lokal zuständigen Behörden heran. Bei Bedarf liefern wir auch individuell noch angepasste automatische Auswertungen (je nach Kapazität bei uns) und Regionsverantwortliche können auch Zugriff auf die lokalen Rohdaten bekommen. Bei Interesse einfach eine Email an [Ahmet Karakaya](mailto:ask@mcc.tu-berlin.de) schreiben.
 
 ## Nutzung von Daten und Code
 
