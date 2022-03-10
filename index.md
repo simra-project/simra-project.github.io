@@ -1,4 +1,4 @@
- 
+-
 # Statistiken und Ergebnisse
 
 Die Anzahl der hochgeladenen Fahrten (allgemein und regionspezifisch) kann interaktiv [hier im Dashboard](https://simra-project.github.io/dashboard/) eingesehen werden. Über den Regionsnamen (sofern anklickbar) kann man dort auch auf die jeweils neueste Ergebniskarte zugreifen.
