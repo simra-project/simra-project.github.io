@@ -1,6 +1,6 @@
 # Mitmachen
 
-Jede/r Radfahrer/in in einer unserer Regionen kann durch die Nutzung unserer App an SimRa mitwirken und so Teil unserer Community der "SimRadelnden" werden (siehe erster untenstehender Abschnitt). Zugleich können interessierte 'citizen scientists' aber auch selbst mit unseren Daten und unserem Code arbeiten (siehe zweiter Abschnitt).  
+Jede/r Radfahrer/in in einer unserer Regionen kann durch die Nutzung unserer App an SimRa mitwirken und so Teil unserer Community der "SimRadelnden" werden (siehe erster untenstehender Abschnitt) oder eine neue Region starten (siehe zweiter Abschnitt weiter unten). Zugleich können interessierte 'citizen scientists' aber auch selbst mit unseren Daten und unserem Code arbeiten (siehe dritter Abschnitt).  
 
 ## Mitmachen als "SimRadelnde/r"
 
