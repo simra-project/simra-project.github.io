@@ -28,7 +28,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Wuppertal/Remscheid/Solingen
 - Viele weitere Städte/Regionen im Südwesten Deutschlands, siehe grün markierte Bereiche auf der [Karte](./resources/region_map.png)
 
-Weitere Informationen und Kontaktdaten sind auf der [Projektseite](https://www.digital-future.berlin/forschung/projekte/simra/) abrufbar, erste [Ergebnisse](./index.md) sind bereits verfügbar!!
+Weitere Informationen und Kontaktdaten sind auf der [Projektseite](https://www.digital-future.berlin/forschung/projekte/simra/) abrufbar, erste [Ergebnisse](./index.md) sind bereits verfügbar.
 
 Der Beitrag jedes Einzelnen zählt! Um mit zu machen, muss nur unsere Smartphone-App installiert werden:
 - Für Android (6+) und LineageOS im [Google PlayStore](https://play.google.com/store/apps/details?id=de.tuberlin.mcc.simra.app) und direkt als [APK-Datei](http://www.redaktion.tu-berlin.de/fileadmin/fg344/simra/SimRa.apk)
@@ -39,6 +39,9 @@ Nach der Fahrt können besondere Ereignisse auf der Karte markiert und im Anschl
 Die anonymisierten Daten können an unseren Server gesandt werden und sind dann online frei zugänglich - jeder Interessierte kann sich an der Auswertung beteiligen!
 
 ![Nutzung](./resources/usage.png)
+
+## Mitmachen als Regionsverantwortliche/r
+Wenn es in bei euch in der Gegend noch keine Region gibt, können ihr einfach eine starten und dabei der/die Regionsverantwortliche/r werden (ggf. auch gemeinsam mit anderen). Regionsverantwortliche sind dafür zuständig, neue Nutzende in ihrer Region zu gewinnen und mit den Daten "etwas anzufangen". Auf Basis von uns vorausgewerteter Daten (siehe z.B. die Karten im [Dashboard](https://simra-project.github.io/dashboard/), tretet ihr hierfür an die lokal zuständigen Behörden heran. Bei Bedarf liefern wir auch individuell noch angepasste automatische Auswertungen (je nach Kapazität bei uns) und Regionsverantwortliche bekommen auch Zugriff auf Rohdaten. Bei Interesse einfach eine Email an [Ahmet Karakaya](mailto:ask@mcc.tu-berlin.de) schreiben.
 
 ## Nutzung von Daten und Code
 
