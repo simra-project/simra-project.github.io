@@ -1,4 +1,4 @@
-ㅤ![DDF2022](./resources/DDF2022.png | width=100)
+ㅤ![DDF2022](./resources/DDF2022.png)
 
 # Statistiken und Ergebnisse
 
