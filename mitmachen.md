@@ -25,6 +25,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Köln
 - Ruhrgebiet
 - Weimar
+- Wesel
 - Wuppertal/Remscheid/Solingen
 - Viele weitere Städte/Regionen im Südwesten Deutschlands, siehe grün markierte Bereiche auf der [Karte](./resources/region_map.png)
 
