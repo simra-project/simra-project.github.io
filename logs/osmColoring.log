@@ -1,0 +1,41 @@
+[32m12:34:32.631 [main           ] INFO  main.MainKt                    - CommandLineArguments(simraRoot=/sdb/SimRa/Regions, region='Köln', outputDir='/sdb/SimRa/dashboard/simra-project.github.io/region', suffix='', osmDataDir='/sdb/SimRa/osmPrep_osmCol/preparation', scarinessFactor=4.4, relevanceThresholdRideCount=1, relevanceThresholdScore=0.25, relevanceThresholdScoreRideCount=10, ignoreIrrelevantSegments=true, jsonOutputFile=/sdb/SimRa/dashboard/simra-project.github.io/region/Köln_all.json, osmJunctionFile=/sdb/SimRa/osmPrep_osmCol/preparation/Köln_junctions_complete_2022-02-23.csv, osmSegmentsFile=/sdb/SimRa/osmPrep_osmCol/preparation/Köln_segments_complete_2022-02-23.csv, osmMetaFile=/sdb/SimRa/osmPrep_osmCol/preparation/Köln_meta.json, BBOX_LATS=[50.828878, 50.828878, 51.098539, 51.098539], BBOX_LONS=[6.779807, 7.169534, 7.169534, 6.779807])
+[m[36m12:34:32.747 [main           ] DEBUG geobroker.RasterKt             - Raster created, granularity = 1000, degree step = 0.001
+[m[32m12:34:32.765 [main           ] INFO  Graph.SegmentImporter          - Importing junctions from: /sdb/SimRa/osmPrep_osmCol/preparation/Köln_junctions_complete_2022-02-23.csv
+[m[32m12:34:35.773 [main           ] INFO  Graph.SegmentImporter          - SegmentMap size after adding junctions: 14210
+[m[32m12:34:35.774 [main           ] INFO  Graph.SegmentImporter          - Importing street segments from: /sdb/SimRa/osmPrep_osmCol/preparation/Köln_segments_complete_2022-02-23.csv
+[m[36m12:36:50.473 [main           ] DEBUG Graph.SegmentMapper            - number of unmatched ride buckets: 2373
+[m[36m12:36:50.474 [main           ] DEBUG Graph.SegmentMapper            - number of all rides: 5244
+[m[36m12:36:50.474 [main           ] DEBUG Graph.SegmentMapper            - number of included rides: 66
+[m[36m12:36:50.475 [main           ] DEBUG Graph.SegmentMapper            - number of all incidents: 146
+[m[36m12:36:50.475 [main           ] DEBUG Graph.SegmentMapper            - number of included incidents: 103
+[m[32m12:36:50.731 [main           ] INFO  Graph.SegmentMapper            - Number of Segments: 162745
+[m[32m12:36:50.732 [main           ] INFO  Graph.SegmentMapper            - Number of Segments with at least 1 ride: 2443
+[m[32m12:36:50.732 [main           ] INFO  Graph.SegmentMapper            - Number of relevant segments: 1726
+[m[32m12:47:48.977 [main           ] INFO  main.MainKt                    - CommandLineArguments(simraRoot=/sdb/SimRa/Regions, region='Ahrweiler', outputDir='/sdb/SimRa/dashboard/simra-project.github.io/region', suffix='', osmDataDir='/sdb/SimRa/osmPrep_osmCol/preparation', scarinessFactor=4.4, relevanceThresholdRideCount=1, relevanceThresholdScore=0.25, relevanceThresholdScoreRideCount=10, ignoreIrrelevantSegments=true, jsonOutputFile=/sdb/SimRa/dashboard/simra-project.github.io/region/Ahrweiler_all.json, osmJunctionFile=/sdb/SimRa/osmPrep_osmCol/preparation/Ahrweiler_junctions_complete_2022-02-23.csv, osmSegmentsFile=/sdb/SimRa/osmPrep_osmCol/preparation/Ahrweiler_segments_complete_2022-02-23.csv, osmMetaFile=/sdb/SimRa/osmPrep_osmCol/preparation/Ahrweiler_meta.json, BBOX_LATS=[50.3, 50.3, 50.65, 50.65], BBOX_LONS=[6.74, 7.31, 7.31, 6.74])
+[m[32m12:48:01.854 [main           ] INFO  main.MainKt                    - CommandLineArguments(simraRoot=/sdb/SimRa/Regions, region='Ahrweiler', outputDir='/sdb/SimRa/dashboard/simra-project.github.io/region', suffix='', osmDataDir='/sdb/SimRa/osmPrep_osmCol/preparation', scarinessFactor=4.4, relevanceThresholdRideCount=1, relevanceThresholdScore=0.25, relevanceThresholdScoreRideCount=10, ignoreIrrelevantSegments=true, jsonOutputFile=/sdb/SimRa/dashboard/simra-project.github.io/region/Ahrweiler_all.json, osmJunctionFile=/sdb/SimRa/osmPrep_osmCol/preparation/Ahrweiler_junctions_complete_2022-02-23.csv, osmSegmentsFile=/sdb/SimRa/osmPrep_osmCol/preparation/Ahrweiler_segments_complete_2022-02-23.csv, osmMetaFile=/sdb/SimRa/osmPrep_osmCol/preparation/Ahrweiler_meta.json, BBOX_LATS=[50.3, 50.3, 50.65, 50.65], BBOX_LONS=[6.74, 7.31, 7.31, 6.74])
+[m[36m12:48:01.888 [main           ] DEBUG geobroker.RasterKt             - Raster created, granularity = 1000, degree step = 0.001
+[m[32m12:48:01.904 [main           ] INFO  Graph.SegmentImporter          - Importing junctions from: /sdb/SimRa/osmPrep_osmCol/preparation/Ahrweiler_junctions_complete_2022-02-23.csv
+[m[32m12:48:04.170 [main           ] INFO  Graph.SegmentImporter          - SegmentMap size after adding junctions: 8937
+[m[32m12:48:04.170 [main           ] INFO  Graph.SegmentImporter          - Importing street segments from: /sdb/SimRa/osmPrep_osmCol/preparation/Ahrweiler_segments_complete_2022-02-23.csv
+[m[36m12:49:25.280 [main           ] DEBUG Graph.SegmentMapper            - number of unmatched ride buckets: 512
+[m[36m12:49:25.281 [main           ] DEBUG Graph.SegmentMapper            - number of all rides: 5238
+[m[36m12:49:25.282 [main           ] DEBUG Graph.SegmentMapper            - number of included rides: 5
+[m[36m12:49:25.282 [main           ] DEBUG Graph.SegmentMapper            - number of all incidents: 1
+[m[36m12:49:25.282 [main           ] DEBUG Graph.SegmentMapper            - number of included incidents: 1
+[m[32m12:49:25.387 [main           ] INFO  Graph.SegmentMapper            - Number of Segments: 92308
+[m[32m12:49:25.387 [main           ] INFO  Graph.SegmentMapper            - Number of Segments with at least 1 ride: 309
+[m[32m12:49:25.388 [main           ] INFO  Graph.SegmentMapper            - Number of relevant segments: 258
+[m[32m13:02:53.094 [main           ] INFO  main.MainKt                    - CommandLineArguments(simraRoot=/sdb/SimRa/Regions, region='Hamburg-Blankenese', outputDir='/sdb/SimRa/dashboard/simra-project.github.io/region', suffix='', osmDataDir='/sdb/SimRa/osmPrep_osmCol/preparation', scarinessFactor=4.4, relevanceThresholdRideCount=1, relevanceThresholdScore=0.25, relevanceThresholdScoreRideCount=10, ignoreIrrelevantSegments=true, jsonOutputFile=/sdb/SimRa/dashboard/simra-project.github.io/region/Hamburg-Blankenese_all.json, osmJunctionFile=/sdb/SimRa/osmPrep_osmCol/preparation/Hamburg-Blankenese_junctions_complete_2022-02-23.csv, osmSegmentsFile=/sdb/SimRa/osmPrep_osmCol/preparation/Hamburg-Blankenese_segments_complete_2022-02-23.csv, osmMetaFile=/sdb/SimRa/osmPrep_osmCol/preparation/Hamburg-Blankenese_meta.json, BBOX_LATS=[53.554839, 53.554839, 53.575895, 53.575895], BBOX_LONS=[9.763373, 9.82603, 9.82603, 9.763373])
+[m[36m13:02:53.137 [main           ] DEBUG geobroker.RasterKt             - Raster created, granularity = 1000, degree step = 0.001
+[m[32m13:02:53.139 [main           ] INFO  Graph.SegmentImporter          - Importing junctions from: /sdb/SimRa/osmPrep_osmCol/preparation/Hamburg-Blankenese_junctions_complete_2022-02-23.csv
+[m[32m13:02:53.558 [main           ] INFO  Graph.SegmentImporter          - SegmentMap size after adding junctions: 187
+[m[32m13:02:53.559 [main           ] INFO  Graph.SegmentImporter          - Importing street segments from: /sdb/SimRa/osmPrep_osmCol/preparation/Hamburg-Blankenese_segments_complete_2022-02-23.csv
+[m[36m13:04:15.402 [main           ] DEBUG Graph.SegmentMapper            - number of unmatched ride buckets: 50
+[m[36m13:04:15.403 [main           ] DEBUG Graph.SegmentMapper            - number of all rides: 5210
+[m[36m13:04:15.404 [main           ] DEBUG Graph.SegmentMapper            - number of included rides: 0
+[m[36m13:04:15.404 [main           ] DEBUG Graph.SegmentMapper            - number of all incidents: 0
+[m[36m13:04:15.404 [main           ] DEBUG Graph.SegmentMapper            - number of included incidents: 0
+[m[32m13:04:15.420 [main           ] INFO  Graph.SegmentMapper            - Number of Segments: 2005
+[m[32m13:04:15.425 [main           ] INFO  Graph.SegmentMapper            - Number of Segments with at least 1 ride: 103
+[m[32m13:04:15.425 [main           ] INFO  Graph.SegmentMapper            - Number of relevant segments: 79
+[m
