@@ -451,6 +451,12 @@ switch (params.get("region")) {
 	    incidents = "incidents/Weimar-incidents.json";
         incidentsMeta = "incidents/Weimar-incidents-meta.json";
         break;
+    case "wesel_all":
+        region = "region/Wesel_all.json";
+        regionMeta = "region/Wesel_all-meta.json";
+	    incidents = "incidents/Wesel-incidents.json";
+        incidentsMeta = "incidents/Wesel-incidents-meta.json";
+        break;
     case "wetterau":
         region = "region/Wetterau.json";
         regionMeta = "region/Wetterau-meta.json";
