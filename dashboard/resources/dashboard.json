@@ -1,26 +1,26 @@
 {
-  "totalRides": 65584,
-  "totalIncidents": 27835,
-  "totalKm": 517689,
-  "diffDate": "05.03.2022, 23:00:04",
+  "totalRides": 65626,
+  "totalIncidents": 27880,
+  "totalKm": 518030,
+  "diffDate": "06.03.2022, 23:00:09",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        27443,
-        168
+        27466,
+        175
       ],
       "incidents": [
-        13301,
-        49
+        13322,
+        55
       ],
       "scaryIncidents": [
-        3683,
-        11
+        3684,
+        5
       ],
       "km": [
-        217985,
-        966
+        218095,
+        968
       ]
     },
     {
@@ -64,11 +64,11 @@
     {
       "name": "Nuernberg",
       "rides": [
-        3461,
-        67
+        3466,
+        68
       ],
       "incidents": [
-        2789,
+        2790,
         14
       ],
       "scaryIncidents": [
@@ -76,8 +76,8 @@
         2
       ],
       "km": [
-        23760,
-        444
+        23876,
+        521
       ]
     },
     {
@@ -103,7 +103,7 @@
       "name": "Ruhrgebiet",
       "rides": [
         2750,
-        33
+        31
       ],
       "incidents": [
         1505,
@@ -115,14 +115,14 @@
       ],
       "km": [
         21966,
-        317
+        183
       ]
     },
     {
       "name": "Wuppertal",
       "rides": [
-        2677,
-        19
+        2679,
+        21
       ],
       "incidents": [
         265,
@@ -133,8 +133,8 @@
         3
       ],
       "km": [
-        22167,
-        214
+        22197,
+        244
       ]
     },
     {
@@ -178,8 +178,8 @@
     {
       "name": "Bielefeld",
       "rides": [
-        1217,
-        0
+        1218,
+        1
       ],
       "incidents": [
         56,
@@ -190,8 +190,8 @@
         0
       ],
       "km": [
-        3851,
-        0
+        3852,
+        1
       ]
     },
     {
@@ -366,6 +366,25 @@
       ]
     },
     {
+      "name": "Düsseldorf",
+      "rides": [
+        514,
+        12
+      ],
+      "incidents": [
+        117,
+        3
+      ],
+      "scaryIncidents": [
+        13,
+        0
+      ],
+      "km": [
+        5490,
+        144
+      ]
+    },
+    {
       "name": "Leipzig",
       "rides": [
         509,
@@ -382,25 +401,6 @@
       "km": [
         2684,
         0
-      ]
-    },
-    {
-      "name": "Düsseldorf",
-      "rides": [
-        509,
-        8
-      ],
-      "incidents": [
-        115,
-        1
-      ],
-      "scaryIncidents": [
-        13,
-        0
-      ],
-      "km": [
-        5456,
-        120
       ]
     },
     {
@@ -727,6 +727,25 @@
       ]
     },
     {
+      "name": "Köln",
+      "rides": [
+        52,
+        42
+      ],
+      "incidents": [
+        173,
+        168
+      ],
+      "scaryIncidents": [
+        33,
+        30
+      ],
+      "km": [
+        302,
+        239
+      ]
+    },
+    {
       "name": "Breisgau-Hochschwarzwald",
       "rides": [
         48,
@@ -743,25 +762,6 @@
       "km": [
         254,
         0
-      ]
-    },
-    {
-      "name": "Köln",
-      "rides": [
-        48,
-        39
-      ],
-      "incidents": [
-        169,
-        164
-      ],
-      "scaryIncidents": [
-        32,
-        29
-      ],
-      "km": [
-        264,
-        204
       ]
     },
     {
@@ -860,6 +860,25 @@
       ]
     },
     {
+      "name": "Ostalbkreis",
+      "rides": [
+        15,
+        6
+      ],
+      "incidents": [
+        59,
+        44
+      ],
+      "scaryIncidents": [
+        21,
+        11
+      ],
+      "km": [
+        106,
+        40
+      ]
+    },
+    {
       "name": "Ulm",
       "rides": [
         14,
@@ -895,25 +914,6 @@
       "km": [
         134,
         0
-      ]
-    },
-    {
-      "name": "Ostalbkreis",
-      "rides": [
-        13,
-        4
-      ],
-      "incidents": [
-        42,
-        27
-      ],
-      "scaryIncidents": [
-        16,
-        6
-      ],
-      "km": [
-        94,
-        28
       ]
     },
     {
@@ -1487,5 +1487,5 @@
       ]
     }
   ],
-  "sourceDate": "12.03.2022, 23:00:06"
+  "sourceDate": "13.03.2022, 23:00:08"
 }
