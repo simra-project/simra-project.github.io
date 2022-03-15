@@ -1,5 +1,7 @@
 ㅤ![DDF2022](./resources/DDF2022.png)
 
+SimRa hat gemeinsam mit dem [OpenBikeSensor](https://www.openbikesensor.org/) den [Deutschen Fahrradpreis 2022](https://www.youtube.com/watch?v=SXpnTjMLdP4) in der Kategorie "Service & Kommunikation" gewonnen!
+
 # Statistiken und Ergebnisse
 
 Die Anzahl der hochgeladenen Fahrten (allgemein und regionspezifisch) kann interaktiv [hier im Dashboard](https://simra-project.github.io/dashboard/) eingesehen werden. Über den Regionsnamen (sofern anklickbar) kann man dort auch auf die jeweils neueste Ergebniskarte zugreifen.
