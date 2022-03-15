@@ -319,6 +319,12 @@ switch (params.get("region")) {
 	    incidents = "incidents/Ortenau-incidents.json";
         incidentsMeta = "incidents/Ortenau-incidents-meta.json";
         break;
+    case "ostalbkreis_all":
+        region = "region/Ostalbkreis_all.json";
+        regionMeta = "region/Ostalbkreis_all-meta.json";
+	    incidents = "incidents/Ostalbkreis-incidents.json";
+        incidentsMeta = "incidents/Ostalbkreis-incidents-meta.json";
+        break;
     case "pforzheim_all":
         region = "region/Pforzheim_all.json";
         regionMeta = "region/Pforzheim_all-meta.json";
