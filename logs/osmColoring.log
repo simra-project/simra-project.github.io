@@ -38,4 +38,17 @@
 [m[32m13:04:15.420 [main           ] INFO  Graph.SegmentMapper            - Number of Segments: 2005
 [m[32m13:04:15.425 [main           ] INFO  Graph.SegmentMapper            - Number of Segments with at least 1 ride: 103
 [m[32m13:04:15.425 [main           ] INFO  Graph.SegmentMapper            - Number of relevant segments: 79
+[m[32m17:16:52.136 [main           ] INFO  main.MainKt                    - CommandLineArguments(simraRoot=/sdb/SimRa/Regions, region='Wesel', outputDir='/sdb/SimRa/dashboard/simra-project.github.io/region', suffix='', osmDataDir='/sdb/SimRa/osmPrep_osmCol/preparation', scarinessFactor=4.4, relevanceThresholdRideCount=1, relevanceThresholdScore=0.25, relevanceThresholdScoreRideCount=10, ignoreIrrelevantSegments=true, jsonOutputFile=/sdb/SimRa/dashboard/simra-project.github.io/region/Wesel_all.json, osmJunctionFile=/sdb/SimRa/osmPrep_osmCol/preparation/Wesel_junctions_complete_2022-03-11.csv, osmSegmentsFile=/sdb/SimRa/osmPrep_osmCol/preparation/Wesel_segments_complete_2022-03-11.csv, osmMetaFile=/sdb/SimRa/osmPrep_osmCol/preparation/Wesel_meta.json, BBOX_LATS=[51.643695, 51.643695, 51.684795, 51.684795], BBOX_LONS=[6.567792, 6.669244, 6.669244, 6.567792])
+[m[36m17:16:52.191 [main           ] DEBUG geobroker.RasterKt             - Raster created, granularity = 1000, degree step = 0.001
+[m[32m17:16:52.193 [main           ] INFO  Graph.SegmentImporter          - Importing junctions from: /sdb/SimRa/osmPrep_osmCol/preparation/Wesel_junctions_complete_2022-03-11.csv
+[m[32m17:16:52.773 [main           ] INFO  Graph.SegmentImporter          - SegmentMap size after adding junctions: 634
+[m[32m17:16:52.774 [main           ] INFO  Graph.SegmentImporter          - Importing street segments from: /sdb/SimRa/osmPrep_osmCol/preparation/Wesel_segments_complete_2022-03-11.csv
+[m[36m17:18:37.086 [main           ] DEBUG Graph.SegmentMapper            - number of unmatched ride buckets: 0
+[m[36m17:18:37.111 [main           ] DEBUG Graph.SegmentMapper            - number of all rides: 5210
+[m[36m17:18:37.111 [main           ] DEBUG Graph.SegmentMapper            - number of included rides: 0
+[m[36m17:18:37.112 [main           ] DEBUG Graph.SegmentMapper            - number of all incidents: 0
+[m[36m17:18:37.112 [main           ] DEBUG Graph.SegmentMapper            - number of included incidents: 0
+[m[32m17:18:37.125 [main           ] INFO  Graph.SegmentMapper            - Number of Segments: 4876
+[m[32m17:18:37.125 [main           ] INFO  Graph.SegmentMapper            - Number of Segments with at least 1 ride: 0
+[m[32m17:18:37.126 [main           ] INFO  Graph.SegmentMapper            - Number of relevant segments: 0
 [m
