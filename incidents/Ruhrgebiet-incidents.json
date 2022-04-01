@@ -23097,6 +23097,1536 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "01/03/2022 14:31:25",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87865282, 51.40122436 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/03/2022 18:10:01",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Baumwurzeln",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.44497902, 51.47978786 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/03/2022 18:09:49",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Baumwurzeln",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.44599612, 51.47918707 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:42:25",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 5n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.2126, 51.504006 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:42:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 5n Right Sensor: 248n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212452, 51.503004 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:42:56",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 212n Right Sensor: 5n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212257, 51.50201 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:43:54",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 61n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.211834, 51.499686 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:45:28",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 170n Right Sensor: 169n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212481, 51.495799 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:46:22",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 160n Right Sensor: 159n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212707, 51.49472 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:46:28",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 194n Right Sensor: 133n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212748, 51.494363 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:46:40",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 5n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212956, 51.493616 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:46:44",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 86n Right Sensor: 107n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213043, 51.493366 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:46:48",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 149n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213109, 51.493118 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:47:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 141n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213324, 51.491973 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:47:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 82n Right Sensor: 82n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213366, 51.491791 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:47:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 61n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213667, 51.490133 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:47:48",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 164n Right Sensor: 164n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213821, 51.48938 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:47:54",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 198n Right Sensor: 198n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213879, 51.489021 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:48:52",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 140n Right Sensor: 140n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.214033, 51.487719 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:55:42",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 30n Right Sensor: 91n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.216291, 51.473279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 12:56:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 205n Right Sensor: 199n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.217502, 51.470178 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 13:00:10",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 243n Right Sensor: 244n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.220787, 51.46185 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 13:08:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 212n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.233524, 51.448205 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 15:38:27",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.00419444, 51.43310106 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/03/2022 16:51:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Sehr früh ausscherender Rechtsabbieger zieht ohne zu schauen auf Fahrradweg um an stehenden Autos vorbeizukommen",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.9893162, 51.45398995 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:26:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 5n Right Sensor: 44n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.234995, 51.454677 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:28:38",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 185n Right Sensor: 185n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.238149, 51.457923 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:28:57",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 147n Right Sensor: 152n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.237248, 51.458858 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:29:43",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 209n Right Sensor: 208n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.235448, 51.461022 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:31:13",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 176n Right Sensor: 179n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.232469, 51.463274 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:33:29",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 15n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.227127, 51.469569 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:34:59",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 156n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.224577, 51.475476 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:36:07",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 175n Right Sensor: 175n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.22329, 51.477012 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:36:13",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 239n Right Sensor: 5n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.223032, 51.477309 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:36:34",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 5n Right Sensor: 152n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.221719, 51.47843 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:38:23",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 248n Right Sensor: 157n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.22347, 51.479769 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:38:44",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 185n Right Sensor: 163n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.224528, 51.480597 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:41:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 217n Right Sensor: 5n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.218084, 51.48497 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:41:43",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 156n Right Sensor: 157n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.21666, 51.486115 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:41:56",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 5n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.216106, 51.486923 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:44:03",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 143n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213707, 51.489767 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:44:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213616, 51.490141 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:44:15",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 166n Right Sensor: 57n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213511, 51.490526 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:44:24",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 163n Right Sensor: 147n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213337, 51.491147 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:44:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213149, 51.492026 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:45:18",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 5n Right Sensor: 5n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212698, 51.495072 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:46:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 5n Right Sensor: 5n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212123, 51.498333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:47:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 252n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212138, 51.500998 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:47:24",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 146n Right Sensor: 146n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212437, 51.502473 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:48:11",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 5n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212473, 51.505522 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:48:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 5n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.211951, 51.507379 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:48:50",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 45n Right Sensor: 5n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.21178, 51.50788 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/03/2022 19:22:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Rechtsabbieger schaut nicht",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.99749831, 51.45824693 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:06:50",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 28n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.210367, 51.511336 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:07:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 98n Right Sensor: 31n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.210358, 51.511463 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:07:29",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.210619, 51.512565 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:07:32",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 109n Right Sensor: 109n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.210711, 51.512711 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:07:35",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 139n Right Sensor: 137n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.210787, 51.512864 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:07:38",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 127n Right Sensor: 127n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.210868, 51.513009 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:07:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 72n Right Sensor: 72n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.210945, 51.513133 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:07:47",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 98n Right Sensor: 97n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.211106, 51.513387 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:07:59",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 118n Right Sensor: 85n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.211401, 51.514018 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:08:05",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 136n Right Sensor: 136n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.211523, 51.514335 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:08:14",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 197n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.211682, 51.514824 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:10:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 44n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.212939, 51.517856 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:10:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 235n Right Sensor: 191n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213009, 51.517991 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:10:15",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213085, 51.518125 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:10:24",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 137n Right Sensor: 137n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213349, 51.518547 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:10:30",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 138n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213496, 51.518827 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:10:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 173n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213561, 51.518968 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:10:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 180n Right Sensor: 177n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213628, 51.519106 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:10:42",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.21373, 51.519403 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:10:48",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213849, 51.519689 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:10:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213917, 51.519832 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:10:54",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 255n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213981, 51.51997 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 16:24:53",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 221n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.221786, 51.491485 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 16:25:05",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 132n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.221658, 51.490846 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 16:25:18",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 134n Right Sensor: 134n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.221499, 51.490054 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 16:25:21",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 142n Right Sensor: 147n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.221454, 51.489826 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 16:25:30",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 132n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.221343, 51.489179 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 16:26:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 124n Right Sensor: 124n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.221557, 51.487386 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 16:27:29",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 112n Right Sensor: 112n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.218998, 51.484688 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 16:35:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 255n Right Sensor: 252n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.208301, 51.468479 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 16:36:11",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 183n Right Sensor: 188n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.206436, 51.466683 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 16:36:14",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Open Bike Sensor Close Pass incident readingn Left Sensor: 182n Right Sensor: 182n",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.206362, 51.466514 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/03/2022 11:53:52",
       "bikeType" : "E-Bike",
       "child" : "Nein",
@@ -23421,6 +24951,96 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "07/03/2022 09:57:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86744268, 51.40483887 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 08:37:18",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Bei höherer Geschwindigkeit. Fahrrad mit 40 kmh bergab. ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.89158823, 51.41338509 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/03/2022 15:29:30",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86897989, 51.40872002 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/03/2022 15:30:15",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86887565, 51.40786914 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 17:36:35",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Durchfahrt an parkenden Kfz erzwungen ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.8682924, 51.4050279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/03/2022 12:49:22",
       "bikeType" : "E-Bike",
       "child" : "Nein",
@@ -23457,6 +25077,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "22/03/2022 08:42:04",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "Bus parkt auf Fahrrad/Busspur.",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.45876376, 51.47909571 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/03/2022 18:11:45",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -23471,6 +25109,204 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 6.98394761, 51.4523739 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/03/2022 11:42:13",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87288756, 51.42291663 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/03/2022 11:46:26",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88189642, 51.42727667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 14:16:17",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Parkt quer auf Geh- und Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86840409, 51.41435567 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/03/2022 13:11:58",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad, Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Zu enger Bereich im 2richtungs Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87236439, 51.42106308 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/03/2022 19:17:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.98794489, 51.45243096 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/03/2022 19:23:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Rechtsabbieger biegt ab ohne zu schauen, übersieht mich",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.00090519, 51.46473143 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/03/2022 12:06:49",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87444266, 51.42691839 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/03/2022 12:34:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87231736, 51.4210152 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 14:24:54",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87784811, 51.40066933 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 09:44:21",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86373474, 51.39961868 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/03/2022 16:35:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.67550586, 51.9493033 ]
     }
   }, {
     "type" : "Feature",
@@ -23507,6 +25343,168 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 6.84915176, 51.42792904 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 08:03:02",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.89273419, 51.41493054 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/03/2022 09:06:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.02155695, 51.44042719 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/03/2022 09:02:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Beim Linksabbiegen ca. 30 cm Abstand gelassen",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.00570255, 51.44046664 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/03/2022 09:01:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.0048677, 51.44069111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 18:00:55",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86798134, 51.41521765 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 17:12:30",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87784624, 51.40086307 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 09:58:46",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Abwarten bis Fußgänger mit Gehbehinderung an Engstelle durchgelaufen war ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86993248, 51.41825712 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 09:56:57",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Lkw auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86871651, 51.41213387 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 09:54:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "PKW Fahrer hat mich abgedrängt",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86776376, 51.4048711 ]
     }
   }, {
     "type" : "Feature",

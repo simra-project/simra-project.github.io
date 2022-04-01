@@ -1,4 +1,112 @@
 {
   "type" : "FeatureCollection",
-  "features" : [ ]
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 20:23:59",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Starke Steigung ",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.821971, 53.565344 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 20:27:32",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Schlechte Ampel, stelle, Ampelschaltung",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.826791, 53.565645 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 20:30:46",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.839994, 53.56466 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 20:31:22",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.84191, 53.564113 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 20:31:43",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.843152, 53.563788 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 20:32:17",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Fehlender Fahrradweg ",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.84517, 53.563592 ]
+    }
+  } ]
 }

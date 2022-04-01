@@ -2286,5 +2286,167 @@
       "type" : "Point",
       "coordinates" : [ 9.159982586279511, 47.67646125052124 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/03/2022 12:43:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW auf Fahrradbrücke",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.1743754, 47.66882935 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/03/2022 19:05:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.18044259, 47.67574255 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2022 14:20:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.16266287, 47.67556132 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2022 14:16:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Schnell in 30er Zone",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.17117547, 47.67295365 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2022 14:17:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.16945176, 47.6735212 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/03/2022 13:52:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW blockieren vor Kita",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.16346442, 47.67941023 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/03/2022 14:14:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.16395949, 47.67921279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/04/2022 12:20:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.17053707, 47.66165294 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/04/2022 08:44:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "rückwärts ",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.16907663, 47.67923651 ]
+    }
   } ]
 }

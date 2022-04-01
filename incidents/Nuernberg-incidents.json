@@ -46803,6 +46803,366 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "12/03/2022 17:03:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Motorrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.07711625, 49.44907059 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 13:29:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.08209507, 49.4623495 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/02/2022 18:40:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "überhöhte Geschwindigkeit des PKW ",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06830995, 49.4693061 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2022 13:47:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw auf Radstreifen",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.10080935, 49.47018285 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 17:39:58",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Polizist überquert Fahrbahn, ohne nach links oder rechts zu sehen",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.07113823, 49.44596628 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 17:51:06",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06843909, 49.45299738 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 17:45:42",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.08292961, 49.44770136 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 17:47:58",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.07819232, 49.4490941 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 17:48:56",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW beschleunigt stark, um noch vor Fahrrad Engstelle (Baustelle) zu erreichen. Entgegenkommen nicht möglich",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.07469695, 49.44910399 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 17:37:24",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06483961, 49.44443106 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 17:38:42",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06886899, 49.4450064 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 17:46:13",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Mehrere PKW parken auf Fahrbahn v. freigegebener Einbahnstraße. Entgegenkommende KFZ müssen Radstreifen überfahren",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.08087909, 49.44809775 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 17:36:56",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06221157, 49.4442126 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/03/2022 21:03:04",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.037944071885578, 49.47114786424633 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/03/2022 08:22:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Parkhaus Ein- Ausfahrt ",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.068180870582042, 49.45307133585095 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/03/2022 13:07:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06826397, 49.46221973 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/03/2022 18:05:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06603745, 49.45008468 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/03/2022 18:04:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06636604, 49.44817172 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 08:30:21",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05324871, 49.44347322 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 08:27:49",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Glasscherben",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06219965, 49.44755882 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/03/2022 08:45:58",
       "bikeType" : "-",
       "child" : "Nein",
@@ -46889,6 +47249,258 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 11.0398129, 49.44042851 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 19:15:03",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.07775808, 49.46230815 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 08:39:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "LKW parkt auf Radstreifen, kein durchkommen",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04745132, 49.44230959 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 08:41:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "Baufahrzeug parkt auf benutzungspflichtigem Radstreifen",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04697873, 49.44229373 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 08:50:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Mehrere LKW entladen vor Lebensmittelgeschäft, blockieren Fahrbahn auf über 50m am Stück, durch Gegenverkehr ist passieren erst nach Minuten möglich",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.03418873, 49.43357277 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 08:02:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06915039, 49.46218699 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 08:12:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Ja",
+      "descr" : "ohne zu schauen auf die Straße",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.09043639, 49.46748427 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 08:13:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "Vorfahrt genommen worden",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.09091513, 49.46790347 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 08:01:45",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06700985, 49.46191865 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 08:02:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06821294, 49.46200422 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 15:30:24",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06799121, 49.46906577 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 15:30:37",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06825252, 49.46850075 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 15:33:08",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.07131698, 49.46241551 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 15:34:14",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0730145, 49.45902846 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 15:37:09",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06929102, 49.45312777 ]
     }
   }, {
     "type" : "Feature",
@@ -47001,6 +47613,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "15/03/2022 17:47:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Auto fährt unvermittelt auf den Radweg",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.065828800201416, 49.44751296658069 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/03/2022 16:36:23",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -47051,6 +47681,204 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 11.07869525, 49.43871232 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/03/2022 12:48:48",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "parkte auf Radweg, musste in fließenden Verkehr 2spurige Straße ausweichen",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04786287, 49.46063396 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/03/2022 14:54:33",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.07488388, 49.46256149 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/03/2022 08:01:51",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "parkte auf Radweg, dann öffnete sich die Autotüre ",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06328345, 49.44808998 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/03/2022 08:04:07",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0520264, 49.44304679 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/03/2022 08:04:19",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05125389, 49.442566 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/03/2022 16:36:07",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05813554, 49.44789631 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/03/2022 16:37:38",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05967048, 49.45062383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 15:11:48",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04809895, 49.46061149 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 15:13:55",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05266709, 49.46404001 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 15:14:10",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05367002, 49.46470717 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 08:11:46",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05399736, 49.44400018 ]
     }
   }, {
     "type" : "Feature",
@@ -47141,6 +47969,906 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 11.06458879, 49.43642237 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/02/2022 22:08:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06835574, 49.46951916 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/03/2022 22:20:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0683479, 49.46952713 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/03/2022 13:28:03",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04720763, 49.4538418 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 17:56:44",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06711739, 49.45324672 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 16:51:54",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04859688, 49.45308031 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 16:52:13",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0500158, 49.45262789 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 16:52:22",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05069765, 49.45242032 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 16:52:37",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05176306, 49.45205247 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 16:56:21",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05979366, 49.45266223 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 16:43:42",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0386937, 49.43591776 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 16:53:22",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle ohne Umleitung für Fuß- und Radverkehr. 2-spurige Hauptstraße nicht betroffen",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05452164, 49.45117605 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 16:43:39",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"Übersehen\" beim Einfahren auf Hauptstraße, Radweg wird dabei gekreuzt - PKW hätte Vorfahrt gewähren müssen. Gefahrenbremsung auf beiden Seiten, nur wenige cm vor Kollision",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.03865256, 49.43585535 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 16:44:42",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Lieferant für Apotheke blockiert Gehweg, Fußgänger weichen auf Radweg aus",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.03630227, 49.43934927 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 16:49:47",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle blockiert Radstreifen",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04060992, 49.45476343 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 16:50:51",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Fahrzeug zu lang, ragt in Radweg",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04447891, 49.45453668 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2022 16:47:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.016084213066167, 49.599350562342764 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:45:55",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05857942, 49.44868169 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 16:46:49",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05969891, 49.45067488 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/03/2022 18:16:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "wurde vom PKW angehubt, weil ich angeblich zu mittig gefahren bin",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.08889203, 49.47130291 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 07:58:13",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Lieferwagen ragte aus Parklücke und versperrte Radweg",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.03778997, 49.4396472 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 07:58:10",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.03799787, 49.4397096 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 07:55:51",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Lieferwagen parkte auf Radstreifen und blockierte zusätzlich Fußgängerfurt komplett...",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04631325, 49.44240671 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 07:45:29",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06737349, 49.45167888 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 07:45:32",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06717364, 49.45154566 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 07:45:38",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06677829, 49.45124724 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 07:45:45",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06639103, 49.4508888 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 07:50:19",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Motorrad",
+      "scary" : "Nein",
+      "descr" : "Motorroller überholte mit nur wenigen cm Abstand",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05374691, 49.4438251 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 07:52:14",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04719754, 49.44235195 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 07:53:12",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Baustellenfahrzeug parkte auf ben.pfl. Radstreifen",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04718847, 49.4422667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2022 07:56:34",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04579823, 49.44235372 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/03/2022 08:57:26",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Falschparker auf Radstreifen öffnet Tür, während ich ausweiche - in unübersichtlicher Kurve",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05082102, 49.44223772 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/03/2022 08:57:53",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04853012, 49.44225583 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/03/2022 08:58:21",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04591668, 49.44237176 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/03/2022 09:00:56",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0385094, 49.43899495 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/03/2022 09:00:37",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "unvermittelt ohne Blinker von Parkplatz in Kreuzung losgefahren",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0380727, 49.43974453 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/03/2022 08:13:58",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04685311, 49.44239966 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/03/2022 08:18:45",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Baustellenfahrzeug parkt auf Radstreifen",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.04684106, 49.44239685 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/03/2022 16:11:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.014313350100483, 49.476720528336095 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 13:16:46",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.018373752836677, 49.59851545278413 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 14:09:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.014121899415045, 49.49264571358084 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/03/2022 15:21:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05925791, 49.46161251 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2022 20:14:00",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.10935394, 49.49368661 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/03/2022 08:01:51",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "parkte auf Radweg, dann öffnete sich die Autotüre ",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06328345, 49.44808998 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/03/2022 08:04:07",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0520264, 49.44304679 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/03/2022 08:04:19",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05125389, 49.442566 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/03/2022 17:29:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.042447, 49.4697053 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/03/2022 13:06:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Baustelle ohne Radweg",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.03713442, 49.46652569 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/03/2022 16:44:07",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05135292, 49.43809229 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/03/2022 16:48:36",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Über Fahrradweg abgebogenes Fahrzeug aus Imhoffstraße hat Vorfahrt genommen.",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.05895074, 49.44679383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2022 14:10:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Nuernberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.06238534, 49.4642683 ]
     }
   }, {
     "type" : "Feature",

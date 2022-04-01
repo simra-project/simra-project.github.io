@@ -4968,5 +4968,23 @@
       "type" : "Point",
       "coordinates" : [ 8.929444737629494, 50.27100139373791 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/03/2022 08:21:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "mit Anhänger ",
+      "region" : "Wetterau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.838230144977206, 50.21932474406273 ]
+    }
   } ]
 }

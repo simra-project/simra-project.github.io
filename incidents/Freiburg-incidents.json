@@ -1173,6 +1173,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "16/03/2022 09:32:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Freiburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.83535445, 48.00801154 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "05/02/2022 16:38:08",
       "bikeType" : "-",
       "child" : "Nein",

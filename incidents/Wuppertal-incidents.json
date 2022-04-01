@@ -4680,5 +4680,95 @@
       "type" : "Point",
       "coordinates" : [ 7.16330680064857, 51.258326126262546 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 13:24:32",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "LKW setzt in zugeparktem engem Straßenraum mit Gegenverkehr zum Überholen an. Muss bremsen um mich nicht zu überfahren.",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.0253046, 51.16523746 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 13:25:11",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "überholen trotz zu nahem Gegenverkehr",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.02097358, 51.16389609 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 13:18:58",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Überholversuche ohne Rücksicht auf Verluste",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.05504392, 51.17515441 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 13:20:38",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.04567577, 51.17333785 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 13:18:04",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Parken auf Schutzstreifen, gleichzeitig drängelnder Verkehr von hinten",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.06097695, 51.17641357 ]
+    }
   } ]
 }

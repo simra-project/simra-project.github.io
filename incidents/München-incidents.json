@@ -12099,6 +12099,204 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "10/03/2022 14:40:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.52967055, 48.19499277 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/02/2022 14:59:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.15034857, 47.85856635 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/02/2022 15:02:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.13438044, 47.85618399 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 17:01:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.53125613, 48.18392967 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/03/2022 17:30:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.53675966, 48.19997281 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/03/2022 15:26:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.53575238, 48.19976182 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 16:14:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.56519142, 48.1927309 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 12:53:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Ja",
+      "descr" : "Zweirichtungsradweg, von Pkw aus Nebenstraße kommend übersehen worden",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.17015462, 47.85864632 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 12:41:03",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Nein",
+      "descr" : "Vorfahrt von Pkw missachtet",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.12555729, 47.85633267 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2022 12:41:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.12645192, 47.8571376 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2022 17:26:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.53107745, 48.18351252 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/02/2022 08:12:23",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
