@@ -1,0 +1,22 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/02/2022 13:14:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.336245, 51.75998333333334 ]
+    }
+  } ]
+}
