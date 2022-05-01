@@ -1548,5 +1548,59 @@
       "type" : "Point",
       "coordinates" : [ 8.246483, 50.00226 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 08:34:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Lkws beparken Bus- und Fahrradstreifen",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.251686683693428, 50.064257153486594 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 08:26:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Seitlicher Abstand weniger als 1m",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.243449103743064, 50.04894538477615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 08:34:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.252000933202645, 50.06383949073934 ]
+    }
   } ]
 }

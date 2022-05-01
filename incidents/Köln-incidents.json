@@ -9777,6 +9777,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "14/04/2022 18:06:45",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "50cm, mehr waren das nicht!!",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.91417035, 50.93690826 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "08/04/2022 15:58:45",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -9827,6 +9845,60 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 6.941458155819356, 50.940240350554674 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 17:54:13",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "viel zu eng, ich musste mit meinem Rad anhalten. Der Fahrer hat seinen Fehler nicht erkannt",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.94078097, 50.93872027 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 17:56:52",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.93986403, 50.94034524 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 17:57:14",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "parkt in 2. Reihe",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.93967819, 50.93938536 ]
     }
   }, {
     "type" : "Feature",
@@ -10065,6 +10137,294 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "20/04/2022 15:21:03",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Radweg zugeparkt ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043172, 51.003341 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 15:22:08",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.045872, 51.00072 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 15:25:02",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043046, 50.991616 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 15:25:38",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.042222, 50.988895 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 15:26:38",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.041151, 50.984488 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 15:27:18",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.03839, 50.982875 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2022 07:58:58",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.038175, 50.986514 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2022 08:00:26",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.037516, 50.991113 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2022 08:00:34",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.037175, 50.99151 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2022 08:04:07",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.03766, 50.994869 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2022 08:05:34",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.037147, 50.997331 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2022 08:06:16",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.03828, 50.999413 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2022 08:06:37",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.039431, 51.000582 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2022 08:06:52",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.040474, 51.001243 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2022 08:08:19",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043114, 51.004393 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2022 08:11:56",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.044627, 51.016695 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "05/04/2022 15:02:54",
       "bikeType" : "Lastenrad",
       "child" : "Ja",
@@ -10191,6 +10551,60 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "19/04/2022 14:19:31",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Parkender PKW auf dem Radweg",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043678, 51.010362 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 14:23:07",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.046159, 50.999279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 14:26:44",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.041364, 50.98574 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "09/04/2022 10:48:06",
       "bikeType" : "Lastenrad",
       "child" : "Nein",
@@ -10259,6 +10673,312 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 6.84539015, 50.93827846 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 16:19:06",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "zu nah",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.84815039, 50.93108388 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 16:22:07",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "ltw nrw22 Wahlplakate",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86211393, 50.9320163 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 16:40:31",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "auf dem Radweg",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.92257238, 50.9365453 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 08:50:42",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Ostersamstag, fasst nichts los. Nur 1 Experte meint 60cm reichen!",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87544546, 50.93200148 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 08:00:14",
+      "bikeType" : "E-Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.038013, 50.987392 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 08:04:53",
+      "bikeType" : "E-Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.04005, 50.993455 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 08:05:44",
+      "bikeType" : "E-Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Radweg zugeparkt ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.03748, 50.994944 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 08:07:38",
+      "bikeType" : "E-Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.037617, 50.998353 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 08:07:59",
+      "bikeType" : "E-Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.038579, 50.999815 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 08:08:38",
+      "bikeType" : "E-Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.040854, 51.001429 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 08:09:56",
+      "bikeType" : "E-Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043177, 51.003941 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 08:01:36",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.037898, 50.98791 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 08:02:56",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.036993, 50.991813 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 08:08:17",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.037927, 50.994736 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 08:08:23",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.037574, 50.994832 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 08:11:47",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.040495, 51.001236 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 08:13:00",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.042789, 51.00305 ]
     }
   }, {
     "type" : "Feature",
@@ -10893,6 +11613,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "27/04/2022 11:01:29",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Lieferwagen stand auf dem Fahrradweg",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.96903537, 50.97750774 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "13/04/2022 13:48:53",
       "bikeType" : "Lastenrad",
       "child" : "Ja",
@@ -10961,6 +11699,24 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 7.038976, 50.983039 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/04/2022 14:27:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.939149395529045, 50.958161395572965 ]
     }
   }, {
     "type" : "Feature",
@@ -11087,6 +11843,24 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 7.043219, 51.003826 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2022 13:06:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Straßenbelag schlecht. Hinzu kommen diese \\nAutoberuhigungsinseln, um die man wegen dichten Parkens nicht gut herum kommt ohne Dooringgefahr",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.9492467116838, 50.96277761579605 ]
     }
   }, {
     "type" : "Feature",
@@ -12333,6 +13107,168 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "21/04/2022 07:26:08",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.041324, 50.984595 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 07:26:50",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.04212, 50.98821 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 07:29:27",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.04766, 50.996268 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 07:30:28",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.04618, 50.99916 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 07:32:16",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043196, 51.004516 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 09:43:09",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "direkt nach der Ampelkreuzung hat der gewöhnlich Autofahrer wenig Geduld!",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88490728, 50.93381925 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 09:42:55",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "direkt nach der Ampelkreuzung hat der gewöhnlich Autofahrer wenig Geduld!",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88569045, 50.93393379 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 09:44:17",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87978792, 50.93203029 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 09:45:17",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87375912, 50.93214183 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "04/04/2022 07:57:13",
       "bikeType" : "Lastenrad",
       "child" : "Ja",
@@ -12387,6 +13323,60 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "16/04/2022 09:59:38",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Linke Seite Parker fährt aus der Lücke raus und beachtet mich gar nicht - zügige Bremsung",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.85847825, 50.93272037 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 10:01:48",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "gewöhnliches Einbahnstraßenproblem",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.85396697, 50.93104285 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 10:04:07",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "alle parken in der Reihe, nur dieser schafft es nicht! Und steht total unnötig halb auf der Fahrbahn",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.84279823, 50.93154036 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "31/03/2022 08:06:22",
       "bikeType" : "Lastenrad",
       "child" : "Ja",
@@ -12401,6 +13391,78 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 7.039729, 50.983313 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 14:00:46",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.045858, 51.000428 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 14:02:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.048096, 50.995766 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 14:05:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.041274, 50.98472 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 14:05:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.038217, 50.982809 ]
     }
   }, {
     "type" : "Feature",
@@ -12527,6 +13589,78 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 7.037456, 50.982597 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2022 08:17:51",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.038782, 50.982952 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2022 08:20:11",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.042475, 50.98959 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2022 08:22:14",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.047986, 50.995203 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2022 08:27:00",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.038312, 50.999583 ]
     }
   }, {
     "type" : "Feature",
@@ -12999,6 +14133,348 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "14/04/2022 14:49:24",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "Radweg zugeparkt ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043831, 51.01104 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 14:50:54",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043225, 51.004229 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 14:52:27",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.045632, 51.00112 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 14:53:18",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.046598, 50.998249 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 14:54:21",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.047514, 50.993704 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 14:55:43",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.042537, 50.989904 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 14:56:50",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.041348, 50.98533 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 14:57:26",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.040741, 50.983447 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 14:57:42",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.038279, 50.98284 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2022 11:17:30",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.048154, 50.989912 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2022 11:20:00",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.040586, 50.983545 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2022 11:20:20",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.038128, 50.982859 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 07:41:03",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.039924, 50.983282 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 07:41:06",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.040438, 50.983405 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 07:43:26",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043032, 50.991911 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 07:44:50",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.048222, 50.995217 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 07:45:50",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.046772, 50.998246 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 07:46:51",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.045588, 51.001643 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 07:48:00",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043222, 51.004514 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "08/04/2022 12:01:40",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -13013,6 +14489,672 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 7.094377, 50.971774 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2022 11:48:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad, Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.942821433628291, 50.94654093115691 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2022 11:44:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.934926980499227, 50.94694219780344 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 18:26:55",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.85906403, 50.93204756 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 14:47:26",
+      "bikeType" : "Mountainbik",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.045574, 51.00161 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 14:48:38",
+      "bikeType" : "Mountainbik",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.046682, 50.998079 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 14:49:20",
+      "bikeType" : "Mountainbik",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.048094, 50.995317 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 14:50:41",
+      "bikeType" : "Mountainbik",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.042922, 50.991137 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 14:51:41",
+      "bikeType" : "Mountainbik",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.041751, 50.987135 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 14:52:49",
+      "bikeType" : "Mountainbik",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.03909, 50.983053 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 18:25:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.94766694, 50.98314153 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 13:43:38",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "LTW NRW22 Wahlplakat ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.063345382527582, 50.967879975956485 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 13:53:02",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.064140164223462, 50.981273293117425 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 13:54:18",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Läuft ohne zu gucken mir in die Bahn ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.062338756954185, 50.98337274891382 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:37:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "LTW NRW22 Wahlplakat ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.913352160693255, 50.936687413481415 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:38:07",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Läuft ohne zu gucken auf den Radweg ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.917845008675449, 50.93656991691195 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:38:35",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "LTW NRW22 Wahlplakat",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.920073200770701, 50.936567092983864 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:45:34",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Läuft ohne zu gucken auf den Radweg ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.943926751749015, 50.93571003883633 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:47:30",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "LTW NRW22 Wahlplakat",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.952089100813331, 50.93516438475109 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:57:01",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "LTW NRW22 Wahlplakat",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.981786978359834, 50.93721405373963 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:57:04",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Mülltonne steht zwischen dem viel zu schmallen Radweg und Gehweg - massive Behinderung ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.981954288504843, 50.93721854041149 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:57:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Mülltonne steht zwischen dem viel zu schmallen Radweg und Gehweg - massive Behinderung ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.982745377214186, 50.93726596701531 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:57:38",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Mülltonne steht zwischen dem viel zu schmallen Radweg und Gehweg - massive Behinderung ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.984320627814765, 50.93692652822927 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:57:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Mülltonne steht zwischen dem viel zu schmallen Radweg und Gehweg - massive Behinderung ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.984566134459604, 50.93680952581603 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:58:15",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Mülltonne steht zwischen dem viel zu schmallen Radweg und Gehweg - massive Behinderung ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.986827985839064, 50.93617792740286 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:58:21",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Mülltonne steht zwischen dem viel zu schmallen Radweg und Gehweg - massive Behinderung ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.987239047753868, 50.93622818386104 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:58:27",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Mülltonne steht zwischen dem viel zu schmallen Radweg und Gehweg - massive Behinderung ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.987814284196977, 50.93633125754814 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:58:55",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "LTW NRW22 Wahlplakat ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.9898105240037705, 50.93664689002349 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:59:04",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Mülltonne steht zwischen dem viel zu schmallen Radweg und Gehweg - massive Behinderung ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.990493331651188, 50.93671138899417 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 12:59:22",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Läuft ohne zu gucken auf den Radweg ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.991982071248916, 50.936575087527636 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 13:01:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "LTW NRW22 Wahlplakat ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.997562841900606, 50.93740129350084 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 13:15:08",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Läuft ohne zu gucken auf den Radweg ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.03886834581114, 50.94074812628233 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 13:16:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Gehwegparker ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.040628373381305, 50.94114988428154 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 13:17:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "LTW NRW22 Wahlplakat ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.041980323109684, 50.94279494673601 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 13:17:59",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Radwegparker ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043273564474882, 50.94370385796917 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 13:29:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Radwegparker ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.059448812915247, 50.96338886790829 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 13:30:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Gehwegparker ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.061028788419228, 50.96439337884779 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 13:43:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Ja",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Gehwegparker ",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.063842808420885, 50.967628623983614 ]
     }
   }, {
     "type" : "Feature",
@@ -13139,6 +15281,168 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 6.93399455, 50.93547769 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 07:25:52",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.04092, 50.98352 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 07:27:21",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.042551, 50.989683 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 07:29:42",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.048047, 50.995906 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 07:30:58",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.046092, 50.999857 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 07:31:16",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.045776, 51.001064 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 07:31:43",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.044886, 51.002911 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 07:32:28",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043222, 51.004519 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2022 08:44:33",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.926178820173829, 50.943691938093885 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2022 08:40:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.933842471798248, 50.94988879603291 ]
     }
   }, {
     "type" : "Feature",
@@ -13283,6 +15587,258 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 6.8699211, 50.93367677 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 08:11:47",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.038955, 50.983041 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 08:15:53",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.048015, 50.995185 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 08:17:36",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.046079, 51.00014 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 08:18:09",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.045087, 51.002429 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/04/2022 08:19:06",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043153, 51.004449 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 16:33:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.83051112, 50.94572984 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 16:19:03",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "FALSCHPARKER, halb Gehweg, halb Fahrbahn",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.84306474, 50.93870714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 16:19:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "FALSCHPARKER, halb Gehweg, halb Fahrbahn",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.84223839, 50.93915926 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 16:19:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "FALSCHPARKER, halb Gehweg, halb Fahrbahn",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.84150414, 50.93951555 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 16:19:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "FALSCHPARKER, halb Gehweg, halb Fahrbahn",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.84035511, 50.94007373 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 16:19:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "FALSCHPARKER, halb Gehweg, halb Fahrbahn",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.84012923, 50.94017329 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 16:21:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.83435581, 50.94294755 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 16:33:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.83051063, 50.94573017 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 16:33:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.83051084, 50.94572998 ]
     }
   }, {
     "type" : "Feature",
@@ -14349,6 +16905,150 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "22/04/2022 13:51:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.045075, 51.003099 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 13:51:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.045335, 51.002055 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 13:53:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.048099, 50.995401 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 13:55:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.042106, 50.988252 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 13:56:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.041148, 50.983878 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 13:56:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.040015, 50.983313 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 13:57:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.03762, 50.982643 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 13:57:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.037004, 50.98248 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "08/04/2022 16:24:47",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -14633,6 +17333,132 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 6.94817538, 50.93545987 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 13:27:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.943001910306588, 50.95827046011736 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 13:23:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Sandgrube wegen einer Baustelle",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.930968099401694, 50.95440145702155 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 07:19:46",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.038358, 50.983042 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 07:20:04",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.040189, 50.983348 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 07:22:09",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.043157, 50.991795 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 07:23:43",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.048042, 50.995221 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 07:25:46",
+      "bikeType" : "Lastenrad",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Köln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.045544, 51.001471 ]
     }
   }, {
     "type" : "Feature",

@@ -5274,5 +5274,149 @@
       "type" : "Point",
       "coordinates" : [ 8.652065514773067, 50.12501360165636 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/04/2022 08:05:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW aus Ausfahrt blockiert Radweg",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.66561075278268, 50.13139683110386 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/04/2022 08:11:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Überholabstand sehr gering",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.651974626606322, 50.12366053220201 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/04/2022 08:22:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Ja",
+      "descr" : "Geisterradler mit überbreiter Ladung auf schmalem Radweg",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.69216807582019, 50.12718832775036 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 15:17:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.682829, 50.131846 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 15:27:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Fahrzeug hat den Fahrradweg fast komplett blockiert ",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.719072, 50.123096 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/04/2022 08:21:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.65643187297828, 50.12758515160139 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 15:27:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "Steht auf den Radweg quer im Weg",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.725766, 50.123252 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 15:28:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "Liegt auf dem Radweg!",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.725373, 50.12489 ]
+    }
   } ]
 }

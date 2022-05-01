@@ -4770,5 +4770,203 @@
       "type" : "Point",
       "coordinates" : [ 7.06097695, 51.17641357 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/04/2022 12:36:05",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.99748589, 51.15669668 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/04/2022 12:37:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.00060976, 51.15722153 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/04/2022 12:38:49",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.00400626, 51.15830205 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/04/2022 12:39:10",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen, PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.00521003, 51.15862258 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/04/2022 12:39:46",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Zwei entladende Fahrzeuge in der Fahrspur plus Gehweg statt in freien Plätzen am anderen Straßenrand",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.00589884, 51.15963289 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/04/2022 12:14:38",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Abbiegen vom Radweg nach links ins Wohngebiet im Konflikt mit PKW, die eigentlich eh an der Ampel warten mussten",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.99407945, 51.12741091 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/04/2022 12:28:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Entgegenkommen mit breitem Fahrzeug konfrontativ in hohem Tempo",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.97853066, 51.1475382 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/04/2022 10:23:32",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Baustelle ohne Vorwarnung mitten auf Radstreifen.",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.00285162, 51.13481879 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/04/2022 10:22:37",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Radweg beparkt, wenig Platz",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.0076993, 51.13603086 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/04/2022 10:20:57",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Schmaler Radweg beparkt (Rettungswagen,nicht im Dienst), Ausweichen nur in Lücke zwischen Fahrzeug und Kiosk möglich",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.01358444, 51.14049024 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/04/2022 10:25:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Radweg führt mit wenig Platz über Wartebereich einer Bushaltestelle. Unangenehm und gefährdend für die Fußgänger. ",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.99706867, 51.13160374 ]
+    }
   } ]
 }

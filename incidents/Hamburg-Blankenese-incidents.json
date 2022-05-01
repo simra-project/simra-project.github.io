@@ -108,5 +108,131 @@
       "type" : "Point",
       "coordinates" : [ 9.84517, 53.563592 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 14:34:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Schlaglöcher ",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.866865, 53.558044 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 14:36:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Tiefe Schlaglöcher ",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.876796, 53.558246 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 14:39:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Kantstein ",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.880136, 53.559263 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2022 13:29:41",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Zu hoher Kantstein ",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.812467, 53.563342 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 18:39:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.015430715351023, 53.580678553222896 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 18:25:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.97695992209493, 53.578192197348955 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/04/2022 20:19:48",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Schlaglöcher ",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.858335, 53.564304 ]
+    }
   } ]
 }

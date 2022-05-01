@@ -1173,6 +1173,96 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "01/05/2022 16:02:01",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.950957737863064, 49.29142780601978 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/05/2022 16:49:19",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.913122581318021, 49.40548874437809 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/05/2022 12:59:27",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.997806206345558, 49.23842890653759 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/05/2022 12:59:58",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.996461329981685, 49.23638841602951 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/05/2022 04:18:23",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.964427540078759, 49.24930115696043 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "18/01/2022 19:24:56",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -1857,6 +1947,762 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "19/04/2022 12:49:21",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.916352296248078, 49.402752220630646 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 12:50:03",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.913397507742047, 49.40513817127794 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 12:50:55",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.910738684237003, 49.40651028882712 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 12:47:34",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.912567112594843, 49.40667599905282 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2022 08:48:29",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.8956854566931725, 49.40860974602401 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 13:49:39",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.930946530774236, 49.33456321712583 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 08:17:01",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "1,19 lt. OBS",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88150629401207, 49.3495583999902 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/04/2022 02:28:49",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.932566585019231, 49.34006895404309 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 09:15:34",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.948197074234486, 49.24082831013948 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/04/2022 11:19:46",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.926962863653898, 49.387015867978334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/04/2022 11:14:16",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.913302456960082, 49.405127190984786 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/04/2022 12:24:46",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.952878870069981, 49.24185857176781 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 20:55:15",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Baum quer über den Weg; mehrfach hintereinander",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.773013034835458, 49.34334070421755 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 20:54:30",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Baum quer über den Weg",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.771178152412176, 49.34210294857621 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2022 12:19:36",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.915467418730259, 49.41533429548144 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2022 12:29:36",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.942661497741938, 49.41181926056743 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2022 12:31:58",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.953646233305335, 49.4068897375837 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 11:41:23",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.999423494562507, 49.225626052357256 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 08:58:14",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.911969482898712, 49.40821558702737 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2022 12:09:57",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.927143828943372, 49.386630593799055 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2022 12:13:35",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.917376648634672, 49.402129696682096 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2022 11:23:18",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.91279074177146, 49.41285270731896 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2022 11:29:18",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.941601354628801, 49.412200804799795 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 12:17:43",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.912085907533765, 49.41145561169833 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2022 14:00:21",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.920370329171419, 49.39995492808521 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/04/2022 18:09:17",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.762541439384222, 49.32756369933486 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/04/2022 03:05:46",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Werbetafel und Ampelmast auf ohnehin schon schmalem gemeinsamem Fuß-/Radweg",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.97249042801559, 49.24290153197944 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/04/2022 03:02:11",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.9833811186254025, 49.24155510496348 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/04/2022 03:08:11",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.966237528249621, 49.248072830960155 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/04/2022 03:36:02",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.932370867580175, 49.329913523979485 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 17:34:14",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Autofahrer will auf seine nicht vorhandene Vorfahrt bestehen, hupt beim Abbiegen und besteht auch im folgenden Wortgefecht weiter auf seiner Vorfahrt. ",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.892395811155438, 49.42816749215126 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/04/2022 13:11:56",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.952036824077368, 49.38157840166241 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 23:13:10",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.964506916701794, 49.24943254329264 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 23:14:55",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Verkehrsschild auf Radweg ",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.961652124300599, 49.253097949549556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 23:07:52",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Werbeschild auf Radweg",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.973772523924708, 49.24265455920249 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 23:08:04",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Ampel auf Radweg in schlecht einsehbarer Kurve",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.972772730514407, 49.242759752087295 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/04/2022 09:25:54",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.002126406878233, 49.24276809208095 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/04/2022 23:33:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.001713262870908, 49.24205613322556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 16:09:35",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.902353428304195, 49.42113121971488 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 16:10:02",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.900606136769056, 49.42224706057459 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/04/2022 16:10:32",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.89910770393908, 49.423931487835944 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/04/2022 16:30:39",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.89447209239006, 49.41346865147352 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/04/2022 01:06:10",
       "bikeType" : "Lastenrad",
       "child" : "Nein",
@@ -1889,6 +2735,60 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 6.928972341120243, 49.33772332035005 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/04/2022 14:24:06",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.997712580487132, 49.23822204116732 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/04/2022 08:39:14",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.001988608390093, 49.242856688797474 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2022 09:03:06",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.911850040778518, 49.4085489353165 ]
     }
   } ]
 }

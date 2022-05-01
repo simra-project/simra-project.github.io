@@ -2415,6 +2415,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "22/04/2022 06:31:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto parkt auf Radweg\\n",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.7793074, 47.7386494 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/04/2022 12:20:28",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -2433,6 +2451,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "22/04/2022 12:14:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Schilder und parkende Autos auf Radweg\\n",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.7814375, 47.73969928 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/04/2022 08:44:26",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -2447,6 +2483,60 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 9.16907663, 47.67923651 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/04/2022 13:51:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.17680474, 47.6769123 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/04/2022 13:53:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.17024206, 47.67928589 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/04/2022 13:56:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.16337438, 47.67938653 ]
     }
   } ]
 }

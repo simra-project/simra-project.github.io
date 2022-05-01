@@ -1,4 +1,256 @@
 {
   "type" : "FeatureCollection",
-  "features" : [ ]
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 16:26:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Schubkarre",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.60408759, 51.83461003 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/04/2022 16:31:37",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.6139787, 51.83480618 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/04/2022 07:41:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Baustellen-LKW versperrt den Radweg am Ende der Kurve, daher schlecht zu sehen",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.6188686, 51.8346775 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/04/2022 16:01:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.621749, 51.83465305 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/04/2022 07:36:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "entgegenkommender Transporter wollte an Engstelle nicht den Gegenverkehr (mich) abwarten",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.6085654, 51.83465081 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 17:07:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger, PKW",
+      "scary" : "Nein",
+      "descr" : "Altpapiercontainer",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.60423196, 51.83392214 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 17:07:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Autofahrer hätte fast Rechts-vor-Links missachtet",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.60443181, 51.83368316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/04/2022 17:03:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto hielt vor roter Ampel quer auf dem Radfahrstreifen",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.61473176, 51.83481602 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/04/2022 07:48:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Ja",
+      "descr" : "mir entgegenkommender PKW überholt ebenfalls mir entgegenkommendes Schulkind (!) auf Rad ohne Abstand",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.6058401, 51.83457371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/04/2022 07:49:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.60432895, 51.83385409 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/04/2022 16:36:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "linksfahrender Radfahrer",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.61171732, 51.83492504 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/04/2022 16:38:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf reinem Radweg",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.61939293, 51.83446692 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/04/2022 16:39:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "entgegenkommende Radfahrer guckten lieber in der Gegend rum als nach vorne",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.62101958, 51.83499542 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/04/2022 16:34:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Von links kommende Radfahrerin hat Rechts-vor-Links missachtet",
+      "region" : "Wesel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.6045271, 51.83366166 ]
+    }
+  } ]
 }

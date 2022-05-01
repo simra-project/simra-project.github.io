@@ -6534,5 +6534,113 @@
       "type" : "Point",
       "coordinates" : [ 8.375940000000002, 49.015145 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2022 14:33:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.44583969, 49.01322848 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/04/2022 14:59:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "+ überhöhte Geschwindigkeit",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.44581153, 49.01028451 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/04/2022 10:45:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.36332929, 49.01803554 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/04/2022 12:45:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.44997444, 48.99928399 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/04/2022 12:16:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.39104167, 48.98225895 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/04/2022 11:12:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.34319219, 49.01378756 ]
+    }
   } ]
 }

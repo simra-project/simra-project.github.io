@@ -3006,5 +3006,149 @@
       "type" : "Point",
       "coordinates" : [ 8.922480810876499, 49.86903663332595 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/04/2022 17:44:50",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Vorfahrt nicht gewährt von entgegenkommendem Fahrzeug. dieses hatte geparkte Pkw auf seiner Fahrbahn ",
+      "region" : "Darmstadt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6368918, 49.8072384 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/04/2022 17:44:50",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "rückwärts auf Straße auffahrendes Fahrzeug",
+      "region" : "Darmstadt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6368918, 49.8072384 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 17:20:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Darmstadt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6368852, 49.80733113 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/04/2022 18:50:29",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Darmstadt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.63705684, 49.80759867 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/04/2022 18:43:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Darmstadt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.63443672, 49.8097548 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/04/2022 17:05:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw mit parkenden Pkw als Hindernis. Vorfahrt nicht beachtet",
+      "region" : "Darmstadt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.63702042, 49.8077601 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/04/2022 19:38:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Darmstadt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.64192718, 49.8065375 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/04/2022 16:58:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Pkw überholt abbiegenden Pkw rechts auf Fahrradspur ",
+      "region" : "Darmstadt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.64175727, 49.80695261 ]
+    }
   } ]
 }

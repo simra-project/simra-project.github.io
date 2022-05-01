@@ -342,5 +342,23 @@
       "type" : "Point",
       "coordinates" : [ 6.63817271, 49.75680715 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/04/2022 13:44:58",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Trier"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.63567571900785, 49.74481509067118 ]
+    }
   } ]
 }
