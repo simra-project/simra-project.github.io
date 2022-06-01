@@ -1551,6 +1551,150 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "09/05/2022 08:12:18",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Firma knettenbrech hat auf Radweg Container abgeladen. Musste auf 3 spurige Bundesstraße ausweichen ",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.267428, 50.067098 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/05/2022 08:14:01",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.258223, 50.071801 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/05/2022 07:49:43",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.268467, 50.003909 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/05/2022 08:12:49",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen, PKW",
+      "scary" : "Ja",
+      "descr" : "Zu dicht überholt ",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.271358, 50.066487 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/05/2022 08:12:53",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen, PKW",
+      "scary" : "Nein",
+      "descr" : "Mehrer Fahrzeuge ohne Abstand überholt",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.271348, 50.066488 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/05/2022 08:14:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.26469, 50.06806 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/05/2022 08:14:30",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.272722, 50.066191 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/05/2022 08:10:43",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.270421, 50.066552 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "19/04/2022 08:34:53",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

@@ -450,5 +450,59 @@
       "type" : "Point",
       "coordinates" : [ 9.06737611, 48.47031618 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/05/2022 20:17:42",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "unübersichtliche Verkehrsführung, ich  konnte nur spät Richtungswechsel anzeigen und hab ggf. nachfolgenden PKW-Fahrer:in erschreckt\\n\\n",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.967946304458131, 48.501012142520096 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/05/2022 12:41:30",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW von links hat Vorfahrt geklaut\\n",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.050150315804851, 48.54134313890185 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/05/2022 14:32:55",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.055441866114691, 48.52623541035397 ]
+    }
   } ]
 }

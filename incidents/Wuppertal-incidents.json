@@ -4683,6 +4683,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "05/05/2022 18:45:46",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.06203887, 51.17666146 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "08/03/2022 13:24:32",
       "bikeType" : "E-Bike",
       "child" : "Nein",

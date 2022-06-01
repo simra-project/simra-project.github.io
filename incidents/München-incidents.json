@@ -11649,6 +11649,42 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "03/05/2022 17:13:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Radwegführung and Baustelle sehr gefährlich. Radweg mündet ohne Vorwarnung in Autospur, Übergang so schmal, dass es häufig Fast-Zusammenstöße gibt",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.58371208, 48.13304293 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/05/2022 08:50:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen, LKW, PKW, Taxi",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.55701039, 48.12751226 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/05/2022 18:07:35",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -11681,6 +11717,78 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 11.745516666666667, 48.17378999999999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/05/2022 10:22:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "gefährliche Radwegleitung (hinter Marktstand vorbei ohne Sicht auf Fußgänger)\\n\\n",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.58322188, 48.13310941 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/05/2022 10:06:04",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "unübersichtliche Spurführung, hinter Gemüsestand vorbei, keinen Blick auf Fußweg\\n\\n",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.5832757, 48.13300637 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/05/2022 08:58:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.53737159, 48.16607776 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/05/2022 17:28:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.53587033, 48.16760665 ]
     }
   }, {
     "type" : "Feature",

@@ -6537,6 +6537,78 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "25/05/2022 12:20:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.41556915, 49.00507421 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/02/2022 14:56:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.40137582, 49.00760066 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/05/2022 08:02:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.422460000000001, 49.01112833333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/05/2022 13:54:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.39113415, 48.99128907 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "15/04/2022 14:33:58",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

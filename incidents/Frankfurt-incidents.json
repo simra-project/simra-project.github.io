@@ -4467,6 +4467,96 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "03/05/2022 08:15:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.676543456659312, 50.13211722870214 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/05/2022 08:09:46",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.665599147503004, 50.13137576193684 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/05/2022 08:00:54",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "PKW-Fahrer nimmt Radfahrer die Vorfahrt und beschleunigt als er den Fehler bemerkt",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.649965861143421, 50.124655636740094 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/05/2022 09:06:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.654224463463002, 50.11060454015026 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/05/2022 08:38:00",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Ja",
+      "descr" : "Geisterradler in der Kurve",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.695296649494352, 50.1321684456708 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "12/01/2022 14:03:38",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -5183,6 +5273,42 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 8.671120345305422, 50.13867417446157 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/05/2022 08:15:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.656567965908922, 50.12766066305086 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/05/2022 18:09:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Ja",
+      "descr" : "Geisterradler an unübersichtlicher Stelle",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.65634344678734, 50.12853129506328 ]
     }
   }, {
     "type" : "Feature",

@@ -11073,6 +11073,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "18/05/2022 14:49:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Abstand < 0,5 m",
+      "region" : "Stuttgart"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.139030481646028, 48.77487016813547 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "19/01/2022 16:52:16",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

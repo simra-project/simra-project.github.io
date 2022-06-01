@@ -4953,6 +4953,42 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "03/05/2022 07:10:31",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "überholte mich beim links abbiegen über die beiden Spuren des Gegenverkehrs. Ein Linksabbieger musste dabei sein PKW noch stärker abbremsen. Diese Kreuzung ist für Radfahrer sehr gefährlich! ",
+      "region" : "Wetterau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.771659573540092, 50.28216549195349 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/05/2022 18:09:46",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "der Autofahrer hat die Vorfahrt meiner Tochter die mit dem Fahrrad auf dem Gehweg fuhr misachtet. ",
+      "region" : "Wetterau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.699841415509582, 50.29897724278271 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/03/2022 08:41:53",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
