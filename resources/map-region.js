@@ -187,18 +187,6 @@ switch (params.get("region")) {
 	    incidents = "incidents/Karlsruhe-incidents.json";
         incidentsMeta = "incidents/Karlsruhe-incidents-meta.json";
         break;
-    case "kiel_all":
-        region = "region/Kiel_all.json";
-        regionMeta = "region/Kiel_all-meta.json";
-	    incidents = "incidents/Kiel-incidents.json";
-        incidentsMeta = "incidents/Kiel-incidents-meta.json";
-        break;
-    case "kiel":
-        region = "region/Kiel.json";
-        regionMeta = "region/Kiel-meta.json";
-	    incidents = "incidents/Kiel-incidents.json";
-        incidentsMeta = "incidents/Kiel-incidents-meta.json";
-        break;
 	case "koblenz":
         region = "region/Koblenz.json";
         regionMeta = "region/Koblenz-meta.json";
@@ -264,18 +252,6 @@ switch (params.get("region")) {
         regionMeta = "region/Mainz_all-meta.json";
 	    incidents = "incidents/Mainz-incidents.json";
         incidentsMeta = "incidents/Mainz-incidents-meta.json";
-        break;
-    case "magdeburg":
-        region = "region/Magdeburg.json";
-        regionMeta = "region/Magdeburg-meta.json";
-	    incidents = "incidents/Magdeburg-incidents.json";
-        incidentsMeta = "incidents/Magdeburg-incidents-meta.json";
-        break;
-    case "magdeburg_all":
-        region = "region/Magdeburg_all.json";
-        regionMeta = "region/Magdeburg_all-meta.json";
-	    incidents = "incidents/Kiel-incidents.json";
-        incidentsMeta = "incidents/Kiel-incidents-meta.json";
         break;
     case "mannheim":
         region = "region/Mannheim.json";
@@ -504,18 +480,6 @@ switch (params.get("region")) {
         regionMeta = "region/Wetterau_all-meta.json";
 	    incidents = "incidents/Wetterau-incidents.json";
         incidentsMeta = "incidents/Wetterau-incidents-meta.json";
-        break;
-    case "wien":
-        region = "region/Wien.json";
-        regionMeta = "region/Wien-meta.json";
-	    incidents = "incidents/Wetterau-incidents.json";
-        incidentsMeta = "incidents/Wetterau-incidents-meta.json";
-        break;
-    case "wien_all":
-        region = "region/Wien_all.json";
-        regionMeta = "region/Wien_all-meta.json";
-	    incidents = "incidents/Wien-incidents.json";
-        incidentsMeta = "incidents/Wien-incidents-meta.json";
         break;
     case "wuppertal":
         region = "region/Wuppertal.json";
