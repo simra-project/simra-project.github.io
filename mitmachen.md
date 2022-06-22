@@ -8,6 +8,7 @@ Aufgrund eines (berechtigten) Gefühls mangelnder Sicherheit, scheuen es viele M
 Im Projekt SimRa sammeln wir mithilfe einer datensparsamen Smartphone-App Daten darüber, wo es in der Stadt für Radfahrende besonders gefährlich ist.
 Mit diesen Daten können wir dann gezielte Handlungsempfehlungen geben, um Städte fahrradfreundlicher und sicherer zu gestalten.
 Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
+- Aachen
 - Augsburg
 - Berlin
 - Bern
