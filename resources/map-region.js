@@ -274,8 +274,8 @@ switch (params.get("region")) {
     case "magdeburg_all":
         region = "region/Magdeburg_all.json";
         regionMeta = "region/Magdeburg_all-meta.json";
-	    incidents = "incidents/Kiel-incidents.json";
-        incidentsMeta = "incidents/Kiel-incidents-meta.json";
+	    incidents = "incidents/Magdeburg-incidents.json";
+        incidentsMeta = "incidents/Magdeburg-incidents-meta.json";
         break;
     case "mannheim":
         region = "region/Mannheim.json";
