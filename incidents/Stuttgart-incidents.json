@@ -11469,6 +11469,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "24/06/2022 08:44:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Radweg blockiert durch Umzugsfahrzeug",
+      "region" : "Stuttgart"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.133046031108911, 48.775841138857345 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "23/02/2022 08:24:19",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

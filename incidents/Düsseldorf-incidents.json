@@ -2217,6 +2217,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "10/06/2022 19:37:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw Fahrender missachtet Vorrang beim Abbiegen (§ 9 III 1 StVO)",
+      "region" : "Düsseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.086617979068967, 50.73714535280131 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "08/02/2022 18:33:32",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

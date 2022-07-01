@@ -1695,6 +1695,60 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "26/06/2022 19:41:41",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf Radweg, zu dichtes Überholen des von hinten kommenden PKWs beim Vorbeifahren am Hindernis",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.222144734399544, 50.00560339054019 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/06/2022 19:52:51",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Entgegenkommender PKW (vermutlich überhöhte Geschwindigkeit) schert vor parkendem PKW aus, dadurch zu dicht ",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.231493269789462, 50.016287630407895 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/06/2022 16:55:03",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.214098916762405, 50.00131853206127 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "19/04/2022 08:34:53",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

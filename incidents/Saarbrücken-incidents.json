@@ -252,5 +252,23 @@
       "type" : "Point",
       "coordinates" : [ 7.010507471859455, 49.28525692317635 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/06/2022 13:42:18",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.91935248, 49.4008125 ]
+    }
   } ]
 }

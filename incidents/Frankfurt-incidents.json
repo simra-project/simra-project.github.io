@@ -5277,6 +5277,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "03/06/2022 08:14:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.66452978, 50.10759814 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "24/05/2022 08:15:35",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -5291,6 +5309,78 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 8.656567965908922, 50.12766066305086 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/05/2022 19:03:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "f mm 1990, weißes suv Beleidigung, Nötigung ",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.65874872, 50.15519106 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/04/2022 18:56:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Ja",
+      "descr" : "Unfall durch plötzlich auf den Radweg tretenden Fußgänger",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6911818, 50.09367487 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2002 08:23:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Bedrohung, Festhalten, Nötigung durch Bausteleiter Fa Lupp ",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.67062134, 50.09698471 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/09/2002 18:15:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Pkw aus Ausfahrten kommend nahm mir die Vorfahrt. Vollbremsung, dann Fabrerflucht.",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.65872131, 50.18998677 ]
     }
   }, {
     "type" : "Feature",

@@ -5025,6 +5025,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "27/06/2022 16:33:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "kurz vor der Fahrbahnverengung mit überfahren der durchgezogenen Linie ",
+      "region" : "Wetterau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.71014797128737, 50.29682510532439 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "28/04/2022 07:37:13",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

@@ -504,5 +504,77 @@
       "type" : "Point",
       "coordinates" : [ 9.055441866114691, 48.52623541035397 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/06/2022 19:19:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW Fahrerin wollte rechts parken, hat mich übersehen. Nix passiert. Hat sich direkt entschuldigt. ",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.96976023443052, 48.50267960232778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/06/2022 19:48:05",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.045636729036842, 48.5290281036372 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/06/2022 12:17:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Kleinlaster hat Einfahrt zugeparkt, müsste umfahren werden",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.05573838795153, 48.539180963560234 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/06/2022 09:55:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.054043190325721, 48.60533673021728 ]
+    }
   } ]
 }

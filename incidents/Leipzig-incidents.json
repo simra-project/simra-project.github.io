@@ -12225,6 +12225,348 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "15/06/2022 15:42:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Lieferwagen parkt auf Radweg",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.38044699, 51.36054641 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/06/2022 11:53:12",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Bagger quer auf Rad-/Fußweg, Ausweichen auf schlecht einsehbare Straße nötig",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.520658333333332, 51.297003333333336 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/06/2022 11:56:21",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Matte auf Rad-/Fußweg, Rutschgefahr",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.513016666666665, 51.28924833333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/06/2022 12:23:35",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf Radweg",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.410125, 51.31489833333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/06/2022 12:10:02",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Ein Pedelec-Fahrer überholt den  vor mir fahrenden Fahrradfahrer um direkt danach scharf rechts auf die Straße abzubiegen.",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.45682, 51.29112 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/06/2022 11:53:09",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Im Eckgrundstück leben zwei Wachhunde, die den Zaun von innen anspringen und bellen",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.520695, 51.29717833333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/06/2022 13:46:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.370995, 51.32085 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/06/2022 13:42:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger, Lieferwagen, LKW, Sonstiges",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.381911666666667, 51.32076 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/06/2022 13:41:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.387783333333335, 51.32148 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/06/2022 13:48:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.357811666666665, 51.32080333333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/06/2022 13:55:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.329576666666666, 51.321615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/06/2022 20:37:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf Radweg",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.38456475, 51.33804892 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/06/2022 20:25:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf Radstreifen ",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.36728176, 51.3620271 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/06/2022 20:23:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW fährt auf Radweg",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.36593168, 51.36443727 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/06/2022 10:36:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Parken auf Radstreifen ",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.37334175, 51.32943299 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/06/2022 11:45:56",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Sonstiges",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Autotransporter auf dem Radweg!",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.301532, 51.34603 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/06/2022 15:33:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.38899534, 51.33840735 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/06/2022 10:24:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Zwei PKWs parken auf Radstreifen",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.3930019, 51.33643281 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/06/2022 18:39:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.36638177, 51.36768425 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "11/02/2022 18:34:38",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
