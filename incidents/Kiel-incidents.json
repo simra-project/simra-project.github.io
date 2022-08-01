@@ -90,5 +90,23 @@
       "type" : "Point",
       "coordinates" : [ 10.12291617, 54.31959086 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/07/2022 12:12:44",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.13408265, 54.33927704 ]
+    }
   } ]
 }

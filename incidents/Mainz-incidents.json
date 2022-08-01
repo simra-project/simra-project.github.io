@@ -1749,6 +1749,132 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "21/07/2022 17:59:23",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "zu dichtes Überholen im Zweiräder-Überholverbot",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.217335629524527, 50.0014003002041 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/07/2022 18:07:36",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "inkl. Überholversuch auf enger Fahrbahn mit Überholverbot von Zweirädern für PKW ",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.214538117007306, 50.00144991084885 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/07/2022 18:14:28",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "E-Scooter (doppelt besetzt) mit hoher Geschwindigkeit in verkehrter Richtung auf Radweg",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.240596473327617, 49.997549840483934 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/07/2022 17:47:32",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "2 PKW blockieren Radweg durch Parken",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.220284967877049, 50.001036205080965 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/07/2022 17:49:26",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.215057832103048, 50.00161639779599 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/07/2022 17:38:06",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "Bus, PKW",
+      "scary" : "Nein",
+      "descr" : "Rückstauende Fahrzeuge (mehrere PKW, Linienbus) an roter Ampel blockieren Radspur",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.218663419519778, 50.001077270007364 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/07/2022 08:48:47",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.221754333888295, 50.00099975461195 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "19/04/2022 08:34:53",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -1799,6 +1925,24 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 8.252000933202645, 50.06383949073934 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/08/2022 18:35:45",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW überholt im (2x innerhalb von 50 m ausgeschildertem) Zweiradüberholverbot",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.217335655140362, 50.00142038780201 ]
     }
   } ]
 }

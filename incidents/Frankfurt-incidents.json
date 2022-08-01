@@ -5403,6 +5403,42 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "29/06/2022 18:28:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Pause ",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.70860331, 50.06638262 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/06/2022 17:30:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Pause",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.69916723, 50.07592623 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "21/02/2022 17:41:31",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

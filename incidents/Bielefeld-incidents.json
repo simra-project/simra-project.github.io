@@ -1839,6 +1839,348 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "18/07/2022 15:47:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.51240817, 52.05169735 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/07/2022 15:50:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "An der letzten von 4 Mittelinseln noch sehr knapp überholt worden. ",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.50967818, 52.04945731 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/07/2022 15:19:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.50789704, 52.04802188 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/07/2022 15:17:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Parkt auf Radfahrstreifen",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5025868, 52.04133197 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/07/2022 15:52:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "Bus überholt dicht beim Abbiegen über Schienen.",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.49524234, 52.03997356 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/07/2022 15:57:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.50715612, 52.04721441 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/07/2022 15:58:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "In Engstelle",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.50940923, 52.04925079 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/07/2022 06:49:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5102878, 52.04997469 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/07/2022 20:26:48",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Dazu noch angehupt worden. Vermutlich als Hinweis den \"Fahrrad frei\" Gehweg zu nutzen.",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5109636, 52.05938747 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/07/2022 07:12:29",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.50643933, 52.04600486 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/07/2022 16:30:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Fährt in Engstelle auf mich zu und bleibt stehen. Kann nur noch links dran vorbei.",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.53528603, 52.04038851 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/07/2022 01:07:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Geparkter Anhänger ragt auf Radstreifen.",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.51816123, 52.05837788 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/07/2022 15:01:56",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.50712379, 52.04713345 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/07/2022 15:44:54",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.51922687, 52.05418156 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/07/2022 15:58:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Fahrrad bog vor mir auf den Radweg ab ohne zu gucken",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.52724199, 52.05375216 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/07/2022 15:56:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.51936103, 52.05421186 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/07/2022 07:07:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Zu schnell und in Engstelle ",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5220497, 52.05473718 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/07/2022 07:09:37",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.51400873, 52.05229615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/07/2022 07:10:14",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Die Verschränkung nach links hat es wieder eng gemacht.",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.51212122, 52.05144302 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "30/04/2022 21:46:01",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -1979,6 +2321,60 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 8.52274166, 52.02554904 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/08/2022 15:57:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.52572824, 52.05114847 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/08/2022 15:50:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Nicht angeleinten Hund ausweichen.",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.50867171, 52.03884476 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/08/2022 06:51:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Bielefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.50437862, 52.04442594 ]
     }
   } ]
 }

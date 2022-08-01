@@ -11487,6 +11487,96 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "15/07/2022 08:21:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "LKW hält auf Radweg, zwingt zum Ausweichen auf die Fahrbahn ",
+      "region" : "Stuttgart"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.133033339157615, 48.77623543048343 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/07/2022 14:00:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW hält auf Bus-/Radspur",
+      "region" : "Stuttgart"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.137313939207331, 48.77424584948795 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/07/2022 14:12:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Vorfahrt missachtet (RvL)",
+      "region" : "Stuttgart"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.131192363370571, 48.77786628666175 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/07/2022 14:04:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Abstand < 80 cm",
+      "region" : "Stuttgart"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.143013055266545, 48.77362600456513 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/07/2022 15:32:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Wohnmobil hält auf Radstreifen, zwingt zum Ausweichen auf die Fahrbahn ",
+      "region" : "Stuttgart"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.140107646144234, 48.775005707715394 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "23/02/2022 08:24:19",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

@@ -576,5 +576,23 @@
       "type" : "Point",
       "coordinates" : [ 9.054043190325721, 48.60533673021728 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/07/2022 18:33:27",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto fuhr langsam und unentschlossen. eventuell Parkplatzsuche... ",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.062157193229995, 48.51889931071935 ]
+    }
   } ]
 }

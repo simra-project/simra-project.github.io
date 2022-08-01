@@ -111,6 +111,168 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "07/07/2022 07:55:52",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "linksabbieger",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.014747747530478, 53.56042903700847 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/07/2022 19:04:32",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "kam aufms Gluckstraße und stand weit über gesamte Radwegbreite",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.038839266521608, 53.57217701564585 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/07/2022 20:33:18",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "auf Radweg, direkt vor Ampel ",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.009628116465526, 53.54028265437347 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/07/2022 20:41:24",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "auf Radweg. Ort ist Am Zollhafen, konnte Ereignis nicht richt7g platzieren ",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.01504146570589, 53.52294852876357 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/07/2022 19:50:54",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "auf Busspur/Radspur",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.016470373205436, 53.56200318919293 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2022 18:33:14",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Taxi",
+      "scary" : "Ja",
+      "descr" : "überholt Radfahrer und kommt mir dabei sehr, sehr nah",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.005690180894806, 53.55635163380076 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2022 18:31:28",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Taxi",
+      "scary" : "Ja",
+      "descr" : "Taxifahrer fährt über Radspur auf Rechtsabbiegerspur ohne zu gucken. meldet sich immerhin freiwillig bei mir als er Fehler gesehen hat",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.00035198978321, 53.55520766948302 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2022 18:32:49",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "Bus halb auf Radspur geparkt. komme kaum durch bei viel Gegenverkehr",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.004248861286824, 53.557007933663726 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/07/2022 18:32:59",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Taxi",
+      "scary" : "Nein",
+      "descr" : "Steht im Stau so weit links, dass Radweg fast blockiert ist",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.004869262191558, 53.556796052198266 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "28/03/2022 14:34:35",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

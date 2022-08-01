@@ -1191,6 +1191,42 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "21/07/2022 18:07:32",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Freiburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.71741487, 47.96707214 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/07/2022 18:01:24",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Nein",
+      "descr" : "In einer Dreiergruppe auf einer Landstraße kam es zu etlichen dichten Überholmanövern.",
+      "region" : "Freiburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.74047997, 47.95548402 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "05/02/2022 16:38:08",
       "bikeType" : "-",
       "child" : "Nein",

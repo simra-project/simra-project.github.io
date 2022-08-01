@@ -12441,6 +12441,114 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "29/07/2022 10:08:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.58703521, 48.13148613 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/07/2022 09:56:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57424407, 48.14327768 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/07/2022 09:35:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.58451423, 48.13929905 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/07/2022 17:38:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad, Fußgänger, E-Scooter",
+      "scary" : "Nein",
+      "descr" : "unklare Wegführung am Odeonsplatz\\n",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57785091, 48.14255399 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/07/2022 09:42:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.53722278, 48.16626945 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/07/2022 09:53:46",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57359389, 48.14313348 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/02/2022 08:12:23",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
