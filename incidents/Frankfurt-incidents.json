@@ -5670,5 +5670,23 @@
       "type" : "Point",
       "coordinates" : [ 8.725373, 50.12489 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/08/2022 17:59:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Engstelle: Poller in der Mitte vom Weg. ",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.617248, 50.082854 ]
+    }
   } ]
 }

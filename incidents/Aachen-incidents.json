@@ -1,4 +1,40 @@
 {
   "type" : "FeatureCollection",
-  "features" : [ ]
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/08/2022 12:42:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.08863741, 50.77279959 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/08/2022 12:47:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.09763638, 50.7702395 ]
+    }
+  } ]
 }

@@ -6714,5 +6714,23 @@
       "type" : "Point",
       "coordinates" : [ 8.34319219, 49.01378756 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/08/2022 13:46:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.37683073, 49.01123784 ]
+    }
   } ]
 }

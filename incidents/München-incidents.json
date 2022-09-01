@@ -13158,5 +13158,23 @@
       "type" : "Point",
       "coordinates" : [ 11.57285479, 48.14349466 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/08/2022 09:14:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.53641282, 48.1671222 ]
+    }
   } ]
 }

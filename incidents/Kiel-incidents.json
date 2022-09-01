@@ -108,5 +108,23 @@
       "type" : "Point",
       "coordinates" : [ 10.13408265, 54.33927704 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/08/2022 20:32:45",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.12254509, 54.31987768 ]
+    }
   } ]
 }

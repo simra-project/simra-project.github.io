@@ -5148,5 +5148,41 @@
       "type" : "Point",
       "coordinates" : [ 8.758902233093977, 50.29086045920849 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/08/2022 07:29:56",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Schlecht einsehbare Kreuzung ",
+      "region" : "Wetterau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.750585792586207, 50.236110161058605 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/08/2022 16:46:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wetterau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.769766353070736, 50.28324265033007 ]
+    }
   } ]
 }

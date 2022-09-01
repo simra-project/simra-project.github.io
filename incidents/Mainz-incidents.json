@@ -1929,6 +1929,78 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "12/08/2022 08:36:41",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.223310206417668, 50.00092464419944 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/08/2022 11:36:18",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Autofahrer übersieht beim Rechtsabbiegen über Radweg den Fahrradfahrer, scharfes Bremsen des Radlers",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.264820947196522, 50.00080026317857 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/08/2022 18:27:14",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "rote Ampel überfahrender PKW",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.240422591080879, 50.01572083951017 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/08/2022 07:45:41",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf Radweg",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.220374342438951, 50.001051294342076 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/08/2022 18:35:45",
       "bikeType" : "Mountainbik",
       "child" : "Nein",
@@ -1943,6 +2015,132 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 8.217335655140362, 50.00142038780201 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/08/2022 18:07:50",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "PKW streift Fahrrad am Lenker und Radfahrer am Unterarm beim Überholen in Engstelle mit Außenspiegel, Spiegel wird dabei eingeklappt, Radfahrer fängt Sturz noch auf.",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.21333020607127, 50.001233582054375 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/08/2022 12:48:32",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "Linienbus",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.223970693939737, 50.00090074227443 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/08/2022 18:28:01",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf Radweg ",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.223078486856755, 50.0009517033909 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/09/2022 17:52:01",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.216638078879363, 50.00174419194671 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/09/2022 17:51:58",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "inkl. Hupen und Anpöbeln des Radfahrers durch PKW-Fahrer im Zweiradüberholverbot",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.216920288500123, 50.001645411673096 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/09/2022 17:52:01",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.216638078879363, 50.00174419194671 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/09/2022 17:51:58",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "inkl. Hupen und Anpöbeln des Radfahrers durch PKW-Fahrer im Zweiradüberholverbot",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.216920288500123, 50.001645411673096 ]
     }
   } ]
 }
