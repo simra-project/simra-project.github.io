@@ -1,26 +1,26 @@
 {
-  "totalRides": 82019,
-  "totalIncidents": 39763,
-  "totalKm": 634795,
-  "diffDate": "23.09.2022, 23:00:06",
+  "totalRides": 82045,
+  "totalIncidents": 39773,
+  "totalKm": 634918,
+  "diffDate": "24.09.2022, 23:00:23",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        33766,
-        158
+        33776,
+        150
       ],
       "incidents": [
-        16361,
-        77
+        16365,
+        75
       ],
       "scaryIncidents": [
-        4691,
+        4693,
         28
       ],
       "km": [
-        259186,
-        1644
+        259243,
+        1461
       ]
     },
     {
@@ -122,7 +122,7 @@
       "name": "Wuppertal",
       "rides": [
         2923,
-        19
+        15
       ],
       "incidents": [
         277,
@@ -134,7 +134,7 @@
       ],
       "km": [
         25348,
-        225
+        184
       ]
     },
     {
@@ -178,39 +178,39 @@
     {
       "name": "Bielefeld",
       "rides": [
-        1956,
-        85
+        1957,
+        6
       ],
       "incidents": [
         190,
-        44
+        1
       ],
       "scaryIncidents": [
         14,
         1
       ],
       "km": [
-        5862,
-        230
+        5865,
+        22
       ]
     },
     {
       "name": "Mannheim",
       "rides": [
-        1578,
-        15
+        1583,
+        20
       ],
       "incidents": [
-        514,
-        7
+        517,
+        10
       ],
       "scaryIncidents": [
         136,
         4
       ],
       "km": [
-        9797,
-        238
+        9822,
+        263
       ]
     },
     {
@@ -273,20 +273,20 @@
     {
       "name": "Dresden",
       "rides": [
-        1030,
-        25
+        1033,
+        26
       ],
       "incidents": [
-        593,
-        12
+        594,
+        13
       ],
       "scaryIncidents": [
         45,
         1
       ],
       "km": [
-        9146,
-        248
+        9165,
+        258
       ]
     },
     {
@@ -518,6 +518,25 @@
       ]
     },
     {
+      "name": "Tübingen",
+      "rides": [
+        242,
+        10
+      ],
+      "incidents": [
+        35,
+        2
+      ],
+      "scaryIncidents": [
+        7,
+        0
+      ],
+      "km": [
+        1755,
+        47
+      ]
+    },
+    {
       "name": "ZES_Experimentell",
       "rides": [
         238,
@@ -534,25 +553,6 @@
       "km": [
         979,
         0
-      ]
-    },
-    {
-      "name": "Tübingen",
-      "rides": [
-        235,
-        3
-      ],
-      "incidents": [
-        33,
-        0
-      ],
-      "scaryIncidents": [
-        7,
-        0
-      ],
-      "km": [
-        1736,
-        28
       ]
     },
     {
@@ -711,7 +711,7 @@
       "name": "Rottweil",
       "rides": [
         103,
-        1
+        0
       ],
       "incidents": [
         46,
@@ -723,7 +723,7 @@
       ],
       "km": [
         713,
-        5
+        0
       ]
     },
     {
@@ -1620,5 +1620,5 @@
       ]
     }
   ],
-  "sourceDate": "30.09.2022, 23:00:28"
+  "sourceDate": "01.10.2022, 23:00:20"
 }

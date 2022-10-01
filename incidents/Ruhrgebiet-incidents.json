@@ -29214,5 +29214,599 @@
       "type" : "Point",
       "coordinates" : [ 7.48832705, 51.51181901 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/09/2022 08:30:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "Lieferwagen hat trotz Handzeichen zum Linksabbiegen einfach überholt und es kam beinahe zur Kollision ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.51182962, 51.54936421 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/09/2022 09:57:32",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86851024, 51.41439932 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/08/2022 12:23:23",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Beim Ausladen. Sehr beengte Durchfahrt ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.84863757, 51.45452547 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2022 18:12:48",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87580984, 51.39836484 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2022 16:08:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker an Ecke musste ausgewichen werden ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87847497, 51.42567815 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2022 16:06:10",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Mit Hund ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87322865, 51.42178411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/08/2022 13:22:40",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88600697, 51.43211451 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/08/2022 13:25:20",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88363419, 51.42787523 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/08/2022 13:28:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87972167, 51.42606895 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/08/2022 13:19:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88693118, 51.4415038 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/09/2022 18:18:52",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.869062, 51.40967554 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/09/2022 18:23:14",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Motorrad",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Geh-/Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87326166, 51.42372443 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/09/2022 18:13:56",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86429808, 51.39815081 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/09/2022 14:40:44",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.85858798, 51.42989472 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/09/2022 15:11:56",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Vorfahrt genommen ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88777559, 51.43813777 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/09/2022 09:48:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Durchfahrt an parkenden Kfz erzwungen ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86788439, 51.4049388 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/09/2022 09:39:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88499683, 51.44391332 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/09/2022 09:42:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88822546, 51.43630369 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/09/2022 13:57:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radfahrstreifen ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.8582925, 51.41433806 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/09/2022 13:14:34",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87230973, 51.42107945 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/07/2022 12:05:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86879965, 51.40992988 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/07/2022 12:04:24",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Parkplatzausfahrt, Fahrer achten oft nicht auf Radfahrende oder zu Fuß gehende ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86854043, 51.41108216 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/07/2022 11:57:02",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg. Aufgefordert den Radweg für Kinder usw. frei zu machen. ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88029052, 51.42601639 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2022 20:13:54",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87784058, 51.40085778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/09/2022 14:58:48",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "An Durchfahrt behindert. Durchfahrt an parkenden Kfz erzwungen. ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86805752, 51.4049449 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/09/2022 15:02:59",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86870193, 51.41237841 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/09/2022 20:50:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87390135, 51.39809068 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/09/2022 10:46:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87926723, 51.40186729 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/09/2022 17:27:11",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Durchfahrt an parkenden Kfz erzwungen ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86811456, 51.40501491 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/09/2022 17:27:08",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Durchfahrt an parkenden Kfz erzwungen ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86786486, 51.40494957 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/09/2022 17:29:03",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86919185, 51.40847605 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/07/2022 09:48:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Schneidet die Kurve",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86354548, 51.39968075 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/09/2022 13:57:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radfahrstreifen ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.8582925, 51.41433806 ]
+    }
   } ]
 }

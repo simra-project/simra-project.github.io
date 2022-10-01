@@ -6732,5 +6732,41 @@
       "type" : "Point",
       "coordinates" : [ 8.37683073, 49.01123784 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/09/2022 14:36:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Ich kam 'aus' der Fahrradstraße und bin weiter geradeausgefahren, ein von linkes auf dieselbe Straße einbiegender PKW hat mir die Vorfahrt genommen.",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.40129721, 49.00763955 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/09/2022 12:31:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "DHL auf dem Radweg, da ein Pkw in der ladezone stand.",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.4135782, 49.00580945 ]
+    }
   } ]
 }

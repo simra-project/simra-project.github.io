@@ -12204,5 +12204,23 @@
       "type" : "Point",
       "coordinates" : [ 9.15220659981331, 48.77628026183923 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2022 13:53:51",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Stuttgart"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.17555493, 48.77325325 ]
+    }
   } ]
 }

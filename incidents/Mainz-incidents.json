@@ -2109,6 +2109,42 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "21/09/2022 17:46:42",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.215438372920644, 50.001733032981896 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/09/2022 18:28:38",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Mehrere PKW aus Rückstau von roter Ampel blockieren Radweg",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.219027418590482, 50.00108088824198 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/09/2022 17:52:01",
       "bikeType" : "Mountainbik",
       "child" : "Nein",

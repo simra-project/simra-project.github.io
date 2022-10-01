@@ -540,5 +540,59 @@
       "type" : "Point",
       "coordinates" : [ 6.96083463, 49.23810766 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/09/2022 13:26:28",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.90648956, 49.39246953 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/09/2022 14:23:09",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "fuhr bei für ihn roter Ampel trotzdem",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.99212981, 49.23912502 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/09/2022 00:23:39",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.92542989, 49.3706252 ]
+    }
   } ]
 }

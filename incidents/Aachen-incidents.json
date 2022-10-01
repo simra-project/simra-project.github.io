@@ -36,5 +36,77 @@
       "type" : "Point",
       "coordinates" : [ 6.09763638, 50.7702395 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/09/2022 16:51:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.08884586, 50.76480299 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/09/2022 16:49:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.09260725, 50.76750246 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/09/2022 16:47:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.09472879, 50.76872993 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/09/2022 16:50:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.09103954, 50.76626128 ]
+    }
   } ]
 }

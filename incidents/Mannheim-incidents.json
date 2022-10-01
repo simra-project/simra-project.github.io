@@ -5637,6 +5637,60 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "01/10/2022 10:47:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.472805, 49.486336666666666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/10/2022 10:46:04",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.475741666666666, 49.4872 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/10/2022 10:46:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.475436666666667, 49.486529999999995 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "23/03/2022 14:09:24",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -8657,6 +8711,600 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 8.436350000000001, 49.495328333333326 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/09/2022 05:48:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Die Zufahrt zum Radweg war durch einen parkenden LKW komplett blockiert. Ein Ausweichen war nicht möglich.",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.376948333333333, 49.628099999999996 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/09/2022 05:57:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.462465, 49.532696666666666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/09/2022 05:53:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.47224, 49.52201 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/09/2022 05:55:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.468646666666666, 49.52901833333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2022 05:54:37",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.458644999999999, 49.491926666666664 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/09/2022 14:07:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Pedestrian not looking and not reacting",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.473195, 49.49245 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/09/2022 14:07:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.472075, 49.492957 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/09/2022 14:07:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.47211, 49.493925 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/09/2022 14:13:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Car driving into street with squeaking tires",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.469089, 49.509495 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/09/2022 14:13:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.469043, 49.509476 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/09/2022 14:13:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Car driving into road with squeaking tires and speeding for no reason",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.469018, 49.509469 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/09/2022 16:27:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.431893333333333, 49.495235 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/09/2022 16:27:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.432501666666667, 49.49492 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/09/2022 16:27:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.433093333333334, 49.494595 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/09/2022 05:24:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.468028333333333, 49.52950666666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/09/2022 15:45:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.472904999999999, 49.51900333333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/09/2022 15:36:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.447525, 49.53962833333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/09/2022 14:17:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "KFZ quert ungebremst über den Fahrradweg.",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.411061666666665, 49.523158333333335 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/09/2022 05:49:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.460413333333333, 49.49330833333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/09/2022 05:49:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.459533333333333, 49.49270666666666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/09/2022 05:55:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.374414999999999, 49.626835 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2022 16:20:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "E-Scooter",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.457038333333333, 49.49155166666666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/09/2022 05:33:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.472005, 49.52348833333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/09/2022 17:39:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.488501666666668, 49.49993500000001 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/09/2022 17:38:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.488618333333333, 49.49966166666666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/09/2022 17:38:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.488536666666667, 49.49980166666666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/09/2022 17:38:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Ja",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.48867, 49.49951333333333 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/09/2022 05:22:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Zu dichtes überholen an einer Gleisquerung.",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.462463333333334, 49.532653333333336 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/09/2022 16:09:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.471951666666666, 49.519819999999996 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/09/2022 05:43:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.471196666666666, 49.52565 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/09/2022 05:43:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.470418333333333, 49.52695000000001 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/09/2022 05:42:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.472205, 49.52202666666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/09/2022 05:43:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mannheim"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.471941666666668, 49.523885 ]
     }
   } ]
 }

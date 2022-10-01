@@ -13176,5 +13176,23 @@
       "type" : "Point",
       "coordinates" : [ 11.53641282, 48.1671222 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/09/2022 17:27:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.56038825, 48.15223968 ]
+    }
   } ]
 }

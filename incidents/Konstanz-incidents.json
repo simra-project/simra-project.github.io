@@ -3294,5 +3294,77 @@
       "type" : "Point",
       "coordinates" : [ 9.161217, 47.672362 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/09/2022 18:11:27",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.153223, 47.678559 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/09/2022 18:11:59",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.155665, 47.677776 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/09/2022 18:14:58",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.168812, 47.67362 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/09/2022 18:15:49",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.170905, 47.674382 ]
+    }
   } ]
 }
