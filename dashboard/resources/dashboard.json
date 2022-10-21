@@ -1,33 +1,33 @@
 {
-  "totalRides": 83532,
-  "totalIncidents": 40635,
-  "totalKm": 645945,
-  "diffDate": "13.10.2022, 23:00:29",
+  "totalRides": 83609,
+  "totalIncidents": 40679,
+  "totalKm": 646431,
+  "diffDate": "14.10.2022, 23:00:29",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        34419,
-        246
+        34452,
+        257
       ],
       "incidents": [
-        16667,
-        83
+        16674,
+        76
       ],
       "scaryIncidents": [
-        4825,
-        33
+        4828,
+        30
       ],
       "km": [
-        263095,
-        1546
+        263335,
+        1628
       ]
     },
     {
       "name": "UNKNOWN",
       "rides": [
-        5285,
-        1
+        5286,
+        2
       ],
       "incidents": [
         2378,
@@ -38,15 +38,15 @@
         0
       ],
       "km": [
-        47270,
-        27
+        47274,
+        31
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        5055,
-        21
+        5067,
+        23
       ],
       "incidents": [
         3945,
@@ -57,27 +57,27 @@
         0
       ],
       "km": [
-        34372,
-        83
+        34400,
+        78
       ]
     },
     {
       "name": "Hannover",
       "rides": [
-        4463,
+        4468,
         29
       ],
       "incidents": [
-        2906,
-        46
+        2909,
+        24
       ],
       "scaryIncidents": [
         347,
-        5
+        3
       ],
       "km": [
-        39415,
-        138
+        39426,
+        129
       ]
     },
     {
@@ -102,8 +102,8 @@
     {
       "name": "Ruhrgebiet",
       "rides": [
-        3168,
-        15
+        3170,
+        17
       ],
       "incidents": [
         1667,
@@ -114,46 +114,46 @@
         0
       ],
       "km": [
-        24502,
-        73
+        24506,
+        77
       ]
     },
     {
       "name": "Wuppertal",
       "rides": [
-        2955,
-        13
+        2958,
+        16
       ],
       "incidents": [
-        281,
-        0
+        285,
+        4
       ],
       "scaryIncidents": [
-        58,
-        0
+        59,
+        1
       ],
       "km": [
-        25734,
-        127
+        25764,
+        157
       ]
     },
     {
       "name": "München",
       "rides": [
         2260,
-        40
+        12
       ],
       "incidents": [
         734,
-        1
+        0
       ],
       "scaryIncidents": [
         79,
-        1
+        0
       ],
       "km": [
         17086,
-        436
+        127
       ]
     },
     {
@@ -197,20 +197,20 @@
     {
       "name": "Mannheim",
       "rides": [
-        1618,
-        17
+        1620,
+        4
       ],
       "incidents": [
         535,
-        7
+        0
       ],
       "scaryIncidents": [
         139,
-        1
+        0
       ],
       "km": [
-        10151,
-        106
+        10153,
+        16
       ]
     },
     {
@@ -236,7 +236,7 @@
       "name": "Stuttgart",
       "rides": [
         1375,
-        26
+        21
       ],
       "incidents": [
         680,
@@ -248,7 +248,7 @@
       ],
       "km": [
         17357,
-        223
+        126
       ]
     },
     {
@@ -312,37 +312,37 @@
       "name": "Köln",
       "rides": [
         845,
-        14
+        5
       ],
       "incidents": [
         2385,
-        73
+        27
       ],
       "scaryIncidents": [
         1406,
-        65
+        24
       ],
       "km": [
         5513,
-        89
+        31
       ]
     },
     {
       "name": "Magdeburg",
       "rides": [
-        826,
+        829,
         46
       ],
       "incidents": [
-        306,
-        5
+        307,
+        6
       ],
       "scaryIncidents": [
-        30,
-        1
+        31,
+        2
       ],
       "km": [
-        3868,
+        3888,
         252
       ]
     },
@@ -385,6 +385,25 @@
       ]
     },
     {
+      "name": "Saarlouis",
+      "rides": [
+        698,
+        23
+      ],
+      "incidents": [
+        393,
+        33
+      ],
+      "scaryIncidents": [
+        203,
+        19
+      ],
+      "km": [
+        5292,
+        208
+      ]
+    },
+    {
       "name": "Konstanz",
       "rides": [
         697,
@@ -401,25 +420,6 @@
       "km": [
         4606,
         0
-      ]
-    },
-    {
-      "name": "Saarlouis",
-      "rides": [
-        690,
-        15
-      ],
-      "incidents": [
-        382,
-        22
-      ],
-      "scaryIncidents": [
-        197,
-        13
-      ],
-      "km": [
-        5226,
-        142
       ]
     },
     {
@@ -482,20 +482,20 @@
     {
       "name": "Wien",
       "rides": [
-        347,
-        11
+        350,
+        14
       ],
       "incidents": [
-        474,
-        56
+        486,
+        68
       ],
       "scaryIncidents": [
-        25,
-        0
+        26,
+        1
       ],
       "km": [
-        5204,
-        359
+        5264,
+        419
       ]
     },
     {
@@ -558,20 +558,20 @@
     {
       "name": "Mainz",
       "rides": [
-        230,
-        7
+        232,
+        9
       ],
       "incidents": [
-        122,
-        0
+        125,
+        3
       ],
       "scaryIncidents": [
         28,
         0
       ],
       "km": [
-        1240,
-        27
+        1248,
+        35
       ]
     },
     {
@@ -632,6 +632,25 @@
       ]
     },
     {
+      "name": "Cottbus",
+      "rides": [
+        159,
+        45
+      ],
+      "incidents": [
+        40,
+        24
+      ],
+      "scaryIncidents": [
+        1,
+        0
+      ],
+      "km": [
+        919,
+        210
+      ]
+    },
+    {
       "name": "Ostalbkreis",
       "rides": [
         157,
@@ -648,25 +667,6 @@
       "km": [
         1344,
         5
-      ]
-    },
-    {
-      "name": "Cottbus",
-      "rides": [
-        157,
-        46
-      ],
-      "incidents": [
-        37,
-        23
-      ],
-      "scaryIncidents": [
-        1,
-        0
-      ],
-      "km": [
-        908,
-        214
       ]
     },
     {
@@ -1091,7 +1091,7 @@
       "name": "Reutlingen",
       "rides": [
         19,
-        4
+        2
       ],
       "incidents": [
         0,
@@ -1103,7 +1103,7 @@
       ],
       "km": [
         106,
-        24
+        12
       ]
     },
     {
@@ -1392,6 +1392,25 @@
       ]
     },
     {
+      "name": "Düsseldorf-Neuss",
+      "rides": [
+        5,
+        2
+      ],
+      "incidents": [
+        0,
+        0
+      ],
+      "scaryIncidents": [
+        0,
+        0
+      ],
+      "km": [
+        11,
+        4
+      ]
+    },
+    {
       "name": "Cochem-Zell",
       "rides": [
         4,
@@ -1427,25 +1446,6 @@
       "km": [
         51,
         0
-      ]
-    },
-    {
-      "name": "Düsseldorf-Neuss",
-      "rides": [
-        4,
-        1
-      ],
-      "incidents": [
-        0,
-        0
-      ],
-      "scaryIncidents": [
-        0,
-        0
-      ],
-      "km": [
-        9,
-        2
       ]
     },
     {
@@ -1620,5 +1620,5 @@
       ]
     }
   ],
-  "sourceDate": "20.10.2022, 23:00:25"
+  "sourceDate": "21.10.2022, 23:00:09"
 }
