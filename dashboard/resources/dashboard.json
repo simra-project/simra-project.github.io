@@ -1,26 +1,26 @@
 {
-  "totalRides": 83959,
-  "totalIncidents": 41013,
-  "totalKm": 648166,
-  "diffDate": "22.10.2022, 23:00:06",
+  "totalRides": 83977,
+  "totalIncidents": 41046,
+  "totalKm": 648327,
+  "diffDate": "23.10.2022, 23:00:15",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        34565,
+        34569,
         106
       ],
       "incidents": [
-        16711,
-        37
+        16712,
+        38
       ],
       "scaryIncidents": [
         4837,
         9
       ],
       "km": [
-        263831,
-        454
+        263856,
+        466
       ]
     },
     {
@@ -45,20 +45,20 @@
     {
       "name": "Nuernberg",
       "rides": [
-        5097,
-        30
+        5107,
+        34
       ],
       "incidents": [
         3965,
-        20
+        14
       ],
       "scaryIncidents": [
         762,
         5
       ],
       "km": [
-        34498,
-        98
+        34575,
+        149
       ]
     },
     {
@@ -122,7 +122,7 @@
       "name": "Wuppertal",
       "rides": [
         2976,
-        16
+        14
       ],
       "incidents": [
         291,
@@ -134,14 +134,14 @@
       ],
       "km": [
         25907,
-        129
+        125
       ]
     },
     {
       "name": "München",
       "rides": [
-        2264,
-        4
+        2265,
+        5
       ],
       "incidents": [
         738,
@@ -152,8 +152,8 @@
         0
       ],
       "km": [
-        17111,
-        25
+        17121,
+        35
       ]
     },
     {
@@ -331,7 +331,7 @@
       "name": "Magdeburg",
       "rides": [
         839,
-        10
+        7
       ],
       "incidents": [
         309,
@@ -343,7 +343,7 @@
       ],
       "km": [
         3925,
-        37
+        23
       ]
     },
     {
@@ -521,11 +521,11 @@
       "name": "Tübingen",
       "rides": [
         267,
-        7
+        4
       ],
       "incidents": [
         37,
-        1
+        0
       ],
       "scaryIncidents": [
         7,
@@ -533,7 +533,7 @@
       ],
       "km": [
         1893,
-        39
+        7
       ]
     },
     {
@@ -575,6 +575,25 @@
       ]
     },
     {
+      "name": "Cottbus",
+      "rides": [
+        203,
+        28
+      ],
+      "incidents": [
+        160,
+        78
+      ],
+      "scaryIncidents": [
+        11,
+        10
+      ],
+      "km": [
+        1095,
+        94
+      ]
+    },
+    {
       "name": "Darmstadt",
       "rides": [
         202,
@@ -613,25 +632,6 @@
       ]
     },
     {
-      "name": "Cottbus",
-      "rides": [
-        201,
-        39
-      ],
-      "incidents": [
-        150,
-        99
-      ],
-      "scaryIncidents": [
-        10,
-        9
-      ],
-      "km": [
-        1071,
-        139
-      ]
-    },
-    {
       "name": "Kaiserslautern",
       "rides": [
         182,
@@ -653,20 +653,20 @@
     {
       "name": "Ostalbkreis",
       "rides": [
-        158,
+        159,
         1
       ],
       "incidents": [
-        1374,
-        18
+        1396,
+        22
       ],
       "scaryIncidents": [
-        277,
-        1
+        282,
+        5
       ],
       "km": [
-        1361,
-        17
+        1386,
+        25
       ]
     },
     {
@@ -1620,5 +1620,5 @@
       ]
     }
   ],
-  "sourceDate": "29.10.2022, 23:00:22"
+  "sourceDate": "30.10.2022, 23:00:10"
 }
