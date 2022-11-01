@@ -3,6 +3,2940 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "01/11/2022 17:37:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße außerhalb der gekennzeichneten Flächen \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.331733838992797, 51.7633559291405 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2022 11:53:48",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.323551310133785, 51.7663686692694 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2022 18:18:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355696963873678, 51.78847787972816 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2022 18:03:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße außerhalb der gekennzeichneten Flächen\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.331865132143541, 51.763565908898244 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2022 18:04:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Ja",
+      "descr" : "zwei entgegenkommende Fahrräder (Geisterfahrer)\\n\\n\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.332321445686334, 51.76452494563797 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2022 18:05:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.33440708799851, 51.767158557395035 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2022 18:15:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353702036733907, 51.7830146884746 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2022 18:16:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.354053096081875, 51.78610956793863 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2022 18:18:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355713401287543, 51.788232586185316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2022 07:36:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.34977970713533, 51.77776836956304 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 18:58:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355712855485173, 51.78800838200498 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 19:06:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "vermutlich stark betrunkener Rafahrer (es war zu riechen) mit schwer kalkulierbarer Fahrtrichtung ",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.344635549235118, 51.772049323206005 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 09:03:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW verlässt Grundstück und achtet nicht auf fließenden Radverkehr\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.354387290252197, 51.79102223176768 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 09:03:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.354619378170199, 51.79140652212493 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 09:04:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.3547906622852, 51.79170542305188 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 09:04:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355138265767033, 51.79224272502887 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/10/2022 16:40:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353815191723475, 51.783397299363486 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 08:01:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.309286028146744, 51.76461332011968 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 08:01:27",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.308234434574842, 51.76444346085191 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/10/2022 16:01:14",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.365275627935075, 51.72045202537855 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/10/2022 16:03:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.361570014742378, 51.72589704355739 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/10/2022 16:04:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.360817582579585, 51.728607387680846 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/10/2022 16:09:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.356851374834891, 51.74024929150372 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/10/2022 16:09:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.356568193937186, 51.74068090320119 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/10/2022 16:21:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad, Fußgänger",
+      "scary" : "Nein",
+      "descr" : "5 Fußgänger nebeneinander +Fahrrad von rechts\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.3486872331167, 51.764414852969445 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/10/2022 16:21:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "viele Fußgänger und Hunde\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.348661939445469, 51.765019950825874 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/10/2022 16:24:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "4 Personen und 3 Hunde nebeneinander \\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.35303311239546, 51.76794476961013 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 07:53:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Radler nutzen gern die neue Pflasterung nach Glasphasetkabelverlegung, weil die nicht so holprig ist. Das ist bei Gegenverkehr problematisch.",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.350056314038795, 51.777985940824315 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 07:50:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353554619129945, 51.78187821631856 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 07:58:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.342090541430045, 51.76960750541042 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:20:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "mehrere Personen änderten plötzlich Bewegungsrichtung\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.335893420657799, 51.76920447214205 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:21:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Radwegparker \\n\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.333763172528647, 51.766555325346125 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:06:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.357574327719696, 51.79032737035371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:07:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355692639884925, 51.78869375652218 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:07:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355759014948893, 51.78794764656867 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:09:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353984156973443, 51.78579731096746 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:09:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353978525542683, 51.785337962998426 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:11:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353668815255494, 51.782282874899224 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:19:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Poller\\n\\n\\n\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.337937926293407, 51.771324787895615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:19:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Radwegparker \\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.337136451086597, 51.77049873831777 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:21:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Radwegparker \\n\\n\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.333682799389662, 51.766465806292196 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:24:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "mehrere Personen änderten\\n plötzlich ihre Bewegungsrichtung.\\n\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.33070597768389, 51.760392714232545 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:25:48",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "auf dem Radweg\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.327702740651992, 51.75862152357935 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:25:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "plötzlich auf dem Radweg\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.32769899971297, 51.75848679683773 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:27:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "auf Geh- und Radweg\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.328010490161907, 51.755630673128316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 15:27:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger, PKW",
+      "scary" : "Nein",
+      "descr" : "Radwegparker und Fußgänger auf dem Radweg \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.328001001523146, 51.755588990954564 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/10/2022 09:03:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße, weiterer PKW kommt im Gegenverkehr \\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.331610944512077, 51.76894985385678 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/10/2022 09:03:45",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.332391803826102, 51.768892636270984 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/10/2022 13:10:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.35569980613994, 51.787948021240496 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/10/2022 13:11:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353924769554618, 51.785430052091584 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 08:07:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Gehwegparker",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.33382518659228, 51.7662978509017 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 08:07:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "über das Wochenende auf Geh-Radweg geparktes Baufahrzeug",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.333886932198196, 51.76639682023733 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 08:07:37",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Gehwegparker",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.333935734437267, 51.766495736685165 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 08:08:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.334635328260413, 51.76752210731021 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 08:09:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "zahlreiche große Tiefe Pfützen",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.339880225558883, 51.76926398772855 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 08:15:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Sperrung wegen Bauarbeiten",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.348459556791264, 51.77684868888501 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 08:18:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "mehrere parkende PKW",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353679695893995, 51.782946764297165 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 08:21:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "mehrere parkende PKW",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355674616491829, 51.788148595486554 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/10/2022 17:41:14",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353685648854675, 51.783036290552324 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/10/2022 17:42:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.35405228894529, 51.7862048329731 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/10/2022 17:43:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW fährt aus Grundstück und missachtet Vorfahrt des Fahrrades \\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355714817424868, 51.78808245087465 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/10/2022 17:44:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355682190235042, 51.78842034887754 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 06:36:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Im Dunkeln ist der kleine Weg vorbei an den parkenden Pkw zum IKMZ schwer zu finden.\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.33062301122388, 51.76858902716414 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 16:37:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355981207206334, 51.77397443278454 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 16:28:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "mehrere Personen\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.334017272953593, 51.766651504939176 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 16:28:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle über gesamten Fuß/Radweg ohne Ausschilderung.\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.334457014310653, 51.76737165169202 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 16:29:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle: gesamte Straße & rechter Weg\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.335511528383034, 51.76787749588846 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 16:34:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "mehrere Personen \\n\\n\\n\\n\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.352390729473033, 51.767833111849264 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 16:34:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "\\n\\n\\n\\n\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353802412380182, 51.768288052083584 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 16:42:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger, Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Hund\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.366309632944427, 51.78309629262331 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 16:49:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.360074573257908, 51.7932326303081 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/10/2022 08:46:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.35390021707435, 51.7849189011742 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/10/2022 08:47:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353623597125525, 51.78263049914315 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 11:18:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "PKW überholt sehr dicht und biegt dann genau vor mir rechts ab.\\n\\n\\n\\n\\n\\n\\n\\n\\n biegt dann genau vor mir rechts sb: Vollbremsung notwendig.",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.34944053173068, 51.787181978604124 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 11:16:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.34290470934866, 51.786354185782066 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 11:20:29",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355427234754874, 51.78766689276298 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 11:20:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355736102311477, 51.78826182573391 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 11:21:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.357542393112235, 51.790330872529644 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:16:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.327419186318235, 51.76121523513522 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:24:29",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.328022167822612, 51.74655589662048 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:24:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.32782235609406, 51.74610672779016 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:24:56",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.32752020724029, 51.745562707113166 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:25:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.32722994351294, 51.74508338252502 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:25:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.327032123352208, 51.744747748796655 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:15:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf Wegesmitte\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.327233348227988, 51.76188382487778 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 11:10:45",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.345850091417436, 51.787000199856166 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 11:11:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.34432587707765, 51.786759534604805 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/10/2022 12:40:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.32564333935303, 51.7660211679419 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 19:23:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Ja",
+      "descr" : "stark torkelnde Person\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.350347310754268, 51.77821562539698 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 19:26:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "4 PKW parken auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353688429730266, 51.782460267765956 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 19:26:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353726276556873, 51.78293591660542 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 19:28:56",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "3 PKW parken auf der Straße \\n\\n\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.35573135511538, 51.788150871481655 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/10/2022 09:12:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "Kinderwagen mit unangepasst hoher Geschwindigkeit nimmt komplette Breite der Webschulallee ein und kommt mir entgegen.",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.338359938811216, 51.7714541250189 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/10/2022 09:12:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Parkt auf der Webschulallee.\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.338262652330593, 51.771376814090004 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:11:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "4 Kinder spielen Fußball auf dem Duß- und Radweg \\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.328336743254667, 51.75523229261173 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:12:00",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "2 Personen mit wechselnder Bewegungsrichtung auf Radweg\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.328124602573894, 51.7574568846709 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:16:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "mehrere Personen brauchen viel Platz \\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.333389571078603, 51.76587608347806 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:16:33",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Baufahrzeug parkt übers Wochenende auf dem Weg\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.333971755313351, 51.76658846791387 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:17:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "mehrere Personen brauchen viel Platz \\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.334541935478134, 51.767446347784286 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:19:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.338328409328344, 51.77145317670254 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:23:29",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.348571075669241, 51.77692715891687 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:26:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "mehrere Fußgänger\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353722193489475, 51.783046968620916 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:27:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.354050055131154, 51.786050532656674 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:28:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.354577474557503, 51.787440110063294 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:28:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "parkt auf der Straße\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355734356686929, 51.78804643926868 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:28:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "2PKW parken auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.35569770117033, 51.788302921800714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/10/2022 16:29:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger, PKW",
+      "scary" : "Nein",
+      "descr" : "PKW und mehrere Fußgänger \\n\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.356557281814432, 51.78970146915009 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/10/2022 09:50:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.339890293170647, 51.77133232462718 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/10/2022 09:50:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße,  Gegenverkehr\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.340732000710371, 51.771239170422156 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/10/2022 09:51:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Sperrmüll auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.342652916587015, 51.77104012557531 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/10/2022 07:07:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355029058387453, 51.77110936274999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/10/2022 07:15:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "LKW parkt auf Geh/Radweg",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.333979181855135, 51.766982985090706 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/10/2022 07:16:14",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "parkt auf Geh/Radweg",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.333724726466993, 51.76654598400342 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 11:55:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.324104196697034, 51.7661874330211 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 08:40:46",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.333071247288526, 51.7688689745429 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 08:41:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.334954940950155, 51.769528812879265 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 08:51:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "3 PKW parken auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353671799773421, 51.782995808153906 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 08:51:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Kleintransporter steht auf der Straße\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353749063906996, 51.78357718786624 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 08:54:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.35742547857967, 51.79024007940572 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 22:31:03",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.334403193006247, 51.767229748256796 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 14:52:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.338806961707988, 51.769123003562896 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 14:57:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.335774585167208, 51.768824924002246 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 14:57:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.335888172469932, 51.7689521638014 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 15:05:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.350439942245314, 51.78408321834389 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 15:07:54",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.344544279114167, 51.786793269016336 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 15:13:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.35565037560452, 51.78863937203606 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 16:52:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Radweg zugeparkt ",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.298155447468162, 51.75341291818768 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/10/2022 15:57:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.331273236753923, 51.75913198115769 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/10/2022 17:18:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Person mitten auf dem Weg reagiert sehr spät.\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.32964424447146, 51.766561281322375 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/10/2022 17:18:45",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.330871837020123, 51.76620698552206 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/10/2022 17:19:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.334079565069441, 51.76680455440222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/10/2022 17:20:29",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle auf kompletter Gehwegbreite ohne Ankündigung für den KFZ-Verkehr",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.334522892893979, 51.76747466717539 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 18:59:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.337262221999103, 51.77057009083021 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 19:00:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.33567467913363, 51.768510421784526 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 19:01:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.333229403358777, 51.76589648994228 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 19:01:33",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.332760628610094, 51.765465124860555 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/10/2022 19:03:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.33069270398487, 51.76146506751485 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 16:34:34",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.326838068664074, 51.72742746770382 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/10/2022 16:34:40",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.326871512457728, 51.72765398863703 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 09:33:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "LKW parkt auf der Straße \\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353964848193014, 51.78609954644528 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 09:33:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353906700828944, 51.785322776038335 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 09:35:41",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.35275083439961, 51.78109709637603 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 09:40:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Person torkelt mitten auf dem Weg.\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.344759234948134, 51.77227975915243 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 09:44:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf dem Weg.\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.337697500960772, 51.77085108620494 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 16:08:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.254742050543427, 51.76018520258367 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/10/2022 16:39:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW auf Geh/Radweg direkt vor dem Poller.\\n\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.337914486297, 51.77129997628749 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/10/2022 16:48:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "3 PKW parken auf der Straße \\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353744492724616, 51.78301655807051 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/10/2022 16:52:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "PKW-anhänger auf der Straße abgestellt.\\n\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.358328269228801, 51.790929812811186 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 07:43:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "Linksabbiegender PKW missachtet meine Vorfahrt (Grüne Ampel)\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.344102163494837, 51.77121286190367 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 07:46:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.33629728887397, 51.76962705336177 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 07:36:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "parkt auf der Straße\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353937911716185, 51.785318730349545 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 07:43:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Kleintransporter parkt auf dem Geh/Radweg\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.34455413838125, 51.77184564565946 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 20:32:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "große Baustelle\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.334037663749633, 51.7668050343613 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 20:44:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf der Straße, weiterer PKW kommt im Gegenverkehr.\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.353723362123873, 51.78308011660692 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:48:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.327330717798409, 51.74484656172325 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:49:48",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Der Fahrer beschimpfte mich aus dem Auto.\\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.328317481522687, 51.74719457441157 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:54:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf dem sehr engen Radweg\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.328208437430405, 51.755898680678854 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:59:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Der PKW stand entgegen der Fahrtrichtung, Fahrer hätte mich ohne Kopfbewegung sehen können.",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.332400347591884, 51.76461069457763 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 16:32:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.349296310303462, 51.76738702352371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 16:28:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Radweg-Parker",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.334732433402676, 51.76773624143075 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 16:29:54",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger änderten spontan Bewegungsrichtung",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.339158647101929, 51.767013872234614 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/10/2022 07:25:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Person mit Hund an langer Leine auf der Straße \\n\\n\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.355507665424136, 51.7928319897021 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/10/2022 07:18:56",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Kleintransporter und Dixi-Klo schräg gegenüber auf Fuß/Radweg: das ist ein enges Nadelöhr",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.333725516920797, 51.76651769960963 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "18/02/2022 13:14:21",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

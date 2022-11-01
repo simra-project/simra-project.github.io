@@ -1134,5 +1134,113 @@
       "type" : "Point",
       "coordinates" : [ 13.594145008985711, 52.3763349898336 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/09/2022 11:23:35",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Kollision mit einem rechtsabiegenden Transporter ",
+      "region" : "Eichwalde"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.4524609, 52.48995255 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/09/2022 11:37:55",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Eichwalde"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.50838941, 52.45269556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/09/2022 11:29:19",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Eichwalde"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.47705968, 52.47266853 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/09/2022 13:18:09",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Eichwalde"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.45146933, 52.49201338 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/09/2022 13:12:20",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Eichwalde"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.43161988, 52.50588999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/09/2022 13:14:50",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Eichwalde"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.44165798, 52.50124969 ]
+    }
   } ]
 }

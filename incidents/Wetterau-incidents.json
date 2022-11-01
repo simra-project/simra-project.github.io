@@ -4989,6 +4989,42 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "26/09/2022 16:28:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Wetterau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.714939234778285, 50.246454435400665 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 18:33:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wetterau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.707710346207023, 50.29896563384682 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/03/2022 08:41:53",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

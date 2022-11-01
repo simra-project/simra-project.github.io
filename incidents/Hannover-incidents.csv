@@ -1509,6 +1509,10 @@ lat,lon,ts,bike,childCheckBox,trailerCheckBox,pLoc,incident,i1,i2,i3,i4,i5,i6,i7
 52.433104,9.858071,1631460517000,7,0,0,5,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
 52.432280,9.856630,1631460535000,7,0,0,5,1,0,0,0,0,0,0,1,0,0,1,,0,Hannover
 52.429803,9.852249,1631460609000,7,0,0,5,1,0,0,0,0,0,0,1,0,0,1,,0,Hannover
+52.4176602,9.73130789,1667326242000,3,0,0,2,7,0,0,0,1,1,0,1,0,0,0,fahrzeuge von D&l umzüge parken auf radweg im parkverbot,0,Hannover
+52.41752648,9.72832356,1667326281000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg,0,Hannover
+52.40028006,9.69370708,1667327273000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,rangiert rückwärts auf radweg,0,Hannover
+52.39154971,9.69892819,1667287024000,3,0,0,2,1,0,1,0,0,0,0,0,0,0,0,radfahrer überholt auf Überweg rechts und schneidet von rechts nach links in den Fahrweg. Sicherheitsbremsung,0,Hannover
 52.41310539,9.7830445,1652172412247,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,hoher Bordstein mit 20 cm schmaler Rampe,0,Hannover
 52.33823663,9.76869374,1652684856000,1,0,0,0,3,0,0,0,0,0,0,1,0,0,0,,0,Hannover
 52.34104317,9.78478629,1652684687000,1,0,0,0,4,0,0,0,1,0,0,0,0,0,0,,0,Hannover
@@ -1786,6 +1790,225 @@ lat,lon,ts,bike,childCheckBox,trailerCheckBox,pLoc,incident,i1,i2,i3,i4,i5,i6,i7
 52.419998333333325,9.758721666666666,1643561995093,1,0,0,1,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
 52.42015333333334,9.757936666666666,1643562007269,1,0,0,1,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
 52.41736279,9.77223295,1634229309000,1,0,0,5,7,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.34016046,9.78128125,1663739749000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.40289962,9.79179962,1664967517000,3,0,0,2,3,0,0,0,0,0,0,0,0,0,1,fahrzeugführer biegt bei rot in die Kreuzung ein und gerät dabei in den Gegenverkehr. Anschliessend fährt er einen u- turn und übersieht den querenden Radfahrer . Dann wird der  Radfahrer angepöbelt . ,0,Hannover
+52.33836519,9.77028165,1663853551000,1,0,0,0,7,0,0,0,1,0,0,0,0,0,0,,0,Hannover
+52.47888353,9.74835348,1665557594000,5,0,0,5,1,0,0,0,0,0,0,1,0,0,1,,0,Hannover
+52.47989522,9.75332641,1665557666000,5,0,0,5,4,0,0,0,0,0,0,1,0,0,1,,0,Hannover
+52.3391377,9.77418578,1664433828000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.41764462,9.72823508,1664955437000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,pkw's parken auf fuss und radweg.,0,Hannover
+52.34405516,9.79077859,1663774508000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.33518298,9.75984154,1663774077000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.48106899,9.75680766,1665055992000,5,0,0,5,4,0,1,0,0,0,0,0,0,0,0,,0,Hannover
+52.40718193,9.68992907,1665645751000,3,0,0,2,4,0,0,0,0,0,0,1,0,0,0,pkw befährt im Gegenverkehr nach dem Radfahrer den engpass und fährt unter einem meter seitlich an ihm vorbei obwohl der Arm links zum abbiegen ausgestreckt ist,0,Hannover
+52.41591695,9.71690379,1665646606000,3,0,0,2,7,0,0,0,0,1,0,0,0,0,0,lkw auf radweg,0,Hannover
+52.4164128,9.74585754,1665647199000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,imbisswagen parkt auf rad und fussweg,0,Hannover
+52.41692341,9.74939962,1665647256000,3,0,0,2,7,0,0,0,0,1,0,0,0,0,0,lkw parkt in linkskurve auf radweg auf dem abgesengtem bordstein vor der einmündung eines fuss und radweges,0,Hannover
+52.4198536,9.75866064,1665647447000,3,0,0,2,4,0,1,0,0,0,0,0,0,0,0,,0,Hannover
+52.33571597,9.79830683,1665122010000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.3355227,9.79756593,1665122016000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.33541633,9.79722042,1665122019000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.33533944,9.79656516,1665122025000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.33521678,9.79581022,1665122031000,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.42101614,9.73860485,1665422853000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.41874897,9.76501247,1665422494000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,mit hund auf radweg,0,Hannover
+52.42118913,9.75060811,1665422693000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,soldat in tarnfleck im dunkeln auf radweg,0,Hannover
+52.41334175,9.79246489,1666812253000,1,0,0,2,8,0,0,0,0,0,0,0,0,0,0,Pflichtradweg gegenüber hinter Parkplätzen nicht erreichbar,0,Hannover
+52.410284,9.78975,1666812326000,1,0,0,2,8,0,0,0,0,0,0,1,0,0,0,Autofahrerin wirft Kippe aus Fenster und fährt bekanntermaßen, also vorsätzlich, mit defektem Scheinwerfer,0,Hannover
+52.41131295,9.7851618,1666812417043,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41212163,9.79120461,1666812295000,1,0,0,2,4,0,1,0,0,0,0,0,0,0,0,,0,Hannover
+52.46838785,9.76441489,1664872970000,1,0,0,5,4,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.42090476,9.73355168,1666027941000,3,0,0,2,3,0,0,0,1,0,0,0,0,0,1,radfahrer kreuzen in ihrer grünphase den Radweg als sich von links aus dem industrieweg ein polnischer Lieferwagen mit Hänger nähert und den radfahrern auf dem radweg die vorfahrt nimmt.,0,Hannover
+52.41773823,9.73159214,1666028180000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg,0,Hannover
+52.41225169,9.79055276,1666284518858,3,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41737443,9.72439722,1666286027000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg,0,Hannover
+52.48202126,9.76054773,1664971659000,5,0,0,5,4,0,1,0,0,0,0,0,0,0,0,,0,Hannover
+52.415047,9.77251306,1664959148000,3,0,0,2,8,0,0,0,0,0,0,0,0,1,0,20 fahrradanschlussmöglichkeiten durch 2 pkw's die längs davor parken unzugänglich. ,0,Hannover
+52.47881934,9.74595291,1665643194000,5,0,0,5,5,0,0,0,0,0,0,1,0,0,1,An Kreisverkehr.,0,Hannover
+52.41748172,9.72714962,1665990845000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg,0,Hannover
+52.41556132,9.78147222,1665991958000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.41556114,9.78147471,1665991970000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,lieferwagen parkt in pkw stellplatz rückwärts mit trittbrett auf knöchelhöhe. Sichtbehindert. H-K 1144,0,Hannover
+52.41716721,9.72241829,1665990561000,3,0,0,2,8,0,0,0,0,0,0,0,0,1,1,Gestürtzt . Schienen im Radweg.,0,Hannover
+52.41610485,9.73735089,1665387860000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,lieferwagen in grundstücksausfahrt auf dem Radweg,0,Hannover
+52.41641036,9.74579963,1665387978000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,imbisswagen parkt auf radweg,0,Hannover
+52.41688061,9.7493687,1665388030000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken in linkskurve auf dem radweg,0,Hannover
+52.4154466,9.7838142,1665388640000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,H -k 1144. lieferwagen mit überlänge im pkw stellplatz steht rückwärts mit dem Trittbrett auf knöchelhöhe im Radweg . sichtbehindert und gefährlich. ,0,Hannover
+52.41760348,9.73330167,1665387730000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,2 pkw parken auf radweg 1 pkw parkt auf Radweg im parkverbot ,0,Hannover
+52.48036582,9.75416378,1666766104000,5,0,0,5,5,0,0,0,1,0,0,0,0,0,1,Beinaheunfall ,0,Hannover
+52.42001251,9.75878107,1664903401000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.3740834,9.760802,1664871885000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.41531926,9.7052606,1666945157000,3,0,0,2,8,0,0,0,0,0,0,1,0,1,0,pkw fahrerin erzwingt sich die Vorfahrt,0,Hannover
+52.41668176,9.74918562,1666946001000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken in linkskurve vor dem abgesengten Bordstein eines Fussgängerüberweges,0,Hannover
+52.40752109,9.6948543,1665479997000,3,0,0,2,3,0,0,0,1,0,0,0,0,0,0,fahrerin von Lieferwagen typ audi biegt rechts ab ohne Schulterblick. Radfahrer übersehen.,0,Hannover
+52.41778173,9.73122934,1665480798000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,2 parken auf Radweg  1 parken im parkverbot auf radweg . Ausweichen in Schotter.  ,0,Hannover
+52.41548131,9.78197146,1665481723000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,lieferwagen h k 1144 steht mit Trittbrett im Radweg . Sicht ist versperrt  Unfallgefahr. ,0,Hannover
+52.42103129,9.73852014,1665507887000,3,0,0,2,4,0,1,0,0,0,0,0,0,0,0,,0,Hannover
+52.41599557,9.71660185,1665508364000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,8 pkws parken in reihe auf der gesamten Strassenlänge den Radweg zu. ,0,Hannover
+52.41225169,9.79055276,1666284518858,3,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41737443,9.72439722,1666286027000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg,0,Hannover
+52.41544036,9.78230738,1666789515004,1,0,0,2,4,0,1,0,0,0,0,0,0,0,0,,0,Hannover
+52.41533866,9.78439857,1666789560575,1,0,0,2,4,0,1,0,0,0,0,0,0,0,0,,0,Hannover
+52.41409073,9.78311826,1666789615493,1,0,0,2,8,0,0,0,0,0,0,0,0,1,0,Wohnwagen versperrt seit Monaten Sicht auf Radweg,0,Hannover
+52.41254337,9.78320506,1666789658101,1,0,0,2,8,0,0,0,0,0,0,0,0,0,0,Richtung Süden immer noch falsch als Gehweg beschildert,0,Hannover
+52.41647344,9.72002236,1665041336000,3,0,0,2,7,0,0,0,0,1,0,0,0,0,0,,0,Hannover
+52.4822152,9.76120723,1666679460000,5,0,0,5,4,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.4795795,9.75252067,1666939256000,5,0,0,5,7,0,0,0,0,0,0,1,0,0,1,Pkw überholt um danach gleich vor mit rechts ran zu fahren zum Telefonieren.,0,Hannover
+52.47903519,9.74594637,1666939159000,5,0,0,5,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.47894145,9.74594614,1666074221000,5,0,0,5,4,0,1,0,0,0,0,0,0,0,0,,0,Hannover
+52.48102969,9.75641927,1666161170000,5,0,0,5,7,0,0,0,0,1,0,0,0,0,0,Lkw auf Fuß- und Radweg.,0,Hannover
+52.44916823,9.74668893,1664869936000,1,0,0,5,1,0,0,0,0,0,0,1,0,0,1,,0,Hannover
+52.41246787,9.78321432,1666630504000,1,0,0,2,8,0,0,0,0,0,0,0,0,0,0,Richtung Süden immer noch falsch als Gehweg beschildert,0,Hannover
+52.41541455,9.78336767,1666630326998,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,hohes Laub,0,Hannover
+52.47910536,9.75110985,1666010289000,5,0,0,5,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.41759222,9.73004512,1665160972000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,2 x parken im parkverbot auf Radweg.1x parken auf radweg,0,Hannover
+52.41524557,9.7156143,1665161172000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg im Einmündungsbereich der Seitenstrasse,0,Hannover
+52.41775928,9.7301775,1666769284000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,2 pkw parken auf radweg,0,Hannover
+52.41648696,9.74890335,1666769722000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken in linkskurve,0,Hannover
+52.41567112,9.73453369,1666769520000,3,0,0,2,8,0,0,0,0,0,0,0,0,1,0,baustellendurchfahrt nicht ausgeschildert und nicht abgesichert. ,0,Hannover
+52.41559984,9.73359432,1666769393000,3,0,0,2,1,0,1,0,0,0,0,0,0,0,0,radfahrer überholt rechts auf radweg ohne Abstand zu halten,0,Hannover
+52.40274569,9.79145273,1665564579000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.40247692,9.79339536,1665564628000,3,0,0,2,7,0,1,0,0,0,0,0,0,0,0,ohne auf die fahrbahn zu achten von rechts reingefahren,0,Hannover
+52.41849494,9.76639378,1666889393000,3,0,0,2,4,0,1,0,0,0,0,0,0,0,0,,0,Hannover
+52.41971004,9.73298846,1666889940000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,sicherungsfahrzeug eines  schwertransportes kreuzt die in ihrer Grüphase auf dem Radweg fahrenden Radfahrer,0,Hannover
+52.41768345,9.73079202,1666890019000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,parken in Einfahrt auf radweg,0,Hannover
+52.48537337,9.73926357,1665383845000,5,0,0,5,3,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.41225169,9.79055276,1666284518858,3,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41737443,9.72439722,1666286027000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg,0,Hannover
+52.41751633,9.72673511,1666596224000,3,0,0,2,7,0,0,0,0,1,0,1,0,0,0,parken auf radweg,0,Hannover
+52.41643276,9.74780289,1666596702000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg in linkskurve,0,Hannover
+52.41552571,9.78183397,1666597327000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,h -k 1144.parken mit trittbrett im radweg  . Unfallgefahr,0,Hannover
+52.41783211,9.73307354,1665127550000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg,0,Hannover
+52.41546931,9.7342623,1665127668000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.41642655,9.74671625,1665127840000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg in linkskurve,0,Hannover
+52.41542637,9.78266075,1665128415000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,parkt rückwärts mit tritt brett im radweg . Verletzungsgefahr durch trittbrett un fusshöhe und Sich behinderung,0,Hannover
+52.41538334,9.78677888,1665128469000,3,0,0,2,4,0,1,0,0,0,0,0,0,0,0,,0,Hannover
+52.41551885,9.78184072,1665128397000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.41225169,9.79055276,1666284518858,3,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41737443,9.72439722,1666286027000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg,0,Hannover
+52.44702291,9.73964373,1664912670000,1,0,0,5,7,0,1,1,0,0,0,0,0,0,0,,0,Hannover
+52.4103838,9.67772606,1665731853000,3,0,0,2,4,0,0,0,0,0,0,1,0,0,0,zu geringer Abstand,0,Hannover
+52.41643108,9.74791547,1665733268000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,1,parken in linkskurve auf radweg auf abgesengtem bordstein im Bereich des Fussgängerüberwegs,0,Hannover
+52.41547062,9.78256302,1665733979000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,kennzeichen H- k 1144. lieferwagen steht rückwärts im pkw stellplatz und steht mit dem Trittbrett in knöchelhöhe im Radweg.. Sicht zusätzlich versperrt.,0,Hannover
+52.41551408,9.78292041,1665733985000,3,0,0,2,7,0,0,0,0,1,0,0,0,0,0,holländischer blumenlieferant steht mit dem Führerhaus im Radweg. ,0,Hannover
+52.41520757,9.78732081,1665734054000,3,0,0,2,7,0,0,0,0,0,0,0,1,0,0,parkt auf der Fahrbahn,0,Hannover
+52.4171383,9.77285653,1665733831000,3,0,0,2,7,0,0,0,0,0,0,0,0,0,0,kennzeichen  kyz 761 der Firma Bolt liegt quer auf der gesamten Breite des Radwegs . Riskantes Ausweichen richtung Fahrbahn. ,1,Hannover
+52.41550589,9.78648674,1666788809283,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41549759,9.78629275,1666788812429,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41549873,9.78608966,1666788815719,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41550262,9.78588957,1666788818840,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.4155082,9.78567452,1666788821986,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41552089,9.78547434,1666788825029,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41552489,9.78528448,1666788828254,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41553997,9.78502314,1666788831296,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41554428,9.78481915,1666788834548,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41555017,9.78463315,1666788837577,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.4155488,9.78444123,1666788840826,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41555515,9.78424393,1666788844038,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41555719,9.7839999,1666788847296,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41555417,9.78381438,1666788850390,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41555324,9.78363554,1666788856626,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41555667,9.78353889,1666788859829,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41556219,9.7834205,1666788863131,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41556606,9.78323793,1666788866303,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41556557,9.78300308,1666788872543,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41555243,9.78288503,1666788875652,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41556608,9.78275887,1666788878711,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41558207,9.78265369,1666788881872,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41560091,9.78252702,1666788884935,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.4154307,9.79250566,1666788724157,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,üble Holperstrecke, Radweg unter Laub nicht mehr zu sehen,0,Hannover
+52.41544212,9.79202151,1666788730366,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41544708,9.79141159,1666788739513,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41544471,9.79118917,1666788742600,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41545664,9.79096462,1666788745665,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41546025,9.79073501,1666788748789,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41548021,9.7905273,1666788751909,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41547175,9.79029887,1666788755040,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41546447,9.78999533,1666788758329,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41545956,9.78976481,1666788761403,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41545518,9.78956691,1666788764578,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41545582,9.78937985,1666788767655,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41546091,9.78918121,1666788770929,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41546696,9.78896967,1666788774049,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41547622,9.78866442,1666788777293,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41547219,9.78845571,1666788780522,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41547629,9.78825996,1666788783706,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41548262,9.78805285,1666788786886,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41547938,9.7878709,1666788790069,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41547227,9.78767387,1666788793227,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.4154785,9.78740228,1666788796344,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41548409,9.78718644,1666788799661,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41549144,9.7869722,1666788802842,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41549658,9.78677126,1666788806032,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.40890039,9.68340616,1666854990000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,pkw fahrerin quert die kreuzung und bleibt dann im kreuzungsbereich stehen . ,0,Hannover
+52.40758141,9.69438538,1666855181000,3,0,0,2,4,0,0,0,0,0,0,1,0,0,0,Fahrerin kommt auf der gegenfahrbahn entgegen um nach rechts einzuparken. Ohne Blinker. ,0,Hannover
+52.40873751,9.6956103,1666855247000,3,0,0,2,4,0,1,0,0,0,0,0,0,0,0,Radfahrerin biegt auf überweg ein und gerät auf die Gegenspur. ,0,Hannover
+52.41761294,9.72870358,1666856293000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg,0,Hannover
+52.41638007,9.748638,1666856711000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken in linkskurve auf radweg,0,Hannover
+52.41563547,9.7830723,1665764383000,1,0,0,2,8,0,0,0,0,0,0,0,0,0,0,keine gute Erreichbarkeit der Läden bei Kugelfangtrift 128 aus Osten kommend,0,Hannover
+52.41471234,9.79327907,1665764158000,1,0,0,2,8,0,0,0,1,0,0,1,0,0,0,mäßig gute Erreichbarkeit des Linksabbiegerfahrstreifens Richtung Westen,0,Hannover
+52.41552022,9.78950205,1665764279862,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,miserabler Pflichtradweg mit viel Laub, teilweise in Haufen,0,Hannover
+52.41556839,9.7879134,1665764307183,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41554778,9.78705542,1665764319644,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41561437,9.78460716,1665764353198,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41560898,9.78442086,1665764356251,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41539035,9.78197865,1665765387607,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
+52.41538549,9.78198414,1665765390701,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,oben an der Rampe Pflanzenkübel, unten Absperrkette,0,Hannover
+52.41544956,9.78227148,1665765406120,1,0,0,2,7,0,0,0,1,0,0,0,0,0,0,Lieferwagen ragt in Radweg,0,Hannover
+52.41542867,9.78332837,1665765433598,1,0,0,2,7,0,0,0,0,0,0,1,0,0,0,ausfahrender Pkw bremst zu spät,0,Hannover
+52.41406402,9.78326446,1665765530727,1,0,0,2,7,0,0,0,0,0,0,0,0,1,0,Wohnwagen versperrt Sicht auf Radweg,0,Hannover
+52.41254485,9.7832618,1665765564305,1,0,0,2,8,0,0,0,0,0,0,0,0,0,0,Immer noch falsch als Gehweg beschildert,0,Hannover
+52.4178619,9.73322015,1665766422000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken im parkverbot auf radweg,0,Hannover
+52.41564423,9.70132021,1665766945000,3,0,0,2,8,0,0,0,0,0,0,0,0,1,0,Bewusstloser passant .Erste hilfe geleistet - Rettungsdienst alarmiert.,0,Hannover
+52.41514455,9.78735294,1665765416000,3,0,0,2,2,0,0,0,0,0,0,1,0,0,1,pkw verlässt den parkplatz über den radweg und übersieht den radfahrer. Notbremsung,0,Hannover
+52.41615278,9.77869587,1665765591000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.41847961,9.75082329,1666164643000,3,0,0,2,3,0,0,0,0,0,0,1,0,0,0,kreuzt von der gegenfahrbahn den radweg. Sicherheitsbremsung,0,Hannover
+52.38660846,9.66118096,1665322166000,3,0,0,2,3,0,1,0,0,0,0,0,0,0,1,rennradfahrer überholt während des rechtsabbiegevorgangs rechts auf dem Fussweg mit weit überhöhter Geschwindigkeit im Einmündungsbereich .,0,Hannover
+52.3751942,9.59994777,1665321024000,3,0,0,2,7,0,0,0,0,0,0,0,0,1,0,pferde auf dem radweg ,0,Hannover
+52.4140636,9.78321916,1666629237030,1,0,0,2,8,0,0,0,0,0,0,0,0,1,0,Wohnwagen versperrt seit Monaten Sicht auf Fahrbahn,0,Hannover
+52.34044507,9.78240089,1664257851000,1,0,0,0,7,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.41250249,9.69667184,1665596486000,3,0,0,2,2,0,0,0,0,0,0,1,0,0,0,pkw steht quer auf dem Radweg und blockiert beim ausfahren aus Grundstück die Weiterfahrt ,0,Hannover
+52.42087845,9.73284872,1665595697000,3,0,0,2,3,0,0,0,0,0,0,1,0,0,1,kennzeichen: H Z 6660. radfahrer befährt bei grün die Strassenquerung vahrenwalderstrasse industrieweg richtung innenstadt  . Autofahrer nimmt von links die Vorfahrt . ,0,Hannover
+52.41748193,9.72976362,1665595827000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg,0,Hannover
+52.41777981,9.73193937,1665595800000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,2 x parken auf radweg im parkverbot,0,Hannover
+52.41771374,9.73083319,1665077324000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg im parkverbot .,0,Hannover
+52.41328643,9.70872198,1665077626000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf unbeleuchtetem radwegabschnitt,0,Hannover
+52.41548885,9.78247469,1666285449395,1,0,0,2,7,0,0,0,1,0,0,0,0,0,0,Lieferwagen ragt wie bei der vorherigen Fahrt in den Radweg (ein anderer steht auf dem Gehweg),0,Hannover
+52.41411914,9.78330909,1666285566000,1,0,0,2,8,0,0,0,0,0,0,0,0,1,0,Wohnwagen versperrt seit Monaten die Sicht, Polizei nimmt Ordnungswidrigkeit wegen zu langem Parken nicht auf, sondern durchsucht den Fotografen,0,Hannover
+52.4124605,9.78324242,1666285602000,1,0,0,2,8,0,0,0,0,0,0,0,0,0,0,Immer noch falsch als reiner Gehweg beschildert,0,Hannover
+52.38491752,9.66206956,1667223091000,3,0,0,2,1,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.30011187,9.56732964,1667219587000,3,0,0,2,7,0,0,0,0,1,0,0,0,0,0,Sattelauflieger ohne Zugmaschine auf der Fahrbahn der Ortsdurchfahrt geparkt,0,Hannover
+52.41114538,9.79052525,1666811694000,1,0,0,2,8,0,0,0,0,0,0,0,0,0,0,Pflichtradweg durch hohen Bordstein nicht erreichbar,0,Hannover
+52.41791013,9.76950956,1666972178000,3,0,0,2,7,0,1,0,0,0,0,1,0,0,0,pkw befährt in Fahrtrichtung den Fuss und Radweg um dann dort zu parken  . Gleichzeitig nähert sich ein Radfahrer in falscher entgegenkommender Fahrtrichtung. Sicherheitsbremsung wegen Platzmangels zwischen den Fahrzeugen und Gefahr der Fahrrertüröffnung des Pkw's. ,0,Hannover
+52.415471,9.78732465,1666971867000,3,0,0,2,5,0,0,0,1,0,0,0,0,0,0,lieferwagen drängelt sich rechts mit zu geringem Abstand vorbei,0,Hannover
+52.4177173,9.73150035,1666972949000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,pkw parkt im Parkverbot auf Radweg,0,Hannover
+52.41558499,9.78327144,1666971927000,3,0,0,2,7,0,0,0,0,0,0,0,0,1,0,nicht geräumter Radweg,0,Hannover
+52.40818767,9.79047363,1666177395000,3,0,0,2,8,0,0,0,0,0,0,0,0,1,0,fahrzeugführer fährt links an vor einer Ampel wartenden Schlange vorbei und biegt dann davor nach rechts ab und kreuzt anschliessend ohne Rücksicht den Radweg rechts.,0,Hannover
+52.4027174,9.7914481,1666169425000,3,0,0,2,1,0,1,0,0,0,0,0,0,0,0,lastenradfahrer überholt rechts und biegt mit unangepasster Geschwindigkeit im Fussgängerüberweg verkehrtrum in den Radweg ein. ,0,Hannover
+52.4156121,9.78193447,1665674924000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.41774219,9.73182772,1665675764000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,2 x parken im parkverbot auf radweg.,0,Hannover
+52.41015202,9.6769296,1666249656000,3,0,0,2,4,0,0,0,0,0,0,1,0,0,1,pkw fahrerin gerät in Kurve auf gegenfahrbahn.Ausweichen Sicherheitsbremsung,0,Hannover
+52.41780149,9.7328277,1666251393000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken auf radweg,0,Hannover
+52.41646606,9.74728583,1666251774000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken in linkskurve auf radweg . Auf abgesengtem Bordstein vor Fussgängerüberweg,0,Hannover
+52.41458478,9.78744155,1664990031000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,fussgänger mit hunden im dunkeln auf dem Radweg,0,Hannover
+52.41567908,9.78183709,1664990158000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.41728742,9.77302176,1664990309000,3,0,0,2,4,0,0,0,0,0,0,0,0,0,1,e scooter Fahrer als Geisterfahrer fährt ohne jede Reaktion aus voller Fahrt Frontal auf den radfahrer zu . Notbremsung Notabstieg,0,Hannover
+52.42123618,9.7439285,1664990702000,3,0,0,2,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.4162667,9.71879657,1664991167000,3,0,0,2,2,0,0,0,0,0,0,1,0,0,0,pkw wendet in einfahrt und scheert in den Radweg aus. Sicherheitsbremsung. ,0,Hannover
+52.41759228,9.72915803,1664991031000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,3 pkw parken auf radweg im parkverbot. ,0,Hannover
+52.41226337,9.78949344,1666804611000,3,0,0,2,4,0,1,0,0,0,0,0,0,0,0,mit weit überhöhter Geschwindigkeit in linkskurve am linken bordstein im Gegenverkehr.,0,Hannover
+52.41819741,9.76793373,1666805040000,3,0,0,2,4,0,1,0,0,0,0,0,0,0,0,,0,Hannover
+52.41460296,9.71305446,1666805938000,3,0,0,2,6,0,0,0,0,0,0,1,0,0,0,Beifahrertüren im Radweg . Bremsen ausweichen,0,Hannover
+52.47884636,9.74591668,1665406612000,5,0,0,5,7,0,0,1,0,0,0,0,0,0,0,,0,Hannover
+52.3473801,9.72660892,1663829451000,1,0,0,0,4,0,0,0,0,0,0,1,0,0,0,,0,Hannover
+52.41546443,9.78251873,1666863167000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,H K 1144.lieferwagen steht auf pkw Stellplatz  mit Trittbrett in Knöchelhöhe im Radweg . zusätzlich Sicht  Behindert . Unfallgefahr,0,Hannover
+52.41115612,9.79052831,1665763742000,1,0,0,2,4,0,1,0,0,0,0,0,0,0,0,Geisterfahrer,0,Hannover
+52.41117858,9.78691889,1665763693000,1,0,0,2,8,0,0,0,0,0,0,1,0,0,0,mir wurde trotz Beleuchtung, Tageslicht und Hupe die Vorfahrt genommen,0,Hannover
+52.41772998,9.73147321,1665560170000,3,0,0,2,7,0,0,0,1,0,0,0,0,0,0,parken auf radweg,0,Hannover
+52.41559478,9.73371979,1665560261000,3,0,0,2,3,0,0,0,0,0,0,1,0,0,1,fahrzeugführer missachtet die Grünphase des radfahrers der auf dem Radweg kreuzt und nimmt ihm die Vorfahrt. notbremsung.kennzeichen H - pt 205,0,Hannover
+52.4164265,9.74861033,1665560533000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,parken in linkskurve des Radwegs vor fussgänger überweg,0,Hannover
+52.41630396,9.70013127,1666714913000,3,0,0,2,8,0,0,0,0,0,0,0,0,1,0,pkw quert in der Grünphase der Radfahrer den radweg mit innerortsgeschwindigkeit,0,Hannover
+52.41812545,9.73322509,1666714360000,3,0,0,2,7,0,0,0,0,0,0,1,0,0,0,4 pkw parken auf radweg,0,Hannover
+52.41753805,9.72735679,1666714450000,3,0,0,2,2,0,0,0,0,0,0,1,0,0,1,pkw überfährt rechts den Bordstein um auf dem Radweg zu parken während der Radfahrer neben ihm fährt. sicherheitsbremsung ausweichen. ,0,Hannover
 52.37305166666667,9.717568333333332,1648151327742,1,0,0,1,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
 52.374605,9.719439999999999,1648151379806,1,0,0,1,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover
 52.375105,9.720011666666666,1648151400501,1,0,0,1,7,0,0,0,0,0,0,0,0,0,0,,0,Hannover

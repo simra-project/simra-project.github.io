@@ -3,6 +3,60 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "29/10/2022 13:24:28",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "auf Radweg von Tankstelle",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.056626332211657, 53.56941186448941 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/10/2022 13:24:37",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "quer auf Radweg ",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.057356854143933, 53.5695799029724 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/10/2022 12:34:39",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "biegt von Kreisverkehr ab ohne zu gucken",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.988025377068107, 53.581433878343454 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "28/03/2022 20:23:59",
       "bikeType" : "Mountainbik",
       "child" : "Nein",

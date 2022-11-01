@@ -12243,6 +12243,96 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "27/10/2022 15:36:02",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "überholen im Linksabbiegevorgang",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.89037838, 49.07006967 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/10/2022 15:43:22",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8856046, 49.04383239 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 07:07:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "überholen bei Gegenverkehr",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.88883067, 49.05467595 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/10/2022 07:10:01",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8916144, 49.06209502 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 10:40:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57126836, 48.14403246 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "10/03/2022 14:40:08",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

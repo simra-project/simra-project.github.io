@@ -4701,6 +4701,258 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "21/10/2022 18:06:26",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.04401436, 51.1728503 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/10/2022 18:06:29",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.0441988, 51.17289829 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/10/2022 18:13:23",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.06236196, 51.16942673 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/10/2022 18:15:53",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "entgegenkommender PKW in Gegenspur",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.07367036, 51.16798002 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 18:24:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.199170282110572, 51.27192492596805 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 18:22:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.196783954277635, 51.270834524184465 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/10/2022 20:55:46",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "obwohl meine Geschwindigkeit 30 kmh betrug. Hinter mir hat derselbe PKW ein kleines Kind mit Mama ähnlich rabiat überholt",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.0727579, 51.16842801 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/10/2022 20:58:05",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Regelmäßig, auch heute, schneiden Autofahrer mich an der Ampel, stehen auf der Spur der Gegenrichtung vor der Ampel (neben mir ist auch stehend zuwenig Platz)",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.06200393, 51.1694617 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 16:15:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.161227501928806, 51.25777325592935 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 09:30:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.185105532407761, 51.26562722492963 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 09:30:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.182125598192215, 51.26460509374738 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/10/2022 18:09:26",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "unklare Verkehrsführung für Radfahrende",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.08461424, 51.16650402 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/10/2022 17:56:03",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus, PKW",
+      "scary" : "Ja",
+      "descr" : "Nicht einmal gemalte  Infrastruktur samt Parkern im Seitenraum führen zu unangenehmen Überholvorgängen, weil de facto mit Abstand bei beschränkter Sicht nicht umsetzbar. Unangenehm für beide Seiten, besonders bei großen Fahrzeugen, auch wenn man sich mit Rücksicht Mühe macht. Heute: schätzungsweise zuwenig Abstand des Busses beim Einscheren. Das macht auch mir Angst.",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.04307174, 51.16409453 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 11:15:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.155061522498727, 51.25794604886323 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "08/03/2022 13:24:32",
       "bikeType" : "E-Bike",
       "child" : "Nein",

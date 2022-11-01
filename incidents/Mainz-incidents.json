@@ -1695,6 +1695,204 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "29/10/2022 20:30:09",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "parkender PKW blockiert Radweg",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.221348262698328, 50.000996924497215 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/10/2022 17:42:29",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Entgegenkommender PKW wird in enger Einbahnstraße mit Durchlass für Fahrräder erst im letzten Moment langsamer und pöbelt Radfahrer an",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.210247898926943, 50.00132381154687 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/10/2022 17:40:34",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.218314975527358, 50.00110431930593 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/10/2022 17:40:28",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Mehrere PKW blockieren Radspur im Rückstau einer Baustellenampel (keine räumlich Einengung der Spuren vor der Ampel)",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.218802700932665, 50.0010884716757 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 08:34:57",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.218246406993243, 50.001091905712144 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 18:38:54",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW im Rückstau blockiert Fahrradspur",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.221993361863088, 50.0009911478363 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/10/2022 18:42:00",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.213082899077971, 50.0011950068495 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/10/2022 10:03:20",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.219830435702079, 50.005333160417436 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/10/2022 17:29:48",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Mehrere PKW im Rückstau einer Baustellenampel blockieren separate Radspur ",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.218782059979015, 50.001111488929574 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/10/2022 17:21:51",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "zu dichtes Überholen mit hoher Geschwindigkeit in Fahrradstraße",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.234907983340898, 50.0130494071739 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/10/2022 17:31:06",
+      "bikeType" : "Mountainbik",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "inklusive Anhupen des Fahrrads im Fahrradüberholverbot in enger Einbahnstraße ",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.217245305384319, 50.00148534218439 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "26/06/2022 19:41:41",
       "bikeType" : "Mountainbik",
       "child" : "Nein",

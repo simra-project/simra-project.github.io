@@ -255,6 +255,60 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "05/10/2022 17:26:21",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Baum quer über Radwanderweg",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.85619946, 49.27172921 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 17:52:36",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.94459365, 49.23885222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 17:53:30",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.94753925, 49.24062681 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/06/2022 13:42:18",
       "bikeType" : "Lastenrad",
       "child" : "Nein",

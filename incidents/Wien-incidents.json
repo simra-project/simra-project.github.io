@@ -291,6 +291,2544 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "20/10/2022 17:20:55",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.41079996, 48.25408473 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 17:48:40",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.37044806, 48.20067888 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 07:21:42",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.09565347, 48.18474335 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 07:29:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1318402, 48.19188853 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 07:33:35",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15480619, 48.19968779 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 08:21:43",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.36145002, 48.1979063 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 07:32:04",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1752626, 48.20561037 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 07:23:14",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12653581, 48.18981396 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 07:26:31",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14459557, 48.19608999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 07:27:46",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15150137, 48.19835303 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 07:28:20",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15464214, 48.19965684 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 07:28:50",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1579053, 48.20011564 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 07:29:53",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16512934, 48.2010004 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 07:31:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1722951, 48.2024589 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 07:31:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.17286772, 48.20268797 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 19:07:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16742042, 48.20145168 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 19:07:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16713553, 48.2013804 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 19:07:21",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16626882, 48.20120546 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 19:08:52",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1576527, 48.20013213 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 19:12:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.13851852, 48.19401704 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 19:15:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12632266, 48.18967944 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/10/2022 18:57:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15886347, 48.20026877 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 18:37:14",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.17213529, 48.20248777 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 18:37:20",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.17157795, 48.20239102 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 18:39:45",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1589058, 48.2003036 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 18:39:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15834394, 48.2002351 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 18:42:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1456567, 48.19680103 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/10/2022 20:22:35",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15085465, 48.19816037 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 18:37:14",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.17213529, 48.20248777 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 18:37:20",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.17157795, 48.20239102 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 18:39:45",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1589058, 48.2003036 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 18:39:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15834394, 48.2002351 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 18:42:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1456567, 48.19680103 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 08:23:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.37066671, 48.20064082 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 07:26:20",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12411049, 48.18704469 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 07:28:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.13384013, 48.19320233 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 07:29:52",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14126408, 48.19438401 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 07:31:04",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14714192, 48.19732653 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 07:31:50",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15142816, 48.19830822 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 07:34:30",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16777622, 48.20147268 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 07:34:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16986561, 48.20209676 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 07:35:27",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.17366466, 48.20315756 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 07:35:01",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16836295, 48.20161892 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 07:45:25",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.20501886, 48.20536729 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 07:46:14",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.20857213, 48.20752492 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 07:20:50",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.09638177, 48.18454938 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 07:27:04",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12560485, 48.18848549 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 07:28:59",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.13422416, 48.19346131 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 07:29:26",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.13678645, 48.19407975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 07:31:03",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14547409, 48.19660018 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 07:32:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15404178, 48.1994436 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/10/2022 07:33:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15705889, 48.20000172 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 17:56:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.38298939, 48.21252464 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 18:54:24",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16748723, 48.20146979 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 18:54:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16661472, 48.20128799 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 18:54:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1660396, 48.20118145 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 18:58:37",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14464961, 48.1961878 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 19:02:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12558364, 48.18862379 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 19:02:45",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12531575, 48.18827546 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 18:00:57",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "PKW biegt links ab. Kind auf eigenem Rad mit Vater Fahrt bei grün über den Radfahrerüberweg . Kind wird fast vom PKW überrollt. Sehr heftig.",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.33580032, 48.1848465 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 18:44:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16019302, 48.20043136 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 18:45:50",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15187227, 48.19856865 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 18:50:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12894591, 48.19069795 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 18:57:59",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.09199077, 48.18395812 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/10/2022 07:32:49",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.09719626, 48.18442153 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/10/2022 07:43:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1477842, 48.1974964 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/10/2022 07:45:04",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15561475, 48.1998347 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/10/2022 07:45:28",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15806145, 48.20012514 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/10/2022 07:45:37",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15902679, 48.20023695 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/10/2022 07:45:52",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1606947, 48.20044321 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/10/2022 09:03:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.42725294, 48.24341589 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/09/2022 20:17:53",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15472874, 48.19976953 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 18:38:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16765329, 48.20153023 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 18:38:57",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16542722, 48.20111136 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 18:40:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15575355, 48.19994026 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/10/2022 18:43:22",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14214693, 48.19483245 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:18:17",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.0933261, 48.18467113 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:25:10",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12595978, 48.18913298 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:25:34",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.127807, 48.19032374 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:27:50",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14102251, 48.19430023 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:29:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14771989, 48.19747636 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:29:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14801126, 48.19753042 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:29:15",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14860959, 48.19761843 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:31:01",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15953761, 48.20029998 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:35:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.18278953, 48.20693545 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:38:26",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.19977703, 48.20500565 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:39:14",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.20492181, 48.20534677 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:39:17",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.20520877, 48.20541661 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:39:53",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.20809515, 48.20716113 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:40:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.20850229, 48.2074871 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:40:18",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.20990381, 48.20828038 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 07:41:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.213094, 48.20926487 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 18:07:42",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.35735045, 48.19705247 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 18:57:46",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1613535, 48.20061089 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 19:13:10",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.08822908, 48.18280294 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/10/2022 18:27:45",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16290729, 48.20077841 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/10/2022 18:27:48",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16262169, 48.20074433 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/10/2022 18:32:28",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.138718, 48.19401453 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/10/2022 18:35:23",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12572273, 48.18884971 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/10/2022 18:36:05",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12361012, 48.18672682 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/10/2022 18:47:54",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16989802, 48.20215945 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/10/2022 18:48:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16852419, 48.20173448 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/10/2022 18:48:15",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16788138, 48.20154646 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/10/2022 18:48:45",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16501136, 48.20100505 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/10/2022 18:49:40",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15984081, 48.20037676 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/10/2022 18:51:22",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15065785, 48.19807828 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/10/2022 18:52:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16952468, 48.2020644 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/10/2022 18:52:15",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16819401, 48.20164049 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/10/2022 19:00:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12569568, 48.18876674 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/10/2022 19:01:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12370505, 48.18679686 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/10/2022 07:33:16",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14892349, 48.19766492 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/10/2022 07:35:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1645617, 48.20091902 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/10/2022 08:05:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.314138, 48.18717792 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 17:56:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.38298939, 48.21252464 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 18:54:24",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16748723, 48.20146979 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 18:54:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16661472, 48.20128799 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 18:54:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1660396, 48.20118145 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 18:58:37",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14464961, 48.1961878 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 19:02:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12558364, 48.18862379 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/10/2022 19:02:45",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12531575, 48.18827546 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/10/2022 08:05:04",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.37041969, 48.20068 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:14:53",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.09512988, 48.18484566 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:15:05",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.09634689, 48.18458344 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:22:55",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.13225221, 48.19213533 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:26:08",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.148342, 48.19759123 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:27:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15395389, 48.19941044 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:27:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15420799, 48.19951368 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:27:24",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15537592, 48.19980679 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:27:45",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15765989, 48.20008856 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:28:00",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15942071, 48.20028929 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:28:12",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16087721, 48.20047921 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:29:07",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16719314, 48.20133613 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:30:01",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.17201164, 48.20238567 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:30:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.17363451, 48.2031534 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 07:34:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.19147869, 48.20636161 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 08:35:39",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.41169092, 48.22917812 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 08:52:32",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.42373382, 48.26285873 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/10/2022 08:52:38",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.42384012, 48.26310857 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/10/2022 18:59:49",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.16818135, 48.20164701 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/10/2022 19:02:50",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.15158714, 48.19843931 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/10/2022 19:04:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wien"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14276255, 48.19509251 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "15/06/2022 17:33:55",
       "bikeType" : "E-Bike",
       "child" : "Nein",
