@@ -1,26 +1,26 @@
 {
-  "totalRides": 84331,
-  "totalIncidents": 41322,
-  "totalKm": 651176,
-  "diffDate": "29.10.2022, 23:00:22",
+  "totalRides": 84370,
+  "totalIncidents": 41331,
+  "totalKm": 651363,
+  "diffDate": "30.10.2022, 23:00:10",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        34667,
-        102
+        34701,
+        132
       ],
       "incidents": [
-        16796,
-        85
+        16800,
+        88
       ],
       "scaryIncidents": [
         4863,
         26
       ],
       "km": [
-        264403,
-        572
+        264564,
+        708
       ]
     },
     {
@@ -46,7 +46,7 @@
       "name": "Nuernberg",
       "rides": [
         5115,
-        18
+        8
       ],
       "incidents": [
         3966,
@@ -58,7 +58,7 @@
       ],
       "km": [
         34603,
-        105
+        28
       ]
     },
     {
@@ -140,20 +140,20 @@
     {
       "name": "München",
       "rides": [
-        2268,
-        4
+        2271,
+        6
       ],
       "incidents": [
-        740,
-        2
+        743,
+        5
       ],
       "scaryIncidents": [
         79,
         0
       ],
       "km": [
-        17132,
-        21
+        17152,
+        31
       ]
     },
     {
@@ -539,20 +539,20 @@
     {
       "name": "Mainz",
       "rides": [
-        249,
-        8
+        251,
+        10
       ],
       "incidents": [
-        135,
-        6
+        137,
+        8
       ],
       "scaryIncidents": [
         28,
         0
       ],
       "km": [
-        1314,
-        34
+        1320,
+        40
       ]
     },
     {
@@ -578,19 +578,19 @@
       "name": "Cottbus",
       "rides": [
         238,
-        37
+        35
       ],
       "incidents": [
         191,
-        41
+        31
       ],
       "scaryIncidents": [
         15,
-        5
+        4
       ],
       "km": [
         1300,
-        229
+        205
       ]
     },
     {
@@ -654,19 +654,19 @@
       "name": "Ostalbkreis",
       "rides": [
         159,
-        1
+        0
       ],
       "incidents": [
         1396,
-        22
+        0
       ],
       "scaryIncidents": [
         282,
-        5
+        0
       ],
       "km": [
         1386,
-        25
+        0
       ]
     },
     {
@@ -1620,5 +1620,5 @@
       ]
     }
   ],
-  "sourceDate": "05.11.2022, 23:00:05"
+  "sourceDate": "06.11.2022, 23:00:10"
 }
