@@ -13,6 +13,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Berlin
 - Bern
 - Bielefeld
+- Bonn
 - Brühl
 - Cottbus
 - Dresden
@@ -27,6 +28,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Kiel
 - Köln
 - Ruhrgebiet
+- Twente
 - Weimar
 - Wesel
 - Wien
