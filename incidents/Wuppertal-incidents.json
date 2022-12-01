@@ -4683,6 +4683,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "29/10/2022 15:42:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "kreuzender fußverkehr",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.146313497796655, 51.258249934762716 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "05/05/2022 18:45:46",
       "bikeType" : "E-Bike",
       "child" : "Nein",

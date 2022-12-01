@@ -3,6 +3,42 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "29/11/2022 14:42:37",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.13487033, 54.31775886 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/11/2022 15:08:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.22009114, 54.33798874 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "05/05/2022 06:25:39",
       "bikeType" : "Sonstiges",
       "child" : "Nein",

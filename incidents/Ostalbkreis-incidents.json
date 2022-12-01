@@ -21,6 +21,402 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "01/11/2022 16:50:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79645725, 48.80137304 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2022 17:28:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79595754, 48.80153653 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2022 17:29:26",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "kommt aus dem kalten Markt ",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79845141, 48.80184476 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 12:31:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "überholt links, während ich mit Handzeichen links abbiege",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.78693085, 48.82057448 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 15:40:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "und blockiert dann die Kreuzung.",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.78165397, 48.81931038 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 15:42:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "wird in der Pfitzerstraße vom Rad wieder eingeholt und überholt ",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.791868, 48.81111715 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 15:43:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "wird in der Pfitzerstraße vom Rad wieder eingeholt und überholt ",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79461456, 48.80904867 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 15:43:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "wird in der Pfitzerstraße vom Rad wieder eingeholt und überholt ",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7958798, 48.80848693 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 15:45:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "blockiert Radfuhrt ",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8011128, 48.80351907 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 15:41:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "PKW, der eben zu dicht überholt hat, macht nun die Kreuzung dicht und lässt einen nicht fahren.",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.78218975, 48.81961284 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 15:44:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "lässt einen an der Ampel nicht vor fahren ",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.80058648, 48.80464543 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 15:39:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.78503815, 48.82002711 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 15:44:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "ungünstig gelöst ",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.80151686, 48.80361273 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 11:37:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad",
+      "scary" : "Ja",
+      "descr" : "Mitfahrer stürzt. es ist zu steil.",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79296107, 48.81703191 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 11:24:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Straße provoziert illegales Überholen ",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.80068234, 48.80357884 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 11:25:32",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.80101516, 48.80477241 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 11:26:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "drängelt ",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8008435, 48.80595388 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 11:29:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "es ist eng, Rad pendelt. PKW könnte in Lücke warten. Die Frau im roten Auto zieht aber demonstrativ bis zu meinem Fahrbahnrand raus, um die Strecke dicht zu machen, und um dann vor mir doch noch etwas Platz für mich zu lassen ",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79700816, 48.81049513 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 11:46:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79787104, 48.82161481 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 11:47:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "drängelt. ich verlangsamen um PKW von rechts Vorrang zu lassen",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7965855, 48.82335628 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 11:48:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79427936, 48.82280122 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/11/2022 11:26:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "und fährt dann rechts auf Parkplatz ",
+      "region" : "Ostalbkreis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.80039042, 48.80633495 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "14/05/2022 18:13:13",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

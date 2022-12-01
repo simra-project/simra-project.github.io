@@ -7905,6 +7905,42 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "11/10/2022 17:52:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.3713551, 51.32995727 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/10/2022 17:47:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Leipzig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.36876751, 51.31702027 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "10/05/2022 15:50:14",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
