@@ -1,26 +1,26 @@
 {
-  "totalRides": 86550,
-  "totalIncidents": 42797,
-  "totalKm": 664702,
-  "diffDate": "06.12.2022, 23:00:20",
+  "totalRides": 86569,
+  "totalIncidents": 42810,
+  "totalKm": 664808,
+  "diffDate": "07.12.2022, 23:00:05",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        35629,
-        111
+        35644,
+        118
       ],
       "incidents": [
-        17286,
-        78
+        17295,
+        79
       ],
       "scaryIncidents": [
-        5019,
+        5022,
         25
       ],
       "km": [
-        270180,
-        781
+        270261,
+        819
       ]
     },
     {
@@ -46,26 +46,26 @@
       "name": "Nuernberg",
       "rides": [
         5253,
-        38
+        18
       ],
       "incidents": [
         4033,
-        14
+        5
       ],
       "scaryIncidents": [
         774,
-        4
+        2
       ],
       "km": [
         35204,
-        174
+        97
       ]
     },
     {
       "name": "Hannover",
       "rides": [
-        4636,
-        4
+        4638,
+        6
       ],
       "incidents": [
         3151,
@@ -76,8 +76,8 @@
         0
       ],
       "km": [
-        40513,
-        10
+        40518,
+        15
       ]
     },
     {
@@ -179,11 +179,11 @@
       "name": "Bielefeld",
       "rides": [
         2002,
-        4
+        2
       ],
       "incidents": [
         229,
-        8
+        1
       ],
       "scaryIncidents": [
         15,
@@ -191,7 +191,7 @@
       ],
       "km": [
         6006,
-        11
+        6
       ]
     },
     {
@@ -273,20 +273,20 @@
     {
       "name": "Dresden",
       "rides": [
-        1157,
-        12
+        1159,
+        13
       ],
       "incidents": [
-        665,
-        20
+        669,
+        24
       ],
       "scaryIncidents": [
         51,
         3
       ],
       "km": [
-        10399,
-        111
+        10419,
+        125
       ]
     },
     {
@@ -312,19 +312,19 @@
       "name": "Magdeburg",
       "rides": [
         929,
-        14
+        11
       ],
       "incidents": [
         422,
-        24
+        18
       ],
       "scaryIncidents": [
         49,
-        6
+        5
       ],
       "km": [
         4587,
-        99
+        76
       ]
     },
     {
@@ -483,11 +483,11 @@
       "name": "Cottbus",
       "rides": [
         432,
-        13
+        4
       ],
       "incidents": [
         444,
-        31
+        14
       ],
       "scaryIncidents": [
         38,
@@ -495,7 +495,7 @@
       ],
       "km": [
         1994,
-        38
+        18
       ]
     },
     {
@@ -1620,5 +1620,5 @@
       ]
     }
   ],
-  "sourceDate": "13.12.2022, 23:00:06"
+  "sourceDate": "14.12.2022, 23:00:04"
 }
