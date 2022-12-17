@@ -1,26 +1,26 @@
 {
-  "totalRides": 86621,
-  "totalIncidents": 42846,
-  "totalKm": 665149,
-  "diffDate": "09.12.2022, 23:00:06",
+  "totalRides": 86641,
+  "totalIncidents": 42848,
+  "totalKm": 665264,
+  "diffDate": "10.12.2022, 23:00:03",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        35663,
-        105
+        35680,
+        120
       ],
       "incidents": [
-        17305,
-        61
+        17306,
+        55
       ],
       "scaryIncidents": [
         5029,
-        20
+        19
       ],
       "km": [
-        270385,
-        768
+        270475,
+        852
       ]
     },
     {
@@ -103,7 +103,7 @@
       "name": "Ruhrgebiet",
       "rides": [
         3241,
-        5
+        4
       ],
       "incidents": [
         1709,
@@ -115,7 +115,7 @@
       ],
       "km": [
         25003,
-        24
+        20
       ]
     },
     {
@@ -311,20 +311,20 @@
     {
       "name": "Magdeburg",
       "rides": [
-        930,
-        6
+        933,
+        9
       ],
       "incidents": [
-        431,
-        13
+        432,
+        14
       ],
       "scaryIncidents": [
         51,
         3
       ],
       "km": [
-        4600,
-        42
+        4625,
+        67
       ]
     },
     {
@@ -1620,5 +1620,5 @@
       ]
     }
   ],
-  "sourceDate": "16.12.2022, 23:00:05"
+  "sourceDate": "17.12.2022, 23:00:04"
 }
