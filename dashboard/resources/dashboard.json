@@ -1,26 +1,26 @@
 {
-  "totalRides": 86665,
-  "totalIncidents": 42866,
-  "totalKm": 665442,
-  "diffDate": "11.12.2022, 23:00:05",
+  "totalRides": 86671,
+  "totalIncidents": 42873,
+  "totalKm": 665464,
+  "diffDate": "12.12.2022, 23:00:08",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        35694,
-        131
+        35695,
+        81
       ],
       "incidents": [
         17322,
-        67
+        55
       ],
       "scaryIncidents": [
         5032,
-        22
+        15
       ],
       "km": [
-        270547,
-        918
+        270550,
+        434
       ]
     },
     {
@@ -46,7 +46,7 @@
       "name": "Nuernberg",
       "rides": [
         5253,
-        3
+        0
       ],
       "incidents": [
         4033,
@@ -58,26 +58,26 @@
       ],
       "km": [
         35204,
-        12
+        0
       ]
     },
     {
       "name": "Hannover",
       "rides": [
-        4642,
+        4644,
         10
       ],
       "incidents": [
-        3151,
-        0
+        3157,
+        6
       ],
       "scaryIncidents": [
         363,
         0
       ],
       "km": [
-        40528,
-        25
+        40529,
+        21
       ]
     },
     {
@@ -198,26 +198,26 @@
       "name": "Mannheim",
       "rides": [
         1739,
-        14
+        0
       ],
       "incidents": [
         582,
-        3
+        0
       ],
       "scaryIncidents": [
         147,
-        2
+        0
       ],
       "km": [
         10781,
-        68
+        0
       ]
     },
     {
       "name": "Stuttgart",
       "rides": [
         1475,
-        10
+        0
       ],
       "incidents": [
         692,
@@ -229,7 +229,7 @@
       ],
       "km": [
         18230,
-        149
+        0
       ]
     },
     {
@@ -274,19 +274,19 @@
       "name": "Dresden",
       "rides": [
         1162,
-        11
+        7
       ],
       "incidents": [
         670,
-        17
+        8
       ],
       "scaryIncidents": [
         51,
-        2
+        0
       ],
       "km": [
         10439,
-        102
+        61
       ]
     },
     {
@@ -311,20 +311,20 @@
     {
       "name": "Magdeburg",
       "rides": [
-        936,
-        12
+        939,
+        11
       ],
       "incidents": [
-        434,
-        16
+        435,
+        13
       ],
       "scaryIncidents": [
         51,
-        3
+        2
       ],
       "km": [
-        4638,
-        80
+        4656,
+        76
       ]
     },
     {
@@ -673,7 +673,7 @@
       "name": "Hamburg-Blankenese",
       "rides": [
         164,
-        16
+        7
       ],
       "incidents": [
         67,
@@ -685,7 +685,7 @@
       ],
       "km": [
         1221,
-        106
+        47
       ]
     },
     {
@@ -1620,5 +1620,5 @@
       ]
     }
   ],
-  "sourceDate": "18.12.2022, 23:00:06"
+  "sourceDate": "19.12.2022, 23:00:05"
 }
