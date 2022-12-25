@@ -1,26 +1,26 @@
 {
-  "totalRides": 86788,
-  "totalIncidents": 42952,
-  "totalKm": 666052,
-  "diffDate": "17.12.2022, 23:00:04",
+  "totalRides": 86802,
+  "totalIncidents": 42961,
+  "totalKm": 666115,
+  "diffDate": "18.12.2022, 23:00:06",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        35724,
-        44
+        35725,
+        31
       ],
       "incidents": [
         17361,
-        55
+        39
       ],
       "scaryIncidents": [
         5047,
-        18
+        15
       ],
       "km": [
-        270716,
-        241
+        270733,
+        186
       ]
     },
     {
@@ -45,20 +45,20 @@
     {
       "name": "Nuernberg",
       "rides": [
-        5255,
-        2
+        5267,
+        14
       ],
       "incidents": [
-        4033,
-        0
+        4034,
+        1
       ],
       "scaryIncidents": [
         774,
         0
       ],
       "km": [
-        35207,
-        3
+        35246,
+        42
       ]
     },
     {
@@ -311,20 +311,20 @@
     {
       "name": "Magdeburg",
       "rides": [
-        940,
-        7
+        941,
+        5
       ],
       "incidents": [
-        435,
-        3
+        443,
+        9
       ],
       "scaryIncidents": [
-        51,
-        0
+        52,
+        1
       ],
       "km": [
-        4668,
-        43
+        4675,
+        37
       ]
     },
     {
@@ -464,7 +464,7 @@
       "name": "Frankfurt",
       "rides": [
         500,
-        7
+        0
       ],
       "incidents": [
         319,
@@ -476,7 +476,7 @@
       ],
       "km": [
         3255,
-        93
+        0
       ]
     },
     {
@@ -1620,5 +1620,5 @@
       ]
     }
   ],
-  "sourceDate": "24.12.2022, 23:00:05"
+  "sourceDate": "25.12.2022, 23:00:14"
 }
