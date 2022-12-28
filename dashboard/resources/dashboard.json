@@ -1,26 +1,26 @@
 {
-  "totalRides": 86845,
-  "totalIncidents": 42985,
-  "totalKm": 666374,
-  "diffDate": "20.12.2022, 23:00:05",
+  "totalRides": 86858,
+  "totalIncidents": 42989,
+  "totalKm": 666542,
+  "diffDate": "21.12.2022, 23:00:26",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        35734,
+        35740,
         30
       ],
       "incidents": [
         17362,
-        33
+        21
       ],
       "scaryIncidents": [
         5048,
-        12
+        8
       ],
       "km": [
-        270772,
-        151
+        270837,
+        181
       ]
     },
     {
@@ -122,7 +122,7 @@
       "name": "Wuppertal",
       "rides": [
         3053,
-        5
+        3
       ],
       "incidents": [
         292,
@@ -134,7 +134,7 @@
       ],
       "km": [
         26818,
-        61
+        32
       ]
     },
     {
@@ -197,8 +197,8 @@
     {
       "name": "Mannheim",
       "rides": [
-        1763,
-        24
+        1767,
+        28
       ],
       "incidents": [
         595,
@@ -209,8 +209,8 @@
         1
       ],
       "km": [
-        10926,
-        145
+        11010,
+        229
       ]
     },
     {
@@ -311,20 +311,20 @@
     {
       "name": "Magdeburg",
       "rides": [
-        941,
-        1
+        943,
+        3
       ],
       "incidents": [
-        443,
-        8
+        447,
+        12
       ],
       "scaryIncidents": [
         52,
         1
       ],
       "km": [
-        4675,
-        7
+        4680,
+        12
       ]
     },
     {
@@ -350,19 +350,19 @@
       "name": "Saarlouis",
       "rides": [
         786,
-        19
+        13
       ],
       "incidents": [
         449,
-        13
+        11
       ],
       "scaryIncidents": [
         230,
-        7
+        6
       ],
       "km": [
         5943,
-        161
+        141
       ]
     },
     {
@@ -730,19 +730,19 @@
       "name": "Ravensburg",
       "rides": [
         123,
-        9
+        0
       ],
       "incidents": [
         112,
-        14
+        0
       ],
       "scaryIncidents": [
         19,
-        2
+        0
       ],
       "km": [
         501,
-        40
+        0
       ]
     },
     {
@@ -1107,6 +1107,25 @@
       ]
     },
     {
+      "name": "Aachen",
+      "rides": [
+        15,
+        1
+      ],
+      "incidents": [
+        6,
+        0
+      ],
+      "scaryIncidents": [
+        0,
+        0
+      ],
+      "km": [
+        68,
+        14
+      ]
+    },
+    {
       "name": "Ulm",
       "rides": [
         14,
@@ -1160,25 +1179,6 @@
       ],
       "km": [
         161,
-        0
-      ]
-    },
-    {
-      "name": "Aachen",
-      "rides": [
-        14,
-        0
-      ],
-      "incidents": [
-        6,
-        0
-      ],
-      "scaryIncidents": [
-        0,
-        0
-      ],
-      "km": [
-        54,
         0
       ]
     },
@@ -1620,5 +1620,5 @@
       ]
     }
   ],
-  "sourceDate": "27.12.2022, 23:00:06"
+  "sourceDate": "28.12.2022, 23:00:04"
 }
