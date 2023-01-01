@@ -23457,6 +23457,222 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "22/12/2022 10:34:10",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86861422, 51.41332263 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/12/2022 10:42:19",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88043767, 51.42608692 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/12/2022 12:48:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Mit Hund auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86964402, 51.39711143 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/12/2022 12:44:58",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87884094, 51.40181559 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/12/2022 12:37:15",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Kfz-Fahrerin beachtet den Radweg nicht beim heraus fahren aus dem Parkplatz ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86882386, 51.41137896 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/12/2022 12:37:27",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Lkw steht auf dem Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86873757, 51.41207837 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/12/2022 12:09:50",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86890016, 51.41111953 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/12/2022 12:09:23",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86904932, 51.40937045 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/12/2022 12:29:46",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Geisterfahrer ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88400269, 51.4280064 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/12/2022 12:42:44",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Kfz-Fahrer fährt aus Parkplatz THW auf Radweg ohne diesen zu beachten ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86843939, 51.41218391 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/12/2022 11:54:31",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Kfz-Fahrer hat die geradeaus Radfahrspur missachtet",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87204855, 51.40482095 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/12/2022 11:47:31",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Geh-Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88529491, 51.40534718 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "11/01/2022 17:13:11",
       "bikeType" : "E-Bike",
       "child" : "Nein",

@@ -525,6 +525,78 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "06/12/2022 12:08:13",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Baustellenverkehr",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.055667167631915, 48.53890197952096 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/12/2022 07:54:31",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.028289851353637, 48.52487630553089 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/12/2022 07:54:40",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.027643897122548, 48.5250926417645 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/12/2022 12:16:29",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.054680224214989, 48.541634475781365 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/10/2022 12:37:12",
       "bikeType" : "E-Bike",
       "child" : "Nein",

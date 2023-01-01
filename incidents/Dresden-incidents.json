@@ -4719,6 +4719,564 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "15/12/2022 17:48:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.735588, 51.050758 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/12/2022 22:05:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "über Sperrfläche überholt worden",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.686732, 51.057268 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/12/2022 08:05:48",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.693659, 51.04892 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/12/2022 17:31:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Radweg nicht geräumt",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.743053, 51.049673 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/12/2022 17:32:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Radweg nicht geräumt",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.74212, 51.049707 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/12/2022 17:32:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Radweg nicht vom Schnee geräumt",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.741107, 51.049742 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/12/2022 21:58:54",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "mit ca. 1-2 Sekunden lang durchdrehenden Rädern zum Überholen abgesetzt",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.672931, 51.05312 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/12/2022 18:20:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "beim Kurveschneiden den Radweg benutzt",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.735507, 51.050664 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/12/2022 18:21:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.698439, 51.083025 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/12/2022 18:25:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.699443, 51.076981 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/12/2022 07:35:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "zerstörte Baustellenabsicherungen",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.693542, 51.049045 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/12/2022 17:51:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.738327, 51.050229 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/12/2022 17:57:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Kreuzung nicht freigehalten",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.722404, 51.054052 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/12/2022 17:57:56",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto auf Radweg",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.721537, 51.054296 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/12/2022 17:57:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "1. Auto auf Radschutzstreifen",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.721476, 51.054314 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/12/2022 17:58:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "2. Auto auf Radschutzstreifen",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.721457, 51.054322 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/12/2022 18:00:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.709717, 51.058181 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/12/2022 17:54:54",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Taxi",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.737239, 51.050476 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/12/2022 17:55:33",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Vorfahrt missachtet",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.734969, 51.050671 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/12/2022 18:11:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.692514, 51.045453 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/12/2022 17:25:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.737381, 51.050456 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/12/2022 17:28:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.727911, 51.05087 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/12/2022 17:41:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.693225, 51.046117 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/12/2022 07:41:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Vorfahrt genommen worden",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.677128, 51.052403 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/12/2022 21:01:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.661413, 51.052773 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/12/2022 07:54:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "beinahe Auffahrunfall durch auf Schneeglätte rutschendes Auto",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.68033, 51.052436 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/12/2022 08:00:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Geisterfahrer",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.70417, 51.044065 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/12/2022 08:07:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Einmündungsbereich blockierendes Auto",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.720421, 51.051167 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/12/2022 07:55:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Falschparker",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.728638, 51.05073 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/12/2022 07:19:46",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Vorfahrt genommen worden",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.672693, 51.052902 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/12/2022 07:21:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Dresden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.680639, 51.052493 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "11/01/2022 19:20:18",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
