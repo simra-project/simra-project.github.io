@@ -475,6 +475,18 @@ switch (params.get("region")) {
 	    incidents = "incidents/Tuttlingen-incidents.json";
         incidentsMeta = "incidents/Tuttlingen-incidents-meta.json";
         break;
+	case "twente":
+        region = "region/Twente.json";
+        regionMeta = "region/Twente-meta.json";
+	    incidents = "incidents/Twente-incidents.json";
+        incidentsMeta = "incidents/Twente-incidents-meta.json";
+        break;
+    case "tuttlingen_all":
+        region = "region/Twente_all.json";
+        regionMeta = "region/Twente_all-meta.json";
+	    incidents = "incidents/Twente-incidents.json";
+        incidentsMeta = "incidents/Twente-incidents-meta.json";
+        break;
     case "ulm_all":
         region = "region/Ulm_all.json";
         regionMeta = "region/Ulm_all-meta.json";
@@ -498,6 +510,18 @@ switch (params.get("region")) {
         regionMeta = "region/Weimar_all-meta.json";
 	    incidents = "incidents/Weimar-incidents.json";
         incidentsMeta = "incidents/Weimar-incidents-meta.json";
+        break;
+    case "wels":
+        region = "region/Wels.json";
+        regionMeta = "region/Wels-meta.json";
+	    incidents = "incidents/Wels-incidents.json";
+        incidentsMeta = "incidents/Wels-incidents-meta.json";
+        break;
+    case "wels_all":
+        region = "region/Wels_all.json";
+        regionMeta = "region/Wels_all-meta.json";
+	    incidents = "incidents/Wels-incidents.json";
+        incidentsMeta = "incidents/Wels-incidents-meta.json";
         break;
     case "wesel_all":
         region = "region/Wesel_all.json";
