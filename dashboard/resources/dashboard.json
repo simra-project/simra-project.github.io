@@ -1,33 +1,33 @@
 {
-  "totalRides": 87254,
-  "totalIncidents": 43239,
-  "totalKm": 668725,
-  "diffDate": "08.01.2023, 23:00:17",
+  "totalRides": 87303,
+  "totalIncidents": 43265,
+  "totalKm": 669008,
+  "diffDate": "09.01.2023, 23:00:03",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        35928,
-        71
+        35935,
+        78
       ],
       "incidents": [
-        17517,
-        101
+        17522,
+        106
       ],
       "scaryIncidents": [
         5112,
         47
       ],
       "km": [
-        271757,
-        315
+        271830,
+        388
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        5323,
-        34
+        5325,
+        36
       ],
       "incidents": [
         4037,
@@ -38,8 +38,8 @@
         0
       ],
       "km": [
-        35615,
-        191
+        35627,
+        203
       ]
     },
     {
@@ -64,20 +64,20 @@
     {
       "name": "Hannover",
       "rides": [
-        4656,
-        1
+        4663,
+        8
       ],
       "incidents": [
-        3187,
-        2
+        3190,
+        5
       ],
       "scaryIncidents": [
         364,
         0
       ],
       "km": [
-        40553,
-        0
+        40571,
+        18
       ]
     },
     {
@@ -197,20 +197,20 @@
     {
       "name": "Mannheim",
       "rides": [
-        1773,
-        0
+        1800,
+        27
       ],
       "incidents": [
-        595,
-        0
+        601,
+        6
       ],
       "scaryIncidents": [
-        148,
-        0
+        150,
+        2
       ],
       "km": [
-        11107,
-        0
+        11246,
+        139
       ]
     },
     {
@@ -311,20 +311,20 @@
     {
       "name": "Magdeburg",
       "rides": [
-        980,
-        19
+        982,
+        21
       ],
       "incidents": [
-        469,
-        20
+        480,
+        31
       ],
       "scaryIncidents": [
         55,
         2
       ],
       "km": [
-        4877,
-        125
+        4888,
+        136
       ]
     },
     {
@@ -653,8 +653,8 @@
     {
       "name": "Hamburg-Blankenese",
       "rides": [
-        180,
-        10
+        182,
+        12
       ],
       "incidents": [
         73,
@@ -665,8 +665,8 @@
         0
       ],
       "km": [
-        1323,
-        60
+        1349,
+        86
       ]
     },
     {
@@ -1525,6 +1525,25 @@
       ]
     },
     {
+      "name": "Wels",
+      "rides": [
+        3,
+        0
+      ],
+      "incidents": [
+        1,
+        0
+      ],
+      "scaryIncidents": [
+        1,
+        0
+      ],
+      "km": [
+        6,
+        0
+      ]
+    },
+    {
       "name": "Heidenheim",
       "rides": [
         1,
@@ -1618,26 +1637,7 @@
         14,
         0
       ]
-    },
-    {
-      "name": "Wels",
-      "rides": [
-        1,
-        0
-      ],
-      "incidents": [
-        0,
-        0
-      ],
-      "scaryIncidents": [
-        0,
-        0
-      ],
-      "km": [
-        2,
-        0
-      ]
     }
   ],
-  "sourceDate": "15.01.2023, 23:00:14"
+  "sourceDate": "16.01.2023, 23:00:05"
 }
