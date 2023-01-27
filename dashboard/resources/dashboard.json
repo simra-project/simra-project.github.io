@@ -1,33 +1,33 @@
 {
-  "totalRides": 87835,
-  "totalIncidents": 43555,
-  "totalKm": 672507,
-  "diffDate": "19.01.2023, 23:00:04",
+  "totalRides": 87881,
+  "totalIncidents": 43584,
+  "totalKm": 672872,
+  "diffDate": "20.01.2023, 23:00:04",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        36076,
-        93
+        36092,
+        100
       ],
       "incidents": [
-        17597,
-        56
+        17610,
+        57
       ],
       "scaryIncidents": [
-        5143,
-        26
+        5150,
+        30
       ],
       "km": [
-        272555,
-        479
+        272673,
+        558
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        5380,
-        45
+        5384,
+        44
       ],
       "incidents": [
         4038,
@@ -38,8 +38,8 @@
         0
       ],
       "km": [
-        35927,
-        217
+        35969,
+        218
       ]
     },
     {
@@ -64,20 +64,20 @@
     {
       "name": "Hannover",
       "rides": [
-        4749,
+        4751,
         80
       ],
       "incidents": [
-        3222,
+        3223,
         31
       ],
       "scaryIncidents": [
         367,
-        3
+        2
       ],
       "km": [
-        41391,
-        805
+        41396,
+        806
       ]
     },
     {
@@ -198,7 +198,7 @@
       "name": "Mannheim",
       "rides": [
         1819,
-        19
+        15
       ],
       "incidents": [
         605,
@@ -210,7 +210,7 @@
       ],
       "km": [
         11450,
-        204
+        125
       ]
     },
     {
@@ -273,20 +273,20 @@
     {
       "name": "Dresden",
       "rides": [
-        1170,
-        8
+        1175,
+        13
       ],
       "incidents": [
-        676,
-        6
+        677,
+        7
       ],
       "scaryIncidents": [
         51,
         0
       ],
       "km": [
-        10522,
-        83
+        10565,
+        126
       ]
     },
     {
@@ -350,7 +350,7 @@
       "name": "Saarlouis",
       "rides": [
         804,
-        11
+        4
       ],
       "incidents": [
         451,
@@ -362,7 +362,7 @@
       ],
       "km": [
         5972,
-        18
+        6
       ]
     },
     {
@@ -501,20 +501,20 @@
     {
       "name": "Wien",
       "rides": [
-        389,
-        16
-      ],
-      "incidents": [
-        558,
+        391,
         18
       ],
+      "incidents": [
+        561,
+        21
+      ],
       "scaryIncidents": [
-        28,
-        1
+        29,
+        2
       ],
       "km": [
-        6225,
-        262
+        6266,
+        303
       ]
     },
     {
@@ -634,20 +634,20 @@
     {
       "name": "Hamburg-Blankenese",
       "rides": [
-        192,
-        6
+        196,
+        4
       ],
       "incidents": [
-        75,
-        2
+        76,
+        1
       ],
       "scaryIncidents": [
         7,
-        1
+        0
       ],
       "km": [
-        1395,
-        24
+        1451,
+        56
       ]
     },
     {
@@ -710,39 +710,39 @@
     {
       "name": "Kiel",
       "rides": [
-        130,
-        11
+        132,
+        13
       ],
       "incidents": [
-        19,
-        4
+        20,
+        5
       ],
       "scaryIncidents": [
         3,
         1
       ],
       "km": [
-        498,
-        46
+        517,
+        65
       ]
     },
     {
       "name": "Ravensburg",
       "rides": [
-        127,
-        0
+        132,
+        5
       ],
       "incidents": [
-        128,
-        0
+        135,
+        7
       ],
       "scaryIncidents": [
-        22,
-        0
+        25,
+        3
       ],
       "km": [
-        522,
-        0
+        548,
+        26
       ]
     },
     {
@@ -917,6 +917,25 @@
       ]
     },
     {
+      "name": "Wels",
+      "rides": [
+        49,
+        27
+      ],
+      "incidents": [
+        15,
+        9
+      ],
+      "scaryIncidents": [
+        5,
+        3
+      ],
+      "km": [
+        117,
+        63
+      ]
+    },
+    {
       "name": "Breisgau-Hochschwarzwald",
       "rides": [
         48,
@@ -933,25 +952,6 @@
       "km": [
         254,
         0
-      ]
-    },
-    {
-      "name": "Wels",
-      "rides": [
-        43,
-        27
-      ],
-      "incidents": [
-        13,
-        7
-      ],
-      "scaryIncidents": [
-        5,
-        3
-      ],
-      "km": [
-        102,
-        64
       ]
     },
     {
@@ -1639,5 +1639,5 @@
       ]
     }
   ],
-  "sourceDate": "26.01.2023, 23:00:08"
+  "sourceDate": "27.01.2023, 23:00:07"
 }
