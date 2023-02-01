@@ -3,6 +3,582 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "16/01/2023 11:15:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.61514919, 52.10656865 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 17:19:08",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf Radweg\\n",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.63495292, 52.16120906 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 17:14:05",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf Radweg",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.65464177, 52.16544541 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 17:14:57",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf Radweg",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.64935772, 52.16504651 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 17:16:27",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.64731148, 52.16398964 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 17:20:35",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Fahrzeugführer aus Ausfahrt schaut nicht und bremst erst in letzter Sekunde",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.63041238, 52.16046457 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 17:35:02",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Fahrzeug aus Seitenstraße nimmt beinahe die Vorfahrt.",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57241986, 52.15123668 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 17:33:53",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57179002, 52.1552378 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 17:34:14",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57210521, 52.1540172 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 15:45:01",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57324381, 52.13370382 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 15:43:55",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf Radweg",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57251108, 52.13618744 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 15:56:48",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger auf voller Wegbreite",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.58787958, 52.12186672 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 15:58:04",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.5928969, 52.12223882 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 15:59:44",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.5961522, 52.12023369 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 16:04:43",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.60862793, 52.11630939 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 07:22:23",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57924186, 52.15481261 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 07:46:01",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.65251984, 52.18496724 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 16:24:02",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.60622918, 52.12492546 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 16:24:50",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.60591097, 52.12702374 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 16:36:13",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.59044581, 52.14398286 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 16:37:22",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.58688697, 52.14540078 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 16:39:56",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.58023951, 52.14859386 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/01/2023 23:00:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.58003789, 52.138258 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/01/2023 17:05:28",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Pkw aus Seitenstraße nimmt mir auf dem benutzungspflichtigen Radweg die Vorfahrt. Beide Vollbremsung.",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.572239, 52.15287936 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/01/2023 17:01:46",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57288838, 52.15802991 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/01/2023 17:01:06",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57008813, 52.15961779 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/01/2023 16:52:53",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57135597, 52.18528133 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/01/2023 16:42:49",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.56477143, 52.20937381 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/12/2022 12:19:44",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57947002, 52.15293932 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/12/2022 12:21:30",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57557008, 52.15026662 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/01/2023 18:54:25",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57362615, 52.13256507 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/01/2023 19:00:39",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.60502536, 52.13257435 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "28/10/2022 12:00:00",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -21,6 +597,150 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "18/01/2023 16:30:23",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.6678459, 52.16662705 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/01/2023 07:38:54",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Auto von rechts ignoriert den Radverkehr und nimmt stumpf die Vorfahrt",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.59032287, 52.15702585 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/01/2023 08:00:40",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.66519141, 52.18419128 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/01/2023 16:53:59",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.68212202, 52.19916314 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/01/2023 17:03:06",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.65641053, 52.18395555 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/01/2023 17:23:15",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.60642696, 52.16231706 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/01/2023 17:32:07",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57180576, 52.15519425 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/01/2023 17:32:25",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57205945, 52.15419317 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "05/03/2003 15:57:01",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -35,6 +755,204 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 11.62974729, 52.12215359 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/12/2022 10:55:36",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Überholen innen in der Kurve bei Gegenverkehr",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57957887, 52.15144764 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/12/2022 10:56:49",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57925054, 52.1549404 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/12/2022 10:55:15",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57808828, 52.15107826 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/01/2023 07:38:04",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Alles mit LKW zugestellt, die Anliefern wollen. ",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.68068205, 52.19498715 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/01/2023 07:04:35",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57924362, 52.1549067 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/01/2023 07:31:20",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.66531884, 52.18415959 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/01/2023 20:09:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57359117, 52.1328246 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/01/2023 20:14:48",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.59538544, 52.13071788 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/01/2023 10:45:54",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.57926851, 52.15482703 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/01/2023 11:25:57",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.5718314, 52.1551285 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/01/2023 07:29:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Bus",
+      "scary" : "Nein",
+      "descr" : "ASB parkt auf Gehweg ",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.62774458, 52.10852958 ]
     }
   }, {
     "type" : "Feature",

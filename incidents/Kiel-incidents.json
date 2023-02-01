@@ -3,6 +3,204 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "09/01/2023 13:14:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.12823035, 54.32818476 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/01/2023 19:47:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Lieferwagen der auf dem Radweg der baulich Teil des Fußwegs war geparkt hat",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.131568333333332, 54.329636666666666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "25/01/2023 11:41:29",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "Lieferwagen, PKW",
+      "scary" : "Ja",
+      "descr" : "PWK der auf dem Fahrradschutzstreifen gehalten hat. mit ca 4 m Abstand zu einem Lieferwagen der auf der Straße geparkt hat. dadurch keine Möglichkeit beim Pkw überholen sinnvoll den Vorbeifahren Verkehr zu sehen. dann ist Pkw nach hintengesetzt",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.128026666666667, 54.32652500000001 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/01/2023 16:48:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW stand auf Fahrradstreifen ",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.124778333333333, 54.32070999999999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/01/2023 16:49:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.124476666666668, 54.318756666666665 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/01/2023 16:50:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "enges auffahren beim abbiegen trotz gegebenem Handzeichen ",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.124103333333332, 54.31782333333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/01/2023 13:48:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "zwei Auf radspur parkende PKW",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.128766666666667, 54.33314 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 08:10:54",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.138205, 54.326465000000006 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 12:19:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.136146666666667, 54.326069999999994 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 12:25:45",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.125193333333334, 54.32029166666666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/01/2023 12:24:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.127191666666667, 54.32158166666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "29/11/2022 14:42:37",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

@@ -3,6 +3,78 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "20/01/2023 16:46:58",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.91028042, 49.40649428 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/01/2023 09:01:11",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Bus",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.90987374, 49.40657194 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/01/2023 09:00:19",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.91188931, 49.40841736 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/01/2023 09:02:44",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.9108427, 49.4065091 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "26/11/2021 16:22:12",
       "bikeType" : "Lastenrad",
       "child" : "Nein",

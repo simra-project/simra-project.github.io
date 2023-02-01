@@ -8103,6 +8103,294 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "15/01/2023 17:29:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86790186, 51.41670958 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 17:21:47",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Kfz Fahrer hat die Vorfahrt für Radfahrende missachtet ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87376616, 51.42702561 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/01/2023 14:39:58",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Kleinkind auf den Radweg gelaufen ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86618091, 51.39568611 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 17:29:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86790186, 51.41670958 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 17:21:47",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Kfz Fahrer hat die Vorfahrt für Radfahrende missachtet ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87376616, 51.42702561 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/01/2023 15:35:42",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Amazon Falschparker auf Geh- und Radweg quer ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86832783, 51.4145021 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 17:29:41",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86790186, 51.41670958 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 17:21:47",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Kfz Fahrer hat die Vorfahrt für Radfahrende missachtet ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87376616, 51.42702561 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 15:46:31",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Absperrung mit Baken, sehr enge Durchfahrt",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86898126, 51.41072608 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/12/2022 11:04:09",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "An schmaler Stelle Durchfahrt erzwungen ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87146134, 51.40452061 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/01/2023 15:46:31",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Absperrung mit Baken, sehr enge Durchfahrt",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86898126, 51.41072608 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/01/2023 14:50:08",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Falschparker auf Radweg ",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86841727, 51.41447133 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/01/2023 15:06:04",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.8865098, 51.43256379 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/01/2023 15:05:37",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.88589929, 51.43146297 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/01/2023 14:48:59",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Absperrung mit Baken, sehr enge Durchfahrt",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.86899195, 51.41049029 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/01/2023 16:42:33",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Überholen auf der rechten Spur und Einschwenken in Abbiegespur",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.52066845, 51.52148572 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "25/11/2021 12:52:35",
       "bikeType" : "E-Bike",
       "child" : "Nein",

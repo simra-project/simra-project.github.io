@@ -3,6 +3,42 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "26/01/2023 08:38:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Fahrzeug hat den Radschutzstreifen sehr knapp vor mir überquert um auf dem Gehweg zu parken. Ich musste dadurch bremsen. ",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.2273885, 50.07753217 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/01/2023 08:49:22",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Mainz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.25550561, 50.0703291 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "28/04/2021 14:37:22",
       "bikeType" : "-",
       "child" : "Nein",
