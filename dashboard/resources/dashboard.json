@@ -1,45 +1,45 @@
 {
-  "totalRides": 88802,
-  "totalIncidents": 44043,
-  "totalKm": 678479,
-  "diffDate": "08.02.2023, 23:00:28",
+  "totalRides": 88920,
+  "totalIncidents": 44075,
+  "totalKm": 679164,
+  "diffDate": "09.02.2023, 23:00:07",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        36426,
-        162
+        36481,
+        201
       ],
       "incidents": [
-        17795,
-        83
+        17811,
+        79
       ],
       "scaryIncidents": [
-        5212,
+        5218,
         24
       ],
       "km": [
-        274535,
-        923
+        274818,
+        1125
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        5461,
-        20
+        5479,
+        30
       ],
       "incidents": [
-        4041,
-        1
+        4046,
+        5
       ],
       "scaryIncidents": [
-        775,
-        0
+        779,
+        4
       ],
       "km": [
-        36509,
-        211
+        36628,
+        203
       ]
     },
     {
@@ -64,20 +64,20 @@
     {
       "name": "Hannover",
       "rides": [
-        4795,
-        9
+        4809,
+        23
       ],
       "incidents": [
-        3246,
-        5
+        3254,
+        13
       ],
       "scaryIncidents": [
-        374,
-        1
+        375,
+        2
       ],
       "km": [
-        41747,
-        61
+        41890,
+        204
       ]
     },
     {
@@ -140,8 +140,8 @@
     {
       "name": "München",
       "rides": [
-        2414,
-        20
+        2416,
+        12
       ],
       "incidents": [
         770,
@@ -152,8 +152,8 @@
         0
       ],
       "km": [
-        18022,
-        153
+        18030,
+        51
       ]
     },
     {
@@ -252,29 +252,10 @@
       ]
     },
     {
-      "name": "Dresden",
-      "rides": [
-        1229,
-        7
-      ],
-      "incidents": [
-        707,
-        6
-      ],
-      "scaryIncidents": [
-        52,
-        0
-      ],
-      "km": [
-        11127,
-        72
-      ]
-    },
-    {
       "name": "Karlsruhe",
       "rides": [
-        1216,
-        0
+        1236,
+        20
       ],
       "incidents": [
         376,
@@ -285,27 +266,46 @@
         0
       ],
       "km": [
-        8495,
+        8568,
+        73
+      ]
+    },
+    {
+      "name": "Dresden",
+      "rides": [
+        1229,
+        5
+      ],
+      "incidents": [
+        707,
+        5
+      ],
+      "scaryIncidents": [
+        52,
         0
+      ],
+      "km": [
+        11127,
+        49
       ]
     },
     {
       "name": "Magdeburg",
       "rides": [
-        1023,
-        13
+        1028,
+        18
       ],
       "incidents": [
-        518,
-        12
+        520,
+        14
       ],
       "scaryIncidents": [
         58,
         0
       ],
       "km": [
-        5181,
-        81
+        5214,
+        114
       ]
     },
     {
@@ -784,6 +784,25 @@
       ]
     },
     {
+      "name": "Wels",
+      "rides": [
+        110,
+        19
+      ],
+      "incidents": [
+        22,
+        2
+      ],
+      "scaryIncidents": [
+        7,
+        1
+      ],
+      "km": [
+        261,
+        38
+      ]
+    },
+    {
       "name": "Rastatt",
       "rides": [
         109,
@@ -800,25 +819,6 @@
       "km": [
         945,
         0
-      ]
-    },
-    {
-      "name": "Wels",
-      "rides": [
-        108,
-        22
-      ],
-      "incidents": [
-        21,
-        1
-      ],
-      "scaryIncidents": [
-        6,
-        0
-      ],
-      "km": [
-        257,
-        50
       ]
     },
     {
@@ -955,6 +955,25 @@
       ]
     },
     {
+      "name": "Düsseldorf-Neuss",
+      "rides": [
+        40,
+        20
+      ],
+      "incidents": [
+        7,
+        6
+      ],
+      "scaryIncidents": [
+        2,
+        2
+      ],
+      "km": [
+        170,
+        57
+      ]
+    },
+    {
       "name": "Vulkaneifel",
       "rides": [
         39,
@@ -990,25 +1009,6 @@
       "km": [
         190,
         0
-      ]
-    },
-    {
-      "name": "Düsseldorf-Neuss",
-      "rides": [
-        38,
-        20
-      ],
-      "incidents": [
-        7,
-        7
-      ],
-      "scaryIncidents": [
-        2,
-        2
-      ],
-      "km": [
-        148,
-        38
       ]
     },
     {
@@ -1639,5 +1639,5 @@
       ]
     }
   ],
-  "sourceDate": "15.02.2023, 23:00:29"
+  "sourceDate": "16.02.2023, 23:00:30"
 }
