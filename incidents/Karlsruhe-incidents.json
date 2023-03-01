@@ -3,6 +3,24 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "17/05/2021 17:05:16",
+      "bikeType" : "-",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgängerzone",
+      "region" : "Karlsruhe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.395128333333334, 49.00851666666667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "28/10/2021 12:23:59",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

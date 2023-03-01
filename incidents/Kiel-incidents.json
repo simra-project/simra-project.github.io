@@ -201,6 +201,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "27/02/2023 09:56:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "PKW hat beim rechts abbiegen den geradeaus fahrenden Radfahrer nicht beachtet",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.12986838, 54.31360128 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "29/11/2022 14:42:37",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

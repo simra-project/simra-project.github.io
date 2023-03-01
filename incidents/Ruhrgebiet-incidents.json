@@ -8391,6 +8391,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "07/02/2023 07:41:37",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW hat beim Rechtsabbiegen mich als Radfahrer nicht wahrgenommen.",
+      "region" : "Ruhrgebiet"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.48792719, 51.52418229 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "25/11/2021 12:52:35",
       "bikeType" : "E-Bike",
       "child" : "Nein",

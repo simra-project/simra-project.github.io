@@ -3,6 +3,402 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "07/02/2023 12:17:20",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.153364, 47.678513 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/02/2023 12:18:00",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.156159, 47.677615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/02/2023 12:20:21",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.164618, 47.674908 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/02/2023 09:35:02",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.150977, 47.679348 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/02/2023 09:35:17",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Anhänger parkt teilweise auf Radstreifen (zu breit für Parkspur) und blockiert Radstreifen. ",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.151891, 47.67906 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/02/2023 09:37:17",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "PKW parkt auf Radweg und blockiert ihn komplett ",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.159253, 47.676655 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/02/2023 16:31:45",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Pkw fahren nach Öffnung Bahnschranke von beiden los, obwohl Ampel rot zeigt (Fußgänger-Ampel zeigt grün). Beinahe-Unfall ",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.147326, 47.682299 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/02/2023 16:33:46",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.149694, 47.67969 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/02/2023 16:33:53",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Anhänger parkt teilweise auf Radweg (zu breit für Parkstreifen)",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.150214, 47.679523 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/02/2023 16:34:45",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.153973, 47.678316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/02/2023 16:34:53",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Abstand < 1m",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.154563, 47.678131 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/02/2023 16:35:25",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "Abstand <1m",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.156882, 47.67738 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/02/2023 16:35:33",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "parkt teilweise auf Radweg (zu breit für Parkstreifen)",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.157465, 47.677195 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/02/2023 16:35:37",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "parkt teilweise auf Radweg (zu breit für Parkstreifen)",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.157769, 47.677098 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/02/2023 16:35:45",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "parkt teilweise auf Radweg (zu breit für Parkstreifen)",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.158398, 47.676959 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/02/2023 11:59:17",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "LKW blockiert Radweg und z.T. Fußweg ",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.166799, 47.679758 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/02/2023 11:59:29",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Weicht Gegenverkehr großzügig aus und kommt auf Abgrenzung zu Radweg ",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.167695, 47.679587 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/02/2023 17:01:04",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "< 1 m ",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.194103, 47.66847 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/02/2023 17:25:01",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.152625, 47.678766 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/02/2023 17:25:53",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "SUV",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.156116, 47.677626 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/02/2023 17:26:05",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Parkt teilweise auf Rad-Streifen (zu breit für Streifen begrenzt für PKW-Längsparken)",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.156928, 47.677362 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/02/2023 17:26:13",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Parkt teilweise auf Rad-Streifen (zu breit für Streifen begrenzt für PKW-Längsparken)",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.157492, 47.677196 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "05/05/2021 17:54:40",
       "bikeType" : "-",
       "child" : "Nein",

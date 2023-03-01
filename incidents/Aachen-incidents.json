@@ -3,6 +3,42 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "26/02/2023 13:32:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.114713255785065, 50.78854349762322 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/02/2023 09:39:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.094746325700951, 50.77785558244371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "25/08/2022 12:42:27",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

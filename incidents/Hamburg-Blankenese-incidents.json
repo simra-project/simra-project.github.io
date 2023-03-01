@@ -75,6 +75,78 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "20/02/2023 19:36:18",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "auf Busspur/ Radweg sämtliche Autofahrer",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.0160810946294, 53.56174182264992 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/02/2023 18:59:14",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad",
+      "scary" : "Ja",
+      "descr" : "pizza Kurier nimmt Vorfahrt. keine Rücksicht, schimpft nur",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.033142463881315, 53.5659358897072 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/02/2023 18:54:12",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "sämtliche Autofahrer auf Radweg blockieren",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.013332290632539, 53.560698007466286 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/02/2023 19:49:53",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "sommerliche auf der Busspur bzw. Radweg. sehr störend",
+      "region" : "Hamburg-Blankenese"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.01637656762933, 53.561922827595495 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/02/2023 15:44:34",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

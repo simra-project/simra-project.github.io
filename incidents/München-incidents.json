@@ -2739,6 +2739,132 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "09/02/2023 10:38:37",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "EBE",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.89234182, 49.06341541 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/02/2023 14:42:32",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "REG",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.88931758, 49.05570842 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/02/2023 08:48:24",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "überholen bei Gegenverkehr\\nR",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.88605015, 49.04856957 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/02/2023 11:44:29",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "REG",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.88933689, 49.05543658 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/02/2023 10:51:32",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Radweg nicht geräumt& gestreut ",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.89144632, 49.0684223 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/02/2023 10:45:51",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "OHV",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.88847506, 49.05438799 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/02/2023 10:45:57",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "REG",
+      "region" : "München"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8888758, 49.05481569 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "05/11/2021 13:49:00",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

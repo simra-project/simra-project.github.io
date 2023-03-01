@@ -75,6 +75,78 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "23/02/2023 17:03:10",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.91230851, 49.40750284 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/02/2023 17:03:25",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Auto nimmt sich unvermittelt Vorfahrt, ohne zu blinken",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.91210996, 49.40651572 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/02/2023 09:06:49",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.91212164, 49.40799804 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/02/2023 15:18:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "ändert ohne zu schauen plötzlich die Richtung",
+      "region" : "Saarlouis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.99107232, 49.23813901 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "26/11/2021 16:22:12",
       "bikeType" : "Lastenrad",
       "child" : "Nein",
