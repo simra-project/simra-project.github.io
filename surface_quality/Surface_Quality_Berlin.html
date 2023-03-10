@@ -38,7 +38,17 @@
 
 <div id='map'></div>
 
-<script type="text/javascript" src="Berlin1.geojson"></script>
+<script type="text/javascript" src="Berlin_0.geojson"></script>
+<script type="text/javascript" src="Berlin_1.geojson"></script>
+<script type="text/javascript" src="Berlin_2.geojson"></script>
+<script type="text/javascript" src="Berlin_3.geojson"></script>
+<script type="text/javascript" src="Berlin_4.geojson"></script>
+<script type="text/javascript" src="Berlin_5.geojson"></script>
+<script type="text/javascript" src="Berlin_6.geojson"></script>
+<script type="text/javascript" src="Berlin_7.geojson"></script>
+<script type="text/javascript" src="Berlin_8.geojson"></script>
+<script type="text/javascript" src="Berlin_9.geojson"></script>
+<script type="text/javascript" src="Berlin_10.geojson"></script>
 
 <script type="text/javascript">
 	var map = L.map('map').setView([52.52,13.40], 15); // Berlin: 52.518611,13.40 SW: 52.508464, 13.323741 NE: 52.532448, 13.416671
@@ -115,10 +125,31 @@
 		info.update(layer.feature.geometry, layer.feature.properties);
 	}
 
-	var geojson;
+	var geojson0;
+	var geojson1;
+	var geojson2;
+	var geojson3;
+	var geojson4;
+	var geojson5;
+	var geojson6;
+	var geojson7;
+	var geojson8;
+	var geojson9;
+	var geojson10;
 
 	function resetHighlight(e) {
-		geojson.resetStyle(e.target);
+		geojson0.resetStyle(e.target);
+		geojson1.resetStyle(e.target);
+		geojson2.resetStyle(e.target);
+		geojson3.resetStyle(e.target);
+		geojson4.resetStyle(e.target);
+		geojson5.resetStyle(e.target);
+		geojson6.resetStyle(e.target);
+		geojson7.resetStyle(e.target);
+		geojson8.resetStyle(e.target);
+		geojson9.resetStyle(e.target);
+		geojson10.resetStyle(e.target);
+		
 		info.update();
 	}
 
@@ -151,7 +182,57 @@
                 return feature.properties.count >= 0 && feature.properties.mean >= 2.0;
             }
 
-	geojson = L.geoJson(segments, {
+	geojson0 = L.geoJson(segment0, {
+		style:setStyle,
+		onEachFeature: onEachFeature
+	}).addTo(polygonGroup);
+	
+	geojson1 = L.geoJson(segment1, {
+		style:setStyle,
+		onEachFeature: onEachFeature
+	}).addTo(polygonGroup);
+	
+	geojson2 = L.geoJson(segment2, {
+		style:setStyle,
+		onEachFeature: onEachFeature
+	}).addTo(polygonGroup);
+	
+	geojson3 = L.geoJson(segment3, {
+		style:setStyle,
+		onEachFeature: onEachFeature
+	}).addTo(polygonGroup);
+	
+	geojson4 = L.geoJson(segment4, {
+		style:setStyle,
+		onEachFeature: onEachFeature
+	}).addTo(polygonGroup);
+	
+	geojson5 = L.geoJson(segment5, {
+		style:setStyle,
+		onEachFeature: onEachFeature
+	}).addTo(polygonGroup);
+	
+	geojson6 = L.geoJson(segment6, {
+		style:setStyle,
+		onEachFeature: onEachFeature
+	}).addTo(polygonGroup);
+	
+	geojson7 = L.geoJson(segment7, {
+		style:setStyle,
+		onEachFeature: onEachFeature
+	}).addTo(polygonGroup);
+	
+	geojson8 = L.geoJson(segment8, {
+		style:setStyle,
+		onEachFeature: onEachFeature
+	}).addTo(polygonGroup);
+	
+	geojson9 = L.geoJson(segment9, {
+		style:setStyle,
+		onEachFeature: onEachFeature
+	}).addTo(polygonGroup);
+	
+	geojson10 = L.geoJson(segment10, {
 		style:setStyle,
 		onEachFeature: onEachFeature
 	}).addTo(polygonGroup);
