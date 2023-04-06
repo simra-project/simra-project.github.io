@@ -201,6 +201,42 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "27/03/2023 13:11:03",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Nein",
+      "descr" : "Ist eine Fahrradstraße, PKW hat den Vorrang des Radfahrers nicht beachtet.",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.12814703, 54.31777606 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/03/2023 18:30:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.13331497, 54.31572414 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "27/02/2023 09:56:36",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

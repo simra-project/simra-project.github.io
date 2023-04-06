@@ -12027,6 +12027,168 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "15/03/2023 09:11:56",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.75196684, 52.47933518 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/03/2023 14:37:39",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.75337207, 52.48005368 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/03/2023 06:40:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Enge, unübersichtliche Wegführung ",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.744482, 52.372481 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/03/2023 13:10:44",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.75663019, 52.48116795 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/03/2023 08:18:25",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.74790492, 52.47888936 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2023 08:49:15",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.75486784, 52.48051283 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2023 17:58:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.78716443, 52.41112511 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/03/2023 08:22:13",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Vorfahrt genommen an Kreisverkehr",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.73977301, 52.48548301 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/03/2023 09:08:46",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.75384603, 52.48017125 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "01/03/2023 08:41:30",
       "bikeType" : "Lastenrad",
       "child" : "Nein",
@@ -12041,6 +12203,312 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 9.75212019, 52.47931367 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/03/2023 16:51:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "Zum Einordnen für das direkte Linksabbiegen auf Sahlkamp muss lange auf der Fahrbahn gefahren werden",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.790451666666666, 52.408586666666665 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/03/2023 08:49:37",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.73933805, 52.47957424 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "10/03/2023 16:53:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.72191125, 52.34670718 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/03/2023 07:28:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.72250585, 52.34682017 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/03/2023 07:20:31",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.77288149, 52.33914435 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "31/03/2023 16:33:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Pkw halb auf Gehweg verengt Fahrbahn",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.785263333333335, 52.41140833333334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2023 17:23:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Wohnwagen verdeckt seit bald einem Jahr Sicht auf Fahrbahn",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7832218, 52.41410592 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2023 17:55:37",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Mutter mit Kind, sind dann auf belebten Gehweg ausgewichen ",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79119704, 52.4120805 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2023 17:53:50",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79478151, 52.41524666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/03/2023 08:17:10",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "Vorfahrt genommen",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.73951125, 52.48545461 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2023 17:36:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.78252217, 52.41544545 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2023 17:37:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.78330861, 52.41542802 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/03/2023 17:38:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79135277, 52.4152972 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/03/2023 07:45:04",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.72268306, 52.34690383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/03/2023 08:27:14",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.72968672, 52.34581725 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/03/2023 17:39:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "LKW, PKW",
+      "scary" : "Nein",
+      "descr" : "Radweg hinter hohem Bordstein nicht erreichbar",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.79065339, 52.41112956 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/03/2023 15:14:20",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Hannover"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.75089883, 52.47893267 ]
     }
   }, {
     "type" : "Feature",

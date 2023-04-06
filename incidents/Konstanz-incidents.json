@@ -3,6 +3,42 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "13/03/2023 13:35:46",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Hermes-LKW parkt auf Weg und öffnet Fahrertür",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.171586, 47.674697 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/03/2023 12:27:17",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "1 PKW fährt los, als sich die Bahnschranke öffnet, obwohl Ampel weiter „rot“ zeigt, weil für querende Fußgänger & Radfahrer „grün“ ist. Beinahe Unfall. ",
+      "region" : "Konstanz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.147313, 47.682332 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "07/02/2023 12:17:20",
       "bikeType" : "Road Racing Bike",
       "child" : "Nein",

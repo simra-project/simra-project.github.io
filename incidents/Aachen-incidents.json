@@ -3,6 +3,330 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "13/08/2003 06:37:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "Beim Einfahren in den Vennbahnweg fast mit Elektroroller kollidiert.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.11729049, 50.77047657 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/08/2003 15:05:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.22820836, 50.7774643 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/08/2003 15:06:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.22815913, 50.77843039 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/08/2003 15:47:45",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.10674476, 50.76241036 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/08/2003 15:15:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Drei PKW hintereinander haben zu dicht überholt.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.09733166, 50.76319476 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/03/2023 18:32:56",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.115949121228568, 50.74616746000399 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2023 09:11:22",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Ja",
+      "descr" : "Gefahr durch Eis und Schnee auf der Fahrbahn/Radstreifen (betrifft die gesamte aufgezeichnete Fahrt).\\n",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.087865311068218, 50.76648703087658 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2023 09:35:20",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad, LKW, PKW",
+      "scary" : "Nein",
+      "descr" : "ich habe mehrere Autos und einen LKW überholen lassen, aus Sorge, sonst bei den Überholvorgängen bei Schnee auf der Fahrbahn gefährdet zu werden.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.047914708774426, 50.78016370831184 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2023 09:33:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Nein",
+      "descr" : "Behinderung durch zwei stehende Unfallfahrzeuge.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.0505774957998115, 50.777523836646836 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2023 09:30:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Behinderung durch Schnee und Eis an der Einfahrt des Radweges.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.047857097927909, 50.76948957117618 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2023 09:34:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "Behinderung durch entgegenkommenden Verkehr, der Müllabfuhr auf der Gegenfahrbahn ausweicht.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.050787521813241, 50.77893907872468 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2023 09:11:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Ja",
+      "descr" : "Behinderung durch stehende Unfallfahrzeuge auf der (ungeräumten) verschneiten und vereisten Fahrbahn/Radstreifen bei zugleich starkem Gefälle.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.087275013198648, 50.76707880093287 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/08/2003 14:10:14",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Entgegenkommendes Fahrzeug in einer Fahrradstraße mit geringem Abstand und schätzungsweise 50-60 km/h.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.21124861, 50.78365421 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/08/2003 14:07:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Die Ampelschaltung ist derart gestaltet, dass man als linksabbiegender Radfahrer minutenlang mitten auf der Straße warten muss, während der geradeausfahrende Verkehr rechts und der entgegekommende Verkehr links ungebremst und dicht an einem vorbeidonnert.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.21810502, 50.78601882 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/08/2003 14:38:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Taxi",
+      "scary" : "Nein",
+      "descr" : "Zu wenig Abstand, ca. 50 km/h in einer Fahrradstraße.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.11316856, 50.7696155 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/08/2003 15:10:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.10695844, 50.76246103 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/08/2003 07:14:04",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.22815745, 50.77620272 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/08/2003 07:07:47",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.21933306, 50.7837464 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "26/02/2023 13:32:34",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -35,6 +359,114 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 6.094746325700951, 50.77785558244371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/08/2003 06:41:54",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.22059442, 50.78080341 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/08/2003 17:53:52",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Gelber Ferrari, von hinten mit überhöhter Geschwindigkeit herangerast, dann zu eng überholt.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.13278967, 50.71616226 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/08/2003 15:53:45",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Gegenverkehr mit überhöhter Geschwindigkeit",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.20671441, 50.78100633 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/08/2003 16:04:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Vier PKW kommen entgegen und nutzen die Straße verbotenerweise als Abkürzung.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.17591566, 50.7742663 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/08/2003 16:15:01",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "Fußgänger quert ohne zu gucken den Radweg und wechselt dabei auch noch die Richting. Fast zusammengestoßen.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.12937287, 50.77259184 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/08/2003 16:24:43",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Taxi",
+      "scary" : "Nein",
+      "descr" : "Gegenverkehr mit überhöhter Geschwindigkeit und wenig Abstand.",
+      "region" : "Aachen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.10159009, 50.75814729 ]
     }
   }, {
     "type" : "Feature",

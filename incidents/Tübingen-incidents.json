@@ -3,6 +3,150 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "27/03/2023 17:40:47",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.056434586279797, 48.546695340189096 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/03/2023 08:24:06",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Auto blieb plötzlich ohne ersichtlichen Grund  vor mir stehen. ",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.052067976973348, 48.52637466754885 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/03/2023 12:19:53",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Sonstiges",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "Vorfahrt wurde mir von einem PKW genommen. ",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.055666149229147, 48.53833978821433 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2023 08:29:46",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.026480235640589, 48.52560391686159 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/03/2023 08:25:03",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.04794018646437, 48.52485646284889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/03/2023 12:26:33",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.047397411152096, 48.54250279578811 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/03/2023 12:12:48",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.048305103265415, 48.543274428513335 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/03/2023 12:12:48",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "Lieferwagen auf dem Radschutzstreifen ",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.048305103265415, 48.543274428513335 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "02/02/2023 12:09:40",
       "bikeType" : "E-Bike",
       "child" : "Nein",
@@ -17,6 +161,42 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 9.047350070075256, 48.54079637537532 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/04/2023 17:30:36",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.035257136885862, 48.54663399220909 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/04/2023 15:35:13",
+      "bikeType" : "E-Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "",
+      "region" : "Tübingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.976964113754924, 48.53311084156095 ]
     }
   }, {
     "type" : "Feature",

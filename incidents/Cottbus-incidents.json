@@ -3,6 +3,312 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "16/03/2023 13:10:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Verkehrsschild mitten auf dem Radweg montiert ",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.332405462746713, 51.7647443109256 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/03/2023 13:18:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Fahrradweg nicht erkennbar. Am BIOladen geht es leider nicht weiter mit dem Radweg ",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.337177155015883, 51.757997579635955 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/03/2023 13:23:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Ja",
+      "descr" : "Sehr enge Kurve, ohne Linienführung, Autos kreuzen scharf und fahren oft Abkürzung über Parkplatz. Hohes Aufkommen bei Fußballspielen. ",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.339521477008443, 51.74944910797793 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/03/2023 13:23:14",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.33925480822436, 51.74954068692607 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/03/2023 11:29:02",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Bitte durchgehend einen Radweg von Nord nach Süd einrichten ",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.330792209076593, 51.76136614548005 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "17/03/2023 10:03:46",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Person mit Rollator auf dem Radweg, weil Fußweg noch schlechter ist",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.327557673182813, 51.763563498272255 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/03/2023 14:00:00",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Da steht ein Papierkorb mitten auf dem Radweg. ",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.336033268720717, 51.737715754548994 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/03/2023 09:49:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baumscheiben schränken Radweg ein\\n",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.325978436342716, 51.73389618735299 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/03/2023 10:21:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.326419448084716, 51.74438563643117 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/03/2023 10:09:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.341518562633768, 51.738976641880285 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/03/2023 10:09:16",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.341518562633768, 51.738976641880285 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/03/2023 10:10:18",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad",
+      "scary" : "Ja",
+      "descr" : "Hier gibt es gar keinen Radweg, doch diese Strecke ist durchgehend von Kindern und Jugendlichen frequentiert, weil hier das Sportzentrum und die Sportschule ist. ",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.338531261031402, 51.73852535367355 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/03/2023 10:14:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Zw. Feuerwehr und Richarda Huch Straße ist der Radweg sehr schlecht. ",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.33922703752782, 51.73173804328845 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/03/2023 10:07:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Auf dem Radweg wächst das Gras in den Weg hinein. ",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.342749517749354, 51.74114749803028 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/03/2023 12:47:09",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Die Straße ist total huckelig",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.322744098968458, 51.72772112050691 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "24/03/2023 12:53:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Radwegführung unklar, wenn man aus der Drebkauer Str kommt",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.331821952087283, 51.74451315085956 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "05/04/2023 14:34:17",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Sehr lange Wartezeit an völlig unnötiger Ampel. ",
+      "region" : "Cottbus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.33221517988174, 51.73755636475569 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "22/11/2022 17:29:52",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",

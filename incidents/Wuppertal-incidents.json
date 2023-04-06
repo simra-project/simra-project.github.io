@@ -4035,6 +4035,150 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "02/03/2023 15:33:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.233027052134275, 51.27630539238453 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/03/2023 12:16:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.184845777228475, 51.266863932833076 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/03/2023 12:12:30",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.1697967406362295, 51.2622596276924 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/03/2023 12:21:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.196173248812556, 51.270539900287986 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/03/2023 15:56:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Sonstiges",
+      "scary" : "Nein",
+      "descr" : "Baustelle",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.213856466114521, 51.27500975970179 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/03/2023 15:53:58",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.206453401595354, 51.27476517576724 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "16/03/2023 12:58:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "Mülltonnen ",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.223474532365799, 51.2755333352834 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/02/2023 11:37:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.172434190288186, 51.26305720768869 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "29/11/2022 16:33:33",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -4283,6 +4427,132 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 7.220830377191305, 51.25334777869284 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/03/2023 12:05:27",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.152390629053116, 51.2529657734558 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/03/2023 09:11:49",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.154196761548519, 51.25708669424057 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "22/03/2023 09:09:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.162846717983484, 51.2583233602345 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/03/2023 18:29:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.15209030546248, 51.2530210101977 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/03/2023 18:28:38",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.152923718094826, 51.25282772351056 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/03/2023 18:29:51",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.15107249096036, 51.25258200801909 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/03/2023 12:14:00",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "",
+      "region" : "Wuppertal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.16501260176301, 51.26001801341772 ]
     }
   }, {
     "type" : "Feature",

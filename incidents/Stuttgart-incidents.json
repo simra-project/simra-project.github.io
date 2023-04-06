@@ -3981,6 +3981,24 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "date" : "17/11/2022 07:16:30",
+      "bikeType" : "Road Racing Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Rucksack/Tasche",
+      "incident" : "Sonstiges",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "Bahnschienen übersprungen ",
+      "region" : "Stuttgart"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.96022808, 48.83927089 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "14/11/2021 09:20:02",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
