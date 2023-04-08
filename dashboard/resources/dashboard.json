@@ -1,18 +1,18 @@
 {
-  "totalRides": 91167,
-  "totalIncidents": 44985,
-  "totalKm": 693569,
-  "diffDate": "06.04.2023, 08:00:22",
+  "totalRides": 91183,
+  "totalIncidents": 44988,
+  "totalKm": 693643,
+  "diffDate": "07.04.2023, 08:00:21",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
         37056,
-        20
+        0
       ],
       "incidents": [
         18040,
-        3
+        0
       ],
       "scaryIncidents": [
         5252,
@@ -20,14 +20,14 @@
       ],
       "km": [
         279192,
-        149
+        0
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        5815,
-        4
+        5820,
+        5
       ],
       "incidents": [
         4110,
@@ -38,8 +38,8 @@
         0
       ],
       "km": [
-        38400,
-        29
+        38424,
+        24
       ]
     },
     {
@@ -103,7 +103,7 @@
       "name": "Ruhrgebiet",
       "rides": [
         3319,
-        1
+        0
       ],
       "incidents": [
         1732,
@@ -115,7 +115,7 @@
       ],
       "km": [
         25439,
-        8
+        0
       ]
     },
     {
@@ -178,46 +178,46 @@
     {
       "name": "Mannheim",
       "rides": [
-        2061,
-        2
+        2062,
+        1
       ],
       "incidents": [
         734,
-        2
+        0
       ],
       "scaryIncidents": [
         167,
         0
       ],
       "km": [
-        12731,
-        3
+        12732,
+        1
       ]
     },
     {
       "name": "Bielefeld",
       "rides": [
-        2055,
-        1
+        2059,
+        4
       ],
       "incidents": [
-        269,
-        0
+        271,
+        2
       ],
       "scaryIncidents": [
         17,
         0
       ],
       "km": [
-        6154,
-        1
+        6166,
+        12
       ]
     },
     {
       "name": "Stuttgart",
       "rides": [
         1509,
-        5
+        0
       ],
       "incidents": [
         693,
@@ -229,7 +229,7 @@
       ],
       "km": [
         18836,
-        36
+        0
       ]
     },
     {
@@ -274,7 +274,7 @@
       "name": "Karlsruhe",
       "rides": [
         1281,
-        2
+        0
       ],
       "incidents": [
         377,
@@ -286,7 +286,7 @@
       ],
       "km": [
         8730,
-        5
+        0
       ]
     },
     {
@@ -502,7 +502,7 @@
       "name": "Wien",
       "rides": [
         445,
-        1
+        0
       ],
       "incidents": [
         677,
@@ -514,18 +514,18 @@
       ],
       "km": [
         7154,
-        6
+        0
       ]
     },
     {
       "name": "Tübingen",
       "rides": [
         387,
-        2
+        0
       ],
       "incidents": [
         54,
-        1
+        0
       ],
       "scaryIncidents": [
         9,
@@ -533,18 +533,18 @@
       ],
       "km": [
         2331,
-        4
+        0
       ]
     },
     {
       "name": "Hamburg-Blankenese",
       "rides": [
         304,
-        8
+        0
       ],
       "incidents": [
         104,
-        5
+        0
       ],
       "scaryIncidents": [
         8,
@@ -552,7 +552,7 @@
       ],
       "km": [
         2229,
-        41
+        0
       ]
     },
     {
@@ -632,6 +632,25 @@
       ]
     },
     {
+      "name": "Wels",
+      "rides": [
+        203,
+        4
+      ],
+      "incidents": [
+        26,
+        1
+      ],
+      "scaryIncidents": [
+        7,
+        0
+      ],
+      "km": [
+        537,
+        12
+      ]
+    },
+    {
       "name": "Darmstadt",
       "rides": [
         202,
@@ -666,25 +685,6 @@
       ],
       "km": [
         2098,
-        0
-      ]
-    },
-    {
-      "name": "Wels",
-      "rides": [
-        199,
-        0
-      ],
-      "incidents": [
-        25,
-        0
-      ],
-      "scaryIncidents": [
-        7,
-        0
-      ],
-      "km": [
-        525,
         0
       ]
     },
@@ -1014,8 +1014,8 @@
     {
       "name": "Aachen",
       "rides": [
-        37,
-        1
+        39,
+        2
       ],
       "incidents": [
         32,
@@ -1026,8 +1026,8 @@
         0
       ],
       "km": [
-        322,
-        11
+        347,
+        25
       ]
     },
     {
@@ -1658,5 +1658,5 @@
       ]
     }
   ],
-  "sourceDate": "07.04.2023, 08:00:21"
+  "sourceDate": "08.04.2023, 08:00:24"
 }
