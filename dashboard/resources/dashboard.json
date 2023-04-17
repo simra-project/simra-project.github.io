@@ -1,45 +1,45 @@
 {
-  "totalRides": 91435,
-  "totalIncidents": 45067,
-  "totalKm": 695243,
-  "diffDate": "09.04.2023, 08:00:20",
+  "totalRides": 91452,
+  "totalIncidents": 45070,
+  "totalKm": 695354,
+  "diffDate": "10.04.2023, 08:00:24",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        37157,
-        101
+        37166,
+        107
       ],
       "incidents": [
-        18075,
-        35
+        18078,
+        38
       ],
       "scaryIncidents": [
-        5259,
-        7
+        5260,
+        8
       ],
       "km": [
-        279983,
-        791
+        280031,
+        817
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        5864,
-        38
+        5867,
+        24
       ],
       "incidents": [
         4116,
-        6
+        5
       ],
       "scaryIncidents": [
         809,
         4
       ],
       "km": [
-        38715,
-        264
+        38740,
+        227
       ]
     },
     {
@@ -102,8 +102,8 @@
     {
       "name": "Ruhrgebiet",
       "rides": [
-        3320,
-        1
+        3323,
+        4
       ],
       "incidents": [
         1732,
@@ -114,8 +114,8 @@
         0
       ],
       "km": [
-        25444,
-        5
+        25468,
+        29
       ]
     },
     {
@@ -176,6 +176,25 @@
       ]
     },
     {
+      "name": "Bielefeld",
+      "rides": [
+        2069,
+        8
+      ],
+      "incidents": [
+        274,
+        3
+      ],
+      "scaryIncidents": [
+        17,
+        0
+      ],
+      "km": [
+        6213,
+        41
+      ]
+    },
+    {
       "name": "Mannheim",
       "rides": [
         2068,
@@ -192,25 +211,6 @@
       "km": [
         12749,
         13
-      ]
-    },
-    {
-      "name": "Bielefeld",
-      "rides": [
-        2068,
-        9
-      ],
-      "incidents": [
-        274,
-        3
-      ],
-      "scaryIncidents": [
-        17,
-        0
-      ],
-      "km": [
-        6211,
-        45
       ]
     },
     {
@@ -863,7 +863,7 @@
       "name": "Düsseldorf-Neuss",
       "rides": [
         80,
-        9
+        1
       ],
       "incidents": [
         11,
@@ -875,7 +875,7 @@
       ],
       "km": [
         518,
-        32
+        1
       ]
     },
     {
@@ -974,6 +974,25 @@
       ]
     },
     {
+      "name": "Aachen",
+      "rides": [
+        40,
+        1
+      ],
+      "incidents": [
+        32,
+        0
+      ],
+      "scaryIncidents": [
+        4,
+        0
+      ],
+      "km": [
+        359,
+        12
+      ]
+    },
+    {
       "name": "Vulkaneifel",
       "rides": [
         39,
@@ -1008,25 +1027,6 @@
       ],
       "km": [
         190,
-        0
-      ]
-    },
-    {
-      "name": "Aachen",
-      "rides": [
-        39,
-        0
-      ],
-      "incidents": [
-        32,
-        0
-      ],
-      "scaryIncidents": [
-        4,
-        0
-      ],
-      "km": [
-        347,
         0
       ]
     },
@@ -1658,5 +1658,5 @@
       ]
     }
   ],
-  "sourceDate": "16.04.2023, 08:00:05"
+  "sourceDate": "17.04.2023, 08:00:04"
 }
