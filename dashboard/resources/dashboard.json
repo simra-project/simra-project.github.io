@@ -1,45 +1,45 @@
 {
-  "totalRides": 91668,
-  "totalIncidents": 45120,
-  "totalKm": 696846,
-  "diffDate": "14.04.2023, 08:00:18",
+  "totalRides": 91709,
+  "totalIncidents": 45138,
+  "totalKm": 697163,
+  "diffDate": "15.04.2023, 08:00:19",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        37269,
-        132
+        37284,
+        133
       ],
       "incidents": [
-        18107,
-        33
+        18118,
+        43
       ],
       "scaryIncidents": [
-        5268,
-        9
+        5272,
+        13
       ],
       "km": [
-        280856,
-        1022
+        280897,
+        950
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        5895,
-        42
+        5901,
+        40
       ],
       "incidents": [
         4119,
-        5
+        3
       ],
       "scaryIncidents": [
         810,
-        3
+        1
       ],
       "km": [
-        38925,
-        331
+        39076,
+        397
       ]
     },
     {
@@ -65,11 +65,11 @@
       "name": "Hannover",
       "rides": [
         4930,
-        8
+        6
       ],
       "incidents": [
         3294,
-        2
+        0
       ],
       "scaryIncidents": [
         380,
@@ -255,11 +255,11 @@
       "name": "Dresden",
       "rides": [
         1335,
-        4
+        2
       ],
       "incidents": [
         766,
-        5
+        3
       ],
       "scaryIncidents": [
         52,
@@ -267,7 +267,7 @@
       ],
       "km": [
         12198,
-        38
+        21
       ]
     },
     {
@@ -292,8 +292,8 @@
     {
       "name": "Magdeburg",
       "rides": [
-        1090,
-        2
+        1093,
+        5
       ],
       "incidents": [
         533,
@@ -304,8 +304,8 @@
         0
       ],
       "km": [
-        5593,
-        27
+        5621,
+        55
       ]
     },
     {
@@ -349,20 +349,20 @@
     {
       "name": "Saarlouis",
       "rides": [
-        909,
-        3
+        919,
+        13
       ],
       "incidents": [
-        471,
-        1
+        472,
+        2
       ],
       "scaryIncidents": [
-        246,
-        1
+        247,
+        2
       ],
       "km": [
-        6206,
-        2
+        6219,
+        15
       ]
     },
     {
@@ -483,7 +483,7 @@
       "name": "Frankfurt",
       "rides": [
         511,
-        1
+        0
       ],
       "incidents": [
         319,
@@ -495,7 +495,7 @@
       ],
       "km": [
         3340,
-        7
+        0
       ]
     },
     {
@@ -540,7 +540,7 @@
       "name": "Hamburg-Blankenese",
       "rides": [
         328,
-        16
+        10
       ],
       "incidents": [
         111,
@@ -552,7 +552,7 @@
       ],
       "km": [
         2352,
-        75
+        39
       ]
     },
     {
@@ -730,7 +730,7 @@
       "name": "Ravensburg",
       "rides": [
         156,
-        4
+        0
       ],
       "incidents": [
         144,
@@ -742,7 +742,7 @@
       ],
       "km": [
         663,
-        16
+        0
       ]
     },
     {
@@ -862,8 +862,8 @@
     {
       "name": "Düsseldorf-Neuss",
       "rides": [
-        83,
-        4
+        87,
+        7
       ],
       "incidents": [
         11,
@@ -874,8 +874,8 @@
         0
       ],
       "km": [
-        542,
-        25
+        588,
+        70
       ]
     },
     {
@@ -955,6 +955,25 @@
       ]
     },
     {
+      "name": "Aachen",
+      "rides": [
+        49,
+        10
+      ],
+      "incidents": [
+        44,
+        12
+      ],
+      "scaryIncidents": [
+        6,
+        2
+      ],
+      "km": [
+        460,
+        113
+      ]
+    },
+    {
       "name": "Breisgau-Hochschwarzwald",
       "rides": [
         48,
@@ -971,25 +990,6 @@
       "km": [
         254,
         0
-      ]
-    },
-    {
-      "name": "Aachen",
-      "rides": [
-        46,
-        7
-      ],
-      "incidents": [
-        38,
-        6
-      ],
-      "scaryIncidents": [
-        4,
-        0
-      ],
-      "km": [
-        422,
-        75
       ]
     },
     {
@@ -1658,5 +1658,5 @@
       ]
     }
   ],
-  "sourceDate": "21.04.2023, 08:00:12"
+  "sourceDate": "22.04.2023, 08:00:17"
 }
