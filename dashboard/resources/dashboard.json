@@ -1,33 +1,33 @@
 {
-  "totalRides": 92207,
-  "totalIncidents": 45367,
-  "totalKm": 700803,
+  "totalRides": 92218,
+  "totalIncidents": 45368,
+  "totalKm": 700974,
   "diffDate": "24.04.2023, 08:00:22",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        37502,
-        198
+        37512,
+        208
       ],
       "incidents": [
-        18247,
-        107
+        18248,
+        108
       ],
       "scaryIncidents": [
         5304,
         26
       ],
       "km": [
-        282212,
-        1240
+        282379,
+        1407
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        5940,
-        23
+        5941,
+        24
       ],
       "incidents": [
         4131,
@@ -38,8 +38,8 @@
         3
       ],
       "km": [
-        39499,
-        261
+        39503,
+        265
       ]
     },
     {
@@ -1677,5 +1677,5 @@
       ]
     }
   ],
-  "sourceDate": "01.05.2023, 08:00:04"
+  "sourceDate": "01.05.2023, 10:45:05"
 }
