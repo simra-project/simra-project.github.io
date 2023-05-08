@@ -29,6 +29,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Köln
 - Ruhrgebiet
 - Twente
+- Walldorf/Wiesloch
 - Weimar
 - Wels Umland
 - Wesel
