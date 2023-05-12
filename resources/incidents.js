@@ -40,7 +40,7 @@ function forEachFeature(feature, layer) {
 	+ '<br /> <b>Kind transportiert: </b>' + feature.properties.child
 	+ '<br /> <b>Anhänger dabei: </b>' + feature.properties.trailer
 	+ '<br /> <b>Handyort: </b>' + feature.properties.pLoc
-	+ '<br /> <b>Beinaheunfalltyp: </b>' + feature.properties.incident
+	+ '<br /> <b>Gefahrensituation: </b>' + feature.properties.incident
 	+ '<br /> <b>Beteiligte Verkehrsteilnehmer: </b>' + feature.properties.participant
 	+ '<br /> <b>Diese Erfahrung war beängstigend: </b>' + feature.properties.scary
 	+ '<br /> <b>Beschreibung: </b>' + feature.properties.descr
