@@ -87,7 +87,7 @@ info.update = function(id, props) {
                 // '<br /> ID: ' + id +
                 '<br /> <b>Gesamtzahl Fahrten: </b>' + props.rides +
                 // '<br />' + props.type +
-                '<br /> <b>Gesamtzahl Beinaheunfälle: </b>' + props.incidents +
+                '<br /> <b>Gesamtzahl Gefahrensituationen: </b>' + props.incidents +
                 '<br /> <i>Zu dichtes Überholen: </i>' + props.clopa +
                 '<br /> <i>Ein- oder ausparkendes Fahrzeug: </i>' + props.spiot +
                 '<br /> <i>Beinahe-Abbiegeunfall: </i>' + props.nlorh +
