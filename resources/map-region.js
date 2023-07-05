@@ -7,6 +7,18 @@ var incidentsMeta;
 
 
 switch (params.get("region")) {
+	case "aachen_all":
+        region = "region/Aachen_all.json";
+        regionMeta = "region/Aachen_all-meta.json";
+	    incidents = "incidents/Aachen-incidents.json";
+        incidentsMeta = "incidents/Aachen-incidents-meta.json";
+        break;
+	case "aachen2_all":
+        region = "region/Aachen2_all.json";
+        regionMeta = "region/Aachen2_all-meta.json";
+	    incidents = "incidents/Aachen2-incidents.json";
+        incidentsMeta = "incidents/Aachen2-incidents-meta.json";
+        break;
 	case "alzey_all":
         region = "region/Alzey_all.json";
         regionMeta = "region/Alzey_all-meta.json";
