@@ -184,7 +184,7 @@ var legend = L.control({
 legend.onAdd = function(map) {
 
     var div = L.DomUtil.create('div', 'info legend'),
-        grades = [0, 0.1, 0.25, 0.5],
+        grades = [0, 0.04, 0.1, 0.25, 0.5],
         labels = ['<strong>Gefahrenscore</strong>'],
         from, to;
 
