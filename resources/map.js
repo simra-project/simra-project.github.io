@@ -120,12 +120,12 @@ function getColor(score) {
 
 // get opacity depending on score value
 function getOpacity(score) {
-    return score > 0.1 ? 0.7 : 0.1;
+    return score >= 0.04 ? 0.7 : 0.1;
 }
 
 // get weight depending on score value
 function getWeight(score) {
-    return score > 0.1 ? 5 : 1;
+    return score >= 0.04 ? 5 : 1;
 }
 
 
