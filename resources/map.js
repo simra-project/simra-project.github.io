@@ -113,6 +113,7 @@ function getColor(score) {
     return score >= 0.5 ? '#d7191c' :
         score >= 0.25 ? '#ff6600' :
         score >= 0.1 ? '#ffff00' :
+		score >= 0.04 ? '#8dcb21' :
 		score >= 0 ? '#1a9641' :
         '#808080';
 }
