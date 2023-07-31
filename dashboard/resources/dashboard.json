@@ -1,45 +1,45 @@
 {
-  "totalRides": 101422,
-  "totalIncidents": 48195,
-  "totalKm": 763926,
-  "diffDate": "23.07.2023, 08:00:29",
+  "totalRides": 101474,
+  "totalIncidents": 48231,
+  "totalKm": 764190,
+  "diffDate": "24.07.2023, 08:00:26",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        39823,
-        123
+        39840,
+        132
       ],
       "incidents": [
-        19495,
-        97
+        19526,
+        116
       ],
       "scaryIncidents": [
-        5642,
-        29
+        5647,
+        30
       ],
       "km": [
-        296129,
-        660
+        296236,
+        731
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        6821,
-        29
+        6832,
+        35
       ],
       "incidents": [
-        4461,
-        12
+        4466,
+        15
       ],
       "scaryIncidents": [
         878,
-        2
+        1
       ],
       "km": [
-        46832,
-        191
+        46896,
+        227
       ]
     },
     {
@@ -102,8 +102,8 @@
     {
       "name": "Ruhrgebiet",
       "rides": [
-        3453,
-        2
+        3454,
+        3
       ],
       "incidents": [
         1742,
@@ -114,8 +114,8 @@
         0
       ],
       "km": [
-        26491,
-        26
+        26502,
+        37
       ]
     },
     {
@@ -140,39 +140,39 @@
     {
       "name": "Walldorf",
       "rides": [
-        3001,
-        121
+        3021,
+        132
       ],
       "incidents": [
         393,
-        8
+        7
       ],
       "scaryIncidents": [
         49,
         1
       ],
       "km": [
-        18993,
-        727
+        19051,
+        716
       ]
     },
     {
       "name": "Mannheim",
       "rides": [
         2818,
-        44
+        33
       ],
       "incidents": [
         907,
-        7
+        6
       ],
       "scaryIncidents": [
         217,
-        4
+        3
       ],
       "km": [
         17891,
-        309
+        157
       ]
     },
     {
@@ -217,7 +217,7 @@
       "name": "Bielefeld",
       "rides": [
         2153,
-        5
+        4
       ],
       "incidents": [
         295,
@@ -229,7 +229,7 @@
       ],
       "km": [
         6444,
-        11
+        9
       ]
     },
     {
@@ -615,8 +615,8 @@
     {
       "name": "Kaiserslautern",
       "rides": [
-        289,
-        8
+        290,
+        9
       ],
       "incidents": [
         37,
@@ -627,8 +627,8 @@
         0
       ],
       "km": [
-        693,
-        15
+        695,
+        17
       ]
     },
     {
@@ -1563,6 +1563,25 @@
       ]
     },
     {
+      "name": "Twente",
+      "rides": [
+        4,
+        2
+      ],
+      "incidents": [
+        0,
+        0
+      ],
+      "scaryIncidents": [
+        0,
+        0
+      ],
+      "km": [
+        36,
+        22
+      ]
+    },
+    {
       "name": "Biberach",
       "rides": [
         3,
@@ -1635,25 +1654,6 @@
       ],
       "km": [
         37,
-        0
-      ]
-    },
-    {
-      "name": "Twente",
-      "rides": [
-        2,
-        0
-      ],
-      "incidents": [
-        0,
-        0
-      ],
-      "scaryIncidents": [
-        0,
-        0
-      ],
-      "km": [
-        14,
         0
       ]
     },
@@ -1734,5 +1734,5 @@
       ]
     }
   ],
-  "sourceDate": "30.07.2023, 08:00:04"
+  "sourceDate": "31.07.2023, 08:00:05"
 }
