@@ -10,7 +10,7 @@ Mit diesen Daten können wir dann gezielte Handlungsempfehlungen geben, um Städ
 Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Aachen
 - Augsburg
-- Berlin
+- Berlin/Potsdam
 - Bern
 - Bielefeld
 - Bonn
@@ -27,6 +27,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Nürnberg
 - Kiel
 - Köln
+- Region Hoyerswerda
 - Ruhrgebiet
 - Twente
 - Walldorf/Wiesloch
