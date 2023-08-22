@@ -41,7 +41,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 Weitere Informationen und Kontaktdaten sind auf der [Projektseite](https://www.digital-future.berlin/forschung/projekte/simra/) abrufbar, erste [Ergebnisse](./index.md) sind bereits verfügbar.
 
 Der Beitrag jedes Einzelnen zählt! Um mit zu machen, muss nur unsere Smartphone-App installiert werden:
-- Für Android (6+) und LineageOS im [Google PlayStore](https://play.google.com/store/apps/details?id=de.tuberlin.mcc.simra.app) und direkt als [APK-Datei](https://tubcloud.tu-berlin.de/s/FxfJipgBfnqTbr4/download/92.apk)
+- Für Android (6+) und LineageOS im [Google PlayStore](https://play.google.com/store/apps/details?id=de.tuberlin.mcc.simra.app) und direkt als [APK-Datei](https://tubcloud.tu-berlin.de/s/eK46JHtY7F2exq7/download/SimRa.apk)
 
 - Für iOS (11+) im [App Store](https://itunes.apple.com/de/app/simra/id1459516968?mt=8)
 
