@@ -1,33 +1,33 @@
 {
-  "totalRides": 107032,
-  "totalIncidents": 50255,
-  "totalKm": 799971,
-  "diffDate": "07.10.2023, 08:00:07",
+  "totalRides": 107053,
+  "totalIncidents": 50269,
+  "totalKm": 800030,
+  "diffDate": "08.10.2023, 08:00:08",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        41429,
-        300
+        41439,
+        135
       ],
       "incidents": [
-        20498,
-        127
+        20511,
+        116
       ],
       "scaryIncidents": [
-        5871,
-        42
+        5878,
+        38
       ],
       "km": [
-        305932,
-        2039
+        305966,
+        835
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
         7341,
-        48
+        44
       ],
       "incidents": [
         4574,
@@ -39,7 +39,7 @@
       ],
       "km": [
         50402,
-        292
+        266
       ]
     },
     {
@@ -64,27 +64,27 @@
     {
       "name": "Hannover",
       "rides": [
-        5301,
-        18
+        5306,
+        17
       ],
       "incidents": [
-        3390,
-        0
+        3391,
+        1
       ],
       "scaryIncidents": [
         389,
         0
       ],
       "km": [
-        45211,
-        31
+        45217,
+        27
       ]
     },
     {
       "name": "Walldorf",
       "rides": [
         4493,
-        94
+        87
       ],
       "incidents": [
         496,
@@ -96,7 +96,7 @@
       ],
       "km": [
         28837,
-        754
+        734
       ]
     },
     {
@@ -141,19 +141,19 @@
       "name": "Mannheim",
       "rides": [
         3288,
-        24
+        18
       ],
       "incidents": [
         959,
-        3
+        2
       ],
       "scaryIncidents": [
         233,
-        1
+        0
       ],
       "km": [
         21375,
-        144
+        74
       ]
     },
     {
@@ -331,7 +331,7 @@
       "name": "Saarlouis",
       "rides": [
         1118,
-        2
+        0
       ],
       "incidents": [
         538,
@@ -343,7 +343,7 @@
       ],
       "km": [
         6994,
-        13
+        0
       ]
     },
     {
@@ -578,7 +578,7 @@
       "name": "Wels",
       "rides": [
         409,
-        18
+        17
       ],
       "incidents": [
         33,
@@ -590,7 +590,7 @@
       ],
       "km": [
         1225,
-        62
+        59
       ]
     },
     {
@@ -974,6 +974,25 @@
       ]
     },
     {
+      "name": "Hoyerswerda",
+      "rides": [
+        68,
+        19
+      ],
+      "incidents": [
+        3,
+        0
+      ],
+      "scaryIncidents": [
+        1,
+        0
+      ],
+      "km": [
+        358,
+        55
+      ]
+    },
+    {
       "name": "Bruchsal",
       "rides": [
         64,
@@ -990,25 +1009,6 @@
       "km": [
         565,
         0
-      ]
-    },
-    {
-      "name": "Hoyerswerda",
-      "rides": [
-        62,
-        13
-      ],
-      "incidents": [
-        3,
-        0
-      ],
-      "scaryIncidents": [
-        1,
-        0
-      ],
-      "km": [
-        339,
-        36
       ]
     },
     {
@@ -1753,5 +1753,5 @@
       ]
     }
   ],
-  "sourceDate": "14.10.2023, 08:00:26"
+  "sourceDate": "15.10.2023, 08:00:24"
 }
