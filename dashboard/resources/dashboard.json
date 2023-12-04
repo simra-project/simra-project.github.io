@@ -1,26 +1,26 @@
 {
-  "totalRides": 109302,
-  "totalIncidents": 51807,
-  "totalKm": 815033,
-  "diffDate": "26.11.2023, 08:00:04",
+  "totalRides": 109386,
+  "totalIncidents": 51812,
+  "totalKm": 815233,
+  "diffDate": "27.11.2023, 08:00:04",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        42365,
-        96
+        42449,
+        168
       ],
       "incidents": [
-        21720,
-        222
+        21725,
+        219
       ],
       "scaryIncidents": [
-        6015,
+        6017,
         18
       ],
       "km": [
-        311735,
-        544
+        311935,
+        661
       ]
     },
     {
@@ -84,7 +84,7 @@
       "name": "Walldorf",
       "rides": [
         4811,
-        72
+        71
       ],
       "incidents": [
         515,
@@ -597,7 +597,7 @@
       "name": "Kaiserslautern",
       "rides": [
         388,
-        3
+        1
       ],
       "incidents": [
         37,
@@ -609,7 +609,7 @@
       ],
       "km": [
         884,
-        5
+        1
       ]
     },
     {
@@ -1753,5 +1753,5 @@
       ]
     }
   ],
-  "sourceDate": "03.12.2023, 08:00:04"
+  "sourceDate": "04.12.2023, 08:00:05"
 }
