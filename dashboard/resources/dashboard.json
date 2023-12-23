@@ -1,64 +1,64 @@
 {
-  "totalRides": 109932,
-  "totalIncidents": 52210,
-  "totalKm": 817991,
-  "diffDate": "15.12.2023, 08:00:06",
+  "totalRides": 109953,
+  "totalIncidents": 52291,
+  "totalKm": 818115,
+  "diffDate": "16.12.2023, 08:00:05",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        42622,
-        45
+        42633,
+        47
       ],
       "incidents": [
-        22065,
-        48
+        22142,
+        114
       ],
       "scaryIncidents": [
         6049,
-        4
+        3
       ],
       "km": [
-        312853,
-        331
+        312940,
+        322
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        7600,
+        7602,
         2
       ],
       "incidents": [
         4640,
-        1
+        0
       ],
       "scaryIncidents": [
         909,
-        1
+        0
       ],
       "km": [
-        51893,
+        51904,
         11
       ]
     },
     {
       "name": "Hannover",
       "rides": [
-        5398,
-        7
+        5404,
+        8
       ],
       "incidents": [
-        3485,
-        0
+        3489,
+        4
       ],
       "scaryIncidents": [
         406,
         0
       ],
       "km": [
-        45522,
-        21
+        45533,
+        16
       ]
     },
     {
@@ -83,8 +83,8 @@
     {
       "name": "Walldorf",
       "rides": [
-        4894,
-        39
+        4896,
+        37
       ],
       "incidents": [
         516,
@@ -95,8 +95,8 @@
         0
       ],
       "km": [
-        32050,
-        216
+        32065,
+        221
       ]
     },
     {
@@ -122,30 +122,30 @@
       "name": "Ruhrgebiet",
       "rides": [
         3599,
-        5
+        0
       ],
       "incidents": [
         1766,
-        2
+        0
       ],
       "scaryIncidents": [
         464,
-        1
+        0
       ],
       "km": [
         27725,
-        48
+        0
       ]
     },
     {
       "name": "Mannheim",
       "rides": [
         3520,
-        10
+        8
       ],
       "incidents": [
         991,
-        4
+        3
       ],
       "scaryIncidents": [
         251,
@@ -153,7 +153,7 @@
       ],
       "km": [
         22773,
-        26
+        14
       ]
     },
     {
@@ -597,7 +597,7 @@
       "name": "Kaiserslautern",
       "rides": [
         406,
-        8
+        7
       ],
       "incidents": [
         37,
@@ -609,7 +609,7 @@
       ],
       "km": [
         915,
-        13
+        12
       ]
     },
     {
@@ -749,7 +749,7 @@
       "name": "Hoyerswerda",
       "rides": [
         211,
-        12
+        10
       ],
       "incidents": [
         9,
@@ -761,7 +761,7 @@
       ],
       "km": [
         844,
-        57
+        40
       ]
     },
     {
@@ -1753,5 +1753,5 @@
       ]
     }
   ],
-  "sourceDate": "22.12.2023, 08:00:05"
+  "sourceDate": "23.12.2023, 08:00:05"
 }
