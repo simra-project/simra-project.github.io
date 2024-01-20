@@ -2,32 +2,32 @@
   "totalRides": 110343,
   "totalIncidents": 52578,
   "totalKm": 820505,
-  "diffDate": "12.01.2024, 08:00:05",
+  "diffDate": "13.01.2024, 08:00:05",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
         42748,
-        21
+        19
       ],
       "incidents": [
         22409,
-        10
+        3
       ],
       "scaryIncidents": [
         6061,
-        5
+        1
       ],
       "km": [
         313918,
-        201
+        168
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
         7652,
-        8
+        6
       ],
       "incidents": [
         4646,
@@ -39,14 +39,14 @@
       ],
       "km": [
         52201,
-        66
+        47
       ]
     },
     {
       "name": "Hannover",
       "rides": [
         5422,
-        8
+        2
       ],
       "incidents": [
         3489,
@@ -58,7 +58,7 @@
       ],
       "km": [
         45573,
-        18
+        4
       ]
     },
     {
@@ -84,7 +84,7 @@
       "name": "Walldorf",
       "rides": [
         4934,
-        9
+        8
       ],
       "incidents": [
         516,
@@ -96,7 +96,7 @@
       ],
       "km": [
         32250,
-        40
+        37
       ]
     },
     {
@@ -141,19 +141,19 @@
       "name": "Mannheim",
       "rides": [
         3562,
-        28
+        0
       ],
       "incidents": [
         998,
-        5
+        0
       ],
       "scaryIncidents": [
         256,
-        4
+        0
       ],
       "km": [
         22938,
-        113
+        0
       ]
     },
     {
@@ -1753,5 +1753,5 @@
       ]
     }
   ],
-  "sourceDate": "19.01.2024, 08:00:03"
+  "sourceDate": "20.01.2024, 08:00:04"
 }
