@@ -1,45 +1,45 @@
 {
-  "totalRides": 110447,
-  "totalIncidents": 52721,
-  "totalKm": 820915,
-  "diffDate": "16.01.2024, 08:00:05",
+  "totalRides": 110737,
+  "totalIncidents": 52760,
+  "totalKm": 821962,
+  "diffDate": "17.01.2024, 08:00:04",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
-        42842,
-        111
+        42965,
+        223
       ],
       "incidents": [
-        22550,
-        144
+        22565,
+        156
       ],
       "scaryIncidents": [
-        6101,
-        41
+        6108,
+        47
       ],
       "km": [
-        314219,
-        456
+        314791,
+        941
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
-        7658,
-        6
+        7678,
+        26
       ],
       "incidents": [
-        4648,
-        2
+        4649,
+        3
       ],
       "scaryIncidents": [
         910,
         0
       ],
       "km": [
-        52257,
-        56
+        52330,
+        129
       ]
     },
     {
@@ -83,8 +83,8 @@
     {
       "name": "Walldorf",
       "rides": [
-        4934,
-        0
+        4935,
+        1
       ],
       "incidents": [
         516,
@@ -95,8 +95,8 @@
         0
       ],
       "km": [
-        32250,
-        0
+        32256,
+        6
       ]
     },
     {
@@ -119,6 +119,25 @@
       ]
     },
     {
+      "name": "Mannheim",
+      "rides": [
+        3706,
+        144
+      ],
+      "incidents": [
+        1020,
+        22
+      ],
+      "scaryIncidents": [
+        263,
+        7
+      ],
+      "km": [
+        23311,
+        373
+      ]
+    },
+    {
       "name": "Ruhrgebiet",
       "rides": [
         3619,
@@ -134,25 +153,6 @@
       ],
       "km": [
         27811,
-        0
-      ]
-    },
-    {
-      "name": "Mannheim",
-      "rides": [
-        3562,
-        0
-      ],
-      "incidents": [
-        998,
-        0
-      ],
-      "scaryIncidents": [
-        256,
-        0
-      ],
-      "km": [
-        22938,
         0
       ]
     },
@@ -311,20 +311,20 @@
     {
       "name": "Magdeburg",
       "rides": [
-        1296,
-        5
+        1298,
+        6
       ],
       "incidents": [
-        549,
-        0
+        550,
+        1
       ],
       "scaryIncidents": [
-        61,
-        0
+        62,
+        1
       ],
       "km": [
-        7617,
-        84
+        7640,
+        90
       ]
     },
     {
@@ -597,7 +597,7 @@
       "name": "Kaiserslautern",
       "rides": [
         414,
-        3
+        2
       ],
       "incidents": [
         37,
@@ -609,7 +609,7 @@
       ],
       "km": [
         931,
-        6
+        4
       ]
     },
     {
@@ -1753,5 +1753,5 @@
       ]
     }
   ],
-  "sourceDate": "23.01.2024, 08:00:13"
+  "sourceDate": "24.01.2024, 08:00:07"
 }
