@@ -2,44 +2,44 @@
   "totalRides": 114535,
   "totalIncidents": 54396,
   "totalKm": 845441,
-  "diffDate": "21.03.2024, 08:00:12",
+  "diffDate": "22.03.2024, 08:00:06",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
         44294,
-        66
+        43
       ],
       "incidents": [
         23528,
-        75
+        54
       ],
       "scaryIncidents": [
         6323,
-        14
+        12
       ],
       "km": [
         322754,
-        471
+        348
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
         7973,
-        24
+        16
       ],
       "incidents": [
         4699,
-        4
+        1
       ],
       "scaryIncidents": [
         927,
-        4
+        1
       ],
       "km": [
         53921,
-        166
+        119
       ]
     },
     {
@@ -84,7 +84,7 @@
       "name": "Walldorf",
       "rides": [
         5233,
-        46
+        41
       ],
       "incidents": [
         530,
@@ -96,7 +96,7 @@
       ],
       "km": [
         34291,
-        381
+        343
       ]
     },
     {
@@ -578,11 +578,11 @@
       "name": "Mainz",
       "rides": [
         544,
-        23
+        17
       ],
       "incidents": [
         242,
-        8
+        7
       ],
       "scaryIncidents": [
         45,
@@ -590,14 +590,14 @@
       ],
       "km": [
         2476,
-        104
+        65
       ]
     },
     {
       "name": "Wels",
       "rides": [
         531,
-        1
+        0
       ],
       "incidents": [
         37,
@@ -609,14 +609,14 @@
       ],
       "km": [
         1605,
-        1
+        0
       ]
     },
     {
       "name": "Kaiserslautern",
       "rides": [
         475,
-        8
+        5
       ],
       "incidents": [
         37,
@@ -628,7 +628,7 @@
       ],
       "km": [
         1050,
-        17
+        10
       ]
     },
     {
@@ -673,19 +673,19 @@
       "name": "Gießen",
       "rides": [
         321,
-        13
+        11
       ],
       "incidents": [
         668,
-        40
+        37
       ],
       "scaryIncidents": [
         36,
-        1
+        0
       ],
       "km": [
         1141,
-        33
+        28
       ]
     },
     {
@@ -1753,5 +1753,5 @@
       ]
     }
   ],
-  "sourceDate": "28.03.2024, 08:00:05"
+  "sourceDate": "29.03.2024, 08:00:04"
 }
