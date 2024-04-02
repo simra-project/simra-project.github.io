@@ -2,32 +2,32 @@
   "totalRides": 114535,
   "totalIncidents": 54396,
   "totalKm": 845441,
-  "diffDate": "25.03.2024, 08:00:05",
+  "diffDate": "26.03.2024, 08:00:09",
   "regions": [
     {
       "name": "Berlin",
       "rides": [
         44294,
-        25
+        19
       ],
       "incidents": [
         23528,
-        28
+        19
       ],
       "scaryIncidents": [
         6323,
-        5
+        1
       ],
       "km": [
         322754,
-        174
+        126
       ]
     },
     {
       "name": "Nuernberg",
       "rides": [
         7973,
-        11
+        10
       ],
       "incidents": [
         4699,
@@ -39,14 +39,14 @@
       ],
       "km": [
         53921,
-        77
+        71
       ]
     },
     {
       "name": "Hannover",
       "rides": [
         5549,
-        4
+        2
       ],
       "incidents": [
         3542,
@@ -58,7 +58,7 @@
       ],
       "km": [
         46637,
-        76
+        38
       ]
     },
     {
@@ -84,11 +84,11 @@
       "name": "Walldorf",
       "rides": [
         5233,
-        26
+        9
       ],
       "incidents": [
         530,
-        1
+        0
       ],
       "scaryIncidents": [
         85,
@@ -96,7 +96,7 @@
       ],
       "km": [
         34291,
-        204
+        54
       ]
     },
     {
@@ -122,11 +122,11 @@
       "name": "Mannheim",
       "rides": [
         3898,
-        5
+        0
       ],
       "incidents": [
         1086,
-        1
+        0
       ],
       "scaryIncidents": [
         283,
@@ -134,7 +134,7 @@
       ],
       "km": [
         24252,
-        15
+        0
       ]
     },
     {
@@ -236,7 +236,7 @@
       "name": "Stuttgart",
       "rides": [
         1831,
-        1
+        0
       ],
       "incidents": [
         695,
@@ -248,7 +248,7 @@
       ],
       "km": [
         23185,
-        24
+        0
       ]
     },
     {
@@ -426,26 +426,26 @@
       "name": "Konstanz",
       "rides": [
         731,
-        2
+        1
       ],
       "incidents": [
         246,
-        7
+        4
       ],
       "scaryIncidents": [
         63,
-        5
+        3
       ],
       "km": [
         4763,
-        4
+        1
       ]
     },
     {
       "name": "Hamburg-Blankenese",
       "rides": [
         672,
-        10
+        3
       ],
       "incidents": [
         230,
@@ -457,7 +457,7 @@
       ],
       "km": [
         5519,
-        146
+        21
       ]
     },
     {
@@ -616,7 +616,7 @@
       "name": "Kaiserslautern",
       "rides": [
         475,
-        4
+        2
       ],
       "incidents": [
         37,
@@ -628,7 +628,7 @@
       ],
       "km": [
         1050,
-        8
+        4
       ]
     },
     {
@@ -673,11 +673,11 @@
       "name": "Gießen",
       "rides": [
         321,
-        9
+        7
       ],
       "incidents": [
         668,
-        33
+        24
       ],
       "scaryIncidents": [
         36,
@@ -685,7 +685,7 @@
       ],
       "km": [
         1141,
-        24
+        20
       ]
     },
     {
@@ -1753,5 +1753,5 @@
       ]
     }
   ],
-  "sourceDate": "01.04.2024, 08:00:04"
+  "sourceDate": "02.04.2024, 08:00:55"
 }
