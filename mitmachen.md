@@ -7,6 +7,13 @@ Jede/r Radfahrer/in in einer unserer Regionen kann durch die Nutzung unserer App
 Aufgrund eines (berechtigten) Gefühls mangelnder Sicherheit, scheuen es viele Menschen vom Auto auf das Fahrrad umzusteigen.
 Im Projekt SimRa sammeln wir mithilfe einer datensparsamen Smartphone-App Daten darüber, wo es in der Stadt für Radfahrende besonders gefährlich ist.
 Mit diesen Daten können wir dann gezielte Handlungsempfehlungen geben, um Städte fahrradfreundlicher und sicherer zu gestalten.
+
+Der Beitrag jedes Einzelnen zählt! Um mit zu machen, muss nur unsere Smartphone-App installiert werden:
+- Für Android (6+) und LineageOS im [Google PlayStore](https://play.google.com/store/apps/details?id=de.tuberlin.mcc.simra.app) und direkt als [APK-Datei](https://tubcloud.tu-berlin.de/s/eK46JHtY7F2exq7/download/SimRa.apk)
+
+- Für iOS (11+) im [App Store](https://itunes.apple.com/de/app/simra/id1459516968?mt=8)
+
+
 Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Aachen
 - Augsburg
@@ -39,11 +46,6 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Viele weitere Städte/Regionen im Südwesten Deutschlands, siehe grün markierte Bereiche auf der [Karte](./resources/region_map.png)
 
 Weitere Informationen und Kontaktdaten sind auf der [Projektseite](https://www.digital-future.berlin/forschung/projekte/simra/) abrufbar, erste [Ergebnisse](./index.md) sind bereits verfügbar.
-
-Der Beitrag jedes Einzelnen zählt! Um mit zu machen, muss nur unsere Smartphone-App installiert werden:
-- Für Android (6+) und LineageOS im [Google PlayStore](https://play.google.com/store/apps/details?id=de.tuberlin.mcc.simra.app) und direkt als [APK-Datei](https://tubcloud.tu-berlin.de/s/eK46JHtY7F2exq7/download/SimRa.apk)
-
-- Für iOS (11+) im [App Store](https://itunes.apple.com/de/app/simra/id1459516968?mt=8)
 
 Zur Datensammlung dann nur kurz vor Fahrtantritt die Aufzeichnung starten.
 Nach der Fahrt können besondere Ereignisse auf der Karte markiert und im Anschluss kommentiert werden.
