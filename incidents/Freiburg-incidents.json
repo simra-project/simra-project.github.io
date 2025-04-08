@@ -3,6 +3,132 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "02/03/2024 15:15:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"Wurde fast von der Straße gedrängt. Der Fahrer war ein Rentner.\"",
+      "region" : "Freiburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.78532736, 48.02532566 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/03/2024 15:24:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"Rentner kam mit ca. 50-60 km/h entgegen. Das ist eine Fahrradstraße wir fuhren nebeneinander.\"",
+      "region" : "Freiburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.79426485, 48.02165972 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/07/2024 12:54:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Dooring",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Freiburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.857387383490647, 47.99584388867818 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/07/2024 17:42:14",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "\"auf Radweg in falscher Richtung bei Engstelle wg Baustelle\"",
+      "region" : "Freiburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.856865464658263, 47.995404343258684 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/07/2024 19:26:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "\"Gegenverkehr fuhr Schlangenlinien\"",
+      "region" : "Freiburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.8548332074136535, 47.99225163305214 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/02/2024 15:44:07",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Freiburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.81543411, 48.02033837 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/02/2024 15:50:33",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Freiburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.81046304, 48.02299341 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "20/05/2021 07:10:57",
       "bikeType" : "E-Bike",
       "child" : "Nein",
@@ -11,7 +137,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Kam aus dem Wald. Musste ausweichen ",
+      "descr" : "\"Kam aus dem Wald. Musste ausweichen\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -29,7 +155,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "gefährdung durch umständliche Querungsmöglichkeit der Lörracher Straße in Verbindung mit hohem Verkehrsaufkommen.",
+      "descr" : "\"gefährdung durch umständliche Querungsmöglichkeit der Lörracher Straße in Verbindung mit hohem Verkehrsaufkommen.\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -47,7 +173,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "rote Ampel\\n",
+      "descr" : "\"rote Ampel\\n\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -65,7 +191,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Regelmäßige Gefährdung durch Parkplatzsucher.",
+      "descr" : "\"Regelmäßige Gefährdung durch Parkplatzsucher.\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -83,7 +209,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -101,7 +227,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Fußgänger überquert Straße ohne zu schauen",
+      "descr" : "\"Fußgänger überquert Straße ohne zu schauen\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -119,7 +245,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -137,7 +263,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "Motorrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -155,7 +281,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -173,7 +299,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Nicht geräumt. Ca 30cm Schnee.",
+      "descr" : "\"Nicht geräumt. Ca 30cm Schnee.\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -191,7 +317,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -209,7 +335,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -227,7 +353,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Enger Abbiegeradius",
+      "descr" : "\"Enger Abbiegeradius\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -245,7 +371,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Auto parkt rückwärts aus und fährt ein klein wenig auf die Fahrbahn",
+      "descr" : "\"Auto parkt rückwärts aus und fährt ein klein wenig auf die Fahrbahn\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -263,7 +389,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Auto macht u-turn von gegenseite kommend und übersieht mich dabei. musste stark bremsen",
+      "descr" : "\"Auto macht u-turn von gegenseite kommend und übersieht mich dabei. musste stark bremsen\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -281,7 +407,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Auto fährt von Friedrichsring leicht auf Radweg. bedrohliche Situation",
+      "descr" : "\"Auto fährt von Friedrichsring leicht auf Radweg. bedrohliche Situation\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -299,7 +425,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Bus",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -317,7 +443,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "rückwärts ausparkendes Auto fährt weit auf die Straße bis er mich bemerkt",
+      "descr" : "\"rückwärts ausparkendes Auto fährt weit auf die Straße bis er mich bemerkt\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -335,7 +461,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "links abbiegen sehr unangenehm. von hinten kommen die Autos vorbei gerast während man auf dem Fahrradstreifen fest hängt. niemand lässt einen auf die abbirgesupur rüber",
+      "descr" : "\"links abbiegen sehr unangenehm. von hinten kommen die Autos vorbei gerast während man auf dem Fahrradstreifen fest hängt. niemand lässt einen auf die abbirgesupur rüber\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -353,7 +479,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Straßenseite wechseln offiziell nicht möglich",
+      "descr" : "\"Straßenseite wechseln offiziell nicht möglich\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -371,7 +497,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Motorrad",
       "scary" : "Nein",
-      "descr" : "Motorrad quetscht sich rechts an Fahrradspur vorbei um an rechts abbirgesupur ganz nach vorne zu gelangen/ stauende Autos zu umgehen",
+      "descr" : "\"Motorrad quetscht sich rechts an Fahrradspur vorbei um an rechts abbirgesupur ganz nach vorne zu gelangen/ stauende Autos zu umgehen\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -389,7 +515,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "LKW parkt auf Fahrradstreifen",
+      "descr" : "\"LKW parkt auf Fahrradstreifen\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -407,7 +533,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "rückwärts ausparkender Autofahrer übersieht mich",
+      "descr" : "\"rückwärts ausparkender Autofahrer übersieht mich\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -425,7 +551,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "sehr knappes Überholmanöver ca 40 cm Abstand",
+      "descr" : "\"sehr knappes Überholmanöver ca 40 cm Abstand\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -443,7 +569,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Auto auf Gehweg/ Radweg geparkt ",
+      "descr" : "\"Auto auf Gehweg/ Radweg geparkt\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -461,7 +587,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Auto fährt schwungvoll von links auf meine Fahrspur. ich muss sicherheitshalber stehen bleiben ",
+      "descr" : "\"Auto fährt schwungvoll von links auf meine Fahrspur. ich muss sicherheitshalber stehen bleiben\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -479,7 +605,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Lieferwagen, PKW",
       "scary" : "Nein",
-      "descr" : "Paketzusteller nimmt Vorfahrt an Engstelle",
+      "descr" : "\"Paketzusteller nimmt Vorfahrt an Engstelle\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -497,7 +623,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Auto überholt anderen Fahrradfahrer, kommt auf mich zu",
+      "descr" : "\"Auto überholt anderen Fahrradfahrer, kommt auf mich zu\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -515,7 +641,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Motorrad",
       "scary" : "Nein",
-      "descr" : "schätzt meine Geschwindigkeit fallsch ein, nimmt mir Vorfahrt",
+      "descr" : "\"schätzt meine Geschwindigkeit fallsch ein, nimmt mir Vorfahrt\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -533,7 +659,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -551,7 +677,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -569,7 +695,7 @@
       "incident" : "Beinahe-Dooring",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -587,7 +713,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Abbieger hat nicht geschaut ",
+      "descr" : "\"Abbieger hat nicht geschaut\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -605,7 +731,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Radweg zugeparkt",
+      "descr" : "\"Radweg zugeparkt\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -623,7 +749,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -641,7 +767,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -659,7 +785,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Radstreifen zugeparkt",
+      "descr" : "\"Radstreifen zugeparkt\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -677,7 +803,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "schon wieder Glas auf dem Weg durch schlecht platzierte Container.\\n",
+      "descr" : "\"schon wieder Glas auf dem Weg durch schlecht platzierte Container.\\n\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -695,7 +821,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -713,7 +839,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -731,7 +857,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "Lieferwagen, PKW",
       "scary" : "Ja",
-      "descr" : "Fährt trotz VFahrt achten (Kreisverkehr) über die Haltelinie während ich die Einfahrt gerade passiere.",
+      "descr" : "\"Fährt trotz VFahrt achten (Kreisverkehr) über die Haltelinie während ich die Einfahrt gerade passiere.\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -749,7 +875,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -767,7 +893,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Auto fährt wie hier leider viel zu oft illegal in Fußgängerzone. Mit ordentlichem tempo",
+      "descr" : "\"Auto fährt wie hier leider viel zu oft illegal in Fußgängerzone. Mit ordentlichem tempo\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -785,7 +911,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -803,7 +929,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "unangenehm hier links abzubiegen, da man den geradeaus schnell fahrenden  Verkehr durchqueren muss",
+      "descr" : "\"unangenehm hier links abzubiegen, da man den geradeaus schnell fahrenden  Verkehr durchqueren muss\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -821,7 +947,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Auto missachtet meine Vorfahrt",
+      "descr" : "\"Auto missachtet meine Vorfahrt\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -839,7 +965,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "Autofahrerin nimmt mir knapp die Vorfahrt obwohl sie mich sieht. als ich sie an der nächsten Kreuzung ansprechen fährt sie mit qittdchenden reifen davon. ",
+      "descr" : "\"Autofahrerin nimmt mir knapp die Vorfahrt obwohl sie mich sieht. als ich sie an der nächsten Kreuzung ansprechen fährt sie mit qittdchenden reifen davon.\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -857,7 +983,7 @@
       "incident" : "Sonstiges",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Zuerst quer stehender PKW, dann Konflikt mit abbiegendem Radfahrer. Beides wegen murksiger Querungsmöglichkeit.",
+      "descr" : "\"Zuerst quer stehender PKW, dann Konflikt mit abbiegendem Radfahrer. Beides wegen murksiger Querungsmöglichkeit.\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -875,7 +1001,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Kind hat sich von Eltern gelöst und rennt vor Rad",
+      "descr" : "\"Kind hat sich von Eltern gelöst und rennt vor Rad\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -893,7 +1019,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -911,7 +1037,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Auto wendet und fährt dabei direkt frontal auf mich zu ",
+      "descr" : "\"Auto wendet und fährt dabei direkt frontal auf mich zu\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -929,7 +1055,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -947,7 +1073,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -965,7 +1091,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Auto biegt nach rechts ab und schneidet mich (ebenfalls rechtsabbieger)",
+      "descr" : "\"Auto biegt nach rechts ab und schneidet mich (ebenfalls rechtsabbieger)\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -983,7 +1109,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Auto nimmt mir die Vorfahrt. ",
+      "descr" : "\"Auto nimmt mir die Vorfahrt.\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1001,7 +1127,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Mindestabstand nicht eingehalten, sehr enges Überholmanöver",
+      "descr" : "\"Mindestabstand nicht eingehalten, sehr enges Überholmanöver\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1019,7 +1145,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Schwierige Straßenquerung, da einfädeln in fließenden Verkehr. Macht mir jeden Tag Stress",
+      "descr" : "\"Schwierige Straßenquerung, da einfädeln in fließenden Verkehr. Macht mir jeden Tag Stress\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1037,7 +1163,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1055,7 +1181,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Lkw auf Fahrbahn geparkt. ausweichen auf Tram Gleise = gefährliches überfahren der Gleise ",
+      "descr" : "\"Lkw auf Fahrbahn geparkt. ausweichen auf Tram Gleise = gefährliches überfahren der Gleise\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1073,7 +1199,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "entgegen kommender Linksabbieger übersieht mich. beinahe Kollision.",
+      "descr" : "\"entgegen kommender Linksabbieger übersieht mich. beinahe Kollision.\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1091,7 +1217,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Schwierige Straßenquerung, da einfädeln in fließenden Verkehr. Macht mir jeden Tag Stress",
+      "descr" : "\"Schwierige Straßenquerung, da einfädeln in fließenden Verkehr. Macht mir jeden Tag Stress\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1109,7 +1235,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Die zugeparkte Straße ist zu eng für Begegnungsverkehr",
+      "descr" : "\"Die zugeparkte Straße ist zu eng für Begegnungsverkehr\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1127,7 +1253,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "gefährliche Führung auf Gehweg mit unübersichtlichen Hofeinfahrten. ",
+      "descr" : "\"gefährliche Führung auf Gehweg mit unübersichtlichen Hofeinfahrten.\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1145,7 +1271,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "unübersichtliche, Enge Kreuzung mit viel PKW Verkehr zum Sportplatz. Regelmäßig Vorfahtsverletzungen und knappe Manöver...",
+      "descr" : "\"unübersichtliche, Enge Kreuzung mit viel PKW Verkehr zum Sportplatz. Regelmäßig Vorfahtsverletzungen und knappe Manöver...\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1163,7 +1289,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Hier immer wieder PKW, die trotz viel zu enger Restfahrbahn (wegen Längsparkern) nicht abwarten können und sich vorbeiquetschen wollen.",
+      "descr" : "\"Hier immer wieder PKW, die trotz viel zu enger Restfahrbahn (wegen Längsparkern) nicht abwarten können und sich vorbeiquetschen wollen.\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1181,7 +1307,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1199,7 +1325,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Fahrrad, PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1217,7 +1343,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Fahrrad, PKW",
       "scary" : "Nein",
-      "descr" : "In einer Dreiergruppe auf einer Landstraße kam es zu etlichen dichten Überholmanövern.",
+      "descr" : "\"In einer Dreiergruppe auf einer Landstraße kam es zu etlichen dichten Überholmanövern.\"",
       "region" : "Freiburg"
     },
     "geometry" : {
@@ -1235,7 +1361,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW vor mir abgebogen ohne zu blinken.",
+      "descr" : "\"PKW vor mir abgebogen ohne zu blinken.\"",
       "region" : "Freiburg"
     },
     "geometry" : {

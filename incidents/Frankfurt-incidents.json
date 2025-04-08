@@ -3,6 +3,60 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "06/09/2023 22:11:00",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "Fahrrad, PKW",
+      "scary" : "Nein",
+      "descr" : "\"PKW drängelt, kann ja nicht überholen\\n\"",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.64978425, 50.11796777 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/09/2023 19:00:03",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fußgänger, PKW, E-Scooter",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.67674538, 50.11567015 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/09/2023 18:13:53",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Fahrrad",
+      "scary" : "Ja",
+      "descr" : "\"Radfahrer überholt rechts\\n\\n an der Ampel, die gerade grün wird.\"",
+      "region" : "Frankfurt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.66507605, 50.13688136 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "24/11/2021 08:57:08",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -11,7 +65,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -29,7 +83,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -47,7 +101,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW missachtet Vorfahrt der Fahrräder",
+      "descr" : "\"PKW missachtet Vorfahrt der Fahrräder\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -65,7 +119,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -83,7 +137,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -101,7 +155,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -119,7 +173,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -137,7 +191,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -155,7 +209,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -173,7 +227,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -191,7 +245,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "Überholabstand ca. 50 cm",
+      "descr" : "\"Überholabstand ca. 50 cm\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -209,7 +263,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Taxi",
       "scary" : "Nein",
-      "descr" : "Taxi hält auf Radweg",
+      "descr" : "\"Taxi hält auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -227,7 +281,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Taxi",
       "scary" : "Nein",
-      "descr" : "Linksabbiegendes Taxi achtet nicht auf entgegenkommende Radler",
+      "descr" : "\"Linksabbiegendes Taxi achtet nicht auf entgegenkommende Radler\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -245,7 +299,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler",
+      "descr" : "\"Geisterradler\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -263,7 +317,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "Geisterscooter auf sehr schmalem Radweg",
+      "descr" : "\"Geisterscooter auf sehr schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -281,7 +335,7 @@
       "incident" : "Sonstiges",
       "participant" : "Taxi",
       "scary" : "Ja",
-      "descr" : "Durchfahren einer Pfütze mit hoher Geschwindigkeit mit Spritzwasser",
+      "descr" : "\"Durchfahren einer Pfütze mit hoher Geschwindigkeit mit Spritzwasser\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -299,7 +353,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -317,7 +371,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Zu dichtes Überholen mit hoher Geschwindigkeit",
+      "descr" : "\"Zu dichtes Überholen mit hoher Geschwindigkeit\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -335,7 +389,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -353,7 +407,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Inkl. Aufheulen des Motors",
+      "descr" : "\"Inkl. Aufheulen des Motors\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -371,7 +425,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Fahrrad",
       "scary" : "Ja",
-      "descr" : "Radler überholt ohne Abstand, mit Abdrängen beim Einscheren",
+      "descr" : "\"Radler überholt ohne Abstand, mit Abdrängen beim Einscheren\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -389,7 +443,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -407,7 +461,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -425,7 +479,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -443,7 +497,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -461,7 +515,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -479,7 +533,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -497,7 +551,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -515,7 +569,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -533,7 +587,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -551,7 +605,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Lastenrad",
+      "descr" : "\"Lastenrad\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -569,7 +623,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -587,7 +641,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -605,7 +659,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -623,7 +677,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW drängt entgegenkommenden Radfahrer ab",
+      "descr" : "\"PKW drängt entgegenkommenden Radfahrer ab\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -641,7 +695,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -659,7 +713,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Rotlichtverstoss PKW hinter Fahrrad\\n",
+      "descr" : "\"Rotlichtverstoss PKW hinter Fahrrad\\n\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -677,7 +731,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -695,7 +749,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -713,7 +767,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -731,7 +785,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -749,7 +803,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "PKW fährt aus Einfahrt und nimmt mir als Radfahrer auf dem Radweg die Vorfahrt",
+      "descr" : "\"PKW fährt aus Einfahrt und nimmt mir als Radfahrer auf dem Radweg die Vorfahrt\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -767,7 +821,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Car user backed into parking space. We couldn't see each other. ",
+      "descr" : "\"Car user backed into parking space. We couldn't see each other.\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -785,7 +839,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Sudden breaking after downhill with cargo bike",
+      "descr" : "\"Sudden breaking after downhill with cargo bike\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -803,7 +857,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "PKW  fährt aus Tiefgarage kreuzt Radweg und nimmt mir die Vorfahrt",
+      "descr" : "\"PKW  fährt aus Tiefgarage kreuzt Radweg und nimmt mir die Vorfahrt\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -821,7 +875,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf engem Radweg",
+      "descr" : "\"Geisterradler auf engem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -839,7 +893,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "PKW biegt rechts ab, nimmt mir die Vorfahrt",
+      "descr" : "\"PKW biegt rechts ab, nimmt mir die Vorfahrt\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -857,7 +911,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler",
+      "descr" : "\"Geisterradler\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -875,7 +929,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler",
+      "descr" : "\"Geisterradler\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -893,7 +947,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Lieferwagen, PKW",
       "scary" : "Ja",
-      "descr" : "Lieferwagen fährt rückwärts auf Radweg und gefährdet Radfahrer",
+      "descr" : "\"Lieferwagen fährt rückwärts auf Radweg und gefährdet Radfahrer\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -911,7 +965,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -929,7 +983,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -947,7 +1001,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -965,7 +1019,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW wird von Polizei angehalten und parkt auf Radweg",
+      "descr" : "\"PKW wird von Polizei angehalten und parkt auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -983,7 +1037,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW-Fahrer biegt rücksichtslos über Radweg ab. Nur Vollbremsung des Radfahrers verhindert Unfall",
+      "descr" : "\"PKW-Fahrer biegt rücksichtslos über Radweg ab. Nur Vollbremsung des Radfahrers verhindert Unfall\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1001,7 +1055,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1019,7 +1073,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1037,7 +1091,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1055,7 +1109,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1073,7 +1127,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1091,7 +1145,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1109,7 +1163,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1127,7 +1181,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1145,7 +1199,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1163,7 +1217,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1181,7 +1235,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1199,7 +1253,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1217,7 +1271,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1235,7 +1289,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1253,7 +1307,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Taxi",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1271,7 +1325,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1289,7 +1343,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1307,7 +1361,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1325,7 +1379,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1343,7 +1397,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1361,7 +1415,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1379,7 +1433,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1397,7 +1451,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1415,7 +1469,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1433,7 +1487,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1451,7 +1505,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1469,7 +1523,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1487,7 +1541,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1505,7 +1559,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1523,7 +1577,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1541,7 +1595,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1559,7 +1613,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1577,7 +1631,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1595,7 +1649,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1613,7 +1667,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1631,7 +1685,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1649,7 +1703,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1667,7 +1721,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1685,7 +1739,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1703,7 +1757,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1721,7 +1775,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1739,7 +1793,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1757,7 +1811,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1775,7 +1829,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1793,7 +1847,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1811,7 +1865,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1829,7 +1883,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1847,7 +1901,7 @@
       "incident" : "Sonstiges",
       "participant" : "Lieferwagen, PKW",
       "scary" : "Nein",
-      "descr" : "Lieferwagen parkt auf Radweg und blockiert diesen",
+      "descr" : "\"Lieferwagen parkt auf Radweg und blockiert diesen\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1865,7 +1919,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler",
+      "descr" : "\"Geisterradler\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1883,7 +1937,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1901,7 +1955,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1919,7 +1973,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1937,7 +1991,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1955,7 +2009,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1973,7 +2027,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Parkender PKW auf dem Radweg",
+      "descr" : "\"Parkender PKW auf dem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -1991,7 +2045,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf dem Radweg",
+      "descr" : "\"Geisterradler auf dem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2009,7 +2063,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "Rechtsabbiegender PKW missachtet Vorfahrt des geradeausfahrenden Radfahrers. Notbremsung erforderlich",
+      "descr" : "\"Rechtsabbiegender PKW missachtet Vorfahrt des geradeausfahrenden Radfahrers. Notbremsung erforderlich\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2027,7 +2081,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2045,7 +2099,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2063,7 +2117,7 @@
       "incident" : "Sonstiges",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "LKW parkt auf Radweg",
+      "descr" : "\"LKW parkt auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2081,7 +2135,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2099,7 +2153,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2117,7 +2171,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2135,7 +2189,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2153,7 +2207,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2171,7 +2225,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2189,7 +2243,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2207,7 +2261,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2225,7 +2279,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2243,7 +2297,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW parkt auf Radweg",
+      "descr" : "\"PKW parkt auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2261,7 +2315,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2279,7 +2333,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW parkt auf Radweg und Gehweg",
+      "descr" : "\"PKW parkt auf Radweg und Gehweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2297,7 +2351,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2315,7 +2369,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2333,7 +2387,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler",
+      "descr" : "\"Geisterradler\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2351,7 +2405,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "Lieferwagen, PKW",
       "scary" : "Ja",
-      "descr" : "Fahre mit dem Fahrrad ca. 27 km/h. Bei erlaubten 30 km/h kommt Lieferwagen von hinten viel zu schnell an und fährt viel zu dicht auf",
+      "descr" : "\"Fahre mit dem Fahrrad ca. 27 km/h. Bei erlaubten 30 km/h kommt Lieferwagen von hinten viel zu schnell an und fährt viel zu dicht auf\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2369,7 +2423,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW fährt aus Einfahrt und nimmt mir die Vorfahrt. PKW-Fahrer hupt und zeigt Mittelfinger.",
+      "descr" : "\"PKW fährt aus Einfahrt und nimmt mir die Vorfahrt. PKW-Fahrer hupt und zeigt Mittelfinger.\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2387,7 +2441,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2405,7 +2459,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2423,7 +2477,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2441,7 +2495,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW parkt auf Radweg",
+      "descr" : "\"PKW parkt auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2459,7 +2513,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2477,7 +2531,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "Geisterfahrer",
+      "descr" : "\"Geisterfahrer\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2495,7 +2549,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW blockiert beim rechts abbiegen den Radweg",
+      "descr" : "\"PKW blockiert beim rechts abbiegen den Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2513,7 +2567,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW parkt auf Radweg",
+      "descr" : "\"PKW parkt auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2531,7 +2585,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "Lieferwagen hupt, fährt dicht auf und drängt Fahrrad ab",
+      "descr" : "\"Lieferwagen hupt, fährt dicht auf und drängt Fahrrad ab\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2549,7 +2603,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2567,7 +2621,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2585,7 +2639,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2603,7 +2657,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2621,7 +2675,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2639,7 +2693,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2657,7 +2711,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2675,7 +2729,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2693,7 +2747,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Rotlichtverstoß PKW beim rechtsabbiegen",
+      "descr" : "\"Rotlichtverstoß PKW beim rechtsabbiegen\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2711,7 +2765,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2729,7 +2783,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2747,7 +2801,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2765,7 +2819,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2783,7 +2837,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2801,7 +2855,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2819,7 +2873,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2837,7 +2891,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2855,7 +2909,7 @@
       "incident" : "Sonstiges",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Straßenschaden auf Radweg",
+      "descr" : "\"Straßenschaden auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2873,7 +2927,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2891,7 +2945,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2909,7 +2963,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2927,7 +2981,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Taxi",
       "scary" : "Nein",
-      "descr" : "Taxi hält auf Radweg",
+      "descr" : "\"Taxi hält auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2945,7 +2999,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler",
+      "descr" : "\"Geisterradler\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2963,7 +3017,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2981,7 +3035,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -2999,7 +3053,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3017,7 +3071,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3035,7 +3089,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3053,7 +3107,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg ",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3071,7 +3125,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3089,7 +3143,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW fährt bei rot und nimmt Fahrrad die Vorfahrt",
+      "descr" : "\"PKW fährt bei rot und nimmt Fahrrad die Vorfahrt\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3107,7 +3161,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3125,7 +3179,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler",
+      "descr" : "\"Geisterradler\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3143,7 +3197,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Ja",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3161,7 +3215,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3179,7 +3233,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3197,7 +3251,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3215,7 +3269,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Taxi",
       "scary" : "Nein",
-      "descr" : "Taxi parkt auf Radweg",
+      "descr" : "\"Taxi parkt auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3233,7 +3287,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW hält auf Radweg",
+      "descr" : "\"PKW hält auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3251,7 +3305,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3269,7 +3323,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3287,7 +3341,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3305,7 +3359,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3323,7 +3377,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW parkt auf Radweg",
+      "descr" : "\"PKW parkt auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3341,7 +3395,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW parkt auf Radweg",
+      "descr" : "\"PKW parkt auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3359,7 +3413,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3377,7 +3431,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Gegenverkehr in enger Straße nimmt Fahrrad die Vorfahrt",
+      "descr" : "\"Gegenverkehr in enger Straße nimmt Fahrrad die Vorfahrt\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3395,7 +3449,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3413,7 +3467,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3431,7 +3485,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3449,7 +3503,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf sehr schmalem Radweg",
+      "descr" : "\"Geisterradler auf sehr schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3467,7 +3521,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3485,7 +3539,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Baustelle auf Radweg",
+      "descr" : "\"Baustelle auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3503,7 +3557,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Sackkarre auf Radweg",
+      "descr" : "\"Sackkarre auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3521,7 +3575,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "Geisterfahrer auf schmalem Radweg",
+      "descr" : "\"Geisterfahrer auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3539,7 +3593,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg ",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3557,7 +3611,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW fährt beim rechts Abbiegen auf Radweg und hält erst dann an",
+      "descr" : "\"PKW fährt beim rechts Abbiegen auf Radweg und hält erst dann an\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3575,7 +3629,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3593,7 +3647,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW missachtet Vorfahrt des Fahrrads",
+      "descr" : "\"PKW missachtet Vorfahrt des Fahrrads\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3611,7 +3665,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3629,7 +3683,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3647,7 +3701,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3665,7 +3719,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW missachtet Vorfahrt des Fahrrades",
+      "descr" : "\"PKW missachtet Vorfahrt des Fahrrades\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3683,7 +3737,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "Rechtsabbiegender Lieferwagen missachtet Vorfahrt des Fahrrades und bremst erst kurz vor dem Zusammenstoß",
+      "descr" : "\"Rechtsabbiegender Lieferwagen missachtet Vorfahrt des Fahrrades und bremst erst kurz vor dem Zusammenstoß\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3701,7 +3755,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3719,7 +3773,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3737,7 +3791,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3755,7 +3809,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3773,7 +3827,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Ja",
-      "descr" : "Geisterradler an gefährlicher Engstelle",
+      "descr" : "\"Geisterradler an gefährlicher Engstelle\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3791,7 +3845,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3809,7 +3863,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3827,7 +3881,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Ja",
-      "descr" : "Bus überholt rechts ohne Abstand",
+      "descr" : "\"Bus überholt rechts ohne Abstand\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3845,7 +3899,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3863,7 +3917,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3881,7 +3935,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3899,7 +3953,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3917,7 +3971,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW überholt rechts",
+      "descr" : "\"PKW überholt rechts\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3935,7 +3989,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Lieferwagen parkt auf Radweg",
+      "descr" : "\"Lieferwagen parkt auf Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3953,7 +4007,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3971,7 +4025,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -3989,7 +4043,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Überholabstand ca. 50 cm",
+      "descr" : "\"Überholabstand ca. 50 cm\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4007,7 +4061,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4025,7 +4079,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Taxi",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4043,7 +4097,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4061,7 +4115,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4079,7 +4133,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW drängt Fahrrad ab. Notbremsung erforderlich",
+      "descr" : "\"PKW drängt Fahrrad ab. Notbremsung erforderlich\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4097,7 +4151,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4115,7 +4169,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4133,7 +4187,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4151,7 +4205,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4169,7 +4223,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4187,7 +4241,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4205,7 +4259,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4223,7 +4277,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4241,7 +4295,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4259,7 +4313,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4277,7 +4331,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Ja",
-      "descr" : "Geister-Roller zwingt zum Ausweichen auf die Fahrbahn",
+      "descr" : "\"Geister-Roller zwingt zum Ausweichen auf die Fahrbahn\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4295,7 +4349,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4313,7 +4367,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4331,7 +4385,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler",
+      "descr" : "\"Geisterradler\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4349,7 +4403,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Ja",
-      "descr" : "Geisterradler an unübersichtlicher Stelle",
+      "descr" : "\"Geisterradler an unübersichtlicher Stelle\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4367,7 +4421,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4385,7 +4439,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler auf schmalem Radweg",
+      "descr" : "\"Geisterradler auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4403,7 +4457,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Geisterradler mit Anhänger",
+      "descr" : "\"Geisterradler mit Anhänger\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4421,7 +4475,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4439,7 +4493,7 @@
       "incident" : "Sonstiges",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Fußgänger kreuzen Radweg ohne Rücksicht auf Radfahrer",
+      "descr" : "\"Fußgänger kreuzen Radweg ohne Rücksicht auf Radfahrer\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4457,7 +4511,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4475,7 +4529,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4493,7 +4547,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4511,7 +4565,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW-Fahrer nimmt Radfahrer die Vorfahrt und beschleunigt als er den Fehler bemerkt",
+      "descr" : "\"PKW-Fahrer nimmt Radfahrer die Vorfahrt und beschleunigt als er den Fehler bemerkt\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4529,7 +4583,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4547,7 +4601,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Ja",
-      "descr" : "Geisterradler in der Kurve",
+      "descr" : "\"Geisterradler in der Kurve\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4565,7 +4619,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4583,7 +4637,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Pause, Regenhose angezogen.",
+      "descr" : "\"Pause, Regenhose angezogen.\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4601,7 +4655,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4619,7 +4673,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4637,7 +4691,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4655,7 +4709,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4673,7 +4727,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4691,7 +4745,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4709,7 +4763,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4727,7 +4781,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4745,7 +4799,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4763,7 +4817,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4781,7 +4835,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4799,7 +4853,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4817,7 +4871,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Rechtsabbiegender Pkw-Fahrer zieht voll durch ohne Rücksicht auf die Vorfahrt der Radfahrer.",
+      "descr" : "\"Rechtsabbiegender Pkw-Fahrer zieht voll durch ohne Rücksicht auf die Vorfahrt der Radfahrer.\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4835,7 +4889,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4853,7 +4907,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4871,7 +4925,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4889,7 +4943,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW-Fahrerin kommt aus Ausfahrt und nimmt Radfahrer die Vorfahrt. Gefahrbremsung!",
+      "descr" : "\"PKW-Fahrerin kommt aus Ausfahrt und nimmt Radfahrer die Vorfahrt. Gefahrbremsung!\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4907,7 +4961,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Fußgänger laufen auf Radweg und weichen auch nach dem Klingeln nicht aus",
+      "descr" : "\"Fußgänger laufen auf Radweg und weichen auch nach dem Klingeln nicht aus\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4925,7 +4979,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4943,7 +4997,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4961,7 +5015,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Zu dichtes Überholen der U-Bahn",
+      "descr" : "\"Zu dichtes Überholen der U-Bahn\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4979,7 +5033,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -4997,7 +5051,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5015,7 +5069,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Abbiegender Pkw-Fahrer schneidet Radfahrer; Gefahrbremsung verhindert Unfall",
+      "descr" : "\"Abbiegender Pkw-Fahrer schneidet Radfahrer; Gefahrbremsung verhindert Unfall\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5033,7 +5087,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5051,7 +5105,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW-Fahrerin blockiert absichtlich den Radweg",
+      "descr" : "\"PKW-Fahrerin blockiert absichtlich den Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5069,7 +5123,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5087,7 +5141,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5105,7 +5159,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5123,7 +5177,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5141,7 +5195,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5159,7 +5213,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5177,7 +5231,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5195,7 +5249,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Motorrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5213,7 +5267,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5231,7 +5285,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Motorrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5249,7 +5303,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5267,7 +5321,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5285,7 +5339,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5303,7 +5357,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5321,7 +5375,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "f mm 1990, weißes suv Beleidigung, Nötigung ",
+      "descr" : "\"f mm 1990, weißes suv Beleidigung, Nötigung\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5339,7 +5393,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Ja",
-      "descr" : "Unfall durch plötzlich auf den Radweg tretenden Fußgänger",
+      "descr" : "\"Unfall durch plötzlich auf den Radweg tretenden Fußgänger\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5357,7 +5411,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Bedrohung, Festhalten, Nötigung durch Bausteleiter Fa Lupp ",
+      "descr" : "\"Bedrohung, Festhalten, Nötigung durch Bausteleiter Fa Lupp\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5375,7 +5429,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Pkw aus Ausfahrten kommend nahm mir die Vorfahrt. Vollbremsung, dann Fabrerflucht.",
+      "descr" : "\"Pkw aus Ausfahrten kommend nahm mir die Vorfahrt. Vollbremsung, dann Fabrerflucht.\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5393,7 +5447,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Ja",
-      "descr" : "Geisterradler an unübersichtlicher Stelle",
+      "descr" : "\"Geisterradler an unübersichtlicher Stelle\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5411,7 +5465,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Pause ",
+      "descr" : "\"Pause\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5429,7 +5483,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Pause",
+      "descr" : "\"Pause\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5447,7 +5501,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5465,7 +5519,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW nimmt Radler die Vorfahrt",
+      "descr" : "\"PKW nimmt Radler die Vorfahrt\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5483,7 +5537,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Pkw-Fahrer blockiert absichtlich Radweg. Anhalten vor dem Radweg wäre problemlos möglich gewesen",
+      "descr" : "\"Pkw-Fahrer blockiert absichtlich Radweg. Anhalten vor dem Radweg wäre problemlos möglich gewesen\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5501,7 +5555,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Zu dichtes Überholen mit hoher Geschwindigkeit",
+      "descr" : "\"Zu dichtes Überholen mit hoher Geschwindigkeit\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5519,7 +5573,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Ja",
-      "descr" : "Zusammenstoß mit einem Geisterradler",
+      "descr" : "\"Zusammenstoß mit einem Geisterradler\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5537,7 +5591,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW aus Ausfahrt blockiert Radweg",
+      "descr" : "\"PKW aus Ausfahrt blockiert Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5555,7 +5609,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Überholabstand sehr gering",
+      "descr" : "\"Überholabstand sehr gering\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5573,7 +5627,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Ja",
-      "descr" : "Geisterradler mit überbreiter Ladung auf schmalem Radweg",
+      "descr" : "\"Geisterradler mit überbreiter Ladung auf schmalem Radweg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5591,7 +5645,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5609,7 +5663,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Fahrzeug hat den Fahrradweg fast komplett blockiert ",
+      "descr" : "\"Fahrzeug hat den Fahrradweg fast komplett blockiert\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5627,7 +5681,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5645,7 +5699,7 @@
       "incident" : "Sonstiges",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "Steht auf den Radweg quer im Weg",
+      "descr" : "\"Steht auf den Radweg quer im Weg\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5663,7 +5717,7 @@
       "incident" : "Sonstiges",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "Liegt auf dem Radweg!",
+      "descr" : "\"Liegt auf dem Radweg!\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5681,7 +5735,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Engstelle: Poller in der Mitte vom Weg. ",
+      "descr" : "\"Engstelle: Poller in der Mitte vom Weg.\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5699,7 +5753,7 @@
       "incident" : "Sonstiges",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Treppe ",
+      "descr" : "\"Treppe\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5717,7 +5771,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Bedrohung und Verfolgung durch Fahrer eines im Halteverbot auf der Fahrbahn abgestellten Pkw.",
+      "descr" : "\"Bedrohung und Verfolgung durch Fahrer eines im Halteverbot auf der Fahrbahn abgestellten Pkw.\"",
       "region" : "Frankfurt"
     },
     "geometry" : {
@@ -5735,7 +5789,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Frankfurt"
     },
     "geometry" : {

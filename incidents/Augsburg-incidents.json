@@ -3,6 +3,24 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "11/01/2024 08:46:28",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Sonstiges",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "\"Fahrradstreifen zugeparkt\"",
+      "region" : "Augsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.876369433363115, 48.34668405989524 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "18/09/2019 18:58:59",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -11,7 +29,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Strassenbahnschienen. Wechsel uberdiese",
+      "descr" : "\"Strassenbahnschienen. Wechsel uberdiese\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -29,7 +47,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -47,7 +65,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -65,7 +83,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "Lieferwagen auf Radweg\\n ausweichen auf Strasse, massiv bedrängt durch PKW",
+      "descr" : "\"Lieferwagen auf Radweg\\n ausweichen auf Strasse, massiv bedrängt durch PKW\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -83,7 +101,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -101,7 +119,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Baustelle auf Radweg",
+      "descr" : "\"Baustelle auf Radweg\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -119,7 +137,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -137,7 +155,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw, steht teilweise auf Radweg um die Einfahrt in möglichen Parkplatz zu sichern",
+      "descr" : "\"Pkw, steht teilweise auf Radweg um die Einfahrt in möglichen Parkplatz zu sichern\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -155,7 +173,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "entgegen kommender Pkw, lässt nur 1m Platz",
+      "descr" : "\"entgegen kommender Pkw, lässt nur 1m Platz\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -173,7 +191,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "4 entgegen kommende Fahrradfahrer",
+      "descr" : "\"4 entgegen kommende Fahrradfahrer\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -191,7 +209,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw hielt auf Fuß-/Fahrradüberweg",
+      "descr" : "\"Pkw hielt auf Fuß-/Fahrradüberweg\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -209,7 +227,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -227,7 +245,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Ohne zu schauen rückwärts ausgeparkt",
+      "descr" : "\"Ohne zu schauen rückwärts ausgeparkt\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -245,7 +263,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw fährt aus Einfahrt ",
+      "descr" : "\"Pkw fährt aus Einfahrt\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -263,7 +281,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -281,7 +299,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "Hund springt mich an. ",
+      "descr" : "\"Hund springt mich an.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -299,7 +317,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Lkw auf Radweg ",
+      "descr" : "\"Lkw auf Radweg\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -317,7 +335,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -335,7 +353,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "es war am Fahrverhalten nicht nachvollziehbar, das sie mich nicht gesehen hätte. überholte mich 5m davor. Möglicherweise Parkverkehr",
+      "descr" : "\"es war am Fahrverhalten nicht nachvollziehbar, das sie mich nicht gesehen hätte. überholte mich 5m davor. Möglicherweise Parkverkehr\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -353,7 +371,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -371,7 +389,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw auf Radweg ",
+      "descr" : "\"Pkw auf Radweg\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -389,7 +407,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Biegt auf Fuß-/Radweg ein",
+      "descr" : "\"Biegt auf Fuß-/Radweg ein\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -407,7 +425,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -425,7 +443,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Hund ausweichen ",
+      "descr" : "\"Hund ausweichen\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -443,7 +461,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -461,7 +479,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -479,7 +497,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -497,7 +515,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -515,7 +533,7 @@
       "incident" : "Sonstiges",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "von Bus fast eingeklemmt vor der Haltestelle, aber er hat gewartet",
+      "descr" : "\"von Bus fast eingeklemmt vor der Haltestelle, aber er hat gewartet\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -533,7 +551,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -551,7 +569,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -569,7 +587,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -587,7 +605,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -605,7 +623,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW hat spurtreu aber zu dicht neben dem sehr schmalen Fahrradstreifen 5-10 Meter vor dessen offenem Ende überholt.",
+      "descr" : "\"PKW hat spurtreu aber zu dicht neben dem sehr schmalen Fahrradstreifen 5-10 Meter vor dessen offenem Ende überholt.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -623,7 +641,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW hat mir bei für ihn roter Ampel und Grünpfeil Blechschild die Vorfahrt genommen. Fußgänger und Radfahrer Ampel war für mich grün.",
+      "descr" : "\"PKW hat mir bei für ihn roter Ampel und Grünpfeil Blechschild die Vorfahrt genommen. Fußgänger und Radfahrer Ampel war für mich grün.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -641,7 +659,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW, Sonstiges",
       "scary" : "Ja",
-      "descr" : "Zu schnelles Überholen",
+      "descr" : "\"Zu schnelles Überholen\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -659,7 +677,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Auf dem Fahrradweg haltendes Fahrzeug",
+      "descr" : "\"Auf dem Fahrradweg haltendes Fahrzeug\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -677,7 +695,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "„Geister-Radler“ auf dem geteilten Fuß-/Radweg",
+      "descr" : "\"„Geister-Radler“ auf dem geteilten Fuß-/Radweg\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -695,7 +713,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Seit dem Vortrag parkender PKW auf dem nagelneuen Fahrrad-Angebotsstreifen",
+      "descr" : "\"Seit dem Vortrag parkender PKW auf dem nagelneuen Fahrrad-Angebotsstreifen\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -713,7 +731,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -731,7 +749,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "dichtes Überholen bei Gegenverkehr",
+      "descr" : "\"dichtes Überholen bei Gegenverkehr\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -749,7 +767,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -767,7 +785,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Dichtes Überholen und Bedrängen",
+      "descr" : "\"Dichtes Überholen und Bedrängen\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -785,7 +803,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -803,7 +821,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -821,7 +839,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Transporter einer Baufirma mit Anhänger hat an der Verengung mit geringfugig höherer Geschwindigkeit überholt.",
+      "descr" : "\"Transporter einer Baufirma mit Anhänger hat an der Verengung mit geringfugig höherer Geschwindigkeit überholt.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -839,7 +857,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW steht an der Einfahrt zur Parkbucht vor der Schule auf Radschutzstreifen.",
+      "descr" : "\"PKW steht an der Einfahrt zur Parkbucht vor der Schule auf Radschutzstreifen.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -857,7 +875,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "Haltendes Liegerfahrzeug auf dem Schutzstreifen, Ausweichen bei starkem Verkehr",
+      "descr" : "\"Haltendes Liegerfahrzeug auf dem Schutzstreifen, Ausweichen bei starkem Verkehr\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -875,7 +893,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "Haltendes DHL-Fahrzeug auf dem Fahrradweg ca. 3 m vor einer Kreuzung, Ausweichen bei starkem Verkehr unmittelbar vor einer Ampel, die dadurch nur sehr schlecht zu sehen war.",
+      "descr" : "\"Haltendes DHL-Fahrzeug auf dem Fahrradweg ca. 3 m vor einer Kreuzung, Ausweichen bei starkem Verkehr unmittelbar vor einer Ampel, die dadurch nur sehr schlecht zu sehen war.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -893,7 +911,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -911,7 +929,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW, Sonstiges",
       "scary" : "Ja",
-      "descr" : "Entgegenkommendes KFZ biegt verbotswidrig links ab, aus der Nebenstraße kommendes, nach rechts abbiegen wollendes KFZ sieht mich nicht und fährt mich fast um.",
+      "descr" : "\"Entgegenkommendes KFZ biegt verbotswidrig links ab, aus der Nebenstraße kommendes, nach rechts abbiegen wollendes KFZ sieht mich nicht und fährt mich fast um.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -929,7 +947,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrtnahme durch rechzs anbiegenden LKW in den unteren Talweg.",
+      "descr" : "\"Vorfahrtnahme durch rechzs anbiegenden LKW in den unteren Talweg.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -947,7 +965,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Durch PKW blockierte Querung.",
+      "descr" : "\"Durch PKW blockierte Querung.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -965,7 +983,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Radfahrerin ist knapp vor mir auf die Straße gebogen. Och war geradeaus unterwegs, sie ist von links aus dem Radweg gekommen. Sie hat dabei m.E. unkoordinierte Einfädel- und Ausweichbewegungen gemacht. Vermutlich, damit ich rechts überholen kann. Dabei war ich bereits nach links ausgewichen.",
+      "descr" : "\"Radfahrerin ist knapp vor mir auf die Straße gebogen. Och war geradeaus unterwegs, sie ist von links aus dem Radweg gekommen. Sie hat dabei m.E. unkoordinierte Einfädel- und Ausweichbewegungen gemacht. Vermutlich, damit ich rechts überholen kann. Dabei war ich bereits nach links ausgewichen.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -983,7 +1001,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1001,7 +1019,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1019,7 +1037,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1037,7 +1055,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1055,7 +1073,7 @@
       "incident" : "Beinahe-Dooring",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1073,7 +1091,7 @@
       "incident" : "Sonstiges",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Radfahrerin hat einen PKW auf dem Gehweg rechts überholt (PKW ist hinter zwei anderen Radfahrern gefahren). ",
+      "descr" : "\"Radfahrerin hat einen PKW auf dem Gehweg rechts überholt (PKW ist hinter zwei anderen Radfahrern gefahren).\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1091,7 +1109,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1109,7 +1127,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Fahrer quert Vorfahrtstraße, achtet nicht auf Radfahrer, sieht mich erst im letzten Moment. ",
+      "descr" : "\"Fahrer quert Vorfahrtstraße, achtet nicht auf Radfahrer, sieht mich erst im letzten Moment.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1127,7 +1145,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1145,7 +1163,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1163,7 +1181,7 @@
       "incident" : "Sonstiges",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Einkauf",
+      "descr" : "\"Einkauf\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1181,7 +1199,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1199,7 +1217,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1217,7 +1235,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Radfahrer kam in der Kurve auf der falschen Seite entgegen.",
+      "descr" : "\"Radfahrer kam in der Kurve auf der falschen Seite entgegen.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1235,7 +1253,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1253,7 +1271,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger, Taxi",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1271,7 +1289,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1289,7 +1307,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1307,7 +1325,7 @@
       "incident" : "Sonstiges",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Signal Grün anfordern und warten",
+      "descr" : "\"Signal Grün anfordern und warten\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1325,7 +1343,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1343,7 +1361,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1361,7 +1379,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "2x abbremsen wegen Pkw, der aus einer Ausfahrt auf Straße fährt und bei nächster Einfahrt wieder einbiegt und mich so zweimal schneidet",
+      "descr" : "\"2x abbremsen wegen Pkw, der aus einer Ausfahrt auf Straße fährt und bei nächster Einfahrt wieder einbiegt und mich so zweimal schneidet\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1379,7 +1397,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1397,7 +1415,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1415,7 +1433,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1433,7 +1451,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1451,7 +1469,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1469,7 +1487,7 @@
       "incident" : "Sonstiges",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "3,5 Tonnen Sprinter mit Kofferaufbau eines Paketdienstes überholt mit hoch drehemdem Motor an einer Stelle ohne viel Platz und ohne gute Sicht auf entgegenkommende Fahrzeuge",
+      "descr" : "\"3,5 Tonnen Sprinter mit Kofferaufbau eines Paketdienstes überholt mit hoch drehemdem Motor an einer Stelle ohne viel Platz und ohne gute Sicht auf entgegenkommende Fahrzeuge\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1487,7 +1505,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1505,7 +1523,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Ein von Nord-Osten kommender SUV ist aus der Bgm-Ulrich-Straße links abgebogen. Dabei hätte mich beinahe angefahren. Er wollte noch schnell vor einem aus westen kommendem Fahrzeug die Kreuzung passieren. Durch meine umsichtige Fahrweise habe ich dies bereits gesehen und bin vor der grünen Ampel stehen geblieben. Der SUV-Fahrer hat als er mich bemerkte eine Gefahrenbremsung eingeleitet und wäre wohl kurz vor mir zum stehen gekommen.",
+      "descr" : "\"Ein von Nord-Osten kommender SUV ist aus der Bgm-Ulrich-Straße links abgebogen. Dabei hätte mich beinahe angefahren. Er wollte noch schnell vor einem aus westen kommendem Fahrzeug die Kreuzung passieren. Durch meine umsichtige Fahrweise habe ich dies bereits gesehen und bin vor der grünen Ampel stehen geblieben. Der SUV-Fahrer hat als er mich bemerkte eine Gefahrenbremsung eingeleitet und wäre wohl kurz vor mir zum stehen gekommen.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1523,7 +1541,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1541,7 +1559,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1559,7 +1577,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW hat mich mit geringer Geschwindigkeit in der Schlange vor der Ampel überholt und dabei beinahe seitlich angefahren, Unfall konnte nur durch Ausweichen verhindert werden.",
+      "descr" : "\"PKW hat mich mit geringer Geschwindigkeit in der Schlange vor der Ampel überholt und dabei beinahe seitlich angefahren, Unfall konnte nur durch Ausweichen verhindert werden.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1577,7 +1595,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1595,7 +1613,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1613,7 +1631,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1631,7 +1649,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1649,7 +1667,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1667,7 +1685,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1685,7 +1703,7 @@
       "incident" : "Sonstiges",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Fußgänger biegt auf Straße ab ohne sich umzuschauen",
+      "descr" : "\"Fußgänger biegt auf Straße ab ohne sich umzuschauen\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1703,7 +1721,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1721,7 +1739,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Beinahe Vorfahrtnahme durch rechts abbiegenden PKW an Ampel. PKW aus unterem Talweg hat rot, mit grünem Blechpfeil. Querung für Fußgänger und Radfahrer ist grün. ",
+      "descr" : "\"Beinahe Vorfahrtnahme durch rechts abbiegenden PKW an Ampel. PKW aus unterem Talweg hat rot, mit grünem Blechpfeil. Querung für Fußgänger und Radfahrer ist grün.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1739,7 +1757,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw blockiert Radweg",
+      "descr" : "\"Pkw blockiert Radweg\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1757,7 +1775,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1775,7 +1793,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1793,7 +1811,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1811,7 +1829,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Lieferwagen UPS versperrt die Roggenburger Straße komplett",
+      "descr" : "\"Lieferwagen UPS versperrt die Roggenburger Straße komplett\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1829,7 +1847,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW, Sonstiges",
       "scary" : "Ja",
-      "descr" : "PKW fährt aus Rockensteinstr. zu weit links beim Linksabbiegen und über eine Sperrfläche und nötigt mich weit rechts auszuholen und zu warten",
+      "descr" : "\"PKW fährt aus Rockensteinstr. zu weit links beim Linksabbiegen und über eine Sperrfläche und nötigt mich weit rechts auszuholen und zu warten\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1847,7 +1865,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW fährt beim Linksabbiegen aus der Rockensteinstr. in die Ulmer Str. über Sperrfläche und nötig mich auszuweichen und zu bremsen. Ein PKW der aus der Ulmer Str. nach links in die Rockensteinstr. möchte muss auf diesen PKW warten",
+      "descr" : "\"PKW fährt beim Linksabbiegen aus der Rockensteinstr. in die Ulmer Str. über Sperrfläche und nötig mich auszuweichen und zu bremsen. Ein PKW der aus der Ulmer Str. nach links in die Rockensteinstr. möchte muss auf diesen PKW warten\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1865,7 +1883,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1883,7 +1901,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1901,7 +1919,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1919,7 +1937,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw biegt ab ohne zu schauen ",
+      "descr" : "\"Pkw biegt ab ohne zu schauen\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1937,7 +1955,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1955,7 +1973,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1973,7 +1991,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Dichtes Auffahren nach Rückfädelung hinter der Tram Haltestelle",
+      "descr" : "\"Dichtes Auffahren nach Rückfädelung hinter der Tram Haltestelle\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -1991,7 +2009,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW hat sich an der Ampel neben mich gedrängt und noch ca. 15-20 cm Platz gelassen. ",
+      "descr" : "\"PKW hat sich an der Ampel neben mich gedrängt und noch ca. 15-20 cm Platz gelassen.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2009,7 +2027,7 @@
       "incident" : "Sonstiges",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Verwirrende Ampel",
+      "descr" : "\"Verwirrende Ampel\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2027,7 +2045,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2045,7 +2063,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2063,7 +2081,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW hat mich vor der roten Ampel dicht überholt und abgedrängt.",
+      "descr" : "\"PKW hat mich vor der roten Ampel dicht überholt und abgedrängt.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2081,7 +2099,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW ist während ich links zum abbiegen gewartet habe, bis die entgegenkommenden Fahrzeuge vorbei sind, rechts mit hoher Geschwindigkeit dicht an mir vorbei gefahren.",
+      "descr" : "\"PKW ist während ich links zum abbiegen gewartet habe, bis die entgegenkommenden Fahrzeuge vorbei sind, rechts mit hoher Geschwindigkeit dicht an mir vorbei gefahren.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2099,7 +2117,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2117,7 +2135,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2135,7 +2153,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW hat mich mit überhöhter Geschwindigkeit (bin die erlaubten 30 gefahren) und trotz entgegenkomendem Fahrzeug überholt und dabei so dicht überholt, dass er mich richtig bedrängt hat.",
+      "descr" : "\"PKW hat mich mit überhöhter Geschwindigkeit (bin die erlaubten 30 gefahren) und trotz entgegenkomendem Fahrzeug überholt und dabei so dicht überholt, dass er mich richtig bedrängt hat.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2153,7 +2171,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2171,7 +2189,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2189,7 +2207,7 @@
       "incident" : "Sonstiges",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Kreuzungskonflikt mit Jogger. Es war nicht klar, wer bremst und wo der potentielle Kreuzungspunkt ist ",
+      "descr" : "\"Kreuzungskonflikt mit Jogger. Es war nicht klar, wer bremst und wo der potentielle Kreuzungspunkt ist\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2207,7 +2225,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2225,7 +2243,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2243,7 +2261,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2261,7 +2279,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "Lkw sieht mich erst im letzten Moment ",
+      "descr" : "\"Lkw sieht mich erst im letzten Moment\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2279,7 +2297,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2297,7 +2315,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "unbeleuchteter Geisterradler",
+      "descr" : "\"unbeleuchteter Geisterradler\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2315,7 +2333,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2333,7 +2351,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2351,7 +2369,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2369,7 +2387,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2387,7 +2405,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2405,7 +2423,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2423,7 +2441,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2441,7 +2459,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2459,7 +2477,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2477,7 +2495,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2495,7 +2513,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2513,7 +2531,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Von PKW von der Straße gedrängt worden. PKW hat sich seitlich neben mich gesetzt und dann in Richtung Bordstein gedrängt.",
+      "descr" : "\"Von PKW von der Straße gedrängt worden. PKW hat sich seitlich neben mich gesetzt und dann in Richtung Bordstein gedrängt.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2531,7 +2549,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2549,7 +2567,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "ohne Gegenverkehr",
+      "descr" : "\"ohne Gegenverkehr\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2567,7 +2585,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Pkw auf Parkplatzsuche kam mir auf 2/3 meiner Spur  entgegen. 20cm Platz zwischen uns",
+      "descr" : "\"Pkw auf Parkplatzsuche kam mir auf 2/3 meiner Spur  entgegen. 20cm Platz zwischen uns\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2585,7 +2603,7 @@
       "incident" : "Sonstiges",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Blöde Ampelschaltung, wird rot bei Annäherung",
+      "descr" : "\"Blöde Ampelschaltung, wird rot bei Annäherung\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2603,7 +2621,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2621,7 +2639,7 @@
       "incident" : "Beinahe-Dooring",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2639,7 +2657,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2657,7 +2675,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Taxi",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2675,7 +2693,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2693,7 +2711,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2711,7 +2729,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "Bus",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2729,7 +2747,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2747,7 +2765,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Polizeistreife direkt hinter mir, hat nichts unternommen",
+      "descr" : "\"Polizeistreife direkt hinter mir, hat nichts unternommen\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2765,7 +2783,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Auf menschenleerer Straße, kein Gegenverkehr, nichtmal die Mittelmarkierung berührt.",
+      "descr" : "\"Auf menschenleerer Straße, kein Gegenverkehr, nichtmal die Mittelmarkierung berührt.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2783,7 +2801,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2801,7 +2819,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Mülltonnen versperren die durchfahrt",
+      "descr" : "\"Mülltonnen versperren die durchfahrt\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2819,7 +2837,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW überholt, wo parkende Fahrzeuge vom Seitenstreifen auf die Straße wechseln.",
+      "descr" : "\"PKW überholt, wo parkende Fahrzeuge vom Seitenstreifen auf die Straße wechseln.\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2837,7 +2855,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2855,7 +2873,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2873,7 +2891,7 @@
       "incident" : "Sonstiges",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Blockierte Fahrbahn durch parkende Liefer-LKW auf der Straße ",
+      "descr" : "\"Blockierte Fahrbahn durch parkende Liefer-LKW auf der Straße\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2891,7 +2909,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2909,7 +2927,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2927,7 +2945,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2945,7 +2963,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Augsburg"
     },
     "geometry" : {
@@ -2963,7 +2981,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Radfahrer aus Nebenstraße hat mir die Vorfahrt genommen.\\nZusammenstoß, aber keine Schäden",
+      "descr" : "\"Radfahrer aus Nebenstraße hat mir die Vorfahrt genommen.\\nZusammenstoß, aber keine Schäden\"",
       "region" : "Augsburg"
     },
     "geometry" : {

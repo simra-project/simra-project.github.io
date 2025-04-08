@@ -3,6 +3,258 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "28/10/2024 07:10:59",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.625024445670213, 52.109113080203116 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/11/2024 07:10:00",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"pkw parkt auf Radweg\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.62513694091671, 52.10911612583837 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/01/2024 12:47:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.63186469, 52.11590773 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/01/2024 09:25:37",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.58201032, 52.08366883 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/06/2024 16:59:05",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.61960014, 52.11348913 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/06/2024 07:57:25",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "LKW",
+      "scary" : "Nein",
+      "descr" : "\"Angehupt, wegen fahren auf der Fahrbahn.Radweg gesperrt.\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.62779057, 52.10844512 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "29/06/2024 12:36:19",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "E-Scooter",
+      "scary" : "Nein",
+      "descr" : "\"parken auf Geh- und Radweg\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.58333777, 52.10213976 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "12/02/2024 07:56:39",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Entgegenkommender Verkehrsteilnehmer",
+      "participant" : "Fahrrad",
+      "scary" : "Nein",
+      "descr" : "\"Geisterradler\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.62576948, 52.11305256 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "23/04/2024 08:33:10",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"MD MT309 ~0.5m\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.61977811, 52.11269805 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "02/04/2024 08:42:55",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"PKW hat Vorfahrt missachtet\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.6215628, 52.11326195 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "07/08/2024 08:23:12",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.62566762, 52.11307258 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2023 17:32:15",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"Grillhaus 63 parkt auf Radweg\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.62147414, 52.10965842 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2023 17:36:33",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"fuhr ohne zu gucken auf die Tankstelle\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.60653274, 52.10257993 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "01/11/2023 07:07:35",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"parkt auf Radweg\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.61977194, 52.11061046 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "16/01/2023 11:15:16",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -11,7 +263,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -29,7 +281,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Fußgänger auf Radweg\\n",
+      "descr" : "\"Fußgänger auf Radweg\\n\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -47,7 +299,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Fußgänger auf Radweg",
+      "descr" : "\"Fußgänger auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -65,7 +317,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Fußgänger auf Radweg",
+      "descr" : "\"Fußgänger auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -83,7 +335,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -101,7 +353,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Fahrzeugführer aus Ausfahrt schaut nicht und bremst erst in letzter Sekunde",
+      "descr" : "\"Fahrzeugführer aus Ausfahrt schaut nicht und bremst erst in letzter Sekunde\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -119,7 +371,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Fahrzeug aus Seitenstraße nimmt beinahe die Vorfahrt.",
+      "descr" : "\"Fahrzeug aus Seitenstraße nimmt beinahe die Vorfahrt.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -137,7 +389,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -155,7 +407,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -173,7 +425,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -191,7 +443,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Fußgänger auf Radweg",
+      "descr" : "\"Fußgänger auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -209,7 +461,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Fußgänger auf voller Wegbreite",
+      "descr" : "\"Fußgänger auf voller Wegbreite\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -227,7 +479,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -245,7 +497,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -263,7 +515,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -281,7 +533,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -299,7 +551,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -317,7 +569,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -335,7 +587,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -353,7 +605,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -371,7 +623,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -389,7 +641,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -407,7 +659,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -425,7 +677,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Pkw aus Seitenstraße nimmt mir auf dem benutzungspflichtigen Radweg die Vorfahrt. Beide Vollbremsung.",
+      "descr" : "\"Pkw aus Seitenstraße nimmt mir auf dem benutzungspflichtigen Radweg die Vorfahrt. Beide Vollbremsung.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -443,7 +695,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -461,7 +713,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -479,7 +731,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -497,7 +749,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -515,7 +767,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -533,7 +785,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -551,7 +803,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -569,7 +821,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -587,7 +839,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -605,7 +857,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -623,7 +875,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Auto von rechts ignoriert den Radverkehr und nimmt stumpf die Vorfahrt",
+      "descr" : "\"Auto von rechts ignoriert den Radverkehr und nimmt stumpf die Vorfahrt\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -641,7 +893,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -659,7 +911,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -677,7 +929,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -695,7 +947,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -713,7 +965,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -731,7 +983,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -749,7 +1001,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -767,7 +1019,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Überholen innen in der Kurve bei Gegenverkehr",
+      "descr" : "\"Überholen innen in der Kurve bei Gegenverkehr\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -785,7 +1037,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -803,7 +1055,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -821,7 +1073,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Alles mit LKW zugestellt, die Anliefern wollen. ",
+      "descr" : "\"Alles mit LKW zugestellt, die Anliefern wollen.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -839,7 +1091,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -857,7 +1109,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -875,7 +1127,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -893,7 +1145,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -911,7 +1163,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -929,7 +1181,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -947,7 +1199,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "ASB parkt auf Gehweg ",
+      "descr" : "\"ASB parkt auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -965,7 +1217,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Späti parkt auf Radweg",
+      "descr" : "\"Späti parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -983,7 +1235,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1001,7 +1253,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Parkt auf Radweg",
+      "descr" : "\"Parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1019,7 +1271,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1037,7 +1289,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1055,7 +1307,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "parkt im abs Haltverbot",
+      "descr" : "\"parkt im abs Haltverbot\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1073,7 +1325,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1091,7 +1343,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1109,7 +1361,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw rechts aus der Seitenstraße bremst erst in letzter Sekunde",
+      "descr" : "\"Pkw rechts aus der Seitenstraße bremst erst in letzter Sekunde\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1127,7 +1379,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1145,12 +1397,192 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 11.59005836, 52.14409901 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "03/06/2023 15:15:11",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"PKW bog von der linken Spur rechts auf die Tangente ab.\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.60292771, 52.10290925 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/06/2023 18:08:13",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.60268009, 52.09593036 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/06/2023 20:15:42",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"parkt auf Radweg\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.62612381, 52.10883969 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "28/06/2023 19:12:44",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.62584205, 52.10892497 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/06/2023 14:42:36",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "\"parkt im abs Haltverbot\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.62721934, 52.11853339 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "13/06/2023 07:48:34",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "\"Kran parkt auf Radweg\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.62498121, 52.10915233 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "14/06/2023 07:43:24",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "\"Fahrer hatte Kleinkind auf dem.Schoß  und ist ohne zu gucken links abgebogen\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.62145359, 52.11324431 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/06/2023 07:20:57",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Lieferwagen",
+      "scary" : "Nein",
+      "descr" : "\"parkt auf Schutzstreifen\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.61993894, 52.10996585 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "06/07/2023 20:51:21",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"parkt auf Radweg\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.6216914, 52.10955441 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "04/07/2023 08:04:40",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"parkt auf Radweg\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.65669106, 52.14966621 ]
     }
   }, {
     "type" : "Feature",
@@ -1163,7 +1595,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "parkt im Abs Haltverbot",
+      "descr" : "\"parkt im Abs Haltverbot\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1181,7 +1613,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1199,7 +1631,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1217,7 +1649,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "parkt im abs Haltverbot",
+      "descr" : "\"parkt im abs Haltverbot\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1235,7 +1667,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1253,7 +1685,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Lieferwagen parkt auf Radweg",
+      "descr" : "\"Lieferwagen parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1271,7 +1703,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1289,7 +1721,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1307,7 +1739,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1325,7 +1757,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1343,7 +1775,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1361,7 +1793,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1379,7 +1811,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1397,7 +1829,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1415,7 +1847,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "parkt auf Radweg ",
+      "descr" : "\"parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1433,7 +1865,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1451,7 +1883,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1469,7 +1901,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1487,7 +1919,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1505,7 +1937,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1523,7 +1955,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW aus Seitenstraße",
+      "descr" : "\"PKW aus Seitenstraße\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1541,12 +1973,48 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 11.68042688, 52.19682207 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "30/08/2023 06:53:29",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Beinahe-Abbiegeunfall",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.65543, 52.14986115 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "08/09/2023 06:53:23",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"parkt auf Radweg\"",
+      "region" : "Magdeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.65768735, 52.14943585 ]
     }
   }, {
     "type" : "Feature",
@@ -1559,7 +2027,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW parkt auf Gehweg",
+      "descr" : "\"PKW parkt auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1577,7 +2045,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1595,7 +2063,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1613,7 +2081,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1631,7 +2099,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1649,7 +2117,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrtsberechtigte Radwegfurt blockiert",
+      "descr" : "\"Vorfahrtsberechtigte Radwegfurt blockiert\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1667,7 +2135,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1685,7 +2153,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1703,7 +2171,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "Überholen ddirekt vor der Kurve mit zu geringem Abstand. Sattelzug",
+      "descr" : "\"Überholen ddirekt vor der Kurve mit zu geringem Abstand. Sattelzug\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1721,7 +2189,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1739,7 +2207,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1757,7 +2225,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1775,7 +2243,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1793,7 +2261,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1811,7 +2279,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1829,7 +2297,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1847,7 +2315,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1865,7 +2333,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1883,7 +2351,7 @@
       "incident" : "Sonstiges",
       "participant" : "Fahrrad, Fußgänger, E-Scooter",
       "scary" : "Nein",
-      "descr" : "hier befindet sich eine sehr unnötige Ampel. diese ist Teilweise sehr lange rot und viele ignorieren diese deshalb.",
+      "descr" : "\"hier befindet sich eine sehr unnötige Ampel. diese ist Teilweise sehr lange rot und viele ignorieren diese deshalb.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1901,7 +2369,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "vor dem überquerden der Schilfbreite müsste mich jemand noch unbedingt faustbreit überholen.",
+      "descr" : "\"vor dem überquerden der Schilfbreite müsste mich jemand noch unbedingt faustbreit überholen.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1919,7 +2387,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Hier haben diverse Autos trotz Kuppe und nicht einsehbarer Kurve überholt. einmal hätte es fast geknallt.",
+      "descr" : "\"Hier haben diverse Autos trotz Kuppe und nicht einsehbarer Kurve überholt. einmal hätte es fast geknallt.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1937,7 +2405,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "defekter PKW parkt auf Radweg",
+      "descr" : "\"defekter PKW parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1955,7 +2423,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "<1m",
+      "descr" : "\"<1m\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1973,7 +2441,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Postauto blockiert Radweg",
+      "descr" : "\"Postauto blockiert Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -1991,7 +2459,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Kfz kommt aus Ausfahrt und blockiert Radweg",
+      "descr" : "\"Kfz kommt aus Ausfahrt und blockiert Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2009,7 +2477,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2027,7 +2495,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Sicht durch Falschparker blockiert und daher Vorfahrt erst im letzten Moment gewährt.",
+      "descr" : "\"Sicht durch Falschparker blockiert und daher Vorfahrt erst im letzten Moment gewährt.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2045,7 +2513,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2063,7 +2531,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2081,7 +2549,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2099,7 +2567,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Radweg zugeparkt",
+      "descr" : "\"Radweg zugeparkt\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2117,7 +2585,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2135,7 +2603,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2153,7 +2621,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "Überholen zu eng ohne Sicht vor der Kurve",
+      "descr" : "\"Überholen zu eng ohne Sicht vor der Kurve\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2171,7 +2639,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2189,7 +2657,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2207,7 +2675,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2225,7 +2693,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "parkt auf Gehweg",
+      "descr" : "\"parkt auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2243,7 +2711,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "parkt auf Radweg",
+      "descr" : "\"parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2261,7 +2729,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Fahrschule parkt auf Gehweg",
+      "descr" : "\"Fahrschule parkt auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2279,7 +2747,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2297,7 +2765,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2315,7 +2783,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2333,7 +2801,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Radwegfurt zugestellt",
+      "descr" : "\"Radwegfurt zugestellt\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2351,7 +2819,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2369,7 +2837,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2387,7 +2855,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2405,7 +2873,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2423,7 +2891,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2441,7 +2909,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2459,7 +2927,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2477,7 +2945,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2495,7 +2963,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2513,7 +2981,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2531,7 +2999,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2549,7 +3017,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW parkt im Abs Haltverbot",
+      "descr" : "\"PKW parkt im Abs Haltverbot\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2567,7 +3035,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2585,7 +3053,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2603,7 +3071,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2621,7 +3089,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2639,7 +3107,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Auto kam aus der Ausfahrt und wollte mir die Vorfahrt nehmen ",
+      "descr" : "\"Auto kam aus der Ausfahrt und wollte mir die Vorfahrt nehmen\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2657,7 +3125,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Glatteis auf dem Radweg",
+      "descr" : "\"Glatteis auf dem Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2675,7 +3143,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2693,7 +3161,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2711,7 +3179,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2729,7 +3197,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2747,7 +3215,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2765,7 +3233,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "parkt im Kreuzungsbereich",
+      "descr" : "\"parkt im Kreuzungsbereich\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2783,7 +3251,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2801,7 +3269,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2819,7 +3287,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2837,7 +3305,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2855,7 +3323,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2873,7 +3341,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2891,7 +3359,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2909,7 +3377,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2927,7 +3395,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2945,7 +3413,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Fehlende Bordsteinabsenkung",
+      "descr" : "\"Fehlende Bordsteinabsenkung\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2963,7 +3431,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2981,7 +3449,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Baustelle ohne Umleitung und Bordsteinabsenkung",
+      "descr" : "\"Baustelle ohne Umleitung und Bordsteinabsenkung\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -2999,7 +3467,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3017,7 +3485,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3035,7 +3503,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "zappendustere Strecke",
+      "descr" : "\"zappendustere Strecke\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3053,7 +3521,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "Lieferwagen parkt im Kreuzungsbereich regelmäßig auf dem Randstein und versperrt in Kurve/Kreuzung die Sicht auf entgegenkommenden Verkehr.",
+      "descr" : "\"Lieferwagen parkt im Kreuzungsbereich regelmäßig auf dem Randstein und versperrt in Kurve/Kreuzung die Sicht auf entgegenkommenden Verkehr.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3071,7 +3539,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw aus Lindhorster Str. hat mir die Vorfahrt genommen",
+      "descr" : "\"Pkw aus Lindhorster Str. hat mir die Vorfahrt genommen\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3089,7 +3557,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3107,7 +3575,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3125,7 +3593,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen, PKW",
       "scary" : "Nein",
-      "descr" : "Autos halb auf dem Radschutzstreifen unterwegs.",
+      "descr" : "\"Autos halb auf dem Radschutzstreifen unterwegs.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3143,7 +3611,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3161,7 +3629,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Radweg wegen Schnee unbenutzbar",
+      "descr" : "\"Radweg wegen Schnee unbenutzbar\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3179,7 +3647,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW, Sonstiges",
       "scary" : "Ja",
-      "descr" : "Anpöbeleien und Drohungen vom Beifahrer, weil Fahrbahn statt Radweg bei Winterwetter",
+      "descr" : "\"Anpöbeleien und Drohungen vom Beifahrer, weil Fahrbahn statt Radweg bei Winterwetter\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3197,7 +3665,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3215,7 +3683,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Überholen außen in der Kurve ohne Sicht und mit uu heringem Abstand",
+      "descr" : "\"Überholen außen in der Kurve ohne Sicht und mit uu heringem Abstand\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3233,7 +3701,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3251,7 +3719,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3269,7 +3737,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3287,7 +3755,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3305,7 +3773,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Paktetdienst auf Radweg",
+      "descr" : "\"Paktetdienst auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3323,7 +3791,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "2.-Reihe-Parker",
+      "descr" : "\"2.-Reihe-Parker\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3341,7 +3809,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Fußgänger auf Radweg",
+      "descr" : "\"Fußgänger auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3359,7 +3827,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "Anhupen, Punishment Pass, Anhalten und der Verweis auf einen Radweg obwohl dort nur  ein schmaler Gehweg Radfahrer frei ist.",
+      "descr" : "\"Anhupen, Punishment Pass, Anhalten und der Verweis auf einen Radweg obwohl dort nur  ein schmaler Gehweg Radfahrer frei ist.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3377,7 +3845,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Sturz dank Glatteis.",
+      "descr" : "\"Sturz dank Glatteis.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3395,7 +3863,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Amazon parkt auf Radweg",
+      "descr" : "\"Amazon parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3413,7 +3881,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3431,7 +3899,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3449,7 +3917,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW parkt auf Gehweg",
+      "descr" : "\"PKW parkt auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3467,7 +3935,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Fahrer aus der Querstraße sieht mich an und bleibt vor mir auf der roten Radwegfurt stehen",
+      "descr" : "\"Fahrer aus der Querstraße sieht mich an und bleibt vor mir auf der roten Radwegfurt stehen\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3485,7 +3953,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3503,7 +3971,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3521,7 +3989,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3539,7 +4007,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3557,7 +4025,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3575,7 +4043,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Fußgänger auf Radweg",
+      "descr" : "\"Fußgänger auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3593,7 +4061,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Auto auf Radweg geparkt",
+      "descr" : "\"Auto auf Radweg geparkt\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3611,7 +4079,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3629,7 +4097,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3647,7 +4115,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3665,7 +4133,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW fährt über rote Ampel und nimmt uns die Vorfahrt ",
+      "descr" : "\"PKW fährt über rote Ampel und nimmt uns die Vorfahrt\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3683,7 +4151,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Rechtsabbieger nimmt Vorfahrt",
+      "descr" : "\"Rechtsabbieger nimmt Vorfahrt\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3701,7 +4169,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger, Sonstiges",
       "scary" : "Nein",
-      "descr" : "Fußgänger mit Hund auf Radweg",
+      "descr" : "\"Fußgänger mit Hund auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3719,7 +4187,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3737,7 +4205,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Überholen außen in der Kurve im Dunkeln ohne Sicht",
+      "descr" : "\"Überholen außen in der Kurve im Dunkeln ohne Sicht\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3755,7 +4223,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Hermes parkt auf Radweg ",
+      "descr" : "\"Hermes parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3773,7 +4241,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Überholen in der Kurve ohne Sicht",
+      "descr" : "\"Überholen in der Kurve ohne Sicht\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3791,7 +4259,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3809,7 +4277,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3827,7 +4295,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3845,7 +4313,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "städtisches Servicefahrzeug so breit wie der Radweg",
+      "descr" : "\"städtisches Servicefahrzeug so breit wie der Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3863,7 +4331,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger, PKW",
       "scary" : "Nein",
-      "descr" : "Fahrzeug mit hoher Geschwindigkeit trotz Fuß- und Radverkehr",
+      "descr" : "\"Fahrzeug mit hoher Geschwindigkeit trotz Fuß- und Radverkehr\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3881,7 +4349,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Ecke zugeparkt",
+      "descr" : "\"Ecke zugeparkt\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3899,7 +4367,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3917,7 +4385,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3935,7 +4403,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "Gefährliches Überholen kurz vor dem Abzweig um dann wegen Gegenverkehrs zu halten und anschließend Abzubiegen.",
+      "descr" : "\"Gefährliches Überholen kurz vor dem Abzweig um dann wegen Gegenverkehrs zu halten und anschließend Abzubiegen.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3953,7 +4421,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3971,7 +4439,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -3989,7 +4457,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4007,7 +4475,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Lkw blockiert Radweg",
+      "descr" : "\"Lkw blockiert Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4025,7 +4493,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4043,7 +4511,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Drängelgitter behindern das zügige Überqueren der Straße",
+      "descr" : "\"Drängelgitter behindern das zügige Überqueren der Straße\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4061,7 +4529,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Überholen ohne Sicht trotz Gegenverkehr",
+      "descr" : "\"Überholen ohne Sicht trotz Gegenverkehr\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4079,7 +4547,7 @@
       "incident" : "Sonstiges",
       "participant" : "Sonstiges",
       "scary" : "Ja",
-      "descr" : "abschüssiger Radweg <1m zugewachsen und Platten verschoben",
+      "descr" : "\"abschüssiger Radweg <1m zugewachsen und Platten verschoben\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4097,7 +4565,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4115,7 +4583,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Radweg viel zu schmal",
+      "descr" : "\"Radweg viel zu schmal\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4133,7 +4601,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Falschparker auf Radweg",
+      "descr" : "\"Falschparker auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4151,7 +4619,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Überholen bei Gegenverkehr",
+      "descr" : "\"Überholen bei Gegenverkehr\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4169,7 +4637,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4187,7 +4655,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "parkt im Abs Haltverbot",
+      "descr" : "\"parkt im Abs Haltverbot\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4205,7 +4673,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "zu dichtes überholen ohne Sicht vor einer Kurve und danach beginnender Senkung.",
+      "descr" : "\"zu dichtes überholen ohne Sicht vor einer Kurve und danach beginnender Senkung.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4223,7 +4691,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW missachtet Vorfahrt im Kreisverkehr",
+      "descr" : "\"PKW missachtet Vorfahrt im Kreisverkehr\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4241,7 +4709,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "LKW parkt auf Fehweg",
+      "descr" : "\"LKW parkt auf Fehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4259,7 +4727,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW parkt auf Gehweg",
+      "descr" : "\"PKW parkt auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4277,7 +4745,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Amazon parkt.",
+      "descr" : "\"Amazon parkt.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4295,7 +4763,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4313,7 +4781,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW parkt auf Gehweg",
+      "descr" : "\"PKW parkt auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4331,7 +4799,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW parkt auf Gehweg",
+      "descr" : "\"PKW parkt auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4349,7 +4817,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4367,7 +4835,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "viel zu enger Überholvorgang kurz vor einer Insel. beim einscheren fast den Lenker berührt.",
+      "descr" : "\"viel zu enger Überholvorgang kurz vor einer Insel. beim einscheren fast den Lenker berührt.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4385,7 +4853,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4403,7 +4871,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4421,7 +4889,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4439,7 +4907,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4457,7 +4925,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4475,7 +4943,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Landschaftsgärtner parkt auf dem Radweg",
+      "descr" : "\"Landschaftsgärtner parkt auf dem Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4493,7 +4961,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4511,7 +4979,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4529,7 +4997,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "gefährliches Überholen bei Gegenverkehr",
+      "descr" : "\"gefährliches Überholen bei Gegenverkehr\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4547,7 +5015,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Falschparker",
+      "descr" : "\"Falschparker\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4565,7 +5033,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4583,7 +5051,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4601,7 +5069,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Lkw parkt auf Radweg",
+      "descr" : "\"Lkw parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4619,7 +5087,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Handwerker missachtet Vorfahrt von K1 und mir bei Kreiselausfshrt.Volbremsung von uns verhindert Kolision",
+      "descr" : "\"Handwerker missachtet Vorfahrt von K1 und mir bei Kreiselausfshrt.Volbremsung von uns verhindert Kolision\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4637,7 +5105,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4655,7 +5123,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4673,7 +5141,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad, Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4691,7 +5159,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4709,7 +5177,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4727,7 +5195,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Falschparker",
+      "descr" : "\"Falschparker\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4745,7 +5213,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4763,7 +5231,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4781,7 +5249,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4799,7 +5267,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4817,7 +5285,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4835,7 +5303,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "tiefes Loch in der Straße",
+      "descr" : "\"tiefes Loch in der Straße\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4853,7 +5321,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4871,7 +5339,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Überholversuch bei Gegenverkehr und uf der Linksabbiegerspur von hinten angehupt.",
+      "descr" : "\"Überholversuch bei Gegenverkehr und uf der Linksabbiegerspur von hinten angehupt.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4889,7 +5357,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4907,7 +5375,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4925,7 +5393,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4943,7 +5411,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4961,7 +5429,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4979,7 +5447,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -4997,7 +5465,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5015,7 +5483,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5033,7 +5501,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "deutlich zu schnell",
+      "descr" : "\"deutlich zu schnell\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5051,7 +5519,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5069,7 +5537,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5087,7 +5555,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5105,7 +5573,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5123,7 +5591,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5141,7 +5609,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5159,7 +5627,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5177,7 +5645,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5195,7 +5663,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Fahrrad auf der falschen Fahrradweg Seite in entgegenkommende Richtung unterwegs\\n\\n",
+      "descr" : "\"Fahrrad auf der falschen Fahrradweg Seite in entgegenkommende Richtung unterwegs\\n\\n\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5213,7 +5681,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5231,7 +5699,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5249,7 +5717,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5267,7 +5735,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5285,7 +5753,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5303,7 +5771,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5321,7 +5789,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Auto aus Seitenstraße ",
+      "descr" : "\"Auto aus Seitenstraße\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5339,7 +5807,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5357,7 +5825,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5375,7 +5843,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5393,7 +5861,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5411,7 +5879,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5429,7 +5897,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Inklusive drohende Gestik",
+      "descr" : "\"Inklusive drohende Gestik\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5447,7 +5915,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "Lkw überholt im Kreuzungbereich",
+      "descr" : "\"Lkw überholt im Kreuzungbereich\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5465,7 +5933,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5483,7 +5951,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5501,7 +5969,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5519,7 +5987,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5537,7 +6005,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5555,7 +6023,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5573,7 +6041,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5591,7 +6059,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5609,7 +6077,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5627,7 +6095,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw auf Gehweg",
+      "descr" : "\"Pkw auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5645,7 +6113,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5663,7 +6131,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5681,7 +6149,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5699,7 +6167,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5717,7 +6185,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5735,7 +6203,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5753,7 +6221,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5771,7 +6239,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5789,7 +6257,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5807,7 +6275,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Linksabbieger ignoriert Radfahrer",
+      "descr" : "\"Linksabbieger ignoriert Radfahrer\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5825,7 +6293,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Parken auf Radweg/Radschutzstreifen.\\n\\n\\n\\n",
+      "descr" : "\"Parken auf Radweg/Radschutzstreifen.\\n\\n\\n\\n\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5843,7 +6311,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "Krankentransporter fuhr rückwärts auf dem Radweg und hat drauf gehalten und darauf gehofft, dass wir zur Seite springen",
+      "descr" : "\"Krankentransporter fuhr rückwärts auf dem Radweg und hat drauf gehalten und darauf gehofft, dass wir zur Seite springen\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5861,7 +6329,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5879,7 +6347,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5897,7 +6365,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5915,7 +6383,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5933,7 +6401,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5951,7 +6419,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5969,7 +6437,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -5987,7 +6455,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6005,7 +6473,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6023,7 +6491,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Amazon auf Radweg\\n",
+      "descr" : "\"Amazon auf Radweg\\n\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6041,7 +6509,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6059,7 +6527,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6077,7 +6545,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6095,7 +6563,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6113,7 +6581,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6131,7 +6599,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6149,7 +6617,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Fahrradfahrer auf falscher Seite beim rechtsabbiegen\\n",
+      "descr" : "\"Fahrradfahrer auf falscher Seite beim rechtsabbiegen\\n\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6167,7 +6635,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6185,7 +6653,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6203,7 +6671,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6221,7 +6689,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6239,7 +6707,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6257,7 +6725,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6275,7 +6743,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Auto auf Radweg",
+      "descr" : "\"Auto auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6293,7 +6761,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "enges Überholen trotz Gegenverkehr",
+      "descr" : "\"enges Überholen trotz Gegenverkehr\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6311,7 +6779,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "ASB Transporter",
+      "descr" : "\"ASB Transporter\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6329,7 +6797,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Ampelmast auf Radweg",
+      "descr" : "\"Ampelmast auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6347,7 +6815,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "SWM Entstörung auf dem Radweg",
+      "descr" : "\"SWM Entstörung auf dem Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6365,7 +6833,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6383,7 +6851,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6401,7 +6869,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6419,7 +6887,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6437,7 +6905,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "pkw im abs Haltverbot",
+      "descr" : "\"pkw im abs Haltverbot\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6455,7 +6923,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6473,7 +6941,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6491,7 +6959,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6509,7 +6977,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6527,7 +6995,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6545,7 +7013,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6563,7 +7031,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Überholen  und einscheren kurz vor roter Ampel",
+      "descr" : "\"Überholen  und einscheren kurz vor roter Ampel\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6581,7 +7049,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6599,7 +7067,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6617,7 +7085,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw aus Seitenstraße",
+      "descr" : "\"Pkw aus Seitenstraße\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6635,7 +7103,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6653,7 +7121,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Fußgänger, PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6671,7 +7139,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw auf Gehweg",
+      "descr" : "\"Pkw auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6689,7 +7157,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6707,7 +7175,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6725,7 +7193,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6743,7 +7211,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6761,7 +7229,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6779,7 +7247,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6797,7 +7265,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6815,7 +7283,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6833,7 +7301,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6851,7 +7319,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad, Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6869,7 +7337,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6887,7 +7355,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6905,7 +7373,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6923,7 +7391,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6941,7 +7409,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6959,7 +7427,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6977,7 +7445,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "Weg zu schmal",
+      "descr" : "\"Weg zu schmal\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -6995,7 +7463,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Radweg zugeparkt",
+      "descr" : "\"Radweg zugeparkt\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7013,7 +7481,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7031,7 +7499,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7049,7 +7517,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Fahrrad, PKW",
       "scary" : "Nein",
-      "descr" : "Fahrzeug kommt mit hoher\\n Geschwindigkeit aus der eigentlich als fußgängerzone ausgewiesenen seitenstraße.",
+      "descr" : "\"Fahrzeug kommt mit hoher\\n Geschwindigkeit aus der eigentlich als fußgängerzone ausgewiesenen seitenstraße.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7067,7 +7535,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7085,7 +7553,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7103,7 +7571,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Pkw auf Gehweg ",
+      "descr" : "\"Pkw auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7121,7 +7589,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "<1m. Fahrer meinte ich müsse auf dem Gehweg Rad frei fahren.",
+      "descr" : "\"<1m. Fahrer meinte ich müsse auf dem Gehweg Rad frei fahren.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7139,7 +7607,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Transporter parkt auf Rad-und Gehweg",
+      "descr" : "\"Transporter parkt auf Rad-und Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7157,7 +7625,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7175,7 +7643,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7193,7 +7661,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7211,7 +7679,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "wenige Zentimeter Abstand, voll draufgehalten",
+      "descr" : "\"wenige Zentimeter Abstand, voll draufgehalten\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7229,7 +7697,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7247,7 +7715,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7265,7 +7733,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7283,7 +7751,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7301,7 +7769,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7319,7 +7787,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7337,7 +7805,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7355,7 +7823,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7373,7 +7841,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7391,7 +7859,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7409,7 +7877,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7427,7 +7895,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7445,7 +7913,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7463,7 +7931,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7481,7 +7949,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7499,7 +7967,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7517,7 +7985,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7535,7 +8003,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7553,7 +8021,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Überholen ohne Sicht in Kurve",
+      "descr" : "\"Überholen ohne Sicht in Kurve\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7571,7 +8039,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Handwerkerfahrzeug trotz freier Parkplätze auf Radweg geparkt",
+      "descr" : "\"Handwerkerfahrzeug trotz freier Parkplätze auf Radweg geparkt\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7589,7 +8057,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7607,7 +8075,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7625,7 +8093,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7643,7 +8111,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7661,7 +8129,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7679,7 +8147,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7697,7 +8165,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7715,7 +8183,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7733,7 +8201,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7751,7 +8219,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7769,7 +8237,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7787,7 +8255,7 @@
       "incident" : "Beinahe-Dooring",
       "participant" : "Fußgänger, PKW",
       "scary" : "Ja",
-      "descr" : "Südring vor dem 1. Wohnblock",
+      "descr" : "\"Südring vor dem 1. Wohnblock\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7805,7 +8273,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7823,7 +8291,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7841,7 +8309,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7859,7 +8327,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7877,7 +8345,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "alles mit Privatfahrzeugen der Bauarbeiter zugeparkt",
+      "descr" : "\"alles mit Privatfahrzeugen der Bauarbeiter zugeparkt\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7895,7 +8363,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Entgegenkommen trotz Hindernis ",
+      "descr" : "\"Entgegenkommen trotz Hindernis\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7913,7 +8381,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7931,7 +8399,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7949,7 +8417,7 @@
       "incident" : "Beinahe-Dooring",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Beifahrer-Radweg-Dooring",
+      "descr" : "\"Beifahrer-Radweg-Dooring\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7967,7 +8435,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -7985,7 +8453,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8003,7 +8471,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8021,7 +8489,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8039,7 +8507,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Spurwechsel da Radwegende. Keine Querungshilfe",
+      "descr" : "\"Spurwechsel da Radwegende. Keine Querungshilfe\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8057,7 +8525,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Überholen im unübersichtlichen Kreuzungsbereich",
+      "descr" : "\"Überholen im unübersichtlichen Kreuzungsbereich\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8075,7 +8543,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Abbiegevorgang",
+      "descr" : "\"Abbiegevorgang\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8093,7 +8561,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW, Sonstiges",
       "scary" : "Nein",
-      "descr" : "I. v. m. schlechter Fahrbahnoberfläche",
+      "descr" : "\"I. v. m. schlechter Fahrbahnoberfläche\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8111,7 +8579,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8129,7 +8597,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8147,7 +8615,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8165,7 +8633,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8183,7 +8651,7 @@
       "incident" : "Sonstiges",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "aggressiver Hinweis aus einem Handwerkerfahrzeug, den nicht vorhandenen Radweg zu nutzen.",
+      "descr" : "\"aggressiver Hinweis aus einem Handwerkerfahrzeug, den nicht vorhandenen Radweg zu nutzen.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8201,7 +8669,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8219,7 +8687,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8237,7 +8705,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "LkW wendete über den Fußweg, weil Müllauto in der Straße stand",
+      "descr" : "\"LkW wendete über den Fußweg, weil Müllauto in der Straße stand\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8255,7 +8723,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8273,7 +8741,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8291,7 +8759,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8309,7 +8777,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8327,7 +8795,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Krankenhausausfahrt",
+      "descr" : "\"Krankenhausausfahrt\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8345,7 +8813,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8363,7 +8831,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8381,7 +8849,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8399,7 +8867,7 @@
       "incident" : "Sonstiges",
       "participant" : "Sonstiges",
       "scary" : "Ja",
-      "descr" : "Fehlende Bordsteinabsenkung zwingt zum Absteigen in der Kurve auf der Fahbahn.",
+      "descr" : "\"Fehlende Bordsteinabsenkung zwingt zum Absteigen in der Kurve auf der Fahbahn.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8417,7 +8885,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "fehlende Bordsteinabsenkung in Radwegumleitung",
+      "descr" : "\"fehlende Bordsteinabsenkung in Radwegumleitung\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8435,7 +8903,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8453,7 +8921,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8471,7 +8939,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8489,7 +8957,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8507,7 +8975,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8525,7 +8993,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8543,7 +9011,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8561,7 +9029,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8579,7 +9047,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8597,7 +9065,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8615,7 +9083,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "kurz vor der roten Ampel",
+      "descr" : "\"kurz vor der roten Ampel\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8633,7 +9101,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8651,7 +9119,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8669,7 +9137,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8687,7 +9155,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Falschparker",
+      "descr" : "\"Falschparker\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8705,7 +9173,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8723,7 +9191,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Mehrere PKW überholten extrem dicht. Einer verwies auf einen angeblichen Radweg. Dieser ist natürlich einfach ein Gehweg. ",
+      "descr" : "\"Mehrere PKW überholten extrem dicht. Einer verwies auf einen angeblichen Radweg. Dieser ist natürlich einfach ein Gehweg.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8741,7 +9209,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8759,7 +9227,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8777,7 +9245,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "zugeparkter Radweg",
+      "descr" : "\"zugeparkter Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8795,7 +9263,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Mit Hupen und schneiden!\\n",
+      "descr" : "\"Mit Hupen und schneiden!\\n\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8813,7 +9281,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8831,7 +9299,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "am Mast verdrehter Papierkorp",
+      "descr" : "\"am Mast verdrehter Papierkorp\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8849,7 +9317,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8867,7 +9335,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Lieferwagen parkt auf Radweg",
+      "descr" : "\"Lieferwagen parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8885,7 +9353,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8903,7 +9371,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8921,7 +9389,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8939,7 +9407,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8957,7 +9425,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8975,7 +9443,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -8993,7 +9461,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9011,7 +9479,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9029,7 +9497,7 @@
       "incident" : "Beinahe-Dooring",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Seit 500 m war ich dahinter und dann wird stumpf angehalten und die Tür aufgerissen ohne jede Rücksicht.",
+      "descr" : "\"Seit 500 m war ich dahinter und dann wird stumpf angehalten und die Tür aufgerissen ohne jede Rücksicht.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9047,7 +9515,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9065,7 +9533,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9083,7 +9551,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9101,7 +9569,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9119,7 +9587,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "trotz 2 Fahrspuren <50cm",
+      "descr" : "\"trotz 2 Fahrspuren <50cm\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9137,7 +9605,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "LKW auf Gehweg",
+      "descr" : "\"LKW auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9155,7 +9623,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9173,7 +9641,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9191,7 +9659,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Überholen in der Baustelle",
+      "descr" : "\"Überholen in der Baustelle\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9209,7 +9677,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9227,7 +9695,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9245,7 +9713,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9263,7 +9731,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9281,7 +9749,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW im Abs Haltverbot",
+      "descr" : "\"PKW im Abs Haltverbot\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9299,7 +9767,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9317,7 +9785,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "E-Scooter",
       "scary" : "Nein",
-      "descr" : "eRoller parkt auf Radweg",
+      "descr" : "\"eRoller parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9335,7 +9803,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW hält auf Radweg",
+      "descr" : "\"PKW hält auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9353,7 +9821,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9371,7 +9839,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "LKW parkt auf Radweg",
+      "descr" : "\"LKW parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9389,7 +9857,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "LKW parkt auf Radweg",
+      "descr" : "\"LKW parkt auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9407,7 +9875,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9425,7 +9893,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "parkt auf Rad-/Gehweg mit Warnblinker",
+      "descr" : "\"parkt auf Rad-/Gehweg mit Warnblinker\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9443,7 +9911,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9461,7 +9929,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Radweg zu schmal und Kurve nicht einsehbar.",
+      "descr" : "\"Radweg zu schmal und Kurve nicht einsehbar.\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9479,7 +9947,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW auf Radweg",
+      "descr" : "\"PKW auf Radweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9497,7 +9965,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "parkt auf Überweg",
+      "descr" : "\"parkt auf Überweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9515,7 +9983,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9533,7 +10001,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9551,7 +10019,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW fuhr noch über rot",
+      "descr" : "\"PKW fuhr noch über rot\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9569,7 +10037,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW auf Gehweg",
+      "descr" : "\"PKW auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {
@@ -9587,7 +10055,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW auf Gehweg",
+      "descr" : "\"PKW auf Gehweg\"",
       "region" : "Magdeburg"
     },
     "geometry" : {

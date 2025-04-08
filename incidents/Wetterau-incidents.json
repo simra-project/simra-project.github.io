@@ -3,6 +3,42 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "27/08/2024 16:46:41",
+      "bikeType" : "Sonstiges",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"1m Überholabstand und kurz vor einer Kurve. Der entgegenkommende Verkehr wurde auch zu spät erkannt.\"",
+      "region" : "Wetterau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.78516374155879, 50.31117463018745 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "20/08/2024 17:19:37",
+      "bikeType" : "Sonstiges",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Wetterau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.781787427142262, 50.32124703750014 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "12/11/2021 13:42:34",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -11,7 +47,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -29,7 +65,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -47,7 +83,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Zeichen 206. Nur durch Vollbremsung bis zum Stillstand kommt ein Unfall vermieden werden.",
+      "descr" : "\"Missachtung der Vorfahrt – Zeichen 206. Nur durch Vollbremsung bis zum Stillstand kommt ein Unfall vermieden werden.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -65,7 +101,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Zeichen 205.",
+      "descr" : "\"Missachtung der Vorfahrt – Zeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -83,7 +119,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -101,7 +137,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -119,7 +155,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -137,7 +173,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -155,7 +191,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -173,7 +209,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -191,7 +227,7 @@
       "incident" : "Sonstiges",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt durch Fahrer Linienbus - Zeichen 206. Vollbremsung sonst Unfall. ",
+      "descr" : "\"Missachtung der Vorfahrt durch Fahrer Linienbus - Zeichen 206. Vollbremsung sonst Unfall.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -209,7 +245,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -227,7 +263,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -245,7 +281,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "– Zeichen 206 missachtet. ",
+      "descr" : "\"– Zeichen 206 missachtet.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -263,7 +299,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -281,7 +317,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -299,7 +335,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -317,7 +353,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -335,7 +371,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Lieferwagen, PKW",
       "scary" : "Nein",
-      "descr" : "Wäre entgegenkommende Fahrzeuge, die die Hindernisse auf ihrer Seite hatten.",
+      "descr" : "\"Wäre entgegenkommende Fahrzeuge, die die Hindernisse auf ihrer Seite hatten.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -353,7 +389,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -371,7 +407,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -389,7 +425,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt-Zeichen 205. ",
+      "descr" : "\"Missachtung der Vorfahrt-Zeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -407,7 +443,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -425,7 +461,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -443,7 +479,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Anschließend das Gelblicht der LZA missachtet. ",
+      "descr" : "\"Anschließend das Gelblicht der LZA missachtet.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -461,7 +497,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -479,7 +515,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -497,7 +533,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -515,7 +551,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -533,7 +569,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Musste Vollbremsung mach dir und abspringen. ",
+      "descr" : "\"Musste Vollbremsung mach dir und abspringen.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -551,7 +587,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -569,7 +605,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Zeichen 206. Ich musste eine Vollbremsung machen, um einen Unfall zu vermeiden.",
+      "descr" : "\"Missachtung der Vorfahrt – Zeichen 206. Ich musste eine Vollbremsung machen, um einen Unfall zu vermeiden.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -587,7 +623,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -605,7 +641,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -623,7 +659,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrtsmissachtung im Kreisverkehr.",
+      "descr" : "\"Vorfahrtsmissachtung im Kreisverkehr.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -641,7 +677,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -659,7 +695,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "2 Pkw trotz angehoben Arm zum Anzeigen die Abbiegens und Blick nach hinten. Bundesstraße und vielleicht T 70 der Pkw",
+      "descr" : "\"2 Pkw trotz angehoben Arm zum Anzeigen die Abbiegens und Blick nach hinten. Bundesstraße und vielleicht T 70 der Pkw\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -677,7 +713,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -695,7 +731,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -713,7 +749,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -731,7 +767,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "und Rechtskunde Autofahrerin ist mit überhöhter Geschwindigkeit und Kurve schneidend in die verkehrsberuhigte Zone gefahren.",
+      "descr" : "\"und Rechtskunde Autofahrerin ist mit überhöhter Geschwindigkeit und Kurve schneidend in die verkehrsberuhigte Zone gefahren.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -749,7 +785,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -767,7 +803,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Musste ausweichen Nachricht und einigermaßen heftig bremsen.",
+      "descr" : "\"Musste ausweichen Nachricht und einigermaßen heftig bremsen.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -785,7 +821,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -803,7 +839,7 @@
       "incident" : "Sonstiges",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Missachtung meiner Vorfahrt im Kreisverkehr ",
+      "descr" : "\"Missachtung meiner Vorfahrt im Kreisverkehr\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -821,7 +857,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Zeichen 206.",
+      "descr" : "\"Missachtung der Vorfahrt – Zeichen 206.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -839,7 +875,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Zeichen 205. Musste abbremsen.",
+      "descr" : "\"Missachtung der Vorfahrt – Zeichen 205. Musste abbremsen.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -857,7 +893,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -875,7 +911,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Miss Achtung der Vorfahrt – Zeichen 206",
+      "descr" : "\"Miss Achtung der Vorfahrt – Zeichen 206\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -893,7 +929,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -911,7 +947,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Zeichen 206. Musste wieder stark abbremsen.",
+      "descr" : "\"Missachtung der Vorfahrt – Zeichen 206. Musste wieder stark abbremsen.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -929,7 +965,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -947,7 +983,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -965,7 +1001,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -983,7 +1019,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1001,7 +1037,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1019,7 +1055,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1037,7 +1073,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1055,7 +1091,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1073,7 +1109,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung Zeichen 205. ",
+      "descr" : "\"Missachtung Zeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1091,7 +1127,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung Verkehrszeichen 206.",
+      "descr" : "\"Missachtung Verkehrszeichen 206.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1109,7 +1145,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrtsmissachtung des PKW Fahrer – zwei PKW. Verkehrszeichen 205.",
+      "descr" : "\"Vorfahrtsmissachtung des PKW Fahrer – zwei PKW. Verkehrszeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1127,7 +1163,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Missachtung der Vorfahrt und beim anschließenden Wenden Gefährdung des Radfahrers. Nur durch Vollbremsung mit blockierendem Hinterrad konnte ich einen Unfall vermeiden",
+      "descr" : "\"Missachtung der Vorfahrt und beim anschließenden Wenden Gefährdung des Radfahrers. Nur durch Vollbremsung mit blockierendem Hinterrad konnte ich einen Unfall vermeiden\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1145,7 +1181,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1163,7 +1199,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1181,7 +1217,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1199,7 +1235,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung meiner Vorfahrt – Zeichen 205. Durch mehrere Fahrzeuge.",
+      "descr" : "\"Missachtung meiner Vorfahrt – Zeichen 205. Durch mehrere Fahrzeuge.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1217,7 +1253,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1235,7 +1271,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1253,7 +1289,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1271,7 +1307,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1289,7 +1325,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Unmittelbar vor dem Kreisverkehr und dann stark ausgebremst. ",
+      "descr" : "\"Unmittelbar vor dem Kreisverkehr und dann stark ausgebremst.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1307,7 +1343,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Drängeln im Kreisverkehr und ansetzen zum Überholen vor dem Abbiegen. ",
+      "descr" : "\"Drängeln im Kreisverkehr und ansetzen zum Überholen vor dem Abbiegen.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1325,7 +1361,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Miss Achtung Zeichen 205 mit Behinderung. Ich musste abbremsen – der Autofahrer setze dann zurück.",
+      "descr" : "\"Miss Achtung Zeichen 205 mit Behinderung. Ich musste abbremsen – der Autofahrer setze dann zurück.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1343,7 +1379,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1361,7 +1397,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1379,7 +1415,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1397,7 +1433,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1415,7 +1451,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt -Zeichen 205-.",
+      "descr" : "\"Missachtung der Vorfahrt -Zeichen 205-.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1433,7 +1469,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1451,7 +1487,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Fahrer eines BMW gibt in der Kurve zu viel Gas. Fahrzeug bricht aus und der Fahrer muss zweimal gegen lenken und die Kontrolle wieder zu erlangen.",
+      "descr" : "\"Fahrer eines BMW gibt in der Kurve zu viel Gas. Fahrzeug bricht aus und der Fahrer muss zweimal gegen lenken und die Kontrolle wieder zu erlangen.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1469,7 +1505,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1487,7 +1523,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung meiner Vorfahrt durch gleich drei PKWs. Ich musste absteigen und warten. Ein Fahrzeugführer wollte sogar über den Gehweg fahren, um nicht warten zu müssen. Verkehrszeichen 205.",
+      "descr" : "\"Missachtung meiner Vorfahrt durch gleich drei PKWs. Ich musste absteigen und warten. Ein Fahrzeugführer wollte sogar über den Gehweg fahren, um nicht warten zu müssen. Verkehrszeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1505,7 +1541,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1523,7 +1559,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1541,7 +1577,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1559,7 +1595,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1577,7 +1613,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1595,7 +1631,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Nichtbeachten der Vorfahrt – Zeichen 205.",
+      "descr" : "\"Nichtbeachten der Vorfahrt – Zeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1613,7 +1649,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1631,7 +1667,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1649,7 +1685,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung meiner Vorfahrt – Verkehrszeichen 205.",
+      "descr" : "\"Missachtung meiner Vorfahrt – Verkehrszeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1667,7 +1703,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1685,7 +1721,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1703,7 +1739,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1721,7 +1757,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1739,7 +1775,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1757,7 +1793,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1775,7 +1811,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Miss Achtung Verkehrszeichen 205..",
+      "descr" : "\"Miss Achtung Verkehrszeichen 205..\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1793,7 +1829,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung VZ 206. ",
+      "descr" : "\"Missachtung VZ 206.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1811,7 +1847,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1829,7 +1865,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Abstand ca. 0,5 Meter bei Tempo ca. 38 km/h Geschwindigkeit ",
+      "descr" : "\"Abstand ca. 0,5 Meter bei Tempo ca. 38 km/h Geschwindigkeit\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1847,7 +1883,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1865,7 +1901,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1883,7 +1919,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Miss Achtung meiner Vorfahrt ",
+      "descr" : "\"Miss Achtung meiner Vorfahrt\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1901,7 +1937,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1919,7 +1955,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1937,7 +1973,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1955,7 +1991,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Nicht Beachtung meiner Vorfahrt – Verkehrszeichen 205.",
+      "descr" : "\"Nicht Beachtung meiner Vorfahrt – Verkehrszeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1973,7 +2009,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -1991,7 +2027,7 @@
       "incident" : "Sonstiges",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Zeichen 205.",
+      "descr" : "\"Missachtung der Vorfahrt – Zeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2009,7 +2045,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt missachtet und Radweg blockiert. Zeichen 206. ",
+      "descr" : "\"Vorfahrt missachtet und Radweg blockiert. Zeichen 206.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2027,7 +2063,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2045,7 +2081,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2063,7 +2099,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2081,7 +2117,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2099,7 +2135,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt Verletzung rechts vor links.",
+      "descr" : "\"Vorfahrt Verletzung rechts vor links.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2117,7 +2153,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2135,7 +2171,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2153,7 +2189,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2171,7 +2207,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt - rechts vor links. ",
+      "descr" : "\"Missachtung der Vorfahrt - rechts vor links.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2189,7 +2225,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2207,7 +2243,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt nicht beachtet. Verkehrszeichen 205.",
+      "descr" : "\"Vorfahrt nicht beachtet. Verkehrszeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2225,7 +2261,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2243,7 +2279,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2261,7 +2297,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2279,7 +2315,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2297,7 +2333,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Unmittelbar vor dem Kreisverkehr Abstand circa 0,5 m",
+      "descr" : "\"Unmittelbar vor dem Kreisverkehr Abstand circa 0,5 m\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2315,7 +2351,7 @@
       "incident" : "Sonstiges",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Verkehrszeichen 205.",
+      "descr" : "\"Missachtung der Vorfahrt – Verkehrszeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2333,7 +2369,7 @@
       "incident" : "Sonstiges",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Teilweise zugewachsener Radweg",
+      "descr" : "\"Teilweise zugewachsener Radweg\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2351,7 +2387,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2369,7 +2405,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt Verletzung durch PKW Fahrerin.",
+      "descr" : "\"Vorfahrt Verletzung durch PKW Fahrerin.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2387,7 +2423,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2405,7 +2441,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2423,7 +2459,7 @@
       "incident" : "Sonstiges",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Sattelzug auf Geh-/Radweg. ",
+      "descr" : "\"Sattelzug auf Geh-/Radweg.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2441,7 +2477,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahtsverletzung",
+      "descr" : "\"Vorfahtsverletzung\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2459,7 +2495,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Missachtung meiner Vorfahrt.",
+      "descr" : "\"Missachtung meiner Vorfahrt.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2477,7 +2513,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2495,7 +2531,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt Verletzung rechts vor links.",
+      "descr" : "\"Vorfahrt Verletzung rechts vor links.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2513,7 +2549,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrts miss Achtung durch zwei Pkw Fahrer.",
+      "descr" : "\"Vorfahrts miss Achtung durch zwei Pkw Fahrer.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2531,7 +2567,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2549,7 +2585,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2567,7 +2603,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2585,7 +2621,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2603,7 +2639,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrtsverletzung beim Verlassen des Parkplatzes",
+      "descr" : "\"Vorfahrtsverletzung beim Verlassen des Parkplatzes\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2621,7 +2657,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2639,7 +2675,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2657,7 +2693,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Taxi",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2675,7 +2711,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2693,7 +2729,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2711,7 +2747,7 @@
       "incident" : "Sonstiges",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt Verletzung.",
+      "descr" : "\"Vorfahrt Verletzung.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2729,7 +2765,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2747,7 +2783,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Erdkabel/Glasfaser ragt sind n den Radweg",
+      "descr" : "\"Erdkabel/Glasfaser ragt sind n den Radweg\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2765,7 +2801,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2783,7 +2819,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrtsmissachtung durch PKW Fahrerin.",
+      "descr" : "\"Vorfahrtsmissachtung durch PKW Fahrerin.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2801,7 +2837,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrts miss Achtung.",
+      "descr" : "\"Vorfahrts miss Achtung.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2819,7 +2855,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2837,7 +2873,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt Verletzung durch Pkw Fahrer.",
+      "descr" : "\"Vorfahrt Verletzung durch Pkw Fahrer.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2855,7 +2891,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Lieferwagen, PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2873,7 +2909,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2891,7 +2927,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2909,7 +2945,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Ampelachaltung reagiert auf Radfahrer nicht. ",
+      "descr" : "\"Ampelachaltung reagiert auf Radfahrer nicht.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2927,7 +2963,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2945,7 +2981,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2963,7 +2999,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2981,7 +3017,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -2999,7 +3035,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3017,7 +3053,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3035,7 +3071,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt Verletzung.",
+      "descr" : "\"Vorfahrt Verletzung.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3053,7 +3089,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3071,7 +3107,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3089,7 +3125,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt missachtet. ",
+      "descr" : "\"Vorfahrt missachtet.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3107,7 +3143,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3125,7 +3161,7 @@
       "incident" : "Sonstiges",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt. Nur durch ab bremsen konnte ich ein Unfall vermeiden. Fahrzeugführer nutzte sein Smartphone und schaute überhaupt nicht nach rechts.",
+      "descr" : "\"Missachtung der Vorfahrt. Nur durch ab bremsen konnte ich ein Unfall vermeiden. Fahrzeugführer nutzte sein Smartphone und schaute überhaupt nicht nach rechts.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3143,7 +3179,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Parkendes Fahrzeug auf dem Gehweg, der für Radfahrer freigegeben ist.",
+      "descr" : "\"Parkendes Fahrzeug auf dem Gehweg, der für Radfahrer freigegeben ist.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3161,7 +3197,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3179,7 +3215,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3197,7 +3233,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3215,7 +3251,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3233,7 +3269,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW, Taxi",
       "scary" : "Nein",
-      "descr" : "Mit anschließendem schneiden in der Kurve beziehungsweise unmittelbar davor und dann wollte mir der gute Mann die Verkehrsregeln erklären. Blöd nur, dass er sie überhaupt nicht kannte.",
+      "descr" : "\"Mit anschließendem schneiden in der Kurve beziehungsweise unmittelbar davor und dann wollte mir der gute Mann die Verkehrsregeln erklären. Blöd nur, dass er sie überhaupt nicht kannte.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3251,7 +3287,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3269,7 +3305,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Die Ampelschaltung reagiert auf warten der Radfahrer nicht.",
+      "descr" : "\"Die Ampelschaltung reagiert auf warten der Radfahrer nicht.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3287,7 +3323,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt miss Achtung du hast Fahrzeug führen im PKW.",
+      "descr" : "\"Vorfahrt miss Achtung du hast Fahrzeug führen im PKW.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3305,7 +3341,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Miss Achtung rechts vor links durch Pkw Fahrer.",
+      "descr" : "\"Miss Achtung rechts vor links durch Pkw Fahrer.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3323,7 +3359,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3341,7 +3377,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3359,7 +3395,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3377,7 +3413,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3395,7 +3431,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3413,7 +3449,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt durch PKW Fahrer, der überhaupt nicht nach rechts schaute. Er selbst wollte rechts abbiegen und missachtete mich auf dem bevorrechtigten Gehweg - Radfahrer frei -.",
+      "descr" : "\"Missachtung der Vorfahrt durch PKW Fahrer, der überhaupt nicht nach rechts schaute. Er selbst wollte rechts abbiegen und missachtete mich auf dem bevorrechtigten Gehweg - Radfahrer frei -.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3431,7 +3467,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt Verletzung durch zwei PKW Fahrzeugführer.",
+      "descr" : "\"Vorfahrt Verletzung durch zwei PKW Fahrzeugführer.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3449,7 +3485,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3467,7 +3503,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3485,7 +3521,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3503,7 +3539,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3521,7 +3557,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3539,7 +3575,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3557,7 +3593,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3575,7 +3611,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung Rotlicht der LZA. ",
+      "descr" : "\"Missachtung Rotlicht der LZA.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3593,7 +3629,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt miss Achtung du hast Fahrzeug führen im PKW.",
+      "descr" : "\"Vorfahrt miss Achtung du hast Fahrzeug führen im PKW.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3611,7 +3647,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Miss Achtung rechts vor links durch Pkw Fahrer.",
+      "descr" : "\"Miss Achtung rechts vor links durch Pkw Fahrer.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3629,7 +3665,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3647,7 +3683,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3665,7 +3701,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : " Vorfahrtsmissachtung",
+      "descr" : "\"Vorfahrtsmissachtung\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3683,7 +3719,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3701,7 +3737,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3719,7 +3755,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3737,7 +3773,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3755,7 +3791,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt. Zeichen 205 StVO. ",
+      "descr" : "\"Missachtung der Vorfahrt. Zeichen 205 StVO.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3773,7 +3809,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3791,7 +3827,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Miss Achtung durch zwei Fahrzeugführer in einem Pkw-Zeichentor fünf. Beide fuhren auf den Radweg und probieren geben.",
+      "descr" : "\"Miss Achtung durch zwei Fahrzeugführer in einem Pkw-Zeichentor fünf. Beide fuhren auf den Radweg und probieren geben.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3809,7 +3845,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Verkehrszeichen 206. Nur durch abbremsen konnte ich einen Zusammenstoß mit dem Pkw vermeiden. Der Fahrzeugführer hielt nicht an der Halte Linie an und fuhr nahezu komplett auf den Radweg.",
+      "descr" : "\"Missachtung der Vorfahrt – Verkehrszeichen 206. Nur durch abbremsen konnte ich einen Zusammenstoß mit dem Pkw vermeiden. Der Fahrzeugführer hielt nicht an der Halte Linie an und fuhr nahezu komplett auf den Radweg.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3827,7 +3863,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Verkehrszeichen 205. Ich musste dem Fahrzeug ausweichen und kam dabei nahezu in den Gegenverkehr.",
+      "descr" : "\"Missachtung der Vorfahrt – Verkehrszeichen 205. Ich musste dem Fahrzeug ausweichen und kam dabei nahezu in den Gegenverkehr.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3845,7 +3881,7 @@
       "incident" : "Sonstiges",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Zeichen 206 StVO nicht beachtet. Nicht an der Haltelinie angehalten und in den Radweg hinein gefahren.",
+      "descr" : "\"Zeichen 206 StVO nicht beachtet. Nicht an der Haltelinie angehalten und in den Radweg hinein gefahren.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3863,7 +3899,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3881,7 +3917,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Miss Achtung der Sperrfläche.",
+      "descr" : "\"Miss Achtung der Sperrfläche.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3899,7 +3935,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3917,7 +3953,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Motorrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3935,7 +3971,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3953,7 +3989,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrt Verletzung – Verkehrszeichen 206.",
+      "descr" : "\"Vorfahrt Verletzung – Verkehrszeichen 206.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3971,7 +4007,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Vorfahrtsverletzung – Verkehrszeichen 205.",
+      "descr" : "\"Vorfahrtsverletzung – Verkehrszeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -3989,7 +4025,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Miss Achtung des Rotlichtes  der Lichtzeichenanlage.",
+      "descr" : "\"Miss Achtung des Rotlichtes  der Lichtzeichenanlage.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4007,7 +4043,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Verkehrszeichen 206 –. Ich musste von etwa Tempo 40 auf null ab bremsen.",
+      "descr" : "\"Missachtung der Vorfahrt – Verkehrszeichen 206 –. Ich musste von etwa Tempo 40 auf null ab bremsen.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4025,7 +4061,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt. Zeichen 206 StVO. Die Fahrerin schaut überhaupt nicht nach rechts, von wo ich kam.",
+      "descr" : "\"Missachtung der Vorfahrt. Zeichen 206 StVO. Die Fahrerin schaut überhaupt nicht nach rechts, von wo ich kam.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4043,7 +4079,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt. Verkehrszeichen 205 StVO.",
+      "descr" : "\"Missachtung der Vorfahrt. Verkehrszeichen 205 StVO.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4061,7 +4097,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4079,7 +4115,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4097,7 +4133,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt im Kreisverkehr. Nur durch eine Vollbremsung konnte ich ein Zusammenstoß mit dem PKW vermeiden.",
+      "descr" : "\"Missachtung der Vorfahrt im Kreisverkehr. Nur durch eine Vollbremsung konnte ich ein Zusammenstoß mit dem PKW vermeiden.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4115,7 +4151,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Dichtes auffahren und Hubkonzert – der Fahrzeugführer war wohl der Meinung ich müsste den Gehweg benutzen. Der aber für Radfahrer nur in Schrittgeschwindigkeit freigegeben ist. Ich war circa 35 Stunden Kilometer schnell.",
+      "descr" : "\"Dichtes auffahren und Hubkonzert – der Fahrzeugführer war wohl der Meinung ich müsste den Gehweg benutzen. Der aber für Radfahrer nur in Schrittgeschwindigkeit freigegeben ist. Ich war circa 35 Stunden Kilometer schnell.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4133,7 +4169,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4151,7 +4187,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4169,7 +4205,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4187,7 +4223,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4205,7 +4241,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Verkehrszeichen 205.",
+      "descr" : "\"Missachtung der Vorfahrt – Verkehrszeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4223,7 +4259,7 @@
       "incident" : "Sonstiges",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "Vofahrtsverletzung -Zeichen 205-. Wurde im Kreisverkehr ausgebremst. ",
+      "descr" : "\"Vofahrtsverletzung -Zeichen 205-. Wurde im Kreisverkehr ausgebremst.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4241,7 +4277,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Blockierter Gehweg -Radfahrer frei-. Musste stehen bleiben, absteigen und schieben, um an dem Pkw vorbeizukommen. ",
+      "descr" : "\"Blockierter Gehweg -Radfahrer frei-. Musste stehen bleiben, absteigen und schieben, um an dem Pkw vorbeizukommen.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4259,7 +4295,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4277,7 +4313,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Abbiegende PKW Fahrerin Missachtete das Rotlicht. ",
+      "descr" : "\"Abbiegende PKW Fahrerin Missachtete das Rotlicht.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4295,7 +4331,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4313,7 +4349,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4331,7 +4367,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Verkehrszeichen 205.",
+      "descr" : "\"Missachtung der Vorfahrt – Verkehrszeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4349,7 +4385,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt. Zeichen 205 StVO. ",
+      "descr" : "\"Missachtung der Vorfahrt. Zeichen 205 StVO.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4367,7 +4403,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4385,7 +4421,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4403,7 +4439,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4421,7 +4457,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4439,7 +4475,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4457,7 +4493,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4475,7 +4511,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung Zeichen 206. Ich musste abbremsen, da Radweg blockiert. ",
+      "descr" : "\"Missachtung Zeichen 206. Ich musste abbremsen, da Radweg blockiert.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4493,7 +4529,7 @@
       "incident" : "Sonstiges",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Zeichen 206 StVO nicht beachtet. Nicht an der Haltelinie angehalten und in den Radweg hinein gefahren.",
+      "descr" : "\"Zeichen 206 StVO nicht beachtet. Nicht an der Haltelinie angehalten und in den Radweg hinein gefahren.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4511,7 +4547,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt. Bluetooth ausweichen und ab bremsen konnte ich ein Unfall vermeiden.",
+      "descr" : "\"Missachtung der Vorfahrt. Bluetooth ausweichen und ab bremsen konnte ich ein Unfall vermeiden.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4529,7 +4565,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt -Zeichen 206-.",
+      "descr" : "\"Missachtung der Vorfahrt -Zeichen 206-.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4547,7 +4583,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Überholen, obwohl ich schon auf der Linksabbiegeespur fuhr. Sperrfläche und duchgezogene Linie missachtet. ",
+      "descr" : "\"Überholen, obwohl ich schon auf der Linksabbiegeespur fuhr. Sperrfläche und duchgezogene Linie missachtet.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4565,7 +4601,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4583,7 +4619,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4601,7 +4637,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4619,7 +4655,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4637,7 +4673,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Verkehrszeichen 205.",
+      "descr" : "\"Missachtung der Vorfahrt – Verkehrszeichen 205.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4655,7 +4691,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4673,7 +4709,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4691,7 +4727,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4709,7 +4745,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4727,7 +4763,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt. Stoppschild nicht beachtet. Ich musste stark bremsen und ausweichen.",
+      "descr" : "\"Missachtung der Vorfahrt. Stoppschild nicht beachtet. Ich musste stark bremsen und ausweichen.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4745,7 +4781,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4763,7 +4799,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt -Zeichen 205-.",
+      "descr" : "\"Missachtung der Vorfahrt -Zeichen 205-.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4781,7 +4817,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4799,7 +4835,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4817,7 +4853,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Hupend knapp überholt und bis zum Stillstand ausgebremst. ",
+      "descr" : "\"Hupend knapp überholt und bis zum Stillstand ausgebremst.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4835,7 +4871,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Zeichen 206 missachtet. ",
+      "descr" : "\"Zeichen 206 missachtet.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4853,7 +4889,7 @@
       "incident" : "Sonstiges",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "Parken im Haltverbot - musste abbremsen und warten wegen Gegenverkehr. ",
+      "descr" : "\"Parken im Haltverbot - musste abbremsen und warten wegen Gegenverkehr.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4871,7 +4907,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4889,7 +4925,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4907,7 +4943,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Verkehrszeichen 206 –. Der Fahrzeugführer schaute überhaupt nicht nach rechts. Aus dieser Richtung kam ich auf dem vorfahrtsberechtigten Radweg.",
+      "descr" : "\"Missachtung der Vorfahrt – Verkehrszeichen 206 –. Der Fahrzeugführer schaute überhaupt nicht nach rechts. Aus dieser Richtung kam ich auf dem vorfahrtsberechtigten Radweg.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4925,7 +4961,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Missachtung der Vorfahrt – Verkehrszeichen 205. Fahrzeugführer hat als Rechtsabbieger überhaupt nicht nach rechts geschaut. Ich musste kräftig ab bremsen, um einen Unfall zu vermeiden.",
+      "descr" : "\"Missachtung der Vorfahrt – Verkehrszeichen 205. Fahrzeugführer hat als Rechtsabbieger überhaupt nicht nach rechts geschaut. Ich musste kräftig ab bremsen, um einen Unfall zu vermeiden.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4943,7 +4979,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4961,7 +4997,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "überholte mich beim links abbiegen über die beiden Spuren des Gegenverkehrs. Ein Linksabbieger musste dabei sein PKW noch stärker abbremsen. Diese Kreuzung ist für Radfahrer sehr gefährlich! ",
+      "descr" : "\"überholte mich beim links abbiegen über die beiden Spuren des Gegenverkehrs. Ein Linksabbieger musste dabei sein PKW noch stärker abbremsen. Diese Kreuzung ist für Radfahrer sehr gefährlich!\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4979,7 +5015,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "der Autofahrer hat die Vorfahrt meiner Tochter die mit dem Fahrrad auf dem Gehweg fuhr misachtet. ",
+      "descr" : "\"der Autofahrer hat die Vorfahrt meiner Tochter die mit dem Fahrrad auf dem Gehweg fuhr misachtet.\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -4997,7 +5033,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5015,7 +5051,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5033,7 +5069,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5051,7 +5087,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "mit Anhänger ",
+      "descr" : "\"mit Anhänger\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5069,7 +5105,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "kurz vor der Fahrbahnverengung mit überfahren der durchgezogenen Linie ",
+      "descr" : "\"kurz vor der Fahrbahnverengung mit überfahren der durchgezogenen Linie\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5087,7 +5123,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Mit Gegenverkehr ",
+      "descr" : "\"Mit Gegenverkehr\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5105,7 +5141,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "PKW misachtet mene Vorfahrt ",
+      "descr" : "\"PKW misachtet mene Vorfahrt\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5123,7 +5159,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "über den Abbieger und durch den Gegenverkehr bei durchgezogener Linie ",
+      "descr" : "\"über den Abbieger und durch den Gegenverkehr bei durchgezogener Linie\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5141,7 +5177,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5159,7 +5195,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "bei durchgezogener Linie ",
+      "descr" : "\"bei durchgezogener Linie\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5177,7 +5213,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKW misachtet meine Vorfahrt ",
+      "descr" : "\"PKW misachtet meine Vorfahrt\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5195,7 +5231,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "Schlecht einsehbare Kreuzung ",
+      "descr" : "\"Schlecht einsehbare Kreuzung\"",
       "region" : "Wetterau"
     },
     "geometry" : {
@@ -5213,7 +5249,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Wetterau"
     },
     "geometry" : {

@@ -3,6 +3,474 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "22/11/2023 15:46:10",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.89860439, 49.38305142 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/10/2023 18:29:20",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.95161016, 49.24139385 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/10/2023 17:31:40",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.87345377, 49.31122132 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/07/2023 11:45:08",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.83384386, 49.47664468 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/07/2023 11:45:26",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.83380004, 49.47561855 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/07/2023 11:45:56",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.83425573, 49.47384194 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/07/2023 12:05:14",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.85235731, 49.41338857 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/07/2023 09:24:44",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.94298838, 49.31707441 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/07/2023 09:33:37",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "\"Baum quer über den Weg\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.96872098, 49.30344582 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/07/2023 09:39:09",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.99004153, 49.29009661 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/07/2023 09:39:39",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.99479124, 49.28951642 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "15/07/2023 14:02:33",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Jackentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.89651969, 49.38092684 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "26/07/2023 02:17:09",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "LKW",
+      "scary" : "Ja",
+      "descr" : "\"LKW parkt auf benutzungspflichtigem Radweg, ich musste in fließenden Verkehr im Bereich einer BAB-Auffahrt ausweichen.\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.93313628, 49.34909537 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "19/12/2003 08:04:20",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.91179451, 49.40863763 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "11/08/2023 04:12:50",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.94732856, 49.29977502 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/08/2023 19:36:36",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.91298784, 49.4056313 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/08/2023 19:49:59",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.93248576, 49.35725741 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/08/2023 19:54:35",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Motorrad",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.93255259, 49.34006929 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/08/2023 19:58:43",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.93520116, 49.3272641 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/08/2023 19:58:52",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.93543067, 49.32675943 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/08/2023 20:09:56",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Ja",
+      "descr" : "\"Baum quer über den Weg\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.96884792, 49.30276763 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "09/08/2023 20:13:40",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "",
+      "scary" : "Nein",
+      "descr" : "\"Baum quer über den Weg, Weg unpassierbar\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.97269981, 49.29364254 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "18/12/2003 08:05:29",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.9086037, 49.40670172 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/07/2023 15:32:15",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.97947351, 49.2474076 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/07/2023 15:32:39",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Überholen",
+      "participant" : "PKW",
+      "scary" : "Ja",
+      "descr" : "\"\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.97984046, 49.2489943 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "27/07/2023 16:28:00",
+      "bikeType" : "Lastenrad",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Fahrradkorb",
+      "incident" : "Zu dichtes Auffahren",
+      "participant" : "Sonstiges",
+      "scary" : "Ja",
+      "descr" : "\"Traktor\"",
+      "region" : "Saarbrücken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.90307443, 49.37812659 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "29/05/2021 17:00:38",
       "bikeType" : "City-/Trekking Bike",
       "child" : "Nein",
@@ -11,7 +479,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -29,7 +497,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKWs parken im absoluten Haltverbot, sodass man mit dem Rad zwischen den beiden Schienen der Straßenbahn fahren muss. ",
+      "descr" : "\"PKWs parken im absoluten Haltverbot, sodass man mit dem Rad zwischen den beiden Schienen der Straßenbahn fahren muss.\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -47,7 +515,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "PKWs parken im absoluten Haltverbot, sodass man mit dem Rad zwischen den beiden Schienen der Straßenbahn fahren muss. ",
+      "descr" : "\"PKWs parken im absoluten Haltverbot, sodass man mit dem Rad zwischen den beiden Schienen der Straßenbahn fahren muss.\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -65,7 +533,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "Benutzungspflichtiger Radweg endet unvermittelt an einer Baustelle. Keine sichere Möglichkeit zur Einfädelung in Straßenverkehr",
+      "descr" : "\"Benutzungspflichtiger Radweg endet unvermittelt an einer Baustelle. Keine sichere Möglichkeit zur Einfädelung in Straßenverkehr\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -83,7 +551,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "Dicker Baumast hängt in den Radweg und versperrt ihn komplett",
+      "descr" : "\"Dicker Baumast hängt in den Radweg und versperrt ihn komplett\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -101,7 +569,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -119,7 +587,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "Fahrer lässt Motor extra laut aufheulen",
+      "descr" : "\"Fahrer lässt Motor extra laut aufheulen\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -137,7 +605,7 @@
       "incident" : "Sonstiges",
       "participant" : "Fahrrad, Fußgänger, PKW",
       "scary" : "Ja",
-      "descr" : "Die Radverkehrsführung ist hier eine Katastrophe",
+      "descr" : "\"Die Radverkehrsführung ist hier eine Katastrophe\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -155,7 +623,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "Sturz bei Querung der Straßenbahnschienen nach Regenschauer.",
+      "descr" : "\"Sturz bei Querung der Straßenbahnschienen nach Regenschauer.\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -173,7 +641,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -191,7 +659,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -209,7 +677,7 @@
       "incident" : "Sonstiges",
       "participant" : "Sonstiges",
       "scary" : "Ja",
-      "descr" : "Touristischer Radweg, an dem man sein Rad steile und enge Treppen herunter oder hinauf wuchten muss, nachdem man auf einem ca. 50cm (nicht übertrieben!) breiten Pfad unmittelbar neben der Leitplanke der Autobahn vorbei musste, der für Fahrräder im Gegenverkehr UND Fußgänger vorgesehen ist. Großer Spaß mit Lastenrad oder Fahrradanhänger mit Kind. ",
+      "descr" : "\"Touristischer Radweg, an dem man sein Rad steile und enge Treppen herunter oder hinauf wuchten muss, nachdem man auf einem ca. 50cm (nicht übertrieben!) breiten Pfad unmittelbar neben der Leitplanke der Autobahn vorbei musste, der für Fahrräder im Gegenverkehr UND Fußgänger vorgesehen ist. Großer Spaß mit Lastenrad oder Fahrradanhänger mit Kind.\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -227,7 +695,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Fahrzeuge parken auf benutzungspflichtigem Radweg",
+      "descr" : "\"Fahrzeuge parken auf benutzungspflichtigem Radweg\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -245,7 +713,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "Fahrzeuge parken auf benutzungspflichtigem Radweg",
+      "descr" : "\"Fahrzeuge parken auf benutzungspflichtigem Radweg\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -263,7 +731,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Baum quer über Radwanderweg",
+      "descr" : "\"Baum quer über Radwanderweg\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -281,7 +749,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -299,7 +767,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -317,7 +785,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -335,7 +803,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -353,7 +821,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -371,7 +839,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -389,7 +857,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -407,7 +875,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -425,7 +893,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -443,7 +911,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -461,7 +929,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -479,7 +947,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -497,7 +965,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -515,7 +983,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -533,7 +1001,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -551,7 +1019,7 @@
       "incident" : "Sonstiges",
       "participant" : "Sonstiges",
       "scary" : "Nein",
-      "descr" : "Linksabbiegerampel: Kontaktschwelle reagiert nicht arte Radfahrer",
+      "descr" : "\"Linksabbiegerampel: Kontaktschwelle reagiert nicht arte Radfahrer\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -569,7 +1037,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "Sattelzug überholt kurz vorm Kreisverkehr, merkt, dass er sich verschätzt hat und schert wieder ein ohne Rücksicht auf Verluste. Nur durch starkes Bremsen und Ausweichen in die Regenrinne konnte ich ein Überfahrenwerden verhindern.",
+      "descr" : "\"Sattelzug überholt kurz vorm Kreisverkehr, merkt, dass er sich verschätzt hat und schert wieder ein ohne Rücksicht auf Verluste. Nur durch starkes Bremsen und Ausweichen in die Regenrinne konnte ich ein Überfahrenwerden verhindern.\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -587,7 +1055,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Lieferwagen",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -605,7 +1073,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -623,7 +1091,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "fuhr bei für ihn roter Ampel trotzdem",
+      "descr" : "\"fuhr bei für ihn roter Ampel trotzdem\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {
@@ -641,7 +1109,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Saarbrücken"
     },
     "geometry" : {

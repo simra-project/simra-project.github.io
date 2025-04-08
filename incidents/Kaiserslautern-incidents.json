@@ -3,6 +3,24 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "27/07/2023 16:44:23",
+      "bikeType" : "Sonstiges",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Hosentasche",
+      "incident" : "Sonstiges",
+      "participant" : "PKW, Sonstiges",
+      "scary" : "Nein",
+      "descr" : "\"Auto hält auf Radstreifen, um Person aussteigen zu lassen.\"",
+      "region" : "Kaiserslautern"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.752935, 49.430486 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "19/05/2021 11:08:57",
       "bikeType" : "-",
       "child" : "Nein",
@@ -11,7 +29,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -29,7 +47,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -47,7 +65,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -65,7 +83,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -83,7 +101,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -101,7 +119,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -119,7 +137,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Bus",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -137,7 +155,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -155,7 +173,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -173,7 +191,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -191,7 +209,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -209,7 +227,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -227,7 +245,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -245,7 +263,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -263,7 +281,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -281,7 +299,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -299,7 +317,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -317,7 +335,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -335,7 +353,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -353,7 +371,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -371,7 +389,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -389,7 +407,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -407,7 +425,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -425,7 +443,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -443,7 +461,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "Fahrrad",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -461,7 +479,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -479,7 +497,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -497,7 +515,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -515,7 +533,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "Lieferwagen",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -533,7 +551,7 @@
       "incident" : "Sonstiges",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -551,7 +569,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -569,7 +587,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -587,7 +605,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -605,7 +623,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Bus",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -623,7 +641,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "PKW",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {
@@ -641,7 +659,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Kaiserslautern"
     },
     "geometry" : {

@@ -3,6 +3,60 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "date" : "21/04/2021 16:24:06",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Ein- oder ausparkendes Fahrzeug",
+      "participant" : "Lieferwagen",
+      "scary" : "Ja",
+      "descr" : "\"Ausparkende Fzg über Radweg. Trotz Blickkontakt wurde ruckartig ausgeparkt.\"",
+      "region" : "Weimar"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.032243, 50.966715 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2021 16:27:08",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Weimar"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.02671, 50.975018 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "date" : "21/04/2021 16:28:00",
+      "bikeType" : "City-/Trekking Bike",
+      "child" : "Nein",
+      "trailer" : "Nein",
+      "pLoc" : "Lenker",
+      "incident" : "Hindernis ausweichen (z.B. Hund)",
+      "participant" : "Fußgänger",
+      "scary" : "Nein",
+      "descr" : "\"\"",
+      "region" : "Weimar"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.02632, 50.977821 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "date" : "10/05/2021 11:01:51",
       "bikeType" : "-",
       "child" : "Nein",
@@ -11,7 +65,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -29,7 +83,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "Motorrad",
       "scary" : "Nein",
-      "descr" : "krad steht auf gem. Rad/Fußweg\\n",
+      "descr" : "\"krad steht auf gem. Rad/Fußweg\\n\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -47,7 +101,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "Fahrrad",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -65,7 +119,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -83,7 +137,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "LKW",
       "scary" : "Nein",
-      "descr" : "multicar des Kommunalservice blockiert Straße",
+      "descr" : "\"multicar des Kommunalservice blockiert Straße\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -101,7 +155,7 @@
       "incident" : "Zu dichtes Überholen",
       "participant" : "LKW",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -119,7 +173,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "schlagloch",
+      "descr" : "\"schlagloch\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -137,7 +191,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -155,7 +209,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "",
       "scary" : "Ja",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -173,7 +227,7 @@
       "incident" : "Zu dichtes Auffahren",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -191,7 +245,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Stopp für Pause",
+      "descr" : "\"Stopp für Pause\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -209,7 +263,7 @@
       "incident" : "Hindernis ausweichen (z.B. Hund)",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "umfahren von Baustelle",
+      "descr" : "\"umfahren von Baustelle\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -227,7 +281,7 @@
       "incident" : "Beinahe-Abbiegeunfall",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "links abbiegender Pkw Schnitt die Kurve, sah mir direkt in die Augen",
+      "descr" : "\"links abbiegender Pkw Schnitt die Kurve, sah mir direkt in die Augen\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -245,7 +299,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "Trinkpause",
+      "descr" : "\"Trinkpause\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -263,7 +317,7 @@
       "incident" : "Entgegenkommender Verkehrsteilnehmer",
       "participant" : "Fußgänger",
       "scary" : "Nein",
-      "descr" : "aufstellfläche hinter Bü zu klein\\n",
+      "descr" : "\"aufstellfläche hinter Bü zu klein\\n\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -281,7 +335,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "rote ampel, starkes Gegenlicht durch tief stehende Sonne",
+      "descr" : "\"rote ampel, starkes Gegenlicht durch tief stehende Sonne\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -299,7 +353,7 @@
       "incident" : "Sonstiges",
       "participant" : "Lieferwagen, PKW, Sonstiges",
       "scary" : "Nein",
-      "descr" : "caterer und müllauto stehen auf hochbord radweg. ausweichen nicht möglich.",
+      "descr" : "\"caterer und müllauto stehen auf hochbord radweg. ausweichen nicht möglich.\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -317,7 +371,7 @@
       "incident" : "Sonstiges",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "sehr enge Kurve",
+      "descr" : "\"sehr enge Kurve\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -335,7 +389,7 @@
       "incident" : "Ein- oder ausparkendes Fahrzeug",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Weimar"
     },
     "geometry" : {
@@ -353,7 +407,7 @@
       "incident" : "Beinahe-Dooring",
       "participant" : "",
       "scary" : "Nein",
-      "descr" : "",
+      "descr" : "\"\"",
       "region" : "Weimar"
     },
     "geometry" : {
