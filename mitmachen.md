@@ -35,6 +35,7 @@ Aktuell ist SimRa in folgenden Städten/Regionen verfügbar:
 - Kiel
 - Köln
 - Region Hoyerswerda
+- Rennes
 - Ruhrgebiet
 - Twente
 - Walldorf/Wiesloch
